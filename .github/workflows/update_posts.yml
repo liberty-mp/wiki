@@ -6,7 +6,7 @@ on:
       - "main"
 jobs:
   update-posts:
-    runs-on: [self-hosted, ubuntu]
+    runs-on: ubuntu-latest
     name: "Update posts" 
     steps:
       - name: Clone posts repository
