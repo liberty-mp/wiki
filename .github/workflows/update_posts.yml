@@ -1,0 +1,44 @@
+name: Update wiki posts
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - "main"
+jobs:
+  update-posts:
+    runs-on: [self-hosted, ubuntu]
+    name: "Update posts" 
+    steps:
+      - name: Clone posts repository
+        uses: actions/checkout@v3
+        with:
+          clean: true
+          path: "posts"
+          token: ${{ secrets.CI_TOKEN }}
+
+      - name: Clone wiki repository
+        uses: actions/checkout@v3
+        with:
+          clean: true
+          repository: "liberty-mp/wiki-website"
+          path: "wiki"
+          ref: "main"
+          token: ${{ secrets.CI_TOKEN }}
+
+      - name: Update posts
+        if: always()
+        shell: bash
+        run: |
+          mkdir ./wiki/new_wiki
+          mv -f ./wiki/wiki/.vitepress ./wiki/new_wiki
+          mv -f ./wiki/wiki/public ./wiki/new_wiki
+          mv -f ./posts/* ./wiki/new_wiki
+          rm -rf ./wiki/wiki
+          mv -f ./wiki/new_wiki ./wiki/wiki
+          cd wiki
+          git config --global user.email "liberty.mp@github.com"
+          git config --global user.name "liberty.mp"
+          git status
+          git add .
+          git commit -m "Update posts with ${{ github.sha }}" || true
+          git push || true
