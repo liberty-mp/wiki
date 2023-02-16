@@ -20,7 +20,7 @@ Ulterior, apasă pe opționea **Link** din dreptul iconiței **Discord** și vei
 
 La final, o să fii redirecționat înapoi pe [**UCP**](https://ucp.liberty.mp/) unde îți va fi afișat în stânga-jos un mesaj prin care te informează că acțiunea de asociere a avut succes. 
 
-![Link Discord](https://i.imgur.com/cn2tW1u.gif](https://i.imgur.com/cn2tW1u.gif 'Choose name')
+![Link Discord](https://i.imgur.com/cn2tW1u.gif](https://i.imgur.com/cn2tW1u.gif 'Link discord')
 
 ::: tip
 În perioada **Beta** (de testare) a serverului, jucătorii care își asociază contul din joc cu cel de **Discord**, primesc automat rolul de **Open Beta** pe serverul de **Discord** al comunității [**liberty.mp**](https://liberty.mp/discord).
