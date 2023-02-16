@@ -9,7 +9,6 @@ Poți achiziționa jocul de pe una dintre cele trei platforme recomandate, respe
 
 **Atenție!** Jocul **Grand Thef Auto V** nu rulează pe orice fel de calculator (PC)! Înainte de a achiziționa jocul, [verifică](https://support.rockstargames.com/articles/203428177/Grand-Theft-Auto-V-PC-System-Requirements) dacă calculatorul (PC-ul) tău este compatibil cu cerințele minime ale acestuia. 
 
-<br></br>
 
 II. **Al doilea pas:** *Instalează jocul **Grand Theft Auto V**:* 
 
