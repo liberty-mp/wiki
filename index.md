@@ -6,4 +6,3 @@ Comunitatea [**liberty.mp**](liberty.mp) îți pune la dispoziție toate informa
 
 În cazul în care ai nevoie de alte informații care nu se află pe [**Wiki**](https://wiki.liberty.mp), îți sugerăm să folosești sistemul de ajutor din joc (tastează `/helpme`), să accesezi [**Discord**](liberty.mp/discord) sau să te implici **chiar tu** în completarea informațiilor. 
 
-![Logo](https://i.imgur.com/TbuNuvW.jpg)
