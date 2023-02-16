@@ -14,28 +14,28 @@ Ulterior, la rubrica **General** ai opțiunea **Choose name** unde îți poți i
 
 ## Cum îmi asociez contul din joc cu contul de Discord?
 
-Pentru a îți asocia contul din joc cu contul de **Discord**, trebuie să te autentifici pe [**UCP**](https://ucp.liberty.mp/), să apeși pe numele tău din dreapta-sus, apoi să selectezi **Settings**. 
+Pentru a îți asocia contul din joc cu contul de **Discord**, trebuie să te autentifici pe [**UCP**](https://ucp.liberty.mp/), să apeși pe numele tău din dreapta-sus, apoi să selectezi **Settings**.
 
-Ulterior, apasă pe opționea **Link** din dreptul iconiței **Discord** și vei fi redirecționat către o nouă pagină de internet unde trebuie să autorizezi asocierea, apăsând pe butonul **Authorize**. 
+Ulterior, apasă pe opționea **Link** din dreptul iconiței **Discord** și vei fi redirecționat către o nouă pagină de internet unde trebuie să autorizezi asocierea, apăsând pe butonul **Authorize**.
 
-La final, o să fii redirecționat înapoi pe [**UCP**](https://ucp.liberty.mp/) unde îți va fi afișat în stânga-jos un mesaj prin care te informează că acțiunea de asociere a avut succes. 
+La final, o să fii redirecționat înapoi pe [**UCP**](https://ucp.liberty.mp/) unde îți va fi afișat în stânga-jos un mesaj prin care te informează că acțiunea de asociere a avut succes.
 
 [![Link Discord](https://i.imgur.com/cn2tW1u.gif)](https://i.imgur.com/cn2tW1u.gif 'Link Discord')
 
 ::: tip
 În perioada **Beta** (de testare) a serverului, jucătorii care își asociază contul din joc cu cel de **Discord**, primesc automat rolul de **Open Beta** pe serverul de **Discord** al comunității [**liberty.mp**](https://liberty.mp/discord).
-::: 
+:::
 
 ## Cum îmi asociez contul din joc cu o adresă de E-mail?
 
 ::: warning
-Momentan, funcția de asociere a unui cont din joc cu o adresă de **E-mail** nu este disponibilă. :slightly_frowning_face: 
+Momentan, funcția de asociere a unui cont din joc cu o adresă de **E-mail** nu este disponibilă. :slightly_frowning_face:
 :::
 
 ## Care este cel mai profitabil job de pe server?
 
-Serverul [**liberty.mp**](https://ucp.liberty.mp/) dispune în momentul de față de aproximativ **6 joburi**: [Fisherman](https://wiki.liberty.mp/jobs/fisherman/), [Garbageman](https://wiki.liberty.mp/jobs/garbageman/), [Trucker](https://wiki.liberty.mp/jobs/trucker/), [Lumberjack](https://wiki.liberty.mp/jobs/lumberjack/), [Electrician](https://wiki.liberty.mp/jobs/electrician/) și [Miner](https://wiki.liberty.mp/jobs/miner/). 
+Serverul [**liberty.mp**](https://ucp.liberty.mp/) dispune în momentul de față de aproximativ **6 joburi**: [Fisherman](./jobs/fisherman/), [Garbageman](./jobs/garbageman/), [Trucker](./jobs/trucker/), [Lumberjack](./jobs/lumberjack/), [Electrician](./jobs/electrician/) și [Miner](./jobs/miner/).
 
-Economia a fost realizată în așa fel încât, profitabilitatea la fiecare dintre cele **6 joburi** enumerate să fie aproximativ egală. Într-o **oră jucată** la job, poți acumula obiecte și sume de bani cuprinse între **$1.000** și **$1.500** sau chiar mai mult, depinzând de anumiți factori care țin de experiența (skill-ul) acumulată în cadrul joburilor. 
+Economia a fost realizată în așa fel încât, profitabilitatea la fiecare dintre cele **6 joburi** enumerate să fie aproximativ egală. Într-o **oră jucată** la job, poți acumula obiecte și sume de bani cuprinse între **$1.000** și **$1.500** sau chiar mai mult, depinzând de anumiți factori care țin de experiența (skill-ul) acumulată în cadrul joburilor.
 
-Așadar, rămâne la decizia ta care job te atrage mai mult din punct de vedere al gameplay-ului. 
+Așadar, rămâne la decizia ta care job te atrage mai mult din punct de vedere al gameplay-ului.
