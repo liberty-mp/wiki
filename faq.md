@@ -10,8 +10,8 @@ Așadar, **nu este necesară** simularea realității, comparativ cu un server d
 Chiar dacă serverul face parte din categoria **Role Playing Game** (RPG), regulamentul include reguli de bază în manieră **Roleplay** (RP) care trebuie respectate.
 ::: 
 
-::: info
-Pentru a evita sancțiunile referitoare la informațiile de mai sus, îți recomandăm să citești [regulamentul](https://ucp.liberty.mp/forums/post/4/reply/2).
+::: tip
+Pentru a evita sancțiunile referitoare la informațiile de mai sus, îți recomandăm să citești [regulamentul general](https://ucp.liberty.mp/forums/post/4/reply/2).
 ::: 
 
 ## Cum îmi schimb numele în joc?
