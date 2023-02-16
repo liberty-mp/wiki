@@ -48,7 +48,7 @@ Momentan, funcția de asociere a unui cont din joc cu o adresă de **E-mail** nu
 
 ## Care este cel mai profitabil job de pe server?
 
-Serverul [**liberty.mp**](https://ucp.liberty.mp/) dispune în momentul de față de aproximativ **6 joburi**: [Fisherman](https://wiki.liberty.mp/jobs/fisherman/), [Garbageman](https://wiki.liberty.mp/jobs/garbageman/), [Trucker](https://wiki.liberty.mp/jobs/trucker/), [Lumberjack](https://wiki.liberty.mp/jobs/lumberjack/), [Electrician](https://wiki.liberty.mp/jobs/electrician/) și [Miner](https://wiki.liberty.mp/jobs/miner/). 
+Serverul [**liberty.mp**](https://ucp.liberty.mp/) dispune în momentul de față de aproximativ **6 joburi**: [Fisherman](./jobs/fisherman/), [Garbageman](./jobs/garbageman/), [Trucker](./trucker/), [Lumberjack](./jobs/lumberjack/), [Electrician](./jobs/electrician/) și [Miner](./jobs/miner/). 
 
 Economia a fost realizată în așa fel încât, profitabilitatea la fiecare dintre cele **6 joburi** enumerate să fie aproximativ egală. Într-o **oră jucată** la job, poți acumula obiecte și sume de bani cuprinse între **$1.000** și **$1.500** sau chiar mai mult, depinzând de anumiți factori care țin de experiența (skill-ul) acumulată în cadrul joburilor. 
 
