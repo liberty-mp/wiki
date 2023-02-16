@@ -2,7 +2,7 @@
 
 ## Ce mod de joc se aplică pe server?
 
-Serverul [**liberty.mp**](https://ucp.liberty.mp/) a fost gândit și conceput astfel încât modul de joc să facă parte din categoria **Role Playing Games** (RPG).
+Serverul [**liberty.mp**](https://ucp.liberty.mp/) a fost gândit și conceput astfel încât modul de joc să facă parte din categoria **Role Playing Game** (RPG).
 
 Așadar, **nu este necesară** simularea realității, comparativ cu un server de **Roleplay** (RP) unde simularea acțiunilor se realizează conform realității.
  
