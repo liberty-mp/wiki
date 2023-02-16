@@ -29,7 +29,6 @@ Pentru a instala launcherul **RAGE Multiplayer**, [accesează](https://rage.mp) 
 
 Așteaptă să se instaleze launcherul, apoi pornește-l.
   
-<br></br>
 
 IV. **Al patrulea pas:** *Utilizarea launcherul **RAGE Multiplayer**:* 
 
