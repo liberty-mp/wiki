@@ -7,7 +7,7 @@ Serverul [**liberty.mp**](https://ucp.liberty.mp/) a fost gândit și conceput a
 Așadar, **nu este necesară** simularea realității, comparativ cu un server de **Roleplay** (RP) unde simularea acțiunilor se realizează conform realității.
  
 ::: warning
-Chiar dacă serverul face parte din categoria **Role Playing Games** (RPG), regulamentul include reguli de bază în manieră **Roleplay** (RP) care trebuie respectate.
+Chiar dacă serverul face parte din categoria **Role Playing Game** (RPG), regulamentul include reguli de bază în manieră **Roleplay** (RP) care trebuie respectate.
 ::: 
 
 ::: info
