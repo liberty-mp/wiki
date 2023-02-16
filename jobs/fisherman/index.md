@@ -1,11 +1,12 @@
-## 🗽 Fisherman
+## 🗽 | Fisherman 🎣
 
-| **?** |      ★      |
+| _**ℹ️**_ |      **★**      |
 | ------------- | :-----------: |
-| Câștig mediu pe ora: | 1500$ |
-| Necesită vehicul personal? | Nu, dar ajută. |
-| Necesită iteme specifice? | Da, undiță și momeală |
-| Necesită permis de conducere? | Nu, dar ajută (cat. B). |
+| Câștig mediu pe ora 🕛  | **~💲1.500** |
+| Necesită vehicul personal? 🚗 | Nu, dar ajută. |
+| Necesită permis de conducere? 💳 | Nu, dar ajută (cat. A/B). |
+| Necesită iteme specifice? 🧾 | Da, undiță și momeală. |
+
 | Locatie | [Alamo Sea](https://i.imgur.com/ycuXKzo.png) / [Great Ocean Highway](imgur) / [Paleto Cove](imgur)
 
 
