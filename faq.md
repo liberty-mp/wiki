@@ -1,3 +1,7 @@
+---
+title: Intrebări frecvente
+---
+
 Înainte de a utiliza funcția de ajutor în joc `/helpme` sau [**Discord**](https://liberty.mp/discord), îți sugerăm să verifici acesastă secțiune de [**Wiki**](https://wiki.liberty.mp), unde îți este prezentată o listă cu întrebări care au o rată foarte mare de frecvență pe serverul [**liberty.mp**](https://liberty.mp), împreună cu răspunsurile aferente.
 
 ## Ce mod de joc se aplică pe server?

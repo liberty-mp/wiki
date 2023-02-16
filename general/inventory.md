@@ -1,3 +1,7 @@
+---
+title: Inventar
+---
+
 **Inventarul** reprezintă unul dintre cele mai importante și complexe sisteme disponibile pe serverul [**liberty.mp**](https://ucp.liberty.mp/) în acest moment. Sistemul a fost gândit pentru a facilita gameplay-ul jucătorilor și conceput într-un stil modern, pentru a se putea fi utilizat într-un mod foarte ușor. 
 
 Pentru a deschide sau închide **Inventarul**, apasă tasta `I`, respectiv `ESC`. Utilizarea acestuia se poate realiza doar prin folosirea **mouse-ului** sau a **touchpad-ului**, deoarece funcționează pe principiul *Drag & Drop* în cea mai mare proporție. 

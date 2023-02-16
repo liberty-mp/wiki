@@ -1,3 +1,7 @@
+---
+title: Cum să joci?
+---
+
 Pentru a te putea juca pe serverul nostru, trebuie să instalezi în calculator (PC) jocul [**Grand Thef Auto V**](https://ro.wikipedia.org/wiki/Grand_Theft_Auto_V) în varianta licențiată, de pe orice platformă (Rockstar Games, Steam sau Epic Games), cu toate actualizările la zi și launcherul [**RAGE Multiplayer**](https://rage.mp).
 
 Dacă nu te descurci, îți recomandăm să urmărește cu atenție ghidul detaliat de mai jos.

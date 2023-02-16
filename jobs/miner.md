@@ -1,1 +1,5 @@
+---
+title: Miner
+---
+
 miner
