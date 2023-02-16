@@ -20,7 +20,6 @@ Instalarea se realizează din cadrul platformei în care ai achiziționat jocul.
 
 După ce s-a instalat jocul, **este necesar** să realizezi misiunea introductivă din **Story Mode** a jocului: *Prologue*.
 
-<br></br>
 
 III. **Al treila pas:** *Instalează launcherul **RAGE Multiplayer**:* 
 
