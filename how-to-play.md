@@ -2,7 +2,6 @@ Pentru a te putea juca pe serverul nostru, trebuie să instalezi în calculator 
 
 Dacă nu te descurci, îți recomandăm să urmărește cu atenție ghidul detaliat de mai jos.
 
-<br></br>
 
 I. **Primul pas:** *Achiziționează jocul **Grand Theft Auto V**:*
 
