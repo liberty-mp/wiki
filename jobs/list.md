@@ -1,6 +1,6 @@
 ## Informații generale joburi *️⃣
 
-::: warning  
+::: tip  
 Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătății experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o categorizare a joburilor curente.  
 :::
 
