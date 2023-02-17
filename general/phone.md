@@ -129,8 +129,6 @@ Aplicația nu poate fi utilizată de către jucători, având strict rolul de tr
   
 <Image src="https://i.imgur.com/uCHubHe.png" alt="Settings"> 
 
-**Prezentarea aplicației**:
-
 - **Airplane Mode** permite oprirea anumitor propietăți ale telefonului;
 - **Ignore calls** permite blocare apelurilor din partea altor jucători;
 - **Ignore unkown sender** permite blocarea mesajelor din partea altor jucători necunoscuți de aplicația **Contacts** (cei care nu se află pe lista de contacte);
