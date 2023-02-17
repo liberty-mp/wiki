@@ -9,7 +9,7 @@ Pentru a deschide sau închide **Inventarul**, apasă tasta `I`, respectiv `ESC`
 Sistemul este împărțit în **4 secțiuni**: 
 - **Clothes Items** (obiectele de îmbrăcăminte purtate);
 - **Invetory Items** (obiectele aflate în inventar); 
-- **Nerby & Drop Items** (obiectele din afara inventarului/de pe jos); 
+- **Nearby & Drop Items** (obiectele din afara inventarului/de pe jos); 
 - **Fast Slots** (locurile destinate special pentru obiectele principale/purtate). 
 
 ## Clothes Items
@@ -47,18 +47,18 @@ Fiecare obiect deținut ocupă unul dintre cele **50 de sloturi** disponibile pe
 Pentru a **utiliza** (Use), **inspecta** (Inspect) sau **separa** (Split) obiectele, apasă *click-dreapta* pe obiectul pe care dorești să îl utilizezi, inspectezi sau separi și alege opțiunea dorită: **Use**, **Inspect** sau **Split**. De asemenea, este de precizat faptul că nu toate obiectele au opțiunea de utilizare, inspectare sau separare.  
 ::: 
 
-## Nerby & Drop Items
+## Nearby & Drop Items
 
-**Nerby Items** reprezintă secțiunea comună pentru jucători, deoarece în aceasta se află **toate obiectele** aflate pe jos (undiță, funie și așa mai departe) și care pot fi luate de orice jucător. **Drop Items*** reprezintă o componentă a secțiunii în care se pot trage obiectele din inventar în vederea aruncării acestora din **Invetory Items**.
+**Nearby Items** reprezintă secțiunea comună pentru jucători, deoarece în aceasta se află **toate obiectele** aflate pe jos (undiță, funie și așa mai departe) și care pot fi luate de orice jucător. **Drop Items*** reprezintă o componentă a secțiunii în care se pot trage obiectele din inventar în vederea aruncării acestora din **Invetory Items**.
 
 **Prezentarea secțiunii:** 
 
-![Nerby Items](https://i.imgur.com/a9Ety9S.png)
+![Nearby Items](https://i.imgur.com/a9Ety9S.png)
 
 ::: tip
-Pentru a lua un obiect de pe jos (**Nerby Items**) în inventarul propiu, ține apăsat *click-stangă* pe obiectul dorit și trage-l în inventar (**Invetory Items**).
+Pentru a lua un obiect de pe jos (**Nearby Items**) în inventarul propiu, ține apăsat *click-stangă* pe obiectul dorit și trage-l în inventar (**Invetory Items**).
 
-Pentru a arunca un obiect din inventar (**Inventary Items**), ține apăsat *click-stangă* pe obiectul dorit și trage-l în interiorul chenarului cu linie despărțită **Drop Items**. De precizat este faptul că obiectele pe care le arunci din inventar ajung la **Nerby Items**.
+Pentru a arunca un obiect din inventar (**Inventary Items**), ține apăsat *click-stangă* pe obiectul dorit și trage-l în interiorul chenarului cu linie despărțită **Drop Items**. De precizat este faptul că obiectele pe care le arunci din inventar ajung la **Nearby Items**.
 :::
 
 ## Fast Slots 
