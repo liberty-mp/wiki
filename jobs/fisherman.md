@@ -53,7 +53,7 @@ O bucată de momeală este folosită de fiecare dată când încerci să pescuie
 
 ## Cum pescuiesc?
 
-Ca să pescuiești trebuie să echipezi undița în unul din cele 5 fast slot-uri din invetarul tău, numerotate cu numerele 1, 2, 3, 4, 5. Pentru a echipa, apasă tasta `i` pentru a deschide inventarul și trage undița un fast slot.
+Ca să pescuiești trebuie să echipezi undița în unul din cele 5 fast slot-uri din invetarul tău, numerotate cu numerele 1, 2, 3, 4, 5. Pentru a echipa, apasă tasta `i` pentru a deschide inventarul și trage undița pe un fast slot.
 ::: details Echiparea undiței  
 ![echipare undiță](https://i.imgur.com/XpaQb63.gif)  
 :::  
