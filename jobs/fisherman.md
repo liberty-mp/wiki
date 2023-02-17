@@ -53,15 +53,15 @@ O bucată de momeală este folosită de fiecare dată când încerci să pescuie
 
 ## Cum pescuiesc?
 
-Ca să pescuiești trebuie să echipezi undița în unul din cele 5 fast slot-uri din invetarul tău. Pentru a echipa, trage undița pe unul din slot-uri.
+Ca să pescuiești trebuie să echipezi undița în unul din cele 5 fast slot-uri din invetarul tău, numerotate cu numerele 1, 2, 3, 4, 5. Pentru a echipa, apasă tasta `i` pentru a deschide inventarul și trage undița un fast slot.
 ::: details Echiparea undiței  
 ![echipare undiță](https://i.imgur.com/XpaQb63.gif)  
 :::  
-După ce am echipat undița într-un fast slot din inventar, apăsăm tasta respectivă (1-5) pentru a pune undița în mâini, apăsăm tasta _**Space**_ cu privirea la un corp de apă pentru a arunca cârligul și momeala. Culoarea turcoaz indică faptul că așteptăm până când un pește va mușca momeala.  
+După ce am echipat undița într-un fast slot din inventar, apăsăm tasta respectivă (1-5) pentru a pune undița în mâini, apăsăm tasta `Space` cu privirea la un corp de apă pentru a arunca cârligul și momeala. Culoarea turcoaz indică faptul că așteptăm până când un pește va mușca momeala.  
 ::: details Exemplu pescuit  
 ![echipare undiță](https://i.imgur.com/qXwSTRb.gif)  
 :::  
-Apăsăm din nou tasta _**Space**_ atunci când indicatorul se face culoarea verde, însemânand că peștele a mușcat momeala. Dacă nu acționăm asupra peștelui timp de 3 secunde de când indicatorul și-a schimbat culoarea în verde, aceasta reușește să scape din cârlig.
+Apăsăm din nou tasta `Space` atunci când indicatorul se face culoarea verde, însemânand că peștele a mușcat momeala. Dacă nu acționăm asupra peștelui timp de 3 secunde de când indicatorul și-a schimbat culoarea în verde, aceasta reușește să scape din cârlig.
 Există o șansă ca peștele să scape și când noi tragem undița.  
 Vei fi notificat deasupra hărții despre ce tip de pește ai prins, dacă ai prins un item extra sau nu îndeplinești o cerință pentru a pescui.
 
