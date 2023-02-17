@@ -21,7 +21,7 @@ O locație populară este pe plaja de lângă **Fisherman 3, Procopio Beach** da
 
 ## Cum fac rost de undiță?
 
-Poți cumpăra o undiță normală, din lemn, dintr-un business de tip **magazin 24/7** pentru prețul de **$100**.  
+Poți cumpăra o undiță normală, din lemn, dintr-un business de tip **magazin 24/7** pentru prețul de <Dinero :amount='100' />.  
 
 ::: details Undiță de lemn  
   <Image src="https://i.imgur.com/i8RG0sN.png" alt="Wooden Rod" />
