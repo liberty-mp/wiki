@@ -1,3 +1,7 @@
+--- 
+title: Profil & Setări
+---
+
 **Profilul** împreună cu **Setările** caracterului reprezintă unul dintre cele mai importante sisteme integrate pe serverul [**liberty.mp**](https://ucp.liberty.mp/map) în momentul de față. Interfața permite vizualizarea tuturor informațiilor și statisticilor jucătorilor din momentul în care și-au creat caracterul, până în prezent, dar și posibilitatea realizării unor setări de preferință. 
 
 Fiecare jucător își poate vizualiza **Profilul** și **Setările** apăsând pe butonul `O` în joc. Pentru a închide interfața, apăsă `ESC`.  
