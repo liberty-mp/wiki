@@ -15,8 +15,6 @@ Fiecare categorie se poate accesa din **bara de navigare**, cu un simplu *click-
 
 ![NavBar](https://i.imgur.com/Tnw3TQK.png)
 
-
-
 ## General 
 
 **General** reprezintă principala categorie unde fiecare jucător își poate vizualiza statisticile principale ale caracterului. 
