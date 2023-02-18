@@ -26,20 +26,20 @@ Sistemul include un număr total de **15 aplicații**, după cum urmează:
 
 <Image src="https://i.imgur.com/MJdFFN4.png" alt="PhoneApps" />
 
-1. [**Phone** & **Contacts**](#phone-contacts): se pot apela numerele de telefon ale altor jucători, se pot vizualiza apelurile recente și pot adăuga jucători în lista de contacte
-2. [**Camera**](#camera): se pot realiza fotografii centrale sau frontale
-3. [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și înclusiv locația curentă către alți jucători)
-4. [**Emails**](#emails): se pot vizualiza e-mail-urile primite
-5. [**Bank**](#bank): se pot vizualiza banii din bancă, realiza transferuri între jucători sau se pot achiziționa cryptomodene sau acțiuni în cadrul unor companii
-6. [**Vehicles**](#vehicles): se pot vizualiza vehiculele personale ale jucătorului și meniul de comandă al acestora
-7. [**Maps**](#maps): se pot vizualiza rutele către cele mai importante locații de pe server 
-8. [**Photos**](#photos): se pot vizualiza fotografiile realizate cu aplicația **Camera**
-9. [**Taxi**](#taxi): se poate apela serviciul de transport tip taxi al serverului
-10. [**911**](#emergency): se poate apela serviciul de urgență, respectiv facțiunea *Los Santos Police Department*
-11. [**Hitman**](#hitman): se pot plasa contracte de asasinare ale jucătorilor către facțiunea **Hitman** 
-12. [**Settings**](#settings): se pot accesa setările de funcționabilitate și aspect ale telefonului
-13. [**YouTube**](#youtube): se poate asculta muzică de pe **YouTube** direct în interfață
-14. [**Phonebook**](#phonebook): se pot identifica numerele de telefon ale jucătorilor după numele acestora
+- [**Phone** & **Contacts**](#phone-contacts): se pot apela numerele de telefon ale altor jucători, se pot vizualiza apelurile recente și pot adăuga jucători în lista de contacte
+- [**Camera**](#camera): se pot realiza fotografii centrale sau frontale
+- [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și înclusiv locația curentă către alți jucători)
+- [**Emails**](#emails): se pot vizualiza e-mail-urile primite
+- [**Bank**](#bank): se pot vizualiza banii din bancă, realiza transferuri între jucători sau se pot achiziționa cryptomodene sau acțiuni în cadrul unor companii
+- [**Vehicles**](#vehicles): se pot vizualiza vehiculele personale ale jucătorului și meniul de comandă al acestora
+- [**Maps**](#maps): se pot vizualiza rutele către cele mai importante locații de pe server 
+- [**Photos**](#photos): se pot vizualiza fotografiile realizate cu aplicația **Camera**
+- [**Taxi**](#taxi): se poate apela serviciul de transport tip taxi al serverului
+- [**911**](#emergency): se poate apela serviciul de urgență, respectiv facțiunea *Los Santos Police Department*
+- [**Hitman**](#hitman): se pot plasa contracte de asasinare ale jucătorilor către facțiunea **Hitman** 
+- [**Settings**](#settings): se pot accesa setările de funcționabilitate și aspect ale telefonului
+- [**YouTube**](#youtube): se poate asculta muzică de pe **YouTube** direct în interfață
+- [**Phonebook**](#phonebook): se pot identifica numerele de telefon ale jucătorilor după numele acestora
 
 ::: tip
 Pentru a închide o aplicație, respectiv a revenii pe ecranul principal fără a fi necesară să închizi **Telefonul**, apasă *click-stânga* pe bara de culoare albă/gri (în funcție de aplicație) aflată în partea de jos. 
