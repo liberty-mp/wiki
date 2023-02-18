@@ -110,12 +110,12 @@ Pentru a avansa în skill ai nevoie să câștigi o anumită sumă de bani din v
 
 | **Skill** | **Bani câștigați pt. avansare** | **Beneficii**
 | :-----------: | :-----------: | :-----------: |
-| Bronze | <Dinero :amount='0' /> | - |
-| Silver | <Dinero :amount='15000' /> | **7%** mai mulți bani |
-| Gold | <Dinero :amount='75000' /> | **23%** mai mulți bani |
-| Platinum | <Dinero :amount='250000' /> | **53%** mai mulți bani |
-| Diamond | <Dinero :amount='750000' /> | **100%** mai mulți bani |
-| Master | <Dinero :amount='1500000' /> | **301%** mai mulți bani |
+| Bronze | <Dinero :amount='0' /> | venitul de baza al jobului |
+| Silver | <Dinero :amount='15000' /> | venit majorat cu **7%** |
+| Gold | <Dinero :amount='75000' /> | venit majorat cu **23%** |
+| Platinum | <Dinero :amount='250000' /> | venit majorat cu **53%** |
+| Diamond | <Dinero :amount='750000' /> | venit dublu la job |
+| Master | <Dinero :amount='1500000' /> | venit triplu la job |
 
 ## Cazuri în care nu poți efectua jobul  
  
