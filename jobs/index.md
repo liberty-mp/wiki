@@ -6,6 +6,38 @@ title: Informații generale joburi
  
 Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătății experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o categorizare a joburilor curente.  
 
+## Intrebări frecvente
+
+### Cum găsesc jobul?  
+
+Pentru a găsi orice locație din statul San Andreas, folosește-te de aplicația "**Maps**" din telefon.  
+1. Apasă tasta `UP` (săgeată sus) pentru a lua telefonul în mână. Apasă pe textul "Touch to open" pentru a debloca telefonul.  
+2. Selectează aplicația "**Maps**" de pe ecranul telefonului. Poți tasta numele locației dorite sau poți să răsfoiești prin meniul cu locații.  
+3. Pentru a te reîntoarce la meniul principal, apasă pe săgeată înapoi. Pentru a închide telefonul instant, apasă tasta `DOWN` (săgeată jos) sau tasta `ESC`.  
+
+::: details Tutorial folosire aplicația Maps  
+  <Image src="https://i.imgur.com/JgYepsG.gif" alt="Aplicația Maps" />  
+::: 
+
+### Cum avansez în skill?
+
+Pentru a avansa în skill ai nevoie să câștigi o anumită sumă de bani din prestarea serviciilor job-ului, fiecare avansare crește procentual câștigul per serviciu prestat.  
+
+| **Skill** | **Bani câștigați pt. avansare** | **Beneficii**
+| :-----------: | :-----------: | :-----------: |
+| Bronze | <Dinero :amount='0' /> | venitul de baza al jobului |
+| Silver | <Dinero :amount='15000' /> | venit majorat cu **7%** |
+| Gold | <Dinero :amount='75000' /> | venit majorat cu **23%** |
+| Platinum | <Dinero :amount='250000' /> | venit majorat cu **53%** |
+| Diamond | <Dinero :amount='750000' /> | venit **dublu** la job |
+| Master | <Dinero :amount='1500000' /> | venit **triplu** la job |
+
+### Cum mă opresc din muncă?
+ 
+Pentru a termina tura de job, tastează comanda `/stopwork`. Vehiculul oferit de job își va da respawn (dacă ai primit unul) și nu vei mai primi noi task-uri de realizat în cadrul jobului.   
+
+## Listă joburi
+
 ### Electrician 🔌
 
 Vrei să îți folosești abilitățile tehnice pentru a face lumea un loc mai luminos și mai sigur? 
@@ -15,7 +47,7 @@ Devino un electrician și ajută la menținerea orașului în funcțiune.
 Oferim **vehicul pentru job**, dar poți lucra cu orice **vehicul dorești**.  
 Ai nevoie de **permis de conducere categoria B** dacă nu vrei să riști **o vizită la închisoare**!     
 
-> Vezi detalierea jobului [Electrician](./electrician/).  
+> Vezi detalierea jobului [Electrician](./electrician).  
 
 ### Fisherman 🎣
 
@@ -24,7 +56,7 @@ Ești pregătit să îți transformi abilitățile de pescuit într-un stil de v
 
 Ai nevoie de **echipament**, multă răbdare și de preferat, un **mijloc de transport**.  
 
-> Vezi detalierea jobului [Fisherman](./fisherman/).  
+> Vezi detalierea jobului [Fisherman](./fisherman).  
 
 ### Garbageman ♻️
 
@@ -33,7 +65,7 @@ Dacă îți place să lucrezi în afara zonelor de confort, atunci ai ajuns la l
 
 Ai nevoie de un nas puternic și **permis de conducere categoria B** dacă nu vrei să riști **o vizită la închisoare**!.  
 
-> Vezi detalierea jobului [Garbageman](./garbageman/).  
+> Vezi detalierea jobului [Garbageman](./garbageman).  
 
 ### Lumberjack 🪓
 
@@ -41,7 +73,7 @@ Vrei să descoperi farmecul vieții în sălbăticie? Călătorește în adâncu
 
 Ai nevoie de brațe puternice și **permis de conducere categoria B** dacă nu vrei să riști **o vizită la închisoare**!.  
 
-> Vezi detalierea jobului [Lumberjack](./lumberjack/).  
+> Vezi detalierea jobului [Lumberjack](./lumberjack).  
 
 ### Miner ⛏️
 
@@ -49,7 +81,7 @@ Vrei să faci o diferență reală în construcția orașului nostru? Minează c
 
 Ai nevoie de forță și **permis de conducere categoria B** dacă nu vrei să riști **o vizită la închisoare**!. 
 
-> Vezi detalierea jobului [Miner](./miner/).  
+> Vezi detalierea jobului [Miner](./miner).  
 
 ### Trucker 🚚
 
@@ -57,4 +89,4 @@ Condu camioanele noastre prin cele mai periculoase și provocatoare drumuri, asi
 
 Ai nevoie de experiență în condus și **permis de conducere categoria C** dacă nu vrei să riști **o vizită la închisoare**!.  
 
-> Vezi detalierea jobului [Trucker](./trucker/).  
+> Vezi detalierea jobului [Trucker](./trucker). 
