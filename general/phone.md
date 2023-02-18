@@ -166,11 +166,11 @@ Banii transferați nu vor fi recepționați dacă jucătorului căruia dorești 
 
 <Image src="https://i.imgur.com/SM2WVEq.png" alt="Crypto"> 
 
-> Vezi la [**Cryptomonede**](./economy/crypto) cum să utilizezi această funcție a aplicației și alte informații.
+> Vezi la [**Cryptomonede**](./economy/crypto) cum să utilizezi această funcție a aplicației, precum și alte informații.
 
 <Image src="https://i.imgur.com/p6mHT3J.png" alt="StockMarket"> 
   
-> Vezi la [**Stock Market**](./economy/stock-market) cum să utilizezi această funcție a aplicației și alte informații. 
+> Vezi la [**Stock Market**](./economy/stock-market) cum să utilizezi această funcție a aplicației, precum și alte informații. 
 
 ## Vehicles 
 
@@ -180,7 +180,7 @@ Banii transferați nu vor fi recepționați dacă jucătorului căruia dorești 
 
 <Image src="https://i.imgur.com/lRnsW0e.png" alt="Vehicles">   
 
-> Vezi la [**Vehicule Personale**](./personal-vehicles) cum să utilizezi această aplicație și alte informații. 
+> Vezi la [**Vehicule Personale**](./propierties/personal-vehicles) cum să utilizezi această aplicație, precum și alte informații. 
 
 ## Maps 
 
@@ -210,6 +210,36 @@ Pentru a realiza o nouă fotografie, apasă *click-stânga* pe iconița în form
 Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau  distribuii o fotografie către un alt jucător, apasă *click-stânga* pe respectiva, iar de acolo folosește cele două iconițe din partea de jos în formă de săgeată (pentru distribuire), respectiv coș de gunoi (pentru ștergere). 
 ::: 
 
+## Taxi 
+
+**Taxi** reprezintă sistemul prin care jucătorii pot beneficia de serviciul de transport al facțiunii **Downtown Taxi Company** în schimbul unei sume de bani.
+
+**Prezentarea aplicației:** 
+
+<Image src="https://i.imgur.com/onbICw5.png" alt="Taxi"> 
+
+> Vezi la [**Taxi Company**](./factions/taxi) cum să utilizezi această aplicație, precum și alte informații.
+
+## Emergency 
+
+**Emergency** reprezintă sistemul de urgență prin care jucătorii pot raporta facțiunii **Los Santos Police Department** diverse incidente.
+
+**Prezentarea aplicației:** 
+
+<Image src="https://i.imgur.com/yrKzJtR.png" alt="Emergency"> 
+
+> Vezi la [**Los Santos Police Department**](./factions/lspd) cum să utilizezi această aplicație, precum și alte informații.
+
+## Hitman 
+
+**Hitman** reprezintă sistemul prin care jucătorii pot beneficia de serviciile de asasinări la comandă ale facțiunii **Hitman Agency** în schimbul unei sume de bani.
+
+**Prezentarea aplicației:** 
+
+<Image src="https://i.imgur.com/3oHqd3o.png" alt="Hitman"> 
+
+> Vezi la [**Hitman**](./factions/hitman) cum să utilizezi această aplicație, precum și alte informații.
+
 ## Settings 
 
 **Settings** reprezintă aplicația de unde fiecare jucător își poate personaliza funcționabilitatea telefonului și aspectul acestuia.  
@@ -223,7 +253,7 @@ Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau 
 - **Ignore unkown sender** - permite blocarea mesajelor din partea altor jucători necunoscuți de aplicația **Contacts** (cei care nu se află pe lista de contacte);
 
 ::: warning
-În momentul de față, funcțiile de mai jos nu sunt disponibile.
+Momentan, funcțiile de mai jos nu sunt disponibile.
 
 - **Frame colour** - permite schimbarea ramei telefonului; 
 - **Wallpaper** - permite schimbarea imaginii de fundal a telefonului;
