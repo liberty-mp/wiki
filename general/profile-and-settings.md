@@ -4,7 +4,7 @@ title: Profil & Setări
 
 **Profilul** împreună cu **Setările** caracterului reprezintă unul dintre cele mai importante sisteme integrate pe serverul [**liberty.mp**](https://ucp.liberty.mp/map) în momentul de față. Interfața permite vizualizarea tuturor informațiilor și statisticilor jucătorilor din momentul în care și-au creat caracterul, până în prezent, dar și posibilitatea realizării unor setări de preferință. 
 
-Fiecare jucător își poate vizualiza **Profilul** și **Setările** apăsând pe butonul `O` în joc. Pentru a închide interfața, apăsă `ESC`.  
+Fiecare jucător își poate vizualiza **Profilul** și **Setările** apăsând pe butonul `O` în joc. Pentru a închide interfața, apasă `ESC`.  
 
 Sistemul se împarte în **6 categorii**, fiecare cu un scop bine definit: 
 
@@ -97,21 +97,21 @@ Secțiunea **Statistics**:
 
 ## Referrals 
 
-**Refferals** reprezintă categoria unde fiecare jucător își poate vizualiza statisticile și își poate colecta bonusurile obținute cu privire la recomandările pe care le-a făcut altor jucători pentru a se alătura serverului [**liberty.mp**](https://ucp.liberty.mp/map), pe codul propiu de **Refferal**. 
+**Referrals** reprezintă categoria unde fiecare jucător își poate vizualiza statisticile și își poate colecta bonusurile obținute cu privire la recomandările pe care le-a făcut altor jucători pentru a se alătura serverului [**liberty.mp**](https://ucp.liberty.mp/map), pe codul propiu de **Referral**. 
 
 **Prezentarea secțiunilor:** 
 
-![Refferal](https://i.imgur.com/ESef1sd.png)
+![Referral](https://i.imgur.com/ESef1sd.png)
 
-Secțiunea **Refferal**:  
+Secțiunea **Referral**:  
 - afișează codul personal de recomandare, numărul de jucători înregistrați pe acest cod, precum și informații despre bonusurile pe care un jucător le poate dobândii în funcție de realizările jucătorilor pe care îi aduce.  
 
 Secțiunea **Rewards**: 
 - afișează numărul de jucători înregistrați pe codul personal, precum bonusurile dobândite care pot fi colectate apăsând pe butonul portocaliu: *Collet*. 
 
-## Achivements 
+## Achievements 
 
-**Achivements** reprezintă categoria unde fiecare jucător își poate vizualiza realizările obținute pe server, precum și progresul până la deblocarea altora. 
+**Achievements** reprezintă categoria unde fiecare jucător își poate vizualiza realizările obținute pe server, precum și progresul până la deblocarea altora. 
 
 **Prezentarea secțiunilor:** 
 
