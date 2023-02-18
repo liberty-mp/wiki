@@ -10,4 +10,4 @@ Comunitatea [**liberty.mp**](https://liberty.mp) îți pune la dispoziție toate
 
 În cazul în care ai nevoie de alte informații care nu se află pe [**Wiki**](https://wiki.liberty.mp), îți sugerăm să folosești sistemul de ajutor din joc (tastează `/helpme`), să accesezi [**Discord**](https://liberty.mp/discord) sau să te implici **chiar tu** în completarea informațiilor.
 
-<Contributors />
+<Contributors description="Contribuitori:" />
