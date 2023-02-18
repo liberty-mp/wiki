@@ -8,7 +8,7 @@ Pentru a deschide sau închide **Inventarul**, apasă tasta `I`, respectiv `ESC`
 
 Sistemul este împărțit în **4 secțiuni**: 
 - **Clothes Items** (obiectele de îmbrăcăminte purtate);
-- **Invetory Items** (obiectele aflate în inventar); 
+- **Inventory Items** (obiectele aflate în inventar); 
 - **Nearby & Drop Items** (obiectele din afara inventarului/de pe jos); 
 - **Fast Slots** (locurile destinate special pentru obiectele principale/purtate). 
 
@@ -30,7 +30,7 @@ Sistemul este împărțit în **4 secțiuni**:
 - **Slotul 8** - pot fi atașate obiecte de îmbrăcăminte precum: **adidași**, **pantofi**, **ghete** și așa mai departe. 
 
 ::: tip
-Pentru a ocupa un **slot** trebuie să tragi din inventar (**Invetory Items**) **obiectul de îmbrăcăminte** sau **accesoriu** în cadrul **slotului** corespunzător. Pentru a detașa un **obiect de îmbrăcăminte** sau un **accesoriu** de pe un **slot**, apasă *click-dreapta* pe **obiectul de îmbrăcăminte** sau pe **accesoriu**. 
+Pentru a ocupa un **slot** trebuie să tragi din inventar (**Inventory Items**) **obiectul de îmbrăcăminte** sau **accesoriu** în cadrul **slotului** corespunzător. Pentru a detașa un **obiect de îmbrăcăminte** sau un **accesoriu** de pe un **slot**, apasă *click-dreapta* pe **obiectul de îmbrăcăminte** sau pe **accesoriu**. 
 :::
 
 ## Inventory Items
@@ -39,7 +39,7 @@ Pentru a ocupa un **slot** trebuie să tragi din inventar (**Invetory Items**) *
 
 **Prezentarea secțiunii:** 
 
-![Invetory Items](https://i.imgur.com/SO2gXIV.png) 
+![Inventory Items](https://i.imgur.com/SO2gXIV.png) 
 
 ::: tip
 Fiecare obiect deținut ocupă unul dintre cele **50 de sloturi** disponibile pentru fiecare caracter. Așadar, poți deține maxim **50 de obiecte** în inventar în același timp. Totodată, dacă dorești să știi câte obiecte ai în inventar, sub inventar îți afișează **Slots Used**. În plus, unele obiecte pot fi stocate una peste alta, numărul total al acestora fiind afișat în colțul din dreapta-sus al slotului ocupat de acestea.
@@ -56,9 +56,9 @@ Pentru a **utiliza** (Use), **inspecta** (Inspect) sau **separa** (Split) obiect
 ![Nearby Items](https://i.imgur.com/a9Ety9S.png)
 
 ::: tip
-Pentru a lua un obiect de pe jos (**Nearby Items**) în inventarul propiu, ține apăsat *click-stangă* pe obiectul dorit și trage-l în inventar (**Invetory Items**).
+Pentru a lua un obiect de pe jos (**Nearby Items**) în inventarul propiu, ține apăsat *click-stangă* pe obiectul dorit și trage-l în inventar (**Inventory Items**).
 
-Pentru a arunca un obiect din inventar (**Inventary Items**), ține apăsat *click-stangă* pe obiectul dorit și trage-l în interiorul chenarului cu linie despărțită **Drop Items**. De precizat este faptul că obiectele pe care le arunci din inventar ajung la **Nearby Items**.
+Pentru a arunca un obiect din inventar (**Inventory Items**), ține apăsat *click-stangă* pe obiectul dorit și trage-l în interiorul chenarului cu linie despărțită **Drop Items**. De precizat este faptul că obiectele pe care le arunci din inventar ajung la **Nearby Items**.
 :::
 
 ## Fast Slots 
@@ -70,6 +70,6 @@ Pentru a arunca un obiect din inventar (**Inventary Items**), ține apăsat *cli
 ![Fast Slots](https://i.imgur.com/hWVkERL.png)
 
 ::: tip
-Pentru a pune un obiect într-unul dintre cele **5 sloturi rapide**, ține apăsat *click-stangă* pe obiectul dorit și trage-l din inventar (**Invetory Items**) în interiorul slotului dorit. Obiectele aflate pe cele **5 sloturi** se pot utiliza (pe românește, se pot lua în mână) apăsând butoanele **1, 2, 3, 4 și 5** de pe tastatură, în funcție de slotul unde este atașat obiectul. 
+Pentru a pune un obiect într-unul dintre cele **5 sloturi rapide**, ține apăsat *click-stangă* pe obiectul dorit și trage-l din inventar (**Inventory Items**) în interiorul slotului dorit. Obiectele aflate pe cele **5 sloturi** se pot utiliza (pe românește, se pot lua în mână) apăsând butoanele **1, 2, 3, 4 și 5** de pe tastatură, în funcție de slotul unde este atașat obiectul. 
 :::
 
