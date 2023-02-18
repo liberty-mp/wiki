@@ -33,7 +33,7 @@ Sistemul este împărțit în **4 secțiuni**:
 Pentru a ocupa un **slot** trebuie să tragi din inventar (**Invetory Items**) **obiectul de îmbrăcăminte** sau **accesoriu** în cadrul **slotului** corespunzător. Pentru a detașa un **obiect de îmbrăcăminte** sau un **accesoriu** de pe un **slot**, apasă *click-dreapta* pe **obiectul de îmbrăcăminte** sau pe **accesoriu**. 
 :::
 
-## Invetory Items
+## Inventory Items
 
 **Inventory Items** reprezintă cea mai importantă secțiune pentru jucători, deoarece în aceasta se află/stochează **toate obiectele** deținute (telefon, undiță, funie și așa mai departe). 
 
@@ -49,7 +49,7 @@ Pentru a **utiliza** (Use), **inspecta** (Inspect) sau **separa** (Split) obiect
 
 ## Nearby & Drop Items
 
-**Nearby Items** reprezintă secțiunea comună pentru jucători, deoarece în aceasta se află **toate obiectele** aflate pe jos (undiță, funie și așa mai departe) și care pot fi luate de orice jucător. **Drop Items*** reprezintă o componentă a secțiunii în care se pot trage obiectele din inventar în vederea aruncării acestora din **Invetory Items**.
+**Nearby Items** reprezintă secțiunea comună pentru jucători, deoarece în aceasta se află **toate obiectele** aflate pe jos (undiță, funie și așa mai departe) și care pot fi luate de orice jucător. **Drop Items*** reprezintă o componentă a secțiunii în care se pot trage obiectele din inventar în vederea aruncării acestora din **Inventory Items**.
 
 **Prezentarea secțiunii:** 
 
