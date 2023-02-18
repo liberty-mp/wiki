@@ -2,17 +2,27 @@
 title: Inventar
 ---
 
+### Informații generale despre inventar
+
 **Inventarul** reprezintă unul dintre cele mai importante și complexe sisteme disponibile pe serverul [**liberty.mp**](https://ucp.liberty.mp/) în acest moment. Sistemul a fost gândit pentru a facilita gameplay-ul jucătorilor și conceput într-un stil modern, pentru a se putea fi utilizat într-un mod foarte ușor. 
+
+## Intrebări frecvente
+
+### Cum deschid inventarul?
 
 Pentru a deschide sau închide **Inventarul**, apasă tasta `I`, respectiv `ESC`. Utilizarea acestuia se poate realiza doar prin folosirea **mouse-ului** sau a **touchpad-ului**, deoarece funcționează pe principiul *Drag & Drop* în cea mai mare proporție. 
 
-Sistemul este împărțit în **4 secțiuni**: 
-- **Clothes Items** (obiectele de îmbrăcăminte purtate);
-- **Inventory Items** (obiectele aflate în inventar); 
-- **Nearby & Drop Items** (obiectele din afara inventarului/de pe jos); 
-- **Fast Slots** (locurile destinate special pentru obiectele principale/purtate). 
+### Câte secțiuni are inventarul?
 
-## Clothes Items
+Sistemul este împărțit în **4 secțiuni**: 
+- [**Clothes Items**](#clothes-items) (obiectele de îmbrăcăminte purtate);
+- [**Inventory Items**](#inventory-items) (obiectele aflate în inventar); 
+- [**Nearby & Drop Items**](#nearby-drop-items) (obiectele din afara inventarului/de pe jos); 
+- [**Fast Slots**](#fast-slots) (locurile destinate special pentru obiectele principale/purtate). 
+
+## Secțiuni
+
+### Clothes Items
 
 **Clothes Items** reprezintă secțiunea cu caracter vizual pentru jucători, deoarece în această secțiune se pot atașa caracterului diferite **obiecte de îmbrăcăminte** (șepci, tricouri, pantaloni și așa mai departe) sau **accesorii** (ceasuri, brățări, lanțuri și așa mai departe) care sunt deținute în inventar (**Inventory Items**). 
 
@@ -33,7 +43,7 @@ Sistemul este împărțit în **4 secțiuni**:
 Pentru a ocupa un **slot** trebuie să tragi din inventar (**Inventory Items**) **obiectul de îmbrăcăminte** sau **accesoriu** în cadrul **slotului** corespunzător. Pentru a detașa un **obiect de îmbrăcăminte** sau un **accesoriu** de pe un **slot**, apasă *click-dreapta* pe **obiectul de îmbrăcăminte** sau pe **accesoriu**. 
 :::
 
-## Inventory Items
+### Inventory Items
 
 **Inventory Items** reprezintă cea mai importantă secțiune pentru jucători, deoarece în aceasta se află/stochează **toate obiectele** deținute (telefon, undiță, funie și așa mai departe). 
 
@@ -47,7 +57,7 @@ Fiecare obiect deținut ocupă unul dintre cele **50 de sloturi** disponibile pe
 Pentru a **utiliza** (Use), **inspecta** (Inspect) sau **separa** (Split) obiectele, apasă *click-dreapta* pe obiectul pe care dorești să îl utilizezi, inspectezi sau separi și alege opțiunea dorită: **Use**, **Inspect** sau **Split**. De asemenea, este de precizat faptul că nu toate obiectele au opțiunea de utilizare, inspectare sau separare.  
 ::: 
 
-## Nearby & Drop Items
+### Nearby & Drop Items
 
 **Nearby Items** reprezintă secțiunea comună pentru jucători, deoarece în aceasta se află **toate obiectele** aflate pe jos (undiță, funie și așa mai departe) și care pot fi luate de orice jucător. **Drop Items*** reprezintă o componentă a secțiunii în care se pot trage obiectele din inventar în vederea aruncării acestora din **Inventory Items**.
 
@@ -61,7 +71,7 @@ Pentru a lua un obiect de pe jos (**Nearby Items**) în inventarul propiu, ține
 Pentru a arunca un obiect din inventar (**Inventory Items**), ține apăsat *click-stangă* pe obiectul dorit și trage-l în interiorul chenarului cu linie despărțită **Drop Items**. De precizat este faptul că obiectele pe care le arunci din inventar ajung la **Nearby Items**.
 :::
 
-## Fast Slots 
+### Fast Slots 
 
 **Fast Slots** reprezintă una dintre cele mai folosite secțiuni de către jucători, deoarece în aceasta se atașează obiectele pentru a putea fi folosite (undița, pistolul, canistră cu benzină și așa mai departe).
 
