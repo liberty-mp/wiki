@@ -34,9 +34,6 @@ Culoarea ATM-ului de pe hartă va indica disponibilitatea sa.
 Heat level-ul este un delay al activităților ilegale, ce te împiedica din practicarea acestora.
 De fiecare data când vei jefui un ATM, vei primi 100% Heat Level, care va scadea complet în 5 ore (scade cu 1% la cate 3 minute)
 
-# Ce se întamplă dacă mor cât timp am ATM-ul pe mine?
-Acesta va fi dropat în locul în care ai murit și va putea fi luat de alți jucători.
-
 # Cum jefuiesc un ATM?
 
 ::: info Pentru jefuirea unui ATM, va trebui sa NU aveți wanted și nici Heat Level :::
