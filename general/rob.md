@@ -17,9 +17,8 @@ title: ATM Robbery
 **Itemele** le poți primi la **finalizarea** unei ture de job la **Garbageman**
 
 # Căt pot câștiga dacă jefuiesc un ATM?
-- În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător căt timp transportai ATM-ul, câștig-ul va fi in jur de <Dinero :amount='600'/> și <Dinero :amount='800'/>.
-
-- Daca furi ATM-ul de la un alt jucător, câștigul va fi in jur de <Dinero :amount='250'/> și <Dinero :amount='400'/>.
+În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător căt timp transportai ATM-ul, câștig-ul va fi in jur de <Dinero :amount='600'/> și <Dinero :amount='800'/>.
+Daca furi ATM-ul de la un alt jucător, câștigul va fi in jur de <Dinero :amount='250'/> și <Dinero :amount='400'/>.
 
 # Cum aflu daca un ATM este disponibil pentru jefuire?
 
