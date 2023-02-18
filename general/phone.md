@@ -262,7 +262,7 @@ Momentan, funcțiile de mai jos nu sunt disponibile.
 
 ## YouTube 
 
-**YouTube** reprezintă sistemul interactiv pe care un jucător îl poate utiliza pentru a asculta muzică direct de pe **Telefon** (funcționează ca un **MP3**). Acest sistem este conectat în mod direct la platforma reală **YouTube Music**.  
+**YouTube** reprezintă sistemul interactiv pe care un jucător îl poate utiliza pentru a asculta muzica preferată direct din joc (funcționează ca un **MP3**). Acest sistem este conectat în mod direct la platforma reală **YouTube Music**.  
 
 **Prezentarea aplicației:**
   
@@ -280,4 +280,20 @@ Pentru a căuta o melodie, scrie denumirea acesteia în căsuța **Search song**
 După ce ai selectat melodia, vei fi introdus în panoul de control de unde o poți schimba, poți pune pauză sau modifica volumul acesteia. 
 
 Pentru a rula melodia selectată în fundal (fără a mai apărea interfața mobilului), închide telefonul, iar dacă dorești să o oprești, deschide-l din nou și ai acces direct la panoul de control în **Lock Screen**.
+:::   
+
+## Phonebook 
+
+**Phonebook** reprezintă sistemul pe care un jucător îl poate utiliza pentru căuta numerele de telefon ale jucătorilor, după numele acestora. 
+
+**Prezentarea aplicației:**
+  
+<Image src="https://i.imgur.com/PPZc30R.png" alt="Phonebook1"> <Image src="https://i.imgur.com/28vsQxR.png" alt="Phonebook2"> 
+
+- **Search user** - permite căutarea numerelor de telefon ale jucătorilor după denumirea acestora. 
+
+::: tip
+Pentru a căuta, scrie denumirea jucătorului căruia dorești să îi aflii numărul de telefon în căsuța **Search user**, apoi folosește cele trei iconițe în funcție de preferițele pe care le ai. 
+
+Dacă dorești să apelezi jucătorul, apasă *click-stânga* pe iconița în formă de telefon (prima), dacă dorești să îi trimiți un mesaj jucătorului, apasă *click-stânga* pe iconița în formă de plic (cea din mijloc), iar dacă dorești să adaugi jucătorul în lista de contacte, apasă *click-stânga* pe iconița în formă de omuleț (ultima). 
 :::  
