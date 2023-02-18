@@ -48,7 +48,7 @@ Acesta va fi dropat în locul în care ai murit și va putea fi luat de alți ju
 
 - Când ATM-ul a ieșit din perete, ai un minut la dispoziție pentru a îl lua.
 
-::: warning Jucatorii îți pot lua ATM-ul dacă mori :::
+::: warning Jucatorii îți pot lua ATM-ul și-l pot livra ei în locul tău dacă vei muri. :::
 
 ::: details Extragerea și ridicarea ATM-ului  
  <Image src="https://i.imgur.com/KOr595L.gif" alt="rob2" />  
