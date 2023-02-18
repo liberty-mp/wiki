@@ -2,9 +2,17 @@
 title: Profil & Setări
 ---
 
+### Informații generale despre profil și setări
+
 **Profilul** împreună cu **Setările** caracterului reprezintă unul dintre cele mai importante sisteme integrate pe serverul [**liberty.mp**](https://ucp.liberty.mp/map) în momentul de față. Interfața permite vizualizarea tuturor informațiilor și statisticilor jucătorilor din momentul în care și-au creat caracterul, până în prezent, dar și posibilitatea realizării unor setări de preferință. 
 
+## Intrebări frecvente
+
+### Cum vizualizez profilul și setările?
+
 Fiecare jucător își poate vizualiza **Profilul** și **Setările** apăsând pe butonul `O` în joc. Pentru a închide interfața, apasă `ESC`.  
+
+### Câte categorii are interfața?
 
 Sistemul se împarte în **6 categorii**, fiecare cu un scop bine definit: 
 
@@ -71,10 +79,22 @@ Secțiunea **Jobs Statistics**:
 
 În partea stângă este afișat numele fiecărui job, împreună cu suma de bani totală obținută în cadrul jobului, iar în partea stângă este afișată experiența (skill-ul) în cadrul jobului respectiv și suma de bani necesară pentru a avansa la un altul. 
 
-Secțiunea **Your Faction**: 
+<Image src="https://i.imgur.com/TAT0bxj.png" alt="Faction" /> 
+
+Secțiunea **Your Faction**:  
+
+- afișează facțiunea din care faci parte, rank-ul și cât de cât timp ești în acesta. 
+
+Secțiunea **Faction Raport**:  
+
+- afișează raportul pe care trebuie să-l îndeplinești în cadrul facțiunii. 
+
+Secțiunea **Active Faction Penalties**:  
+
+- afișează penalitățile (sancțiunile) pe care le îl ai în cadrul facțiunii.
 
 ::: warning
-Momentan, această secțiune nu este disponibilă. 
+Pentru a vedea această secțiune trebuie să fii într-o facțiune. 
 ::: 
 
 ## Quests & Events 
