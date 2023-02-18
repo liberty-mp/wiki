@@ -59,7 +59,7 @@ O bucată de momeală este folosită de fiecare dată când încerci să pescuie
 
 ## Cum pescuiesc?
 
-Ca să pescuiești trebuie să echipezi undița în unul din cele 5 fast slot-uri din invetarul tău, numerotate cu numerele `1`, `2`, `3`, `4`, `5`. Pentru a echipa, apasă tasta `I` pentru a deschide inventarul și trage undița pe un fast slot.
+Ca să pescuiești trebuie să echipezi undița în unul din cele 5 fast slot-uri din inventarul tău, numerotate cu numerele `1`, `2`, `3`, `4`, `5`. Pentru a echipa, apasă tasta `I` pentru a deschide inventarul și trage undița pe un fast slot.
 
 ::: details Echiparea undiței  
   <Image src="https://i.imgur.com/XpaQb63.gif" />
@@ -114,8 +114,8 @@ Pentru a avansa în skill ai nevoie să câștigi o anumită sumă de bani din v
 | Silver | <Dinero :amount='15000' /> | venit majorat cu **7%** |
 | Gold | <Dinero :amount='75000' /> | venit majorat cu **23%** |
 | Platinum | <Dinero :amount='250000' /> | venit majorat cu **53%** |
-| Diamond | <Dinero :amount='750000' /> | venit dublu la job |
-| Master | <Dinero :amount='1500000' /> | venit triplu la job |
+| Diamond | <Dinero :amount='750000' /> | venit **dublu** la job |
+| Master | <Dinero :amount='1500000' /> | venit **triplu** la job |
 
 ## Cazuri în care nu poți efectua jobul  
  
@@ -125,7 +125,7 @@ Pentru a avansa în skill ai nevoie să câștigi o anumită sumă de bani din v
  <Image src="https://i.imgur.com/z0OnAOM.png" alt="Eroare loc/valuri" />  
 :::  
 
-- Dacă nu ai spațiu în invetar pentru peștele prins, nu poți să pescuiești.  
+- Dacă nu ai spațiu în inventar pentru peștele prins, nu poți să pescuiești.  
 ::: details Nu ai loc in inventar  
  <Image src="https://i.imgur.com/rE8Cvc9.png" alt="Eroare spatiu inventar" />  
 :::  
