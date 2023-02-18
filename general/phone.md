@@ -47,11 +47,11 @@ Pentru a închide o aplicație, respectiv a revenii pe ecranul principal fără 
 
 <Image src="https://i.imgur.com/reuLrn8.png" alt="RecentC"> 
 
-- **Recent calls** afișează ultimele apeluri primite sau efectuate de către un jucător și permite apelarea acestora direct din funcție. 
+- **Recent calls** - afișează ultimele apeluri primite sau efectuate de către un jucător și permite apelarea acestora direct din funcție. 
 
 <Image src="https://i.imgur.com/i4Bn4oF.png" alt="Contacts"> <Image src="https://i.imgur.com/QEq6tUX.png" alt="NewC">  
 
-- **Contacts** afișează toate numerele de telefon salvate ale altor jucători (lista de contacte). 
+- **Contacts** - afișează toate numerele de telefon salvate ale altor jucători (lista de contacte). 
 
 ::: tip
 Pentru a apela sau trimite un mesaj unui contact, trebuie să accesezi informațiile contactului, apăsând pe iconița de informații din dreapta denumirii contactului sau direct pe contact; 
@@ -69,10 +69,10 @@ Pentru a edita un contact, apasă *click-stânga* pe **Edit** din dreapta-sus, a
 
 <Image src="https://i.imgur.com/HumSzz2.png" alt="Keypad">
 
-- **Keypad** ajută la apelarea directă a unui număr de telefon.  
+- **Keypad** - ajută la apelarea directă a unui număr de telefon.  
 
 ::: warning
-Apelurile nu vor fi recepționate dacă jucătorul cu care doriți să conversați nu este activ pe server.  
+Apelurile nu vor fi recepționate dacă jucătorul cu care dorești să conversezi nu este activ pe server.  
 ::: 
 
 ## Camera 
@@ -106,12 +106,14 @@ Pentru a trimite locația curentă unui jucător într-o conversație activă, a
 :::
 
 ::: warning
-Mesajele, fotografiile sau locațiile nu vor fi recepționate dacă jucătorul cu care doriți să conversați nu este activ pe server.  
+Mesajele, fotografiile sau locațiile nu vor fi recepționate dacă jucătorul cu care dorești să conversezi nu este activ pe server.  
 :::
 
 ## Emails 
 
 **Emails** reprezintă un sistem prin care jucătorii sunt notificați cu privire la anumite informații care țin strict de caracterul personal. 
+
+**Prezentarea aplicației:** 
 
 <Image src="https://i.imgur.com/lmgMe6w.png" alt="Emails">  
 
@@ -119,7 +121,94 @@ Mesajele, fotografiile sau locațiile nu vor fi recepționate dacă jucătorul c
 Aplicația nu poate fi utilizată de către jucători, având strict rolul de transmitere de informații. 
 :::
 
-**Prezentarea aplicației:**  
+## Bank
+
+**Bank** reprezintă un sistem bancar prin care jucătorii își pot gestiona fondurile, pot investii în cryptomonede sau acțiuni în cadrul unor companii. 
+
+**Prezentarea aplicației:** 
+
+<Image src="https://i.imgur.com/UKeYzEu.png" alt="BankUnlock">  
+
+::: tip
+Pentru a deschide aplicația, trebuie să te identifici cu amprenta personală, apăsând *click-stânga* pe iconița specifică de sub **Unlock using your fingeroprint**. 
+::: 
+
+<Image src="https://i.imgur.com/OzJfsCv.png" alt="BankMain">  
+
+- **Total balance** - permite vizualizarea sumei totale de bani aflată în bancă;
+- **Recent transactions** - permite vizualizarea ultimelor transaferuri de bani sau tranzacții efectuate prin intermediul cardului bancar. 
+
+::: tip
+Pentru a efectua un transfer bancar către un alt jucător, trebuie să apeși pe iconița cu cele două săgeți de lângă meniul principal (în dreapta căsuței). 
+::: 
+
+<Image src="https://i.imgur.com/60sd950.png" alt="BankTrans">  
+
+- **Available to transfer** - permite vizualizarea balanței de bani disponibile pentru transfer; 
+- **Search user** - permite căutarea jucătorului căruia dorești să efectuezi transferul de bani. 
+
+::: tip
+Pentru a efectua un transfer bancar către un alt jucător, trebuie să îi introduci numele din joc în caseta **Search user**. 
+::: 
+
+<Image src="https://i.imgur.com/m4OeSaQ.png" alt="BankFinalTrans"> 
+
+- **Card** - permite vizualizarea cardului de pe care se realizează transferul de bani; 
+- **Recipient** - permite vizualizarea jucăturlui căruia îi realizezi transferul de bani. 
+
+::: tip
+Pentru a finaliza transferul bancar, selectați suma de bani dorită și apăsați *click-stânga* pe butonul **Transfer**, apoi pe **Yes**. 
+::: 
+
+::: warning
+Banii transferați nu vor fi recepționați dacă jucătorului căruia dorești să îi realizezi transferul nu este activ pe server.  
+::: 
+
+<Image src="https://i.imgur.com/SM2WVEq.png" alt="Crypto"> 
+
+> Vezi la [**Cryptomonede**](./economy/crypto) cum să utilizezi această funcție a aplicației și alte informații.
+
+<Image src="https://i.imgur.com/p6mHT3J.png" alt="StockMarket"> 
+  
+> Vezi la [**Stock Market**](./economy/stock-market) cum să utilizezi această funcție a aplicației și alte informații. 
+
+## Vehicles 
+
+**Vehicles** reprezintă un sistem care funcționează ca un meniu de comandă și prin care jucătorii își pot gestiona vehiculele persoanele. 
+
+**Prezentarea aplicației:** 
+
+<Image src="https://i.imgur.com/lRnsW0e.png" alt="Vehicles">   
+
+> Vezi la [**Vehicule Personale**](./personal-vehicles) cum să utilizezi această aplicație și alte informații. 
+
+## Maps 
+
+**Maps** reprezintă un sistem foarte util pentru jucători, prin care aceștia pot identifica cu ușurință locațiile principale de pe server. 
+
+**Prezentarea aplicației:** 
+
+<Image src="https://i.imgur.com/Bf320o9.png" alt="Maps"> 
+
+- **Search location** - permite identificarea unei locații după denumirea acesteia.  
+
+::: tip
+Pentru a identifica o anumită locație de pe server, trebuie să accesezi una dintre cele **9 categorii** disponibile și să selectezi locația care te interesează. 
+:::  
+
+## Photos
+
+**Photos** reprezintă sistemul prin care jucătorii își pot vizualiza fotografiile realizate prin intermediul aplicației **Camera**, pot realiza altele sau le pot distribuii către alți jucători (funcționează ca o galerie). 
+
+**Prezentarea aplicației:** 
+
+<Image src="https://i.imgur.com/c79hUcs.png" alt="Photos1"> <Image src="https://i.imgur.com/gcU8SeJ.png" alt="Photos2">  
+
+::: tip
+Pentru a realiza o nouă fotografie, apasă *click-stânga* pe iconița în formă de cameră din dreaptea-sus a aplicației.
+
+Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau  distribuii o fotografie către un alt jucător, apasă *click-stânga* pe respectiva, iar de acolo folosește cele două iconițe din partea de jos în formă de săgeată (pentru distribuire), respectiv coș de gunoi (pentru ștergere). 
+::: 
 
 ## Settings 
 
@@ -129,9 +218,9 @@ Aplicația nu poate fi utilizată de către jucători, având strict rolul de tr
   
 <Image src="https://i.imgur.com/uCHubHe.png" alt="Settings"> 
 
-- **Airplane Mode** permite oprirea anumitor propietăți ale telefonului;
-- **Ignore calls** permite blocare apelurilor din partea altor jucători;
-- **Ignore unkown sender** permite blocarea mesajelor din partea altor jucători necunoscuți de aplicația **Contacts** (cei care nu se află pe lista de contacte);
+- **Airplane Mode** - permite oprirea anumitor propietăți ale telefonului;
+- **Ignore calls** - permite blocare apelurilor din partea altor jucători;
+- **Ignore unkown sender** - permite blocarea mesajelor din partea altor jucători necunoscuți de aplicația **Contacts** (cei care nu se află pe lista de contacte);
 
 ::: warning
 În momentul de față, funcțiile de mai jos nu sunt disponibile.
