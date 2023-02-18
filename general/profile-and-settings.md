@@ -2,24 +2,34 @@
 title: Profil & Setări
 ---
 
+### Informații generale despre profil și setări
+
 **Profilul** împreună cu **Setările** caracterului reprezintă unul dintre cele mai importante sisteme integrate pe serverul [**liberty.mp**](https://ucp.liberty.mp/map) în momentul de față. Interfața permite vizualizarea tuturor informațiilor și statisticilor jucătorilor din momentul în care și-au creat caracterul, până în prezent, dar și posibilitatea realizării unor setări de preferință. 
+
+## Intrebări frecvente
+
+### Cum vizualizez profilul și setările?
 
 Fiecare jucător își poate vizualiza **Profilul** și **Setările** apăsând pe butonul `O` în joc. Pentru a închide interfața, apasă `ESC`.  
 
+### Câte categorii are interfața?
+
 Sistemul se împarte în **6 categorii**, fiecare cu un scop bine definit: 
 
-- **General** (se pot vizualiza statisticile principale ale jucătorului);
-- **Jobs & Faction** (se poate vizualiza progresul în cadrul facțiunilor și al joburilor); 
-- **Quests & Events** (se pot vizualiza misiunile zilnice împreună cu statisicile acestora, dar și evenimentele active); 
-- **Refferals** (se pot vizualiza informațiile despre subiect și se pot colecta bonusurile aferente); 
-- **Achievements** (se pot vizualiza realizările obținute și progresul până la deblocarea altora); 
-- **Settings** (se pot modifica preferințele de joc). 
+- [**General**](#general) (se pot vizualiza statisticile principale ale jucătorului);
+- [**Jobs** & **Faction**](#jobs-faction) (se poate vizualiza progresul în cadrul facțiunilor și al joburilor); 
+- [**Quests** & **Events**](#quests-events) (se pot vizualiza misiunile zilnice împreună cu statisicile acestora, dar și evenimentele active); 
+- [**Refferals**](#refferals) (se pot vizualiza informațiile despre subiect și se pot colecta bonusurile aferente); 
+- [**Achievements**](#achievements) (se pot vizualiza realizările obținute și progresul până la deblocarea altora); 
+- [**Settings**](#settings) (se pot modifica preferințele de joc). 
 
 Fiecare categorie se poate accesa din **bara de navigare**, cu un simplu *click-stânga*:
 
 ![NavBar](https://i.imgur.com/Tnw3TQK.png)
 
-## General 
+## Categorii
+
+### General 
 
 **General** reprezintă principala categorie unde fiecare jucător își poate vizualiza statisticile principale ale caracterului. 
 
@@ -59,7 +69,7 @@ Secțiunea **Robbing**:
 - **Stolen Money** - afișează numărul total bani obținuți în urma jafurilor; 
 - **Heat Level** - afișează cooldown-ul în ore ale jucătorului până când poate jefuii din nou. 
 
-## Jobs & Faction 
+### Jobs & Faction 
 
 **Jobs & Faction** reprezintă categoria unde fiecare jucător își poate vizualiza statisticile cu privire la activitatea în cadrul joburilor și a facțiunii din care face parte. 
 
@@ -71,13 +81,25 @@ Secțiunea **Jobs Statistics**:
 
 În partea stângă este afișat numele fiecărui job, împreună cu suma de bani totală obținută în cadrul jobului, iar în partea stângă este afișată experiența (skill-ul) în cadrul jobului respectiv și suma de bani necesară pentru a avansa la un altul. 
 
-Secțiunea **Your Faction**: 
+<Image src="https://i.imgur.com/TAT0bxj.png" alt="Faction" /> 
+
+Secțiunea **Your Faction**:  
+
+- afișează facțiunea din care faci parte, rank-ul și cât de cât timp ești în acesta. 
+
+Secțiunea **Faction Raport**:  
+
+- afișează raportul pe care trebuie să-l îndeplinești în cadrul facțiunii. 
+
+Secțiunea **Active Faction Penalties**:  
+
+- afișează penalitățile (sancțiunile) pe care le îl ai în cadrul facțiunii.
 
 ::: warning
-Momentan, această secțiune nu este disponibilă. 
+Pentru a vedea această secțiune trebuie să fii într-o facțiune. 
 ::: 
 
-## Quests & Events 
+### Quests & Events 
 
 **Quests & Events** reprezintă categoria unde fiecare jucător își poate vizualiza misiunile zilnice împreună cu statisticile acestora și evenimentele active de pe server. 
 
@@ -95,7 +117,7 @@ Secțiunea **Statistics**:
 - **Current Streak** - afișează numărul curent de zile consecutive în care un jucător a realizat cele două misiuni zilnice;  
 - **Longest Streak** - afișează numărul maxim de zile consecutive în care un jucător a realizat cele două misiuni zilnice.   
 
-## Referrals 
+### Referrals 
 
 **Referrals** reprezintă categoria unde fiecare jucător își poate vizualiza statisticile și își poate colecta bonusurile obținute cu privire la recomandările pe care le-a făcut altor jucători pentru a se alătura serverului [**liberty.mp**](https://ucp.liberty.mp/map), pe codul propiu de **Referral**. 
 
@@ -109,7 +131,7 @@ Secțiunea **Referral**:
 Secțiunea **Rewards**: 
 - afișează numărul de jucători înregistrați pe codul personal, precum bonusurile dobândite care pot fi colectate apăsând pe butonul portocaliu: *Collet*. 
 
-## Achievements 
+### Achievements 
 
 **Achievements** reprezintă categoria unde fiecare jucător își poate vizualiza realizările obținute pe server, precum și progresul până la deblocarea altora. 
 
@@ -160,7 +182,7 @@ Secțiunea **Living in Los Santos**:
 Realizările prezentate mai sus sunt cele inițiale care se pot obține pe server la început. Ulterior completării acestora, fiecare jucător obține o altă realizare care are legătură cu precedenta, dar nu numai.  
 ::: 
 
-## Settings 
+### Settings 
 
 **Settings** reprezintă categoria unde fiecare jucător își poate modifica modul de joc după preferințele sale.  
 
