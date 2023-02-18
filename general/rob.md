@@ -29,16 +29,17 @@ Culoarea ATM-ului de pe hartă va indica disponibilitatea sa.
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/gxhqRjU.png" alt="Disponibil" /> | <Image src="https://i.imgur.com/LNnW3DH.png" alt="Indisponibil" /> |
 
-# Conceptul de Heat Level
+# Ce este Heat Level?
 
-Heat level-ul este un fel mai modern de a spune delay-ului față de activitătile ilegale.
-
-Acesta va scădea progresiv în durata a 6 ore.
+Heat level-ul este un delay al activităților ilegale, ce te împiedica din practicarea acestora.
+De fiecare data când vei jefui un ATM, vei primi 100% Heat Level, care va scadea complet în 5 ore (scade cu 1% la cate 3 minute)
 
 # Ce se întamplă dacă mor cât timp am ATM-ul pe mine?
 Acesta va fi dropat în locul în care ai murit și va putea fi luat de alți jucători.
 
 # Cum jefuiesc un ATM?
+
+::: info Pentru jefuirea unui ATM, va trebui sa NU aveți wanted și nici Heat Level :::
 
 - Odată început rob-ul, ai 30 de secunde sa atașezi funia de ATM și de masină, în caz contrar vei da fail.
 ::: details Începerea rob-ului  
@@ -57,4 +58,6 @@ Acesta va fi dropat în locul în care ai murit și va putea fi luat de alți ju
  <Image src="https://i.imgur.com/f9QrMAv.gif" alt="rob3" />  
 :::
 
-::: info După extragerea ATM-ului din perete, vei primi **wanted** și **100% Heat Level**. :::
+::: info 
+- După extragerea ATM-ului din perete, vei primi **wanted** și **100% Heat Level**. 
+- ATM-ul va ramane în inventar pentru 20 de minute, după acest timp el se va șterge automat. :::
