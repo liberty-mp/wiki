@@ -16,12 +16,12 @@ Fiecare jucător își poate vizualiza **Profilul** și **Setările** apăsând 
 
 Sistemul se împarte în **6 categorii**, fiecare cu un scop bine definit: 
 
-- [**General**](#general) (se pot vizualiza statisticile principale ale jucătorului);
-- [**Jobs** & **Faction**](#jobs-faction) (se poate vizualiza progresul în cadrul facțiunilor și al joburilor); 
-- [**Quests** & **Events**](#quests-events) (se pot vizualiza misiunile zilnice împreună cu statisicile acestora, dar și evenimentele active); 
-- [**Refferals**](#refferals) (se pot vizualiza informațiile despre subiect și se pot colecta bonusurile aferente); 
-- [**Achievements**](#achievements) (se pot vizualiza realizările obținute și progresul până la deblocarea altora); 
-- [**Settings**](#settings) (se pot modifica preferințele de joc). 
+- [**General**](#general): se pot vizualiza statisticile principale ale jucătorului
+- [**Jobs** & **Faction**](#jobs-faction): se poate vizualiza progresul în cadrul facțiunilor și al joburilor
+- [**Quests** & **Events**](#quests-events): se pot vizualiza misiunile zilnice împreună cu statisicile acestora, dar și evenimentele active
+- [**Refferals**](#refferals): se pot vizualiza informațiile despre subiect și se pot colecta bonusurile aferente
+- [**Achievements**](#achievements): se pot vizualiza realizările obținute și progresul până la deblocarea altora
+- [**Settings**](#settings): se pot modifica preferințele de joc
 
 Fiecare categorie se poate accesa din **bara de navigare**, cu un simplu *click-stânga*:
 
