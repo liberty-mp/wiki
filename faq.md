@@ -54,6 +54,6 @@ Momentan, funcția de asociere a unui cont din joc cu o adresă de **E-mail** nu
 
 Serverul [**liberty.mp**](https://ucp.liberty.mp/) dispune în momentul de față de aproximativ **6 joburi**: [Fisherman](./jobs/fisherman), [Garbageman](./jobs/garbageman), [Trucker](./trucker), [Lumberjack](./jobs/lumberjack), [Electrician](./jobs/electrician) și [Miner](./jobs/miner). 
 
-Economia a fost realizată în așa fel încât, profitabilitatea la fiecare dintre cele **6 joburi** enumerate să fie aproximativ egală. Într-o **oră jucată** la job, poți acumula obiecte și sume de bani cuprinse între **$1.000** și **$1.500** sau chiar mai mult, depinzând de anumiți factori care țin de experiența (skill-ul) acumulată în cadrul joburilor. 
+Economia a fost realizată în așa fel încât, profitabilitatea la fiecare dintre cele **6 joburi** enumerate să fie aproximativ egală. Într-o **oră jucată** la job, poți acumula obiecte și sume de bani cuprinse între <Dinero :amount="1000" /> și <Dinero :amount="1500" /> sau chiar mai mult, depinzând de anumiți factori care țin de experiența (skill-ul) acumulată în cadrul joburilor și perk-urile active pe cont.
 
 Așadar, rămâne la decizia ta care job te atrage mai mult din punct de vedere al gameplay-ului. 
