@@ -11,39 +11,10 @@ title: Grupari Mafiote
 - [`#65B9E7` **Varrios Los Aztecas**](#varrios-los-aztecas);
 - [`#71CB71` **Grove Street Families**](#grove-street-families);
 - [`#9C6EAF` **Ballas**](#ballas);
-- [`#EEC64E` **Los Santos Vagos**](#los-santos-vagos). 
+- [`#EEC64E` **Los Santos Vagos**](#los-santos-vagos).  
 
-## Teritorii 
-
-**Teritoriul** reprezintă spațiul bine delimitat pe harta statului **San Andreas** cu o culoare specifică, în funcție de gruparea mafiotă care deține controlul acestuia și care deservește ca zonă de desfășurare a activităților specifice grupărilor mafiote.
-
-În momentul de față, există un număr total de **10 teritorii**, încluse în mai multe categorii, după cum urmează: 
-
-### <Image src="https://wiki.rage.mp/images/a/a1/Blip_568.png" alt="Container"/> **Container**: 
-- 3 în zona **Elysian Island**;
-- **Terminal**. 
-
-::: tip
-Teritoriile din categoria **Container** pot fi folosit doar de către grupările mafiote în vederea aprovizionării cu schițe ale armelor și a muniției (blueprint-uri) pentru realizarea acestora. 
-::: 
-
-### <Image src="https://wiki.rage.mp/images/f/f6/Blip_565.png" alt="Warehouse"/> **Warehouse**:  
-- **Rancho**;
-- **La Puerta**;
-- **Vesspuci**; 
-- **Pacific  Bluffs**.  
-
-::: tip
-Teritoriile din categoria **Warehouse** pot fi folosit doar de către grupările mafiote în vederea realizării armelor și a muniției, după colectarea schițelor (blueprint-urilor) din **Containere*.
-:::  
-
-### <Image src="https://wiki.rage.mp/images/a/ab/Blip_140.png" alt="Drugs"/> **Drug Lab**:  
-- **Grapeseed**;
-- **Paleto Bay**. 
-
-::: tip
-Teritoriile din categoria **Drug Lab** pot fi folosit doar de către grupările mafiote în vederea prelucrării substanțelor interzise (drogurilor).
-:::     
+| Nivel minim pentru a te alătura   | 4 |
+| ----------- | :-----------: |
 
 ## Grupări 
 
@@ -101,7 +72,7 @@ Teritoriile din categoria **Drug Lab** pot fi folosit doar de către grupările 
 
 **Istoric**
 
-**Los Santos Vagos** este învăluită în mister, precum și multe dintre evenimentele din jurul grupării, deși, probabil, a încercat să se formeze simultan în relație cu celelalte grupări din Los Santos în anii 1970 și 1980. Imigrația venită din Mexic și din alte țări din America Latină a crescut populația zonei și se poate presupune că privarea zonei, precum și atitudinile cinice față de forțele de ordine au permis grupării să se formeze și să înflorească.
+***Los Santos Vagos** este învăluită în mister, precum și multe dintre evenimentele din jurul grupării, deși, probabil, a încercat să se formeze simultan în relație cu celelalte grupări din Los Santos în anii 1970 și 1980. Imigrația venită din Mexic și din alte țări din America Latină a crescut populația zonei și se poate presupune că privarea zonei, precum și atitudinile cinice față de forțele de ordine au permis grupării să se formeze și să înflorească.*
 
 **Culoare reprezentativă**
 
@@ -110,3 +81,35 @@ Teritoriile din categoria **Drug Lab** pot fi folosit doar de către grupările 
 <Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQV"/> **Locație**: Vitus Street
 
 <Image src="https://i.imgur.com/xjKlYTz.png" alt="HQV2"/>  
+
+## Teritorii 
+
+**Teritoriul** reprezintă spațiul bine delimitat pe harta statului **San Andreas** cu o culoare specifică, în funcție de gruparea mafiotă care deține controlul acestuia și care deservește ca zonă de desfășurare a activităților specifice grupărilor mafiote.
+
+În momentul de față, există un număr total de **10 teritorii**, încluse în mai multe categorii, după cum urmează: 
+
+### <Image src="https://wiki.rage.mp/images/a/a1/Blip_568.png" alt="Container"/> **Container**: 
+- 3 în zona **Elysian Island**;
+- **Terminal**. 
+
+::: tip
+Teritoriile din categoria **Container** pot fi folosite doar de către grupările mafiote în vederea aprovizionării cu schițe ale armelor și a muniției (blueprint-uri) pentru realizarea acestora. 
+::: 
+
+### <Image src="https://wiki.rage.mp/images/f/f6/Blip_565.png" alt="Warehouse"/> **Warehouse**:  
+- **Rancho**;
+- **La Puerta**;
+- **Vesspuci**; 
+- **Pacific  Bluffs**.  
+
+::: tip
+Teritoriile din categoria **Warehouse** pot fi folosite doar de către grupările mafiote în vederea realizării armelor și a muniției, după colectarea schițelor (blueprint-urilor) din **Containere*.
+:::  
+
+### <Image src="https://wiki.rage.mp/images/a/ab/Blip_140.png" alt="Drugs"/> **Drug Lab**:  
+- **Grapeseed**;
+- **Paleto Bay**. 
+
+::: tip
+Teritoriile din categoria **Drug Lab** pot fi folosite doar de către grupările mafiote în vederea prelucrării substanțelor interzise (drogurilor).
+:::     
