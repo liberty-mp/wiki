@@ -114,9 +114,9 @@ Teritoriile din categoria **Drug Lab** pot fi folosite doar de către grupările
 | Marcă   | Model | Tip | Locuri | Disponibile |  
 | ----------- | :-----------: | :-----------: | :-----------: | :-----------: |
 | Declasse | [**FBI**](https://static.wikia.nocookie.net/gtawiki/images/c/cf/FIB2-GTAV-front.png/revision/latest?cb=20151217204743) | SUV | 8 | 1 | 
-| Karin | [**Sultan**](https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212805) |  Sedan | 4 | 2 |
-| Albany | [**Virgo**](https://static.wikia.nocookie.net/gtawiki/images/e/ee/VSTR-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212810) |  Sedan | 4 | 2 | 
-| Western | [**Nightblade**](https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212805) |  Cruiser | 2 | 3 |  
+| Karin | [**Sultan**](https://static.wikia.nocookie.net/gtawiki/images/b/bb/Sultan-GTAV-front.png/revision/latest?cb=20180331183641) |  Sedan | 4 | 2 |
+| Albany | [**V-STR**](https://static.wikia.nocookie.net/gtawiki/images/e/ee/VSTR-GTAO-front.png/revision/latest?cb=20191213212810) |  Sedan | 4 | 2 | 
+| Western | [**Nightblade**](https://static.wikia.nocookie.net/gtawiki/images/6/6b/Nightblade-GTAO-front.png/revision/latest?cb=20161014165516) |  Cruiser | 2 | 3 |  
 
 ::: tip
 Pentru a putea utiliza vehiculele facțiunii, trebuie să porți ținuta grupării din care faci parte. Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apăsând tasta `E` în [checkpoint-ul](https://i.imgur.com/f4TLraD.png) aferent. 
