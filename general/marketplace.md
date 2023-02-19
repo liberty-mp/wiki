@@ -8,6 +8,10 @@ Marketplace-ul reprezintă unul dintre cele mai importante sisteme integrate pe 
 
 # Intrebări frecvente
 
+### Am nevoie de un anume level pentru a folosi marketplace-ul?
+
+Folosirea marketplace-ului necesită minim level 5.
+
 ### Unde se află marketplace-ul?
 
 Localizarea marketplace-ului se poate face prin deschiderea aplicației [**Maps**](https://wiki.liberty.mp/general/phone#maps) de pe telefon, selectând categoria **Businesses**, unde veți găsi opțiunea **News Agency**.
@@ -37,14 +41,11 @@ In această categorie sunt afișate bunurile listate de catre jucatori, puteți 
     
   <Img src = "https://i.imgur.com/poDiKKE.png" alt="filter"/>
 
-
-
 ## Transactions History
 
 În această categorie se afișeaza istoricul de bunuri cumpărate sau vândute.
 
 <Img src= "https://i.imgur.com/l5gfoY1.png" alt = "Transactions History"/>
-
 
 ## Manage Items
 
