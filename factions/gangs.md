@@ -26,13 +26,11 @@ title: Grupari Mafiote
 
 ***Varrios Los Aztecas** există de la începutul anilor 1980 și este una dintre cele mai recente grupări formate în Los Santos. O mare parte din originile ei sunt neștiute, în special trecutul rivalității lor cu celelalte grupări din oraș. Este foarte probabil ca aceasta să fi evoluat din cartierul **El Burroo** și prezența lor a crescut odată cu creșterea imigrației mexicane și hispanice/latino în zonă, corelând cu privarea relativă a zonei în comparație cu restul orașului.* 
 
-**Culoare reprezentativă**: Albastru
+**Culoare reprezentativă**: Albastru;
 
 <Image src="https://i.imgur.com/tKotzd8.png" alt="ColorVLA"/> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQVLA"/> **Locație**: Fudge Lane 
-
-<Image src="https://i.imgur.com/FfwNCnp.png" alt="HQVLA2"/> 
+<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQVLA"/> **Locație**: [Fudge Lane](https://i.imgur.com/YoHPvjM.png). 
 
 ### `#71CB71` **Grove Street Families** 
 
@@ -42,13 +40,11 @@ title: Grupari Mafiote
 
 ***Grove Street Families** s-a format în **Davis** înainte de a se răspândi și în alte cartiere. Istoria de dinainte de această perioadă de timp (sfârșitul anilor 80) este neștiută și o mare parte din ceea ce sa întâmplat. Cu toate acestea, ceea ce se știe este că această grupare este una dintre cele mai vechi din Los Santos. Putem amintii de un trecut al unei rivalități tradiționale, intense și sângeroase cu Ballas. Începutul războiului între cele două grupări este neștiut, dar rivalitatea dintre cele două a fost în plină desfășurare încă din 1987. Motivul rivalității lor cu grupările mexicane din Los Santos s-a format datorită expansiunii și creșterii lor pe teritoriul acestora.* 
 
-**Culoare reprezentativă**: Verde
+**Culoare reprezentativă**: Verde;
 
 <Image src="https://i.imgur.com/8MqiHoP.png" alt="ColorGSF"/> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQGS"/> **Locație**: Grove Street
-
-<Image src="https://i.imgur.com/mC2eBrO.png" alt="HQGS2"/> 
+<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQGS"/> **Locație**: [Grove Street](https://i.imgur.com/ANsUDyq.png).
 
 ### `#9C6EAF` **Ballas**
 
@@ -58,13 +54,11 @@ title: Grupari Mafiote
 
 ***Ballas** există încă din anii 1970. Nu se cunosc informații specifice despre locul s-a cum s-au format. Cu toate acestea, este probabil ca această grupare să fi evoluat fie din cartierul **Chamberline Hills**, fie din **Strawberry**, deoarece celălalte cartiere din jur au fost controlate înainte de 1987 de către **Grove Street Families**, partea estică a orașului Los Santos fiind împărțit între aceasta și **Los Santos Vagos** înainte de 1992. În 1992, Ballas a încercat să-l asasineze pe liderul **Grove Street Families**, în încercarea de a prelua teritoriile acestei grupări. Folosind un Sabre verde, gruparea s-a deplasat la locuința liderului și au deschis focul asupra ei. Cu toate acestea, în loc să-l omoare pe lider, Ballas a ucis-o pe mama acestuia.* 
 
-**Culoare reprezentativă**: Mov
+**Culoare reprezentativă**: Mov;
 
 <Image src="https://i.imgur.com/YBjtGBK.png" alt="ColorB"/> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQB"/> **Locație**: Forum Drive
-
-<Image src="https://i.imgur.com/r0A6kL6.png" alt="HQB2"/> 
+<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQB"/> **Locație**: [Forum Drive](https://i.imgur.com/gb0QUtu.png).
 
 ### `#EEC64E` **Los Santos Vagos** 
 
@@ -74,13 +68,11 @@ title: Grupari Mafiote
 
 ***Los Santos Vagos** este învăluită în mister, precum și multe dintre evenimentele din jurul grupării, deși, probabil, a încercat să se formeze simultan în relație cu celelalte grupări din Los Santos în anii 1970 și 1980. Imigrația venită din Mexic și din alte țări din America Latină a crescut populația zonei și se poate presupune că privarea zonei, precum și atitudinile cinice față de forțele de ordine au permis grupării să se formeze și să înflorească.*
 
-**Culoare reprezentativă**: Portocaliu
+**Culoare reprezentativă**: Portocaliu;
 
 <Image src="https://i.imgur.com/A7kFglh.png" alt="ColorV"/> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQV"/> **Locație**: Vitus Street
-
-<Image src="https://i.imgur.com/xjKlYTz.png" alt="HQV2"/>  
+<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQV"/> **Locație**: [Vitus Street](https://i.imgur.com/PbN9X9y.png).
 
 ## Teritorii 
 
@@ -89,30 +81,31 @@ title: Grupari Mafiote
 În momentul de față, există un număr total de **10 teritorii**, încluse în mai multe categorii, după cum urmează: 
 
 ### <Image src="https://wiki.rage.mp/images/a/a1/Blip_568.png" alt="Container"/> **Container**: 
-- 3 în zona **Elysian Island**;
-- **Terminal**. 
+- 3 în zona [**Elysian Island**](https://i.imgur.com/wL8s2vU.png);
+- [**Terminal**](https://i.imgur.com/ElkPiyb.png). 
+
+Teritoriile din categoria **Container** pot fi folosite doar de către grupările mafiote în vederea aprovizionării cu schițe ale armelor și a muniției (blueprint-uri) pentru realizarea acestora sau semințe pentru diferite tipuri de susbtanțe interzise (droguri).
 
 ::: tip
-Teritoriile din categoria **Container** pot fi folosite doar de către grupările mafiote în vederea aprovizionării cu schițe ale armelor și a muniției (blueprint-uri) pentru realizarea acestora. 
+Aprovizionarea se realizează în jurul orei **22:15** (ora româniei), atunci când obiectele se generează în cointainerele maritime (**Contraband Items**).
 ::: 
 
 ### <Image src="https://wiki.rage.mp/images/f/f6/Blip_565.png" alt="Warehouse"/> **Warehouse**:  
-- **Rancho**;
-- **La Puerta**;
-- **Vesspuci**; 
-- **Pacific  Bluffs**.  
+- [**Rancho**](https://i.imgur.com/oIkcM8h.png);
+- [**La Puerta**](https://i.imgur.com/pWcc1NX.png);
+- [**Vesspuci**](https://i.imgur.com/oNQBJNv.png); 
+- [**Pacific  Bluffs**](https://i.imgur.com/FUkiDbY.png).  
 
-::: tip
+
 Teritoriile din categoria **Warehouse** pot fi folosite doar de către grupările mafiote în vederea realizării armelor și a muniției, după colectarea schițelor (blueprint-urilor) din **Containere**.
-:::  
+ 
 
 ### <Image src="https://wiki.rage.mp/images/a/ab/Blip_140.png" alt="Drugs"/> **Drug Lab**:  
-- **Grapeseed**;
-- **Paleto Bay**. 
+- [**Grapeseed**](https://i.imgur.com/19CAB56.png);
+- [**Paleto Bay**](https://i.imgur.com/J0xdlfF.png). 
 
-::: tip
-Teritoriile din categoria **Drug Lab** pot fi folosite doar de către grupările mafiote în vederea prelucrării substanțelor interzise (drogurilor).
-:::     
+Teritoriile din categoria **Drug Lab** pot fi folosite doar de către grupările mafiote în vederea plantării și prelucrării substanțelor interzise (drogurilor).
+   
 
 ## Vehicule 
 
@@ -126,5 +119,5 @@ Teritoriile din categoria **Drug Lab** pot fi folosite doar de către grupările
 | Western | [**Nightblade**](https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212805) |  Cruiser | 2 | 3 |  
 
 ::: tip
-Vehiculele facțiunii pot fi respawnate de **Lider** sau de **Co-lider**, folosind comanda `/vfr`.
+Pentru a putea utiliza vehiculele facțiunii, trebuie să porți ținuta grupării din care faci parte. Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apăsând tasta `E` în [checkpoint-ul](https://i.imgur.com/f4TLraD.png) aferent. 
 :::
