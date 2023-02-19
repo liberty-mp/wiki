@@ -44,9 +44,9 @@ Poți crafta o undiță specială, din fibră de carbon, la NPC-ul Fisherman loc
 Pentru a o crafta ai nevoie de următoarele obiecte:
 | Imagine | Cantitate necesară | Obținere |
 | :---: | :---: | :---: |
-| <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="100" /> | **30x** bucăți Rod Guide | Șansă de a obține din pescuit |
-| <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="100" /> | **25x** bucăți Rod Grip | Șansă de a obține din pescuit |
-| <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="100" /> | **1x** bucată Reel Rod | Șansă de a obține din pescuit |  
+| <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="100" label="Rod Guide" /> | **30x** bucăți | Șansă de a obține din pescuit |
+| <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="100" label="Rod Grip" /> | **25x** bucăți | Șansă de a obține din pescuit |
+| <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="100" label="Reel Rod" /> | **1x** bucată | Șansă de a obține din pescuit |  
 
 Această undiță capătă o durabilitate aleatorie între **100** și **1000**. De asemenea capătă o șansă aleatorie între **5%** și **30%** de a prinde un pește mai valoros. Se spune că doar unul din 10 pești reușește să scape din cârlig când folosești această undiță.
 
@@ -99,34 +99,34 @@ Peștii se vând la oricare dintre cei 3 NPC Fisherman aflați pe insulă la ico
 Un tabel cu toți peștii din apele statului San Adreas și șansele de prindere:  
 
 **ș.p.u = șansă prindere undiță**
-| **Imagine** | **Denumire** | **Preț** | **ș.p.u. din lemn** | **ș.p.u. din fibră de carbon** | **Considerat valoros?** |
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/vCLbj0r.png" alt="Bitterling" width="69" height="69" /> | Bitterling | **<Dinero :amount='14' />** | **24%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/ayekP7W.png" alt="Bluefin Tuna" width="69" height="69" /> | Bluefin Tuna | **<Dinero :amount='18' />** | **0%** | **33%** | Da |
-| <Image src="https://i.imgur.com/w6zNIt3.png" alt="Common Carp" width="69" height="69" /> | Common Carp | **<Dinero :amount='12' />** | **0%** | **20%** | Nu |
-| <Image src="https://i.imgur.com/ZzudxmG.png" alt="Common Dentex" width="69" height="69" /> | Common Dentex | **<Dinero :amount='12' />** | **0%** | **20%** | Nu |
-| <Image src="https://i.imgur.com/Xd7pBSZ.png" alt="Common Pandora" width="69" height="69" /> | Common Pandora | **<Dinero :amount='14' />** | **0%** | **8%** | Nu |
-| <Image src="https://i.imgur.com/aIlcJy7.png" alt="European Hake" width="69" height="69" /> | European Hake | **<Dinero :amount='15' />** | **0%** | **8%** | Nu |
-| <Image src="https://i.imgur.com/sDWEmf6.png" alt="Gold Fish" width="69" height="69" /> | Gold Fish | **<Dinero :amount='22' />** | **0%** | **17%** | Da |
-| <Image src="https://i.imgur.com/EWQCtdW.png" alt="Guvid" width="69" height="69" /> | Guvid | **<Dinero :amount='16' />** | **12%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/gKQykl2.png" alt="Hamsie" width="69" height="69" /> | Hamsie | **<Dinero :amount='16' />** | **12%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/lJPOxZT.png" alt="Lobster" width="69" height="69" /> | Lobster | **<Dinero :amount='21' />** | **0%** | **32%** | Da |
-| <Image src="https://i.imgur.com/9YSh8Tq.png" alt="Monkfish" width="69" height="69" /> | Monkfish | **<Dinero :amount='15' />** | **0%** | **12%** | Nu |
-| <Image src="https://i.imgur.com/uIL6Hil.png" alt="Mosquito" width="69" height="69" /> | Mosquito | **<Dinero :amount='15' />** | **26%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/JEHTuKk.png" alt="Prussian Carp" width="69" height="69" /> | Prussian Carp | **<Dinero :amount='12' />** | **0%** | **20%** | Nu |
-| <Image src="https://i.imgur.com/2Qkoa9W.png" alt="Rainbow Fish" width="69" height="69" /> | Rainbow Fish | **<Dinero :amount='14' />** | **26%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/Ki860Lq.png" alt="Sparus" width="69" height="69" /> | Sparus | **<Dinero :amount='15' />** | **0%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/BQVLCfo.png" alt="Yabby" width="69" height="69" /> | Yabby | **<Dinero :amount='23' />** | **0%** | **17%** | Da |
+| **Imagine** | **Preț** | **ș.p.u. din lemn** | **ș.p.u. din fibră de carbon** | **Considerat valoros?** |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/vCLbj0r.png" alt="Bitterling" width="64" label="Bitterling" /> | **<Dinero :amount='14' />** | **24%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/ayekP7W.png" alt="Bluefin Tuna" width="64" label="Bluefin Tuna" /> | **<Dinero :amount='18' />** | **0%** | **33%** | Da |
+| <Image src="https://i.imgur.com/w6zNIt3.png" alt="Common Carp" width="64" label="Common Carp" /> | **<Dinero :amount='12' />** | **0%** | **20%** | Nu |
+| <Image src="https://i.imgur.com/ZzudxmG.png" alt="Common Dentex" width="64" label="Common Dentex" /> | **<Dinero :amount='12' />** | **0%** | **20%** | Nu |
+| <Image src="https://i.imgur.com/Xd7pBSZ.png" alt="Common Pandora" width="64" label="Common Pandora" /> | **<Dinero :amount='14' />** | **0%** | **8%** | Nu |
+| <Image src="https://i.imgur.com/aIlcJy7.png" alt="European Hake" width="64" label="European Hake" /> | **<Dinero :amount='15' />** | **0%** | **8%** | Nu |
+| <Image src="https://i.imgur.com/sDWEmf6.png" alt="Gold Fish" width="64" label="Gold Fish" /> | **<Dinero :amount='22' />** | **0%** | **17%** | Da |
+| <Image src="https://i.imgur.com/EWQCtdW.png" alt="Guvid" width="64" label="Guvid" /> | **<Dinero :amount='16' />** | **12%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/gKQykl2.png" alt="Hamsie" width="64" label="Hamsie" /> | **<Dinero :amount='16' />** | **12%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/lJPOxZT.png" alt="Lobster" width="64" label="Lobster" /> | **<Dinero :amount='21' />** | **0%** | **32%** | Da |
+| <Image src="https://i.imgur.com/9YSh8Tq.png" alt="Monkfish" width="64" label="Monkfish" /> | **<Dinero :amount='15' />** | **0%** | **12%** | Nu |
+| <Image src="https://i.imgur.com/uIL6Hil.png" alt="Mosquito" width="64" label="Mosquito" /> | **<Dinero :amount='15' />** | **26%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/JEHTuKk.png" alt="Prussian Carp" width="64" label="Prussian Carp" /> | **<Dinero :amount='12' />** | **0%** | **20%** | Nu |
+| <Image src="https://i.imgur.com/2Qkoa9W.png" alt="Rainbow Fish" width="64" label="Rainbow Fish" /> | **<Dinero :amount='14' />** | **26%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/Ki860Lq.png" alt="Sparus" width="64" label="Sparus" /> | **<Dinero :amount='15' />** | **0%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/BQVLCfo.png" alt="Yabby" width="64" label="Yabby" /> | **<Dinero :amount='23' />** | **0%** | **17%** | Da |
 
 ## Iteme câștigate extra & șansele de drop
 
 Pe lângă peștele prins, mai ai o șansă la a prinde **un item** care te ajută **în craft-ing** sau la **alte activități**.  
 
-| Imagine | Item | Șansă de drop % | Utilitate
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="100" /> | **Rod Guide** |  **~50%**  | Craftarea unei undițe speciale |
-| <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="100" /> | **Rod Grip** |  **~50%** | Craftarea unei undițe speciale |
-| <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="100" /> | **Reel Rod** | **2%**  | Craftarea unei undițe speciale |
+| Imagine | Șansă de drop % | Utilitate
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="100" label="Rod Guide" /> | **~50%**  | Craftarea unei undițe speciale |
+| <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="100" label="Rod Grip" /> |  **~50%** | Craftarea unei undițe speciale |
+| <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="100" label="Reel Rod" /> | **2%**  | Craftarea unei undițe speciale |
 
 ## Cazuri în care nu poți efectua jobul  
  

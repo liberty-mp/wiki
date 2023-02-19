@@ -52,12 +52,12 @@ Dacă vehiculul are peste **50%** capacitate și îl descarci, ai o șansă de *
 
 La fiecare **20%** capacitate, ai o șansă de **15%** să găsești Rope și o șansă de **30%** să găsești Hook.  
 :::  
-| **Imagine** | **Item** | **Stackable?** | **Șansă de drop %** | **Utilitate**
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="100" /> | **Hook** | **Da, 20 per stack** |  **30%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
-| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="100" /> | **Rope** | **Da, 10 per stack** |  **15%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
-| <Image src="https://i.imgur.com/hUMaLGq.png" alt="Shattered Glass" width="100" /> | **Shattered Glass** | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | crafting |
-| <Image src="https://i.imgur.com/4CZcmp2.png" alt="Piece of plastic" width="100" /> | **Piece of Plastic** | **Da, 16 per stack** |  **20%, vezi deasupra tabelului** | crafting |
+| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **30%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
+| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **15%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
+| <Image src="https://i.imgur.com/hUMaLGq.png" alt="Shattered Glass" width="48" label="Shattered Glass" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | crafting |
+| <Image src="https://i.imgur.com/4CZcmp2.png" alt="Piece of plastic" width="48" label="Piece of plastic" /> | **Da, 16 per stack** |  **20%, vezi deasupra tabelului** | crafting |
 
 ## Cazuri în care nu poți efectua jobul  
 
