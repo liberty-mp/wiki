@@ -29,9 +29,8 @@ Daca furi ATM-ul de la un alt jucător, câștigul va fi intre <Dinero :amount='
 
 Culoarea ATM-ului de pe hartă va indica disponibilitatea sa.
 
-| Disponibil | Indisponibil |
-| :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/gxhqRjU.png" alt="Disponibil" /> | <Image src="https://i.imgur.com/LNnW3DH.png" alt="Indisponibil" /> |
+<Image src="https://i.imgur.com/gxhqRjU.png" width="32" alt="Disponibil" label="Disponibil" /> 
+<Image src="https://i.imgur.com/LNnW3DH.png" width="32" alt="Indisponibil" label="Indisponibil" />
 
 ### Ce este Heat Level?
 
