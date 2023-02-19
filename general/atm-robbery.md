@@ -9,7 +9,7 @@ title: ATM Robbery
 | Necesită iteme specifice? | <Image src="https://i.imgur.com/u8nsUCN.png" alt="Hook" width="48" label="hook" /> <Image src="https://i.imgur.com/rJVKhFd.png" alt="Rope" width="48" label="rope" /> |
 | Necesita un minim de level? | Da, ai nevoie de minim level 3. |
 
-## Desfășurarea unui **ATM Robbery**?
+## Desfășurarea unui **ATM Robbery**
 
 Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin smulgerea sa din perete, folosindu-te de o **mașină personală** și de **instrumente speciale**, urmat de **livrarea** acestuia către **Alfred**.
 
