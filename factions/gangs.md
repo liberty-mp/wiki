@@ -169,6 +169,10 @@ O dată cu începerewa war-ului, participanții care se află deja în ținuta g
 
 ::: tip
 Aceste arme sunt disponibile doar în timpul war-ului. După terminarea war-ului, armele dispar din inventarul default.  
+::: 
+
+::: warning
+Armele craftate nu pot fi utilizate în timpul war-ului.  
 :::
 
 ### Obținerea punctelor 
