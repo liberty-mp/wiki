@@ -94,9 +94,9 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 | ----------- | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/uAC9Dqk.png" alt="Port" width="30" label="Port Map Blip" /> | 4 teritorii |  [**Elysian Island**](https://i.imgur.com/wL8s2vU.png), [**Terminal**](https://i.imgur.com/ElkPiyb.png) | 
 
-Teritoriile din categoria **Port** permit aprovizionărea cu arme, muniție și diverse substanțe interzise.\
-Aprovizionare are loc zilnic la aproximativ 15 minute după terminarea războaielor (war-uri).\
-Toti jucatorii apartinatori gang-ului detinator al unui turf de tip port vor primi cate un item.\
+Teritoriile din categoria **Port** permit aprovizionărea cu arme, muniție și diverse substanțe interzise.<br>
+Aprovizionare are loc zilnic la aproximativ 15 minute după terminarea războaielor (war-uri).<br>
+Toti jucatorii apartinatori gang-ului detinator al unui turf de tip port vor primi cate un item.<br>
 Jucatorii au timp 24 de ore pentru a extrage itemele. In caz contrar acestea vor fi șterse.
 
 ### Warehouse
@@ -115,7 +115,7 @@ Teritoriile din categoria **Warehouse** pot fi folosite de către grupările maf
 |  <Image src="https://i.imgur.com/F5xSqxB.png" alt="Drug Plantation" width="30" label="Drug Plantation Map Blip" /> | 2 teritorii | [**Grapeseed**](https://i.imgur.com/19CAB56.png), [**Paleto Bay**](https://i.imgur.com/J0xdlfF.png) | 
 
 
-Teritoriile din categoria **Drug Plantation** pot fi folosite de către grupările mafiote în vederea producerii drogurilor de tip **Marijuana** prin plantarea si prelucrarea semințelor de cannabis.\
+Teritoriile din categoria **Drug Plantation** pot fi folosite de către grupările mafiote în vederea producerii drogurilor de tip **Marijuana** prin plantarea si prelucrarea semințelor de cannabis.
 
 | Item | Obținere | 
 | ----------- | :-----------: |
@@ -133,7 +133,7 @@ Grupările mafiote care dețin mai multe teritorii beneficiază de posibilităț
 
 ## Începutul war-ului 
 
-**War-urile** pot fi începute doar de către **Lider** (rank 5) sau **Co-lider** (rank 4) prin folosirea comenzii `/attack` în spațiul delimitat al unui teritoriu detinut de catre o grupare inamică (war turf).\
+**War-urile** pot fi începute doar de către **Lider** (rank 5) sau **Co-lider** (rank 4) prin folosirea comenzii `/attack` în spațiul delimitat al unui teritoriu detinut de catre o grupare inamică (war turf).<br>
 Razboaiele se desfașoară conform urmatorului program:
 
 | Zile | Ore | 
@@ -147,7 +147,7 @@ Nu există posibilitatea de a ataca teritoriile grupărilor mafioate inamice afl
 După ce un teritoriu este atacat, se redirecționează în mod automat un mesaj către membrii fiecărei grupări mafiote implicate, indiferent dacă aceștia poartă ținuta grupării sau nu.\De asemenea, teritoriul atacat o să își schimbe culoarea curentă de pe hartă în culoarea roșu și invers, constant. 
 
 ::: tip
-Pentru a putea participa la war, trebuie să porți ținuta grupării din care faci parte.\
+Pentru a putea participa la war, trebuie să porți ținuta grupării din care faci parte.<br>
 Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apăsând tasta `E` în [checkpoint-ul](https://i.imgur.com/f4TLraD.png) aferent. 
 :::
 
