@@ -253,14 +253,14 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 | Instrument | Disponibile | Utilizare | 
 | ----------- | :-----------: | :-----------: |
-| [**Research Table**](https://i.imgur.com/dnzRdZ5.png) | 2 | Pentru realizarea tipurilor de blueprint-uri care pot fi utilizate în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) |
+| [**Research Table**](https://i.imgur.com/dnzRdZ5.png) | 2 | Pentru realizarea blueprint-urilor specifice care pot fi utilizate în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) |
 | [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) | 4 | Pentru realizare obiectelor din blueprint-urile obținute în urma utilizării [**Research Table**](https://i.imgur.com/dnzRdZ5.png) sau în urma aprovizionării de pe teritoriile de tip [**Container**](./factions/gangs#container) | 
 | **Items Container**: [**Crafted Items**](https://i.imgur.com/gA7j5E8.png) | 1 | Loc de depozitare al obiectelor obținute în urma utilizării [**Crafting Table**](https://i.imgur.com/nGbKRZg.png)  |  
 | **Items Container**: [**Blueprints**](https://i.imgur.com/rdWuD1X.png) | 1 | Loc de depozitare al blueprint-urilor obținute în urma utilizării [**Research Table**](https://i.imgur.com/dnzRdZ5.png) |  
 
 ## Blueprint-uri 
 
-**Blueprint-urile** reprezintă schițele obiectelor (armelor, componentelor și muniției) care sunt utilizate pentru realizarea acestora și se obțin din teritoriile tip [**Container**](./factions/gangs#container) sau utilizând [**Research Table**](https://i.imgur.com/dnzRdZ5.png).
+**Blueprint-urile** reprezintă schițele obiectelor (armelor, îmbunătărilor și muniției) care sunt utilizate pentru realizarea acestora și se obțin din teritoriile tip [**Container**](./factions/gangs#container) sau utilizând [**Research Table**](https://i.imgur.com/dnzRdZ5.png).
 
 **Prezentarea blueprint-urilor pe categorii:** 
 
@@ -295,5 +295,19 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 | <Image src="https://i.imgur.com/8OCagq8.png" alt="5" /> | 5.56mm |
 | <Image src="https://i.imgur.com/lFAyOiM.png" alt="6" /> | 7.62mm | 
 
+## Materiale 
 
+**Materialele** reprezintă principalele obiecte necesare realizării armelor, componentelor și muniției, în urma utilizării blueprint-urilor specifice în [**Crafting Table**](https://i.imgur.com/gA7j5E8.png).
 
+**Prezentarea materialelor:** 
+
+| Poză | Denumire |
+| ----------- | :-----------: |
+| <Image src="https://i.imgur.com/B9JRqac.png" alt="Glass" /> | Glass Fragment |
+| <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal" /> | Metal Bare |
+| <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic" /> | Plastic Bag | 
+| <Image src="https://i.imgur.com/Hp4XGOA.png" alt="Gunpoweder" /> | Gunpowerder | 
+
+::: tip
+Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](./jobs/miner) și [**Garbageman**](./jobs/garbageman).
+:::
