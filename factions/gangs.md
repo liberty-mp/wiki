@@ -192,10 +192,10 @@ Punctele acumulate în total de fiecare grupare mafiotă implicată în war, pre
 
 În timpul war-ului, uciderea unui membru rival se răsplătește cu următoarele bonusuri (apar în locul unde rivalul a fost ucis):
 
-| Poză | Denumire | Tip | Cantitate |
-| ----------- | :-----------: | :-----------: | :-----------: | 
-| <Image src="https://i.imgur.com/Tt6OeYP.png" alt="Heal" /> | HP | Nu se aplică | +20 / kill | 
-| <Image src="https://i.imgur.com/Ip4JGSh.png" alt="9mmm" /> <Image src="https://i.imgur.com/4AObb79.png" alt="pump" /> <Image src="https://i.imgur.com/DfSNBXB.png" alt="56" /> | Muniție (gloanțe) | 9mm / 12guage / 5.56mm | +20 / kill |  
+| Poză | Cantitate |
+| ----------- | :-----------: | 
+| <Image src="https://i.imgur.com/Tt6OeYP.png" alt="First Aid Kit" width="100" label="First Aid Kit" /> | + 20 HP / kill | 
+| <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" /> <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="100" label="12guage" /> <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm" width="100" label="5.56mm" /> | + 20 / kill |  
 
 ::: tip
 Pentru a lua bonusurile, trebuie doar să treci prin iconițele afișate. 
@@ -293,4 +293,5 @@ Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](.
 
 **Craft-urile** reprezintă obiectele (armele, componentele și muniția) realizate în urma utilizării blueprint-urilor și a materialelor necesare în [**Crafting Table**](https://i.imgur.com/gA7j5E8.png).
 
-**Prezentarea materialelor:** 
+**Prezentarea craft-urilor:** 
+
