@@ -271,7 +271,7 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 ### **Arme**
 
-<Image src="https://i.imgur.com/084z3Vg.png" alt="Pistol .50" width="100" label="Pistol.50" /> <Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" /> <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="100" label="SMG" />  <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" />  <Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" /> 
+<Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" /> <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="100" label="SMG" />  <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" />  <Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" /> 
 
 
 ### **Componente**
@@ -304,7 +304,6 @@ Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](.
 
 | Imagine | Cantitate produsă | Blueprint necesar | Materiale necesare | Cost producere | 
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/LOeb6D6.png" alt="Pistol .50" width="100" label="Pistol.50" /> | 1x | <Image src="https://i.imgur.com/084z3Vg.png" alt="Pistol .50" width="50" label="Pistol.50" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/EakMdzd.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" /> | 1x | <Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="50" label="Pistol Mk II" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/8n4YIyl.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> | 1x | <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="50" label="Pump Shotgun" /> | Necompletat | <Dinero :amount='0'/> | 
 | <Image src="https://i.imgur.com/pwlMOGy.png" alt="SMG" width="100" label="SMG" /> | 1x | <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="50" label="SMG" /> | Necompletat | <Dinero :amount='0'/> |  
