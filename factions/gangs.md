@@ -241,7 +241,7 @@ Armamentul și muniția se pot vinde către ceilalți jucători de membrii grup�
 
 ## Instrumente 
 
-**Sistemul de Craft** cuprinde câteva instrumente care se poate utiliza doar în interiorul teritorilor de tip **Warehouse** deținute de grupările mafiote.
+**Sistemul de Craft** cuprinde câteva instrumente care se poate utiliza doar în interiorul teritoriilor de tip **Warehouse** deținute de grupările mafiote.
 
 > Vezi care sunt teritoriile de tip [**Warehouse**](./factions/gangs#warehouse). 
 
