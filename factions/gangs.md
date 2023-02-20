@@ -260,7 +260,7 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 ## Blueprint-uri 
 
-**Blueprint-urile** reprezintă schițele obiectelor (armelor, îmbunătărilor și muniției) care sunt utilizate pentru realizarea acestora și se obțin din teritoriile tip [**Container**](./factions/gangs#container) sau utilizând [**Research Table**](https://i.imgur.com/dnzRdZ5.png).
+**Blueprint-urile** reprezintă schițele obiectelor (armelor, componentelor și muniției) care sunt utilizate pentru realizarea acestora și se obțin din teritoriile tip [**Container**](./factions/gangs#container) sau utilizând [**Research Table**](https://i.imgur.com/dnzRdZ5.png).
 
 **Prezentarea blueprint-urilor pe categorii:** 
 
