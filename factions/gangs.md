@@ -161,7 +161,7 @@ O dată cu începerewa war-ului, participanții care se află deja în ținuta g
 
 În timpul war-ului, fiecare membru primește în inventarul default (nu în **Fast Slots** sau **Invetory Items**), la fiecare respawn, următoarele arme: 
 
-| Imagine | Muniție (gloanțe) 
+| Imagine | Muniție (gloanțe) |
 | ----------- | :-----------: | :-----------: | 
 | <Image src="https://i.imgur.com/WR12L1k.png" alt="Pistol .50" width="100" label="Pistol .50" />  | 250 | 
 | <Image src="https://i.imgur.com/aFyp7rL.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> | 250 |
