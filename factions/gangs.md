@@ -70,7 +70,7 @@ title: Grupari Mafiote
 **Grupările Mafiote** beneficiază de aceleași tipuri de vehicule, cu diferite caracteristici, după cum urmează: 
 
 | Marcă   | Model | Tip | Locuri | Disponibile |  
-| ----------- | :-----------: | :-----------: | :-----------: | :-----------: |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | Declasse | [**FBI**](https://static.wikia.nocookie.net/gtawiki/images/c/cf/FIB2-GTAV-front.png/revision/latest?cb=20151217204743) | SUV | 8 | 1 | 
 | Karin | [**Sultan Classic**](https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest?cb=20191213212805) |  Sedan | 4 | 2 |
 | Albany | [**V-STR**](https://static.wikia.nocookie.net/gtawiki/images/e/ee/VSTR-GTAO-front.png/revision/latest?cb=20191213212810) |  Sedan | 4 | 2 | 
@@ -91,7 +91,7 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 ### Teritorii de tip port
 
 | Iconiță specifică | Numar teritorii | Zone geografice | 
-| ----------- | :-----------: | :-----------: |
+| :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/uAC9Dqk.png" alt="Port" width="30" label="Port Map Blip" /> | 4 teritorii |  [**Elysian Island**](https://i.imgur.com/wL8s2vU.png), [**Terminal**](https://i.imgur.com/ElkPiyb.png) | 
 
 Teritoriile din categoria **Port** permit aprovizionărea cu arme, muniție și diverse substanțe interzise.<br>
@@ -102,7 +102,7 @@ Jucatorii au timp 24 de ore pentru a extrage itemele. In caz contrar acestea vor
 ### Warehouse
 
 | Iconiță specifică | Numar teritorii | Zone geografice | 
-| ----------- | :-----------: | :-----------: |
+| :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/2SYFtvq.png" alt="Warehouse" width="30" label="Warehouse Map Blip" /> | 4 teritorii | [**Rancho**](https://i.imgur.com/oIkcM8h.png), [**La Puerta**](https://i.imgur.com/pWcc1NX.png), [**Vesspuci**](https://i.imgur.com/oNQBJNv.png), [**Pacific  Bluffs**](https://i.imgur.com/FUkiDbY.png) | 
 
 Teritoriile din categoria **Warehouse** pot fi folosite de către grupările mafiote în vederea producerii de arme, atașamente si muniții.
@@ -111,14 +111,14 @@ Teritoriile din categoria **Warehouse** pot fi folosite de către grupările maf
 
 
 | Iconiță specifică | Numar teritorii | Zone geografice | 
-| ----------- | :-----------: | :-----------: |
+| :-----------: | :-----------: | :-----------: |
 |  <Image src="https://i.imgur.com/F5xSqxB.png" alt="Drug Plantation" width="30" label="Drug Plantation Map Blip" /> | 2 teritorii | [**Grapeseed**](https://i.imgur.com/19CAB56.png), [**Paleto Bay**](https://i.imgur.com/J0xdlfF.png) | 
 
 
 Teritoriile din categoria **Drug Plantation** pot fi folosite de către grupările mafiote în vederea producerii drogurilor de tip **Marijuana** prin plantarea si prelucrarea semințelor de cannabis.
 
 | Item | Obținere | 
-| ----------- | :-----------: |
+| :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/X2Fi4Nx.png" alt="Cannabis Seeds" width="30" label="Cannabis Seeds" /> | containerele turfurilor de tip port | 
 
 # Sistemul de War
@@ -166,11 +166,12 @@ O dată cu începerewa war-ului, participanții care se află deja în ținuta g
 | <Image src="https://i.imgur.com/oO062ul.png" alt="Carabine Rifle" width="100" label="Carabine Rifle" /> | 250 | 
 
 ::: tip
-Aceste arme sunt disponibile doar în timpul war-ului. După terminarea war-ului, armele dispar din inventarul default.  
+Aceste arme sunt disponibile doar în timpul war-ului.<br>
+După terminarea war-ului, armele dispar din inventarul default.  
 ::: 
 
 ::: warning
-Armele și muniția obținute în urma procesului de **Craft** nu pot fi utilizate în timpul war-ului.  
+Armele și muniția obținute în urma procesului de **Craftare** nu pot fi utilizate în timpul war-ului.  
 :::
 
 ### Obținerea punctelor 
@@ -205,15 +206,15 @@ Statisticile personale pot fi vizualizate și în timpul war-ului, în partea di
 | -1 punct | deces |  
 
 
-# Sistemul de Craft
+# Sistemul de Craftare
 
 ### Informații generale despre craft-uri 
 
-**Sistemul de Craft** reprezintă procesul de a obținere al armament, componente (atașamentelor) sau al muniției.
+**Sistemul de Craftare** reprezintă procesul de a obținere de armament, componente (atașamente) pentru arme sau muniție.
 
 ## Instrumente 
 
-**Sistemul de Craft** cuprinde câteva instrumente care se poate utiliza doar în interiorul teritoriilor de tip **Warehouse** deținute de grupările mafiote.
+**Sistemul de Craftare** cuprinde câteva instrumente care se poate utiliza doar în interiorul teritoriilor de tip **Warehouse** deținute de grupările mafiote.
 
 > Vezi care sunt teritoriile de tip [**Warehouse**](#warehouse). 
 
