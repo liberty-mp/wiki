@@ -260,8 +260,8 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 | :-----------: | :-----------: | :-----------: |
 | [**Research Table**](https://i.imgur.com/dnzRdZ5.png) | 2 | Pentru realizarea blueprint-urilor care pot fi utilizate în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) |
 | [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) | 4 | Pentru realizare obiectelor din blueprint-urile obținute în urma utilizării [**Research Table**](https://i.imgur.com/dnzRdZ5.png) sau în urma aprovizionării de pe teritoriile de tip [**Port**](#port) | 
-| **Items Port**: [**Crafted Items**](https://i.imgur.com/gA7j5E8.png) | 1 | Loc de depozitare al obiectelor obținute în urma utilizării [**Crafting Table**](https://i.imgur.com/nGbKRZg.png)  |  
-| **Items Port**: [**Blueprints**](https://i.imgur.com/rdWuD1X.png) | 1 | Loc de depozitare al blueprint-urilor obținute în urma utilizării [**Research Table**](https://i.imgur.com/dnzRdZ5.png) |  
+| [**Crafted Items**](https://i.imgur.com/gA7j5E8.png) | 1 | Loc de depozitare al obiectelor obținute în urma utilizării [**Crafting Table**](https://i.imgur.com/nGbKRZg.png)  |  
+| [**Blueprints**](https://i.imgur.com/rdWuD1X.png) | 1 | Loc de depozitare al blueprint-urilor obținute în urma utilizării [**Research Table**](https://i.imgur.com/dnzRdZ5.png) |  
 
 ## Blueprint-uri 
 
