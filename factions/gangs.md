@@ -28,7 +28,7 @@ title: Grupari Mafiote
 
 **Culoare reprezentativă**: <Color hex="#65B9E7">Albastru</Color>
 
-<Image src="https://i.imgur.com/YoHPvjM.png" alt="HQ Varrios Los Aztecas" label="Locație: Fudge Lane" />
+<Image src="https://i.imgur.com/YoHPvjM.png" alt="HQ Varrios Los Aztecas" label="Locație: Fudge Lane" labelAlign="left" />
 
 ### <Color hex="#71CB71">Grove Street Families</Color>
 
@@ -40,7 +40,7 @@ title: Grupari Mafiote
 
 **Culoare reprezentativă**: <Color hex="#71CB71">Verde</Color>
 
-<Image src="https://i.imgur.com/ANsUDyq.png" alt="HQ Grove Street Families" label="Locație: Grove Street" />
+<Image src="https://i.imgur.com/ANsUDyq.png" alt="HQ Grove Street Families" label="Locație: Grove Street" labelAlign="left" />
 
 ### <Color hex="#9C6EAF">Ballas</Color>
 
@@ -52,7 +52,7 @@ title: Grupari Mafiote
 
 **Culoare reprezentativă**: <Color hex="#9C6EAF">Mov</Color>
 
-<Image src="https://i.imgur.com/gb0QUtu.png" alt="HQ Ballas" label="Locație: Forum Drive" />
+<Image src="https://i.imgur.com/gb0QUtu.png" alt="HQ Ballas" label="Locație: Forum Drive" labelAlign="left" />
 
 ### <Color hex="#EEC64E">Los Santos Vagos</Color>
 
@@ -64,7 +64,7 @@ title: Grupari Mafiote
 
 **Culoare reprezentativă**: <Color hex="#EEC64E">Portocaliu</Color>
 
-<Image src="https://i.imgur.com/PbN9X9y.png" alt="HQ Los Santos Vagos" label="Locație: Vitus Street" />
+<Image src="https://i.imgur.com/PbN9X9y.png" alt="HQ Los Santos Vagos" label="Locație: Vitus Street" labelAlign="left" />
 
 ## Vehicule 
 
@@ -271,16 +271,28 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 ### **Arme**
 
-<Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" /> <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="100" label="SMG" />  <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" />  <Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" /> 
+<Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" /> 
+<Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> 
+<Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="100" label="SMG" />  
+<Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> 
+<Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" />  
+<Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" /> 
 
 
 ### **Componente**
 
-<Image src="https://i.imgur.com/5vJw2dQ.png" alt="Supressor" width="100" label="Supressor" /> <Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" width="100" label="Scope" /> <Image src="https://i.imgur.com/acTcj0a.png" alt="Extended Clip" width="100" label="Extended Clip" /> <Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
+<Image src="https://i.imgur.com/5vJw2dQ.png" alt="Supressor" width="100" label="Supressor" /> 
+<Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" width="100" label="Scope" /> 
+<Image src="https://i.imgur.com/acTcj0a.png" alt="Extended Clip" width="100" label="Extended Clip" /> 
+<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
 
 ### **Muniție**
 
-<Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" /> <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="100" label="12guage" /> <Image src="https://i.imgur.com/a9rvCFP.png" alt="45acp" width="100" label="45acp" /> <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm" width="100" label="5.56mm" /> <Image src="https://i.imgur.com/lFAyOiM.png" alt="7.62mm" width="100" label="7.62" /> 
+<Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" /> 
+<Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="100" label="12guage" /> 
+<Image src="https://i.imgur.com/a9rvCFP.png" alt="45acp" width="100" label="45acp" /> 
+<Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm" width="100" label="5.56mm" /> 
+<Image src="https://i.imgur.com/lFAyOiM.png" alt="7.62mm" width="100" label="7.62" /> 
 
 ## Materiale 
 
@@ -288,7 +300,10 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 **Prezentarea materialelor:** 
 
-<Image src="https://i.imgur.com/B9JRqac.png" alt="Glass Fragment" width="100" label="Glass Fragment" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="100" label="Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="100" label="Plastic Bag" /> <Image src="https://i.imgur.com/Hp4XGOA.png" alt="Gunpoweder" width="100" label="Gunpowder" />
+<Image src="https://i.imgur.com/B9JRqac.png" alt="Glass Fragment" width="100" label="Glass Fragment" /> 
+<Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="100" label="Metal Bare" /> 
+<Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="100" label="Plastic Bag" /> 
+<Image src="https://i.imgur.com/Hp4XGOA.png" alt="Gunpoweder" width="100" label="Gunpowder" />
 
 ::: tip
 Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](../jobs//miner) și [**Garbageman**](../jobs/garbageman).
