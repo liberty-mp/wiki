@@ -306,3 +306,12 @@ Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](.
 | <Image src="https://i.imgur.com/Xy5s7Ov.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> | 1 | <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/GKtbxvN.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" /> | 1 | <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/W5foGq1.png" alt="Special Carabine" width="100" label="Special Carbine" /> | 1 | <Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" />  | Necompletat | <Dinero :amount='0'/> | 
+
+### Componente
+
+| Imagine | Cantitate produsă | Blueprint necesar | Materiale necesare | Cost producere | 
+| ----------- | :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/AIjHUAg.png" alt="Supressor" width="100" label="Supressor" /> | 1 | <Image src="https://i.imgur.com/5vJw2dQ.png" alt="Supressor" width="100" label="Supressor" /> | Necompletat | <Dinero :amount='0'/> |
+| <Image src="https://i.imgur.com/ovNcLFE.png" alt="Scope" width="100" label="Scope" /> | 1 | <Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" width="100" label="Scope" /> | Necompletat | <Dinero :amount='0'/> |
+| <Image src="https://i.imgur.com/aGQh9xy.png" alt="Extended Clip" width="100" label="Extended Clip" /> | 1 | <Image src="https://i.imgur.com/acTcj0a.png" alt="Extended Clip" width="100" label="Extended Clip" /> | Necompletat | <Dinero :amount='0'/> |
+| <Image src="https://i.imgur.com/HqINYTx.png" alt="Flashlight" width="100" label="Flashlight" /> | 1 | <Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> | Necompletat | <Dinero :amount='0'/> |
