@@ -275,19 +275,7 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 ### **Muniție**
 
-<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="9mm" /> 
-<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
-<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
-<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
-<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
-
-| Poză | Tip | 
-| ----------- | :-----------: | 
-| <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" /> | 9mm | 
-| <Image src="https://i.imgur.com/6Yspriw.png" alt="pump" /> | 12guage |
-| <Image src="https://i.imgur.com/a9rvCFP.png" alt="4" /> | 45acp | 
-| <Image src="https://i.imgur.com/8OCagq8.png" alt="5" /> | 5.56mm |
-| <Image src="https://i.imgur.com/lFAyOiM.png" alt="6" /> | 7.62mm | 
+<Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" /> <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="100" label="12guage" /> <Image src="https://i.imgur.com/a9rvCFP.png" alt="45acp" width="100" label="45acp" /> <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm" width="100" label="5.56mm" /> <Image src="https://i.imgur.com/lFAyOiM.png" alt="7.62mm" width="100" label="7.62" /> 
 
 ## Materiale 
 
@@ -295,12 +283,7 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 **Prezentarea materialelor:** 
 
-| Poză | Denumire |
-| ----------- | :-----------: |
-| <Image src="https://i.imgur.com/B9JRqac.png" alt="Glass" /> | Glass Fragment |
-| <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal" /> | Metal Bare |
-| <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic" /> | Plastic Bag | 
-| <Image src="https://i.imgur.com/Hp4XGOA.png" alt="Gunpoweder" /> | Gunpowerder |  
+<Image src="https://i.imgur.com/B9JRqac.png" alt="Glass Fragment" width="100" label="Glass Fragment" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="100" label="Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="100" label="Plastic Bag" /> <Image src="https://i.imgur.com/Hp4XGOA.png" alt="Gunpoweder" width="100" label="Gunpowder" />
 
 ::: tip
 Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](./jobs/miner) și [**Garbageman**](./jobs/garbageman).
