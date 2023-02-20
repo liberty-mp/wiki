@@ -100,7 +100,7 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 Teritoriile din categoria **Port** pot fi folosite doar de către grupările mafiote în vederea aprovizionării cu schițe ale armelor și a muniției (blueprint-uri) pentru realizarea acestora sau semințe pentru diferite tipuri de susbtanțe interzise (droguri).
 
 ::: tip
-Aprovizionarea se realizează în jurul orei **22:15** (ora româniei), atunci când obiectele se generează în cointainerele maritime (**Contraband Items**).
+Aprovizionarea se realizează în jurul orei **22:15** (ora româniei), atunci când obiectele se generează în containerele maritime (**Contraband Items**).
 ::: 
 
 ### Warehouse
@@ -160,7 +160,7 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 
 ## Desfășurarea war-ului
 
-O dată cu începerewa war-ului, participanții care se află deja în ținuta grupării sau care urmează să se schimbe în aceasta, vor fi teleportați într-un **Virtual World** separat, împreună cu ceilalți membrii ai grupării rivale.
+O dată cu începerea war-ului, participanții care se află deja în ținuta grupării sau care urmează să se schimbe în aceasta, vor fi teleportați într-un **Virtual World** separat, împreună cu ceilalți membrii ai grupării rivale.
 
 ### Arme disponibile
 
