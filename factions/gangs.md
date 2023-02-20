@@ -161,11 +161,11 @@ O dată cu începerewa war-ului, participanții care se află deja în ținuta g
 
 În timpul war-ului, fiecare membru primește în inventarul default (nu în **Fast Slots** sau **Invetory Items**), la fiecare respawn, următoarele arme: 
 
-| Poză | Denumire | Muniție (gloanțe) 
+| Imagine | Muniție (gloanțe) 
 | ----------- | :-----------: | :-----------: | 
-| <Image src="https://i.imgur.com/WR12L1k.png" alt="Weapon1" /> | Pistol .50 | 250 | 
-| <Image src="https://i.imgur.com/aFyp7rL.png" alt="Weapon2" /> | Pump Shotgun | 250 |
-| <Image src="https://i.imgur.com/oO062ul.png" alt="Weapon3" /> | Carbine Rifle | 250 | 
+| <Image src="https://i.imgur.com/WR12L1k.png" alt="Pistol .50" width="100" label="Pistol .50" />  | 250 | 
+| <Image src="https://i.imgur.com/aFyp7rL.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> | 250 |
+| <Image src="https://i.imgur.com/oO062ul.png" alt="Carabine Rifle" width="100" label="Carabine Rifle" /> | 250 | 
 
 ::: tip
 Aceste arme sunt disponibile doar în timpul war-ului. După terminarea war-ului, armele dispar din inventarul default.  
@@ -181,8 +181,8 @@ Cucerirea unui teritoriu constă în acumularea a cât mai multor puncte, pe toa
 
 | Modalitate de obținere | Puncte | 
 | ----------- | :-----------: | 
-| Prezența membriilor pe teritoriu | 1 / minut | 
-| Uciderea membriilor rivali pe teritoriu | 1 / kill |
+| Prezența membriilor pe teritoriu | + 1 / minut | 
+| Uciderea membriilor rivali pe teritoriu | + 1 / kill |
  
 Punctele acumulate în total de fiecare grupare mafiotă implicată în war, precum și timpul alocat acestuia, se pot vizualiza în partea superioară a ecranului.
 
@@ -192,7 +192,7 @@ Punctele acumulate în total de fiecare grupare mafiotă implicată în war, pre
 
 În timpul war-ului, uciderea unui membru rival se răsplătește cu următoarele bonusuri (apar în locul unde rivalul a fost ucis):
 
-| Poză | Cantitate |
+| Imagine | Cantitate |
 | ----------- | :-----------: | 
 | <Image src="https://i.imgur.com/Tt6OeYP.png" alt="First Aid Kit" width="100" label="First Aid Kit" /> | + 20 HP / kill | 
 | <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" /> <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="100" label="12guage" /> <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm" width="100" label="5.56mm" /> | + 20 / kill |  
