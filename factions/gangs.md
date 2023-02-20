@@ -135,7 +135,7 @@ Pe lângă popularitatea și respectul acumulate, grupările mafiote care dețin
 
 ## Începutul war-ului 
 
-**War-urile** poate fi începute doar de un **Lider** (rank 5) sau de un **Co-lider** (rank 4), folosind comanda `/attack` în spațiul delimitat al teritorilui inamic (war turf), conform programului de mai jos: 
+**War-urile** pot fi începute doar de un **Lider** (rank 5) sau de un **Co-lider** (rank 4), folosind comanda `/attack` în spațiul delimitat al teritoriului inamic (war turf), conform programului de mai jos: 
 
 | Zile | Ore | 
 | ----------- | :-----------: | 
@@ -253,7 +253,7 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 | Instrument | Disponibile | Utilizare | 
 | ----------- | :-----------: | :-----------: |
-| [**Research Table**](https://i.imgur.com/dnzRdZ5.png) | 2 | Pentru realizarea blueprint-urilor specifice care pot fi utilizate în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) |
+| [**Research Table**](https://i.imgur.com/dnzRdZ5.png) | 2 | Pentru realizarea blueprint-urilor care pot fi utilizate în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) |
 | [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) | 4 | Pentru realizare obiectelor din blueprint-urile obținute în urma utilizării [**Research Table**](https://i.imgur.com/dnzRdZ5.png) sau în urma aprovizionării de pe teritoriile de tip [**Container**](./factions/gangs#container) | 
 | **Items Container**: [**Crafted Items**](https://i.imgur.com/gA7j5E8.png) | 1 | Loc de depozitare al obiectelor obținute în urma utilizării [**Crafting Table**](https://i.imgur.com/nGbKRZg.png)  |  
 | **Items Container**: [**Blueprints**](https://i.imgur.com/rdWuD1X.png) | 1 | Loc de depozitare al blueprint-urilor obținute în urma utilizării [**Research Table**](https://i.imgur.com/dnzRdZ5.png) |  
@@ -266,26 +266,20 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 ### **Arme**
 
-| Poză | Denumire |
-| ----------- | :-----------: |
-| <Image src="https://i.imgur.com/084z3Vg.png" alt="Pistol" /> | Pistol .50 | 
-| <Image src="https://i.imgur.com/lSjn1CA.png" alt="Pisto2" /> | Pistol Mk II | 
-| <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump" /> | Pump Shotgun | 
-| <Image src="https://i.imgur.com/domhlum.png" alt="SMG2" /> | SMG | 
-| <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG" /> | SMG Mk II | 
-| <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carabine" /> | Carbine Rifle | 
-| <Image src="https://i.imgur.com/sxW7GkU.png" alt="Rifle" /> | Special Carbine | 
+<Image src="https://i.imgur.com/084z3Vg.png" alt="Pistol .50" width="100" label="Pistol.50" /> <Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" /> <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="100" label="SMG" />  <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" />  <Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" /> 
+
 
 ### **Componente**
 
-| Poză | Denumire | 
-| ----------- | :-----------: |
-| <Image src="https://i.imgur.com/5vJw2dQ.png" alt="Silence" /> | Supressor | 
-| <Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" /> | Scope | 
-| <Image src="https://i.imgur.com/acTcj0a.png" alt="Extended" /> | Extended Clip |
-| <Image src="https://i.imgur.com/uwqKbUR.png" alt="Flash" /> | Flashlight | 
+<Image src="https://i.imgur.com/5vJw2dQ.png" alt="Supressor" width="100" label="Supressor" /> <Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" width="100" label="Scope" /> <Image src="https://i.imgur.com/acTcj0a.png" alt="Extended Clip" width="100" label="Extended Clip" /> <Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
 
 ### **Muniție**
+
+<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="9mm" /> 
+<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
+<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
+<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
+<Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> 
 
 | Poză | Tip | 
 | ----------- | :-----------: | 
@@ -297,7 +291,7 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 ## Materiale 
 
-**Materialele** reprezintă principalele obiecte necesare realizării armelor, componentelor și muniției, în urma utilizării blueprint-urilor specifice în [**Crafting Table**](https://i.imgur.com/gA7j5E8.png).
+**Materialele** reprezintă obiectele necesare în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) pentru realizarea armelor, componentelor și muniției din blueprint-uri.
 
 **Prezentarea materialelor:** 
 
@@ -306,8 +300,14 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 | <Image src="https://i.imgur.com/B9JRqac.png" alt="Glass" /> | Glass Fragment |
 | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal" /> | Metal Bare |
 | <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic" /> | Plastic Bag | 
-| <Image src="https://i.imgur.com/Hp4XGOA.png" alt="Gunpoweder" /> | Gunpowerder | 
+| <Image src="https://i.imgur.com/Hp4XGOA.png" alt="Gunpoweder" /> | Gunpowerder |  
 
 ::: tip
 Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](./jobs/miner) și [**Garbageman**](./jobs/garbageman).
 :::
+
+## Craft-uri 
+
+**Craft-urile** reprezintă obiectele (armele, componentele și muniția) realizate în urma utilizării blueprint-urilor și a materialelor necesare în [**Crafting Table**](https://i.imgur.com/gA7j5E8.png).
+
+**Prezentarea materialelor:** 
