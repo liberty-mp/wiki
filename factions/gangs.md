@@ -36,7 +36,7 @@ title: Grupari Mafiote
 
 **Istoric**:  
 
-***Grove Street Families** s-a format în **Davis** înainte de a se răspândi și în alte cartiere. Istoria de dinainte de această perioadă de timp (sfârșitul anilor 80) este neștiută și o mare parte din ceea ce s-a întâmplat. Cu toate acestea, ceea ce se știe este că această grupare este una dintre cele mai vechi din Los Santos. Putem aduce în discuție un trecut al unei rivalități tradiționale, intense și sângeroase cu Ballas. Începutul războiului între cele două grupări este neștiut, dar rivalitatea dintre cele două a fost în plină desfășurare încă din 1987. Motivul rivalității lor cu grupările mexicane din Los Santos s-a format datorită expansiunii și creșterii lor pe teritoriul acestora.* 
+***Grove Street Families** s-a format în **Davis** înainte de a se răspândi și în alte cartiere. Istoria de dinainte de această perioadă de timp (sfârșitul anilor 80) este neștiută și o mare parte din ceea ce s-a întâmplat. Cu toate acestea, ceea ce se știe este că această grupare este una dintre cele mai vechi din Los Santos. Putem aminti de un trecut al unei rivalități tradiționale, intense și sângeroase cu Ballas. Începutul războiului între cele două grupări este neștiut, dar rivalitatea dintre cele două a fost în plină desfășurare încă din 1987. Motivul rivalității lor cu grupările mexicane din Los Santos s-a format datorită expansiunii și creșterii lor pe teritoriul acestora.* 
 
 **Culoare reprezentativă**: <Color hex="#71CB71">Verde</Color>
 
@@ -100,7 +100,7 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 Teritoriile din categoria **Port** pot fi folosite doar de către grupările mafiote în vederea aprovizionării cu schițe ale armelor și a muniției (blueprint-uri) pentru realizarea acestora sau semințe pentru diferite tipuri de susbtanțe interzise (droguri).
 
 ::: tip
-Aprovizionarea se realizează în jurul orei **22:15** (ora româniei), atunci când obiectele se generează în cointainerele maritime (**Contraband Items**).
+Aprovizionarea se realizează în jurul orei **22:15** (ora României), atunci când obiectele se generează în cointainerele maritime (**Contraband Items**).
 ::: 
 
 ### Warehouse
