@@ -133,7 +133,7 @@ Teritoriile din categoria **Drug Lab** pot fi folosite doar de către grupările
 Pe lângă popularitatea și respectul acumulate, grupările mafiote care dețin mai multe teritorii beneficiază de posibilități extinse de dezvoltare (mai mult armament, mai multă muniție și așa mai departe). 
 :::
 
-## Începutul unui war 
+## Începutul war-ului 
 
 **War-urile** poate fi începute doar de un **Lider** (rank 5) sau de un **Co-lider** (rank 4), folosind comanda `/attack` în spațiul delimitat al teritorilui inamic (war turf), conform programului de mai jos: 
 
@@ -142,7 +142,7 @@ Pe lângă popularitatea și respectul acumulate, grupările mafiote care dețin
 | Nestabilit încă | 20:00 - 00:00 | 
 
 ::: warning
-Nu există posibilitatea de a ataca teritoriile grupărilor mafioate inamice aflate deja într-un alt war sau în afara programului stabilit. 
+Nu există posibilitatea de a ataca teritoriile grupărilor mafioate inamice aflate deja într-un alt war, în afara programului stabilit sau la un timp prea scurt de la ultimul atac. 
 :::  
 
 După ce un teritoriu este atacat, se redirecționează în mod automat un mesaj către membrii fiecărei grupări mafiote implicate, indiferent dacă aceștia poartă ținuta grupării sau nu. De asemenea, teritoriul atacat o să își schimbe culoarea curentă de pe hartă în culoarea roșu și invers, constant. 
@@ -153,31 +153,74 @@ Pentru a putea participa la war, trebuie să porți ținuta grupării din care f
 Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apăsând tasta `E` în [checkpoint-ul](https://i.imgur.com/f4TLraD.png) aferent. 
 :::
 
-## Desfășurarea unui war 
+## Desfășurarea war-ului
+
+O dată cu începerewa war-ului, participanții care se află deja în ținuta grupării sau care urmează să se schimbe în aceasta, vor fi teleportați într-un **Virtual World** separat, împreună cu ceilalți membrii ai grupării rivale.
+
+### Arme disponibile
+
+În timpul war-ului, fiecare membru primește în inventarul default (nu în **Fast Slots** sau **Invetory Items**), la fiecare respawn, următoarele arme: 
+
+| Poză | Denumire | Muniție (gloanțe) 
+| ----------- | :-----------: | :-----------: | 
+| <Image src="https://wiki.rage.mp/images/thumb/archive/c/c5/20180125132057%21Pistol.50-icon.png/120px-Pistol.50-icon.png" alt="Weapon1"/> | Pistol .50 | 241 | 
+| <Image src="https://wiki.rage.mp/images/0/09/Pump-shotgun-icon.png" alt="Weapon2"/> | Pump Shotgun | 242 |
+| <Image src="https://wiki.rage.mp/images/thumb/7/73/Carbine-rifle-icon.png/164px-Carbine-rifle-icon.png" alt="Weapon3"/> | Carbine Rifle | 220 | 
+
+::: tip
+Aceste arme sunt disponibile doar în timpul war-ului. După terminarea war-ului, armele dispar din inventarul default.  
+:::
+
+### Obținerea punctelor 
 
 Cucerirea unui teritoriu constă în acumularea a cât mai multor puncte, pe toată perioada desfășurării acestuia. 
-
-Punctele acumulate în total de fiecare grupare mafiotă implicată în war se pot vizualiza în partea superioară a ecranului.
- 
-<Image src="https://i.imgur.com/8iAeGJL.png" alt="Score1"/>
-
-**Acumularea punctelor**: 
 
 | Modalitate de obținere | Puncte | 
 | ----------- | :-----------: | 
 | Prezența membriilor pe teritoriu | 1 / minut | 
 | Uciderea membriilor rivali pe teritoriu | 1 / kill |
+ 
+Punctele acumulate în total de fiecare grupare mafiotă implicată în war, precum și timpul alocat acestuia, se pot vizualiza în partea superioară a ecranului.
 
-::: warning
-Nu poți ataca membrii grupărilor rivale dacă nu te aflii în spațiul delimitat al teritoriului atacat.
-:::  
+<Image src="https://i.imgur.com/FeLLDmU.png" alt="Score1"/>
 
-Participanții war-ului primesc automat în inventar următoarele arme: 
+### Bonusuri 
 
-| Denumire | Muniție (gloanțe) | 
-| ----------- | :-----------: | 
-| Prezența membriilor pe teritoriu | 241 gloanțe | 
-| Uciderea membriilor rivali pe teritoriu | 242 |
-| Uciderea membriilor rivali pe teritoriu | 220 |
+În timpul war-ului, uciderea unui membru rival se răsplătește cu următoarele bonusuri (apar în locul unde rivalul a fost ucis):
 
+| Poză | Denumire | Tip | Cantitate |
+| ----------- | :-----------: | :-----------: | :-----------: | 
+| <Image src="https://i.imgur.com/Tt6OeYP.png" alt="Heal" center> | HP | Nu se aplică | +20 / kill | 
+| <Image src="https://i.imgur.com/Ip4JGSh.png" alt="9mmm"/> <Image src="https://i.imgur.com/4AObb79.png" alt="pump"/> <Image src="https://i.imgur.com/DfSNBXB.png" alt="56"/> | Muniție (gloanțe) | 9mm / 12guage / 5.56mm | +20 / kill |  
 
+::: tip
+Pentru a lua bonusurile, trebuie doar să treci prin iconițele afișate. 
+:::
+
+## Sfârșitul war-ului 
+
+Încheierea war-ului are loc în momentul în care timpul alocat se epuizează, iar gruparea mafiotă cu cele mai multe puncte obținute câștigă teritoriul atacat. Simultan, pe ecran vor fi afișate statisticile war-ului, care pot fi vizualizate ulterior pe [**UCP**](https://ucp.liberty.mp/wars/list).
+
+Statisticile personale pot fi vizualizate și în timpul war-ului, în partea din dreapta-jos a ecranului: 
+
+<Image src="https://i.imgur.com/VBEaq25.png" alt="Score2"/>
+
+::: tip
+Timpul alocat unui war poate ajunge până la **20 de minute**.   
+::: 
+
+### Scorul personal 
+
+**Scorul personal** se calculează automat la sfârșitul fiecărui war, astfel: 
+
+| Kill | Assist | Death | 
+| ----------- | :-----------: | :-----------: |
+| + 1 P | + 0.5 P | - 1 P | +20 / kill |  
+
+- Pentru a obține **1 P** (Kill) trebuie să ucizi un jucător, indiferent dacă ai mai fost ajutat de altcineva; 
+- Pentru a obține **0.5 P** (Assist) trebuie să-i scazi minim jumătate din viață unui jucător rival, iar apoi acesta să fie ucis de altcineva; 
+- De fiecare dată când ești ucis de un jucător rival sau mori din alte motive, ți se scade **1 P** (Death).
+
+::: tip
+La sfârșitul war-ului, jucătorii cu cel mai bun scor vor ocupa primele locuri.
+:::
