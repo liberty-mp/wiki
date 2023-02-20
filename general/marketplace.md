@@ -2,11 +2,11 @@
 title: Marketplace
 ---
 
-# Informații generale despre marketplace
+## Informații generale despre marketplace
 
 Marketplace-ul reprezintă unul dintre cele mai importante sisteme integrate pe serverul [**liberty.mp**](https://ucp.liberty.mp), acesta le permite jucătorilor să cumpere sau să vândă diverse bunuri.
 
-# Intrebări frecvente
+## Intrebări frecvente
 
 ### Am nevoie de un anume level pentru a folosi marketplace-ul?
 
