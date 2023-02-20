@@ -57,3 +57,9 @@ Serverul [**liberty.mp**](https://ucp.liberty.mp/) dispune în momentul de faț�
 Economia a fost realizată în așa fel încât, profitabilitatea la fiecare dintre cele **6 joburi** enumerate să fie aproximativ egală. Într-o **oră jucată** la job, poți acumula obiecte și sume de bani cuprinse între <Dinero :amount="1000" /> și <Dinero :amount="1500" /> sau chiar mai mult, depinzând de anumiți factori care țin de experiența (skill-ul) acumulată în cadrul joburilor și perk-urile active pe cont.
 
 Așadar, rămâne la decizia ta care job te atrage mai mult din punct de vedere al gameplay-ului. 
+
+## Cum intru într-o facțiune?
+
+Pe server sunt active, momentan, doar 7 facțiuni: [**Downtown Taxi Company**](.factions/taxi.md), [**Los Santos Police Department**](.factions/lspd.md), [**Hitman Agency**](.factions/hitman.md) și [**grupările mafiote**](./factions/gangs.md).
+
+Dacă vrei să te alături uneia dintre facțiunile menționate mai sus, ai nevoie de o aplicație pe [**UCP**](https://ucp.liberty.mp/) pentru facțiunea dorită din secțiunea [**Factions**](https://ucp.liberty.mp/factions). Dacă aplicația ta a fost acceptată, va trebui să susții un test de intrare in facțiune, liderul sau co-liderul fiind nevoiți să atașeze în aplicația ta o dovadă cu acel test.
