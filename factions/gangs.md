@@ -28,9 +28,9 @@ title: Grupari Mafiote
 
 **Culoare reprezentativă**: Albastru;
 
-<Image src="https://i.imgur.com/tKotzd8.png" alt="ColorVLA"/> 
+<Image src="https://i.imgur.com/tKotzd8.png" alt="ColorVLA" /> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQVLA"/> **Locație**: [Fudge Lane](https://i.imgur.com/YoHPvjM.png). 
+<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQVLA" /> **Locație**: [Fudge Lane](https://i.imgur.com/YoHPvjM.png). 
 
 ### `#71CB71` **Grove Street Families** 
 
@@ -42,9 +42,9 @@ title: Grupari Mafiote
 
 **Culoare reprezentativă**: Verde;
 
-<Image src="https://i.imgur.com/8MqiHoP.png" alt="ColorGSF"/> 
+<Image src="https://i.imgur.com/8MqiHoP.png" alt="ColorGSF" /> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQGS"/> **Locație**: [Grove Street](https://i.imgur.com/ANsUDyq.png).
+<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQGS" /> **Locație**: [Grove Street](https://i.imgur.com/ANsUDyq.png).
 
 ### `#9C6EAF` **Ballas**
 
@@ -163,9 +163,9 @@ O dată cu începerewa war-ului, participanții care se află deja în ținuta g
 
 | Poză | Denumire | Muniție (gloanțe) 
 | ----------- | :-----------: | :-----------: | 
-| <Image src="https://wiki.rage.mp/images/thumb/archive/c/c5/20180125132057%21Pistol.50-icon.png/120px-Pistol.50-icon.png" alt="Weapon1"/> | Pistol .50 | 241 | 
-| <Image src="https://wiki.rage.mp/images/0/09/Pump-shotgun-icon.png" alt="Weapon2"/> | Pump Shotgun | 242 |
-| <Image src="https://wiki.rage.mp/images/thumb/7/73/Carbine-rifle-icon.png/164px-Carbine-rifle-icon.png" alt="Weapon3"/> | Carbine Rifle | 220 | 
+| <Image src="https://wiki.rage.mp/images/thumb/archive/c/c5/20180125132057%21Pistol.50-icon.png/120px-Pistol.50-icon.png" alt="Weapon1" /> | Pistol .50 | 241 | 
+| <Image src="https://wiki.rage.mp/images/0/09/Pump-shotgun-icon.png" alt="Weapon2" /> | Pump Shotgun | 242 |
+| <Image src="https://wiki.rage.mp/images/thumb/7/73/Carbine-rifle-icon.png/164px-Carbine-rifle-icon.png" alt="Weapon3" /> | Carbine Rifle | 220 | 
 
 ::: tip
 Aceste arme sunt disponibile doar în timpul war-ului. După terminarea war-ului, armele dispar din inventarul default.  
@@ -182,7 +182,7 @@ Cucerirea unui teritoriu constă în acumularea a cât mai multor puncte, pe toa
  
 Punctele acumulate în total de fiecare grupare mafiotă implicată în war, precum și timpul alocat acestuia, se pot vizualiza în partea superioară a ecranului.
 
-<Image src="https://i.imgur.com/FeLLDmU.png" alt="Score1"/>
+<Image src="https://i.imgur.com/FeLLDmU.png" alt="Score1" />
 
 ### Bonusuri 
 
@@ -190,8 +190,8 @@ Punctele acumulate în total de fiecare grupare mafiotă implicată în war, pre
 
 | Poză | Denumire | Tip | Cantitate |
 | ----------- | :-----------: | :-----------: | :-----------: | 
-| <Image src="https://i.imgur.com/Tt6OeYP.png" alt="Heal" center> | HP | Nu se aplică | +20 / kill | 
-| <Image src="https://i.imgur.com/Ip4JGSh.png" alt="9mmm"/> <Image src="https://i.imgur.com/4AObb79.png" alt="pump"/> <Image src="https://i.imgur.com/DfSNBXB.png" alt="56"/> | Muniție (gloanțe) | 9mm / 12guage / 5.56mm | +20 / kill |  
+| <Image src="https://i.imgur.com/Tt6OeYP.png" alt="Heal" /> | HP | Nu se aplică | +20 / kill | 
+| <Image src="https://i.imgur.com/Ip4JGSh.png" alt="9mmm" /> <Image src="https://i.imgur.com/4AObb79.png" alt="pump" /> <Image src="https://i.imgur.com/DfSNBXB.png" alt="56" /> | Muniție (gloanțe) | 9mm / 12guage / 5.56mm | +20 / kill |  
 
 ::: tip
 Pentru a lua bonusurile, trebuie doar să treci prin iconițele afișate. 
@@ -203,7 +203,7 @@ Pentru a lua bonusurile, trebuie doar să treci prin iconițele afișate.
 
 Statisticile personale pot fi vizualizate și în timpul war-ului, în partea din dreapta-jos a ecranului: 
 
-<Image src="https://i.imgur.com/VBEaq25.png" alt="Score2"/>
+<Image src="https://i.imgur.com/VBEaq25.png" alt="Score2" />
 
 ::: tip
 Timpul alocat unui war poate ajunge până la **20 de minute**.   
