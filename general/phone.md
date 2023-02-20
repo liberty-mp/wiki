@@ -301,7 +301,7 @@ Pentru a rula melodia selectată în fundal (fără a mai apărea interfața mob
 - **Search user** - permite căutarea numerelor de telefon ale jucătorilor după denumirea acestora. 
 
 ::: tip
-Pentru a căuta, scrie denumirea jucătorului căruia dorești să îi aflii numărul de telefon în căsuța **Search user**, apoi folosește cele trei iconițe în funcție de preferițele pe care le ai. 
+Pentru a căuta, scrie denumirea jucătorului căruia dorești să îi afli numărul de telefon în căsuța **Search user**, apoi folosește cele trei iconițe în funcție de preferițele pe care le ai. 
 
 Dacă dorești să apelezi jucătorul, apasă *click-stânga* pe iconița în formă de telefon (prima), dacă dorești să îi trimiți un mesaj jucătorului, apasă *click-stânga* pe iconița în formă de plic (cea din mijloc), iar dacă dorești să adaugi jucătorul în lista de contacte, apasă *click-stânga* pe iconița în formă de omuleț (ultima). 
 :::  
