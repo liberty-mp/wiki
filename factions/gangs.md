@@ -4,7 +4,7 @@ title: Grupari Mafiote
 
 ### Informații generale despre grupările mafiote
 
-**Grupările Mafiote** sunt rețele de crimă organizată care funcționează pe întreg teritoriul statului **San Andreas**, **Los Santos** reprezentând punctul central de evoluție al acestora, din cauza posibilităților extinse și al factorilor de influență. În ciuda eforturilor depuse de facțiunea [**Los Santos Police Department**](./factions/lspd), unele rețele reușesc să preia controlul tot mai multor teritorii, prin intermediul conflictele stradale din ce în ce mai frecvente și mai diversificate, dar și al influenței politice. În consecință, **Grupările Mafiote** reuseșesc să se infiltreze în rândul populației, fără întrerupere, iar din traficul de interzise să își mențină bugetele financiare la un nivel ridicat.  
+**Grupările Mafiote** sunt rețele de crimă organizată care funcționează pe întreg teritoriul statului **San Andreas**, **Los Santos** reprezentând punctul central de evoluție al acestora, din cauza posibilităților extinse și al factorilor de influență. În ciuda eforturilor depuse de facțiunea [**Los Santos Police Department**](./factions/lspd), unele rețele reușesc să preia controlul tot mai multor teritorii, prin intermediul conflictelor stradale din ce în ce mai frecvente și mai diversificate, dar și al influenței politice. În consecință, **Grupările Mafiote** reuseșesc să se infiltreze în rândul populației, fără întrerupere, iar din traficul de interzise să își mențină bugetele financiare la un nivel ridicat.  
 
 În momentul de față, pe serverul [**liberty.mp**](https://ucp.liberty.mp) există un număr de **4 grupări mafiote**, după cum urmează: 
 
