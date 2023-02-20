@@ -315,3 +315,17 @@ Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](.
 | <Image src="https://i.imgur.com/ovNcLFE.png" alt="Scope" width="100" label="Scope" /> | 1 | <Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" width="100" label="Scope" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/aGQh9xy.png" alt="Extended Clip" width="100" label="Extended Clip" /> | 1 | <Image src="https://i.imgur.com/acTcj0a.png" alt="Extended Clip" width="100" label="Extended Clip" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/HqINYTx.png" alt="Flashlight" width="100" label="Flashlight" /> | 1 | <Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="100" label="Flashlight" /> | Necompletat | <Dinero :amount='0'/> |
+
+::: tip
+Componentele sunt compatibile cu orice tip de armă.   
+::: 
+
+### Muniție
+
+| Imagine | Cantitate produsă | Blueprint necesar | Materiale necesare | Cost producere | 
+| ----------- | :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="100" label="9mm" /> | 30 | <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" /> | Necompletat | <Dinero :amount='0'/> |
+| <Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="100" label="12guage" /> | 30 | <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="100" label="12guage" /> | Necompletat | <Dinero :amount='0'/> |
+| <Image src="https://i.imgur.com/ivgAp7g.png" alt="45acp" width="100" label="45acp" /> | 30 | <Image src="https://i.imgur.com/a9rvCFP.png" alt="45acp" width="100" label="45acp" /> | Necompletat | <Dinero :amount='0'/> |
+| <Image src="https://i.imgur.com/Gjadnlz.png" alt="5.56mm" width="100" label="5.56mm" /> | 30 | <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm" width="100" label="5.56mm" /> | Necompletat | <Dinero :amount='0'/> |
+| <Image src="https://i.imgur.com/OWaYhPn.png" alt="7.62mm" width="100" label="7.62" /> | 30 | <Image src="https://i.imgur.com/lFAyOiM.png" alt="7.62mm" width="100" label="7.62" /> | Necompletat | <Dinero :amount='0'/> |
