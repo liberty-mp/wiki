@@ -28,9 +28,9 @@ Sistemul include un număr total de **15 aplicații**, după cum urmează:
 
 - [**Phone** & **Contacts**](#phone-contacts): se pot apela numerele de telefon ale altor jucători, se pot vizualiza apelurile recente și pot adăuga jucători în lista de contacte
 - [**Camera**](#camera): se pot realiza fotografii centrale sau frontale
-- [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și înclusiv locația curentă către alți jucători)
+- [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și înclusiv locația curentă către alți jucători
 - [**Emails**](#emails): se pot vizualiza e-mail-urile primite
-- [**Bank**](#bank): se pot vizualiza banii din bancă, realiza transferuri între jucători sau se pot achiziționa cryptomodene sau acțiuni în cadrul unor companii
+- [**Bank**](#bank): se pot vizualiza banii din bancă, realiza transferuri între jucători sau se pot achiziționa cryptomonede sau acțiuni în cadrul unor companii
 - [**Vehicles**](#vehicles): se pot vizualiza vehiculele personale ale jucătorului și meniul de comandă al acestora
 - [**Maps**](#maps): se pot vizualiza rutele către cele mai importante locații de pe server 
 - [**Photos**](#photos): se pot vizualiza fotografiile realizate cu aplicația **Camera**
@@ -42,7 +42,7 @@ Sistemul include un număr total de **15 aplicații**, după cum urmează:
 - [**Phonebook**](#phonebook): se pot identifica numerele de telefon ale jucătorilor după numele acestora
 
 ::: tip
-Pentru a închide o aplicație, respectiv a revenii pe ecranul principal fără a fi necesară să închizi **Telefonul**, apasă *click-stânga* pe bara de culoare albă/gri (în funcție de aplicație) aflată în partea de jos. 
+Pentru a închide o aplicație, respectiv a reveni pe ecranul principal fără a fi necesar să închizi **Telefonul**, apasă *click-stânga* pe bara de culoare albă/gri (în funcție de aplicație) aflată în partea de jos. 
 :::
 
 ## Aplicații
@@ -138,13 +138,13 @@ Aplicația nu poate fi utilizată de către jucători, având strict rolul de tr
 <Image src="https://i.imgur.com/UKeYzEu.png" alt="BankUnlock" />  
 
 ::: tip
-Pentru a deschide aplicația, trebuie să te identifici cu amprenta personală, apăsând *click-stânga* pe iconița specifică de sub **Unlock using your fingeroprint**. 
+Pentru a deschide aplicația, trebuie să te identifici cu amprenta personală, apăsând *click-stânga* pe iconița specifică de sub **Unlock using your fingerprint**. 
 ::: 
 
 <Image src="https://i.imgur.com/OzJfsCv.png" alt="BankMain" />  
 
 - **Total balance** - permite vizualizarea sumei totale de bani aflată în bancă;
-- **Recent transactions** - permite vizualizarea ultimelor transaferuri de bani sau tranzacții efectuate prin intermediul cardului bancar. 
+- **Recent transactions** - permite vizualizarea ultimelor transferuri de bani sau tranzacții efectuate prin intermediul cardului bancar. 
 
 ::: tip
 Pentru a efectua un transfer bancar către un alt jucător, trebuie să apeși pe iconița cu cele două săgeți de lângă meniul principal (în dreapta căsuței). 
@@ -206,7 +206,7 @@ Pentru a identifica o anumită locație de pe server, trebuie să accesezi una d
 
 ### Photos
 
-**Photos** reprezintă sistemul prin care jucătorii își pot vizualiza fotografiile realizate prin intermediul aplicației **Camera**, pot realiza altele sau le pot distribuii către alți jucători (funcționează ca o galerie). 
+**Photos** reprezintă sistemul prin care jucătorii își pot vizualiza fotografiile realizate prin intermediul aplicației **Camera**, pot realiza altele sau le pot distribui către alți jucători (funcționează ca o galerie). 
 
 **Prezentarea aplicației:** 
 
@@ -215,7 +215,7 @@ Pentru a identifica o anumită locație de pe server, trebuie să accesezi una d
 ::: tip
 Pentru a realiza o nouă fotografie, apasă *click-stânga* pe iconița în formă de cameră din dreaptea-sus a aplicației.
 
-Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau  distribuii o fotografie către un alt jucător, apasă *click-stânga* pe respectiva, iar de acolo folosește cele două iconițe din partea de jos în formă de săgeată (pentru distribuire), respectiv coș de gunoi (pentru ștergere). 
+Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau distribui o fotografie către un alt jucător, apasă *click-stânga* pe respectiva, iar de acolo folosește cele două iconițe din partea de jos în formă de săgeată (pentru distribuire), respectiv coș de gunoi (pentru ștergere). 
 ::: 
 
 ### Taxi 
