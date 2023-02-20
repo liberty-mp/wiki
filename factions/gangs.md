@@ -297,7 +297,7 @@ Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](.
 
 ### Arme
 
-| Imagine | Cantitate | Blueprint | Materiale | Cost | 
+| Imagine | Cantitate produsă | Blueprint necesar | Materiale necesare | Cost producere | 
 | ----------- | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/LOeb6D6.png" alt="Pistol .50" width="100" label="Pistol.50" /> | 1 | <Image src="https://i.imgur.com/084z3Vg.png" alt="Pistol .50" width="100" label="Pistol.50" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/EakMdzd.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" /> | 1 | <Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" /> | Necompletat | <Dinero :amount='0'/> |
@@ -306,4 +306,3 @@ Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](.
 | <Image src="https://i.imgur.com/Xy5s7Ov.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> | 1 | <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/GKtbxvN.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" /> | 1 | <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/W5foGq1.png" alt="Special Carabine" width="100" label="Special Carbine" /> | 1 | <Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" />  | Necompletat | <Dinero :amount='0'/> | 
-
