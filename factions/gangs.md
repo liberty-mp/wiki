@@ -163,9 +163,9 @@ O dată cu începerewa war-ului, participanții care se află deja în ținuta g
 
 | Poză | Denumire | Muniție (gloanțe) 
 | ----------- | :-----------: | :-----------: | 
-| <Image src="https://i.imgur.com/WR12L1k.png" alt="Weapon1" /> | Pistol .50 | 241 | 
-| <Image src="https://i.imgur.com/aFyp7rL.png" alt="Weapon2" /> | Pump Shotgun | 242 |
-| <Image src="https://i.imgur.com/oO062ul.png" alt="Weapon3" /> | Carbine Rifle | 220 | 
+| <Image src="https://i.imgur.com/WR12L1k.png" alt="Weapon1" /> | Pistol .50 | 250 | 
+| <Image src="https://i.imgur.com/aFyp7rL.png" alt="Weapon2" /> | Pump Shotgun | 250 |
+| <Image src="https://i.imgur.com/oO062ul.png" alt="Weapon3" /> | Carbine Rifle | 250 | 
 
 ::: tip
 Aceste arme sunt disponibile doar în timpul war-ului. După terminarea war-ului, armele dispar din inventarul default.  
