@@ -129,7 +129,7 @@ Secțiunea **Referral**:
 - afișează codul personal de recomandare, numărul de jucători înregistrați pe acest cod, precum și informații despre bonusurile pe care un jucător le poate dobândii în funcție de realizările jucătorilor pe care îi aduce.  
 
 Secțiunea **Rewards**: 
-- afișează numărul de jucători înregistrați pe codul personal, precum bonusurile dobândite care pot fi colectate apăsând pe butonul portocaliu: *Collet*. 
+- afișează numărul de jucători înregistrați pe codul personal, precum bonusurile dobândite care pot fi colectate apăsând pe butonul portocaliu: *Collect*. 
 
 ### Achievements 
 
