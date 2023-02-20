@@ -20,9 +20,9 @@ Localizarea marketplace-ului se poate face prin deschiderea aplicației [**Maps*
 
 Interacționarea cu marketplace-ul se face prin apăsarea tastei `G` pentru deschidere, iar tasta `ESC` pentru iesire. Acesta funcționează pe principiul Drag & Drop în cea mai mare proporție.
 
-# Categorii
+## Categorii
 
-## Items List
+### Items List
 
 In această categorie sunt afișate bunurile listate de catre jucatori, puteți vedea informații precum:
   - Numele bunului
@@ -41,7 +41,7 @@ In această categorie sunt afișate bunurile listate de catre jucatori, puteți 
     
   <Img src = "https://i.imgur.com/poDiKKE.png" alt="filter"/>
 
-## Transactions History
+### Transactions History
 
 În această categorie se afișeaza istoricul de bunuri cumpărate sau vândute.
 
