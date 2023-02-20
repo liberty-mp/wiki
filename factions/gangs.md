@@ -160,7 +160,7 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 
 ## Desfășurarea war-ului
 
-O dată cu începerewa war-ului, participanții care se află deja în ținuta grupării sau care urmează să se schimbe în aceasta, vor fi teleportați într-un **Virtual World** separat, împreună cu ceilalți membrii ai grupării rivale.
+O dată cu începerea war-ului, participanții care se află deja în ținuta grupării sau care urmează să se schimbe în aceasta, vor fi teleportați într-un **Virtual World** separat, împreună cu ceilalți membrii ai grupării rivale.
 
 ### Arme disponibile
 
