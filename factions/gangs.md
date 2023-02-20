@@ -172,7 +172,7 @@ Aceste arme sunt disponibile doar în timpul war-ului. După terminarea war-ului
 ::: 
 
 ::: warning
-Armele craftate nu pot fi utilizate în timpul war-ului.  
+Armele și muniția obținute în urma procesului de **Craft** nu pot fi utilizate în timpul war-ului.  
 :::
 
 ### Obținerea punctelor 
@@ -228,3 +228,72 @@ Timpul alocat unui war poate ajunge până la **20 de minute**.
 ::: tip
 La sfârșitul war-ului, jucătorii cu cel mai bun scor vor ocupa primele locuri.
 :::
+
+# Sistemul de Craft
+
+### Informații generale despre craft-uri 
+
+**Sistemul de Craft** reprezintă singura modalitate de pe serverul [**liberty.mp**](https://ucp.liberty.mp/wars/list) de a obține armament, componente și muniție, în afara achiziționării unora dintr-un magazin specializat (**Ammu-Nation**) sau pe timpul desfășurării war-urilor. 
+
+::: tip
+Armamentul și muniția se pot vinde către ceilalți jucători de membrii grupărilor mafiote.  
+::: 
+
+## Instrumente 
+
+**Sistemul de Craft** cuprinde câteva instrumente care se poate utiliza doar în interiorul teritorilor de tip **Warehouse** deținute de grupările mafiote.
+
+> Vezi care sunt teritoriile de tip [**Warehouse**](./factions/gangs#warehouse). 
+
+::: warning
+Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote. 
+:::  
+
+În interiorul **Warehouse-ului** se regăsesc următoarele:
+
+| Instrument | Disponibile | Utilizare | 
+| ----------- | :-----------: | :-----------: |
+| [**Research Table**](https://i.imgur.com/dnzRdZ5.png) | 2 | Pentru realizarea tipurilor de blueprint-uri care pot fi utilizate în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) |
+| [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) | 4 | Pentru realizare obiectelor din blueprint-urile obținute în urma utilizării [**Research Table**](https://i.imgur.com/dnzRdZ5.png) sau în urma aprovizionării de pe teritoriile de tip [**Container**](./factions/gangs#container) | 
+| **Items Container**: [**Crafted Items**](https://i.imgur.com/gA7j5E8.png) | 1 | Loc de depozitare al obiectelor obținute în urma utilizării [**Crafting Table**](https://i.imgur.com/nGbKRZg.png)  |  
+| **Items Container**: [**Blueprints**](https://i.imgur.com/rdWuD1X.png) | 1 | Loc de depozitare al blueprint-urilor obținute în urma utilizării [**Research Table**](https://i.imgur.com/dnzRdZ5.png) |  
+
+## Blueprint-uri 
+
+**Blueprint-urile** reprezintă schițele obiectelor (armelor, componentelor și muniției) care sunt utilizate pentru realizarea acestora și se obțin din teritoriile tip [**Container**](./factions/gangs#container) sau utilizând [**Research Table**](https://i.imgur.com/dnzRdZ5.png).
+
+**Prezentarea blueprint-urilor pe categorii:** 
+
+### **Arme**
+
+| Poză | Denumire |
+| ----------- | :-----------: |
+| <Image src="https://i.imgur.com/084z3Vg.png" alt="Pistol" /> | Pistol .50 | 
+| <Image src="https://i.imgur.com/lSjn1CA.png" alt="Pisto2" /> | Pistol Mk II | 
+| <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump" /> | Pump Shotgun | 
+| <Image src="https://i.imgur.com/domhlum.png" alt="SMG2" /> | SMG | 
+| <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG" /> | SMG Mk II | 
+| <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carabine" /> | Carbine Rifle | 
+| <Image src="https://i.imgur.com/sxW7GkU.png" alt="Rifle" /> | Special Carbine | 
+
+### **Componente**
+
+| Poză | Denumire | 
+| ----------- | :-----------: |
+| <Image src="https://i.imgur.com/5vJw2dQ.png" alt="Silence" /> | Supressor | 
+| <Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" /> | Scope | 
+| <Image src="https://i.imgur.com/acTcj0a.png" alt="Extended" /> | Extended Clip |
+| <Image src="https://i.imgur.com/uwqKbUR.png" alt="Flash" /> | Flashlight | 
+
+### **Muniție**
+
+| Poză | Tip | 
+| ----------- | :-----------: | 
+| <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" /> | 9mm | 
+| <Image src="https://i.imgur.com/6Yspriw.png" alt="pump" /> | 12guage |
+| <Image src="https://i.imgur.com/a9rvCFP.png" alt="4" /> | 45acp | 
+| <Image src="https://i.imgur.com/8OCagq8.png" alt="5" /> | 5.56mm |
+| <Image src="https://i.imgur.com/lFAyOiM.png" alt="6" /> | 7.62mm | 
+
+
+
