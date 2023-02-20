@@ -30,7 +30,7 @@ title: Grupari Mafiote
 
 <Image src="https://i.imgur.com/tKotzd8.png" alt="ColorVLA" /> 
 
-<Image src="https://i.imgur.com/uLIEpun.png" alt="HQVLA" /> **Locație**: [Fudge Lane](https://i.imgur.com/YoHPvjM.png). 
+<Image src="https://i.imgur.com/uLIEpun.png" alt="HQVLA" /> **Locație**: [**Fudge Lane**](https://i.imgur.com/YoHPvjM.png). 
 
 ### `#71CB71` **Grove Street Families** 
 
@@ -44,7 +44,7 @@ title: Grupari Mafiote
 
 <Image src="https://i.imgur.com/8MqiHoP.png" alt="ColorGSF" /> 
 
-<Image src="https://i.imgur.com/uLIEpun.png" alt="HQGS" /> **Locație**: [Grove Street](https://i.imgur.com/ANsUDyq.png).
+<Image src="https://i.imgur.com/uLIEpun.png" alt="HQGS" /> **Locație**: [**Grove Street**](https://i.imgur.com/ANsUDyq.png).
 
 ### `#9C6EAF` **Ballas**
 
@@ -58,7 +58,7 @@ title: Grupari Mafiote
 
 <Image src="https://i.imgur.com/YBjtGBK.png" alt="ColorB"/> 
 
-<Image src="https://i.imgur.com/uLIEpun.png" alt="HQB"/> **Locație**: [Forum Drive](https://i.imgur.com/gb0QUtu.png).
+<Image src="https://i.imgur.com/uLIEpun.png" alt="HQB"/> **Locație**: [**Forum Drive**](https://i.imgur.com/gb0QUtu.png).
 
 ### `#EEC64E` **Los Santos Vagos** 
 
@@ -72,7 +72,7 @@ title: Grupari Mafiote
 
 <Image src="https://i.imgur.com/A7kFglh.png" alt="ColorV"/> 
 
-<Image src="https://i.imgur.com/uLIEpun.png" alt="HQV"/> **Locație**: [Vitus Street](https://i.imgur.com/PbN9X9y.png).
+<Image src="https://i.imgur.com/uLIEpun.png" alt="HQV"/> **Locație**: [**Vitus Street**](https://i.imgur.com/PbN9X9y.png).
 
 ## Vehicule 
 
@@ -81,7 +81,7 @@ title: Grupari Mafiote
 | Marcă   | Model | Tip | Locuri | Disponibile |  
 | ----------- | :-----------: | :-----------: | :-----------: | :-----------: |
 | Declasse | [**FBI**](https://static.wikia.nocookie.net/gtawiki/images/c/cf/FIB2-GTAV-front.png/revision/latest?cb=20151217204743) | SUV | 8 | 1 | 
-| Karin | [**Sultan**](https://static.wikia.nocookie.net/gtawiki/images/b/bb/Sultan-GTAV-front.png/revision/latest?cb=20180331183641) |  Sedan | 4 | 2 |
+| Karin | [**Sultan Classic**](https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212805) |  Sedan | 4 | 2 |
 | Albany | [**V-STR**](https://static.wikia.nocookie.net/gtawiki/images/e/ee/VSTR-GTAO-front.png/revision/latest?cb=20191213212810) |  Sedan | 4 | 2 | 
 | Western | [**Nightblade**](https://static.wikia.nocookie.net/gtawiki/images/6/6b/Nightblade-GTAO-front.png/revision/latest?cb=20161014165516) |  Cruiser | 2 | 3 |  
 
