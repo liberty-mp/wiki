@@ -81,7 +81,7 @@ title: Grupari Mafiote
 | Marcă   | Model | Tip | Locuri | Disponibile |  
 | ----------- | :-----------: | :-----------: | :-----------: | :-----------: |
 | Declasse | [**FBI**](https://static.wikia.nocookie.net/gtawiki/images/c/cf/FIB2-GTAV-front.png/revision/latest?cb=20151217204743) | SUV | 8 | 1 | 
-| Karin | [**Sultan Classic**](https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20191213212805) |  Sedan | 4 | 2 |
+| Karin | [**Sultan Classic**](https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest?cb=20191213212805) |  Sedan | 4 | 2 |
 | Albany | [**V-STR**](https://static.wikia.nocookie.net/gtawiki/images/e/ee/VSTR-GTAO-front.png/revision/latest?cb=20191213212810) |  Sedan | 4 | 2 | 
 | Western | [**Nightblade**](https://static.wikia.nocookie.net/gtawiki/images/6/6b/Nightblade-GTAO-front.png/revision/latest?cb=20161014165516) |  Cruiser | 2 | 3 |  
 
