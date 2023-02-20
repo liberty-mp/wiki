@@ -30,7 +30,7 @@ title: Grupari Mafiote
 
 <Image src="https://i.imgur.com/tKotzd8.png" alt="ColorVLA" /> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQVLA" /> **Locație**: [Fudge Lane](https://i.imgur.com/YoHPvjM.png). 
+<Image src="https://i.imgur.com/uLIEpun.png" alt="HQVLA" /> **Locație**: [**Fudge Lane**](https://i.imgur.com/YoHPvjM.png). 
 
 ### `#71CB71` **Grove Street Families** 
 
@@ -44,7 +44,7 @@ title: Grupari Mafiote
 
 <Image src="https://i.imgur.com/8MqiHoP.png" alt="ColorGSF" /> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQGS" /> **Locație**: [Grove Street](https://i.imgur.com/ANsUDyq.png).
+<Image src="https://i.imgur.com/uLIEpun.png" alt="HQGS" /> **Locație**: [**Grove Street**](https://i.imgur.com/ANsUDyq.png).
 
 ### `#9C6EAF` **Ballas**
 
@@ -58,7 +58,7 @@ title: Grupari Mafiote
 
 <Image src="https://i.imgur.com/YBjtGBK.png" alt="ColorB"/> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQB"/> **Locație**: [Forum Drive](https://i.imgur.com/gb0QUtu.png).
+<Image src="https://i.imgur.com/uLIEpun.png" alt="HQB"/> **Locație**: [**Forum Drive**](https://i.imgur.com/gb0QUtu.png).
 
 ### `#EEC64E` **Los Santos Vagos** 
 
@@ -72,7 +72,7 @@ title: Grupari Mafiote
 
 <Image src="https://i.imgur.com/A7kFglh.png" alt="ColorV"/> 
 
-<Image src="https://wiki.rage.mp/images/4/45/Blip_491.png" alt="HQV"/> **Locație**: [Vitus Street](https://i.imgur.com/PbN9X9y.png).
+<Image src="https://i.imgur.com/uLIEpun.png" alt="HQV"/> **Locație**: [**Vitus Street**](https://i.imgur.com/PbN9X9y.png).
 
 ## Vehicule 
 
@@ -81,7 +81,7 @@ title: Grupari Mafiote
 | Marcă   | Model | Tip | Locuri | Disponibile |  
 | ----------- | :-----------: | :-----------: | :-----------: | :-----------: |
 | Declasse | [**FBI**](https://static.wikia.nocookie.net/gtawiki/images/c/cf/FIB2-GTAV-front.png/revision/latest?cb=20151217204743) | SUV | 8 | 1 | 
-| Karin | [**Sultan**](https://static.wikia.nocookie.net/gtawiki/images/b/bb/Sultan-GTAV-front.png/revision/latest?cb=20180331183641) |  Sedan | 4 | 2 |
+| Karin | [**Sultan Classic**](https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest?cb=20191213212805) |  Sedan | 4 | 2 |
 | Albany | [**V-STR**](https://static.wikia.nocookie.net/gtawiki/images/e/ee/VSTR-GTAO-front.png/revision/latest?cb=20191213212810) |  Sedan | 4 | 2 | 
 | Western | [**Nightblade**](https://static.wikia.nocookie.net/gtawiki/images/6/6b/Nightblade-GTAO-front.png/revision/latest?cb=20161014165516) |  Cruiser | 2 | 3 |  
 
@@ -97,7 +97,7 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 
 În momentul de față, există un număr total de **10 teritorii**, încluse în mai multe categorii, după cum urmează: 
 
-### <Image src="https://wiki.rage.mp/images/a/a1/Blip_568.png" alt="Container"/> **Container**: 
+### <Image src="https://i.imgur.com/uAC9Dqk.png" alt="Container"/> **Container** 
 - 3 în zona [**Elysian Island**](https://i.imgur.com/wL8s2vU.png);
 - [**Terminal**](https://i.imgur.com/ElkPiyb.png). 
 
@@ -107,7 +107,7 @@ Teritoriile din categoria **Container** pot fi folosite doar de către grupăril
 Aprovizionarea se realizează în jurul orei **22:15** (ora româniei), atunci când obiectele se generează în cointainerele maritime (**Contraband Items**).
 ::: 
 
-### <Image src="https://wiki.rage.mp/images/f/f6/Blip_565.png" alt="Warehouse"/> **Warehouse**:  
+### <Image src="https://i.imgur.com/2SYFtvq.png" alt="Warehouse"/> **Warehouse** 
 - [**Rancho**](https://i.imgur.com/oIkcM8h.png);
 - [**La Puerta**](https://i.imgur.com/pWcc1NX.png);
 - [**Vesspuci**](https://i.imgur.com/oNQBJNv.png); 
@@ -117,7 +117,7 @@ Aprovizionarea se realizează în jurul orei **22:15** (ora româniei), atunci c
 Teritoriile din categoria **Warehouse** pot fi folosite doar de către grupările mafiote în vederea realizării armelor și a muniției, după colectarea schițelor (blueprint-urilor) din **Containere**.
  
 
-### <Image src="https://wiki.rage.mp/images/a/ab/Blip_140.png" alt="Drugs"/> **Drug Lab**:  
+### <Image src="https://i.imgur.com/F5xSqxB.png" alt="Drugs"/> **Drug Lab** 
 - [**Grapeseed**](https://i.imgur.com/19CAB56.png);
 - [**Paleto Bay**](https://i.imgur.com/J0xdlfF.png). 
 
@@ -163,12 +163,16 @@ O dată cu începerewa war-ului, participanții care se află deja în ținuta g
 
 | Poză | Denumire | Muniție (gloanțe) 
 | ----------- | :-----------: | :-----------: | 
-| <Image src="https://wiki.rage.mp/images/thumb/archive/c/c5/20180125132057%21Pistol.50-icon.png/120px-Pistol.50-icon.png" alt="Weapon1" /> | Pistol .50 | 241 | 
-| <Image src="https://wiki.rage.mp/images/0/09/Pump-shotgun-icon.png" alt="Weapon2" /> | Pump Shotgun | 242 |
-| <Image src="https://wiki.rage.mp/images/thumb/7/73/Carbine-rifle-icon.png/164px-Carbine-rifle-icon.png" alt="Weapon3" /> | Carbine Rifle | 220 | 
+| <Image src="https://i.imgur.com/WR12L1k.png" alt="Weapon1" /> | Pistol .50 | 250 | 
+| <Image src="https://i.imgur.com/aFyp7rL.png" alt="Weapon2" /> | Pump Shotgun | 250 |
+| <Image src="https://i.imgur.com/oO062ul.png" alt="Weapon3" /> | Carbine Rifle | 250 | 
 
 ::: tip
 Aceste arme sunt disponibile doar în timpul war-ului. După terminarea war-ului, armele dispar din inventarul default.  
+::: 
+
+::: warning
+Armele craftate nu pot fi utilizate în timpul war-ului.  
 :::
 
 ### Obținerea punctelor 
