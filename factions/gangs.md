@@ -324,7 +324,7 @@ Componentele sunt compatibile cu orice tip de armă.
 
 | Imagine | Cantitate produsă | Blueprint necesar | Materiale necesare | Cost producere | 
 | ----------- | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="100" label="9mm" /> | 30 | <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" /> | Necompletat | <Dinero :amount='0'/> |
+| <Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="100" label="9mm" /> | 30 | <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="100" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="100" label="2x Metal Bare" /> | <Dinero :amount='1000'/> |
 | <Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="100" label="12guage" /> | 30 | <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="100" label="12guage" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/ivgAp7g.png" alt="45acp" width="100" label="45acp" /> | 30 | <Image src="https://i.imgur.com/a9rvCFP.png" alt="45acp" width="100" label="45acp" /> | Necompletat | <Dinero :amount='0'/> |
 | <Image src="https://i.imgur.com/Gjadnlz.png" alt="5.56mm" width="100" label="5.56mm" /> | 30 | <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm" width="100" label="5.56mm" /> | Necompletat | <Dinero :amount='0'/> |
