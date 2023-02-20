@@ -36,7 +36,7 @@ title: Grupari Mafiote
 
 **Istoric**:  
 
-***Grove Street Families** s-a format în **Davis** înainte de a se răspândi și în alte cartiere. Istoria de dinainte de această perioadă de timp (sfârșitul anilor 80) este neștiută și o mare parte din ceea ce sa întâmplat. Cu toate acestea, ceea ce se știe este că această grupare este una dintre cele mai vechi din Los Santos. Putem amintii de un trecut al unei rivalități tradiționale, intense și sângeroase cu Ballas. Începutul războiului între cele două grupări este neștiut, dar rivalitatea dintre cele două a fost în plină desfășurare încă din 1987. Motivul rivalității lor cu grupările mexicane din Los Santos s-a format datorită expansiunii și creșterii lor pe teritoriul acestora.* 
+***Grove Street Families** s-a format în **Davis** înainte de a se răspândi și în alte cartiere. Istoria de dinainte de această perioadă de timp (sfârșitul anilor 80) este neștiută și o mare parte din ceea ce s-a întâmplat. Cu toate acestea, ceea ce se știe este că această grupare este una dintre cele mai vechi din Los Santos. Putem aduce în discuție un trecut al unei rivalități tradiționale, intense și sângeroase cu Ballas. Începutul războiului între cele două grupări este neștiut, dar rivalitatea dintre cele două a fost în plină desfășurare încă din 1987. Motivul rivalității lor cu grupările mexicane din Los Santos s-a format datorită expansiunii și creșterii lor pe teritoriul acestora.* 
 
 **Culoare reprezentativă**: <Color hex="#71CB71">Verde</Color>
 
@@ -56,7 +56,7 @@ title: Grupari Mafiote
 
 ### <Color hex="#EEC64E">Los Santos Vagos</Color>
 
-**Los Santos Vagos**, (alias „LSV” sau „Vagos”) este o grupare criminală descentralizată, multinațională, extrem de puternică și una dintre cele mai mari din Los Santos. Vagos sunt susținători ai echipei de fotbal LS Pounders, deoarece poartă haine diferite cu siglele lor și o culoare galbenă care să se potrivească. Interesul lor principal este traficul de substanțe interzie, dar s-au diversificat și în alte tipuri de contrabandă. 
+**Los Santos Vagos**, (alias „LSV” sau „Vagos”) este o grupare criminală descentralizată, multinațională, extrem de puternică și una dintre cele mai mari din Los Santos. Vagos sunt susținători ai echipei de fotbal LS Pounders, deoarece poartă haine diferite cu siglele lor și o culoare galbenă care să se potrivească. Interesul lor principal este traficul de substanțe interzise, dar s-au diversificat și în alte tipuri de contrabandă. 
 
 **Istoric**:
 
