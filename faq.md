@@ -58,8 +58,24 @@ Economia a fost realizată în așa fel încât, profitabilitatea la fiecare din
 
 Așadar, rămâne la decizia ta care job te atrage mai mult din punct de vedere al gameplay-ului. 
 
-## Cum intru într-o facțiune?
+## Ce facțiuni există pe server și cum pot face parte din una?
 
-Pe server sunt active, momentan, doar 7 facțiuni: [**Downtown Taxi Company**](.factions/taxi.md), [**Los Santos Police Department**](.factions/lspd.md), [**Hitman Agency**](.factions/hitman.md) și [**grupările mafiote**](./factions/gangs.md).
+Pe server sunt active, momentan, doar 7 facțiuni: [Downtown Taxi Company](.factions/taxi.md), [Los Santos Police Department](.factions/lspd.md), [Hitman Agency](.factions/hitman.md) și cele 4 [Grupări Mafiote](./factions/gangs.md) ([_Varrios Los Aztecas_](./factions/gangs.md#varrios-los-aztecas), [_Grove Street Families_](./factions/gangs.md#grove-street-families), [_Ballas_](./factions/gangs.md#ballas), [_Los Santos Vagos_](./factions/gangs.md#los-santos-vagos)).
 
-Dacă vrei să te alături uneia dintre facțiunile menționate mai sus, ai nevoie de o aplicație pe [**UCP**](https://ucp.liberty.mp/) pentru facțiunea dorită din secțiunea [**Factions**](https://ucp.liberty.mp/factions). Dacă aplicația ta a fost acceptată, va trebui să susții un test de intrare in facțiune, liderul sau co-liderul fiind nevoiți să atașeze în aplicația ta o dovadă cu acel test.
+
+| Facțiune   | Cerințe minime |  Locuri |
+| ----------- | :-----------: | :-----------: |
+| [**Downtown Taxi Company**](.factions/taxi.md) | Nu s-a decis încă | 30 |
+| [**Los Santos Police Department**](.factions/lspd.md) | Nu s-a decis încă | 30 |
+| [**Hitman Agency**](.factions/hitman.md) | Nu s-a decis încă | 30 |
+| [**Grupări Mafiote**](./factions/gangs.md) | Nu s-a decis încă | 30 |
+
+Dacă dorești să faci parte dintr-o facțiune enumerată mai sus, asigură-te că îndeplinești cerințele minime (**Opened**), astfel vei putea crea o aplicație pe [**UCP**](https://ucp.liberty.mp/) pentru facțiunea dorită din secțiunea [**Factions**](https://ucp.liberty.mp/factions), în care vei fi nevoit să răspunzi la câteva intrebări de natură personală, dar și virtuală (similar cu un CV de angajare).
+
+::: danger
+   Dacă facțiunea dorită are aplicațiile închise (**Closed**), nu vei putea crea o aplicație.
+:::
+
+<Image src="https://i.imgur.com/w6JQmSb.gif" alt="Aplicare" />
+
+Dacă aplicația ta a fost acceptată de către un lider sau co-lider, va trebui să susții un test, cel care a susținut testul cu tine fiind nevoit să atașeze în aplicația ta o dovadă cu faptul că ai susținut acel test, indiferent de rezultatul obținut.
