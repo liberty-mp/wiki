@@ -25,7 +25,7 @@ Prin intermediul acestei aplicații se transmit servicii către **agenția Hitma
 **Echipamentul** presupune schimbarea de **haine**, preluarea **armelor**, mai exact un **pistol cu 36 de gloanțe** în total și un **sniper cu 20 de gloanțe**, suficiente pentru a duce contractul la capăt.
 
 ::: tip
-Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta `E` pe *checkpoint-ul* mov denumit *Faction Locker* 
+Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta `E` pe *checkpoint-ul* mov denumit *Faction Locker*! 
 :::
 <Image src="https://i.imgur.com/dRDFhzZ.png" alt="Pistol" /> 
 <Image src="https://i.imgur.com/DaKm2fC.png" alt="Sniper" />
@@ -54,7 +54,7 @@ Să nu uiți să verifici ce fel de contract este inainte să-l duci la capăt!
 :::
 
 ::: details Exemplu video
-<Image src="http://i.imgur.com/ef9tmRoh.gif" alt="Proces" />
+<Image src="http://i.imgur.com/8lwhrHOh.gif" alt="Proces" />
 :::
 
 ## Pașii contractului
@@ -64,9 +64,12 @@ Odată cu acceptarea unui contract, asasinul are responsabilitatea să-l execute
 3. Assassinate the target
 4. Hide the convert car
 
-Imediat cum membrul Hitman ajunge la *conver car* și urcă în ea la volan, acesta o să primească **locația exactă** a țintei, trecând de sistemul de securitate a telefonului acestuia, reușind sa primească **informații în detaliu despre poziționarea sa**.
+Imediat cum membrul Hitman ajunge la *convert car* și urcă în ea la volan, acesta o să primească **locația exactă** a țintei, trecând de sistemul de securitate a telefonului acestuia, reușind sa primească **informații în detaliu despre poziționarea sa**. De asemenea, ținta are deasupra capului o săgeată **roșie**.
 
 După ce victima este asasinată, este datoria agentului Hitman să ascundă *convert car-ul* și să se facă nevăzut. **Transferul sumei de bani** pusă pe acest serviciu o să fie virat imediat cu **terminarea celor patru pași**. 
+
+Contractul nu este dus la capăt și se consideră *eșuat* dacă membrul Hitman moare sau părăsește jocul.
+
 ::: warning
 Asasinatul nu se face cu **mașina agenției**, ci cu **mașina pe care o primiți la pasul doi**, urmând *checkpoint-ul* pus automat pe hartă!
 :::
