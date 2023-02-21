@@ -296,8 +296,8 @@ Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](.
 În momentul actual, pe serverul [**liberty.mp**](https://ucp.liberty.mp) există **3 tipuri de droguri** care pot fi utilizate:  
 
 - [**Marijuana Joint**](#marijuana-joint); 
-- [**Adderal Pills**](); 
-- [**Crystal Meth**]().
+- [**Adderal Pills**](#adderal-pills); 
+- [**Crystal Meth**](#crystal-meth).
 
 ::: warning
 Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote. 
