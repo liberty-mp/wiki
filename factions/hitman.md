@@ -33,7 +33,7 @@ Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta 
 
 ## Vehicule
 
-**Agenția Hitman** dispune de două vehicule rapide pe care le folosesc să-și îndeplinească scopurile. **8F Drafter-ul** este mereu în garajul agenției, iar **Exemplar-ul** este parcat în fața **HQ-ului**. 
+**Agenția Hitman** dispune de două vehicule rapide pe care le folosește să-și îndeplinească scopurile. **8F Drafter-ul** este mereu în garajul agenției, iar **Exemplar-ul** este parcat în fața **HQ-ului**. 
 
 | Marcă       |      Tip     |  Model |
 | ------------- | :-----------: | ----: |
