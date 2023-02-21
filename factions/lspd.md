@@ -10,18 +10,16 @@ title: LSPD
 
 **Secția** se află într-o zonă activă, centrală, astfel încât oamenii legii pot ajunge cât se poate de repede la orice eveniment **ilegal** sau **neplăcut**. La același sediu sunt aduși oamenii ce sunt **căutați** de poliție pentru a fi încarcerați, pe care îi poți vedea și la închisoare ulterior. Aceasta are o poziționare bună, având un rol important pentru controlul orașului.
 
-<Image src="https://i.imgur.com/zRIqcjg.png" alt="Sediu" />
+<Image src="https://i.imgur.com/zRIqcjg.png" alt="Sediu" label="Locație: Mission Row" labelAlign="left" />
 
 ## Echipamentul
 
 **Echipamentul** presupune schimbarea de **haine** în ținuta de polițist, preluarea **armelor**, mai exact un **pistol**, un **pistol radar**, un **tazer** și un **rifle**.
 
-::: details Arme
-<Image src="https://i.imgur.com/1vZgvbA.png" alt="Pistol" />
-<Image src="https://i.imgur.com/iEj0mw5.png" alt="Radar" />
-<Image src="https://i.imgur.com/Xqgx7Mm.png" alt="Tazer" />
-<Image src="https://i.imgur.com/NkxWiSj.png" alt="Rifle" />
-:::
+<Image src="https://i.imgur.com/496pa8b.png" alt="Pistol" width="150" label="Pistol" />
+<Image src="https://i.imgur.com/EdkzxtF.png" alt="Radar" width="150" label="Radar" />
+<Image src="https://i.imgur.com/rmx6CMm.png" alt="Tazer" width="150" label="Tazer" />
+<Image src="https://i.imgur.com/7JDzBXz.png" alt="Rifle" width="150" label="Rifle" />
 
 **Pistolul radar** are scopul de a surprinde șoferii ce conduc fără licență și cu viteză, iar **tazer-ul** de a imobiliza individul în cauză.
 <Image src="https://i.imgur.com/atYt6Yd.png" alt="radar1" />
@@ -55,7 +53,7 @@ Pentru a porni girofarul, apasă tasta `E`.
 :::
 
 | Mașină        |      Tip      |  
-| ------------- | :-----------: | 
+| :-------------: | :-----------: | 
 | Interceptor      | [**Police Car**](https://static.wikia.nocookie.net/gtawiki/images/6/6b/PoliceCruiser3-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20230216161148) | 
 | Buffalo      |   [**Police Buffalo**](https://static.wikia.nocookie.net/gtawiki/images/b/b1/PoliceCruiser2-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20230216161144)    |   
 | Cruiser |  [**Police Cruiser**](https://static.wikia.nocookie.net/gtawiki/images/b/bd/PoliceCruiser-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160311203102)    |   
@@ -102,5 +100,5 @@ De asemenea, tracking-ul care afișează locația infractorului este **aproximat
 
 Pentru a acorda somații jucătorilor, polițistul o să folosească comanda `/so [id]`, iar respectivul în cauză o să primească notificarea. Pentru a percheziționa pe cineva, se folosește tasta `N`, se selectează jucătorul și se alege opțiunea `frisk`.
 ::: details Exemplu percheziție
-<Image src="http://i.imgur.com/Em2TXkah.gif" alt="frisk" />
+<Image src="http://i.imgur.com/Em2TXka.gif" alt="frisk" />
 :::
