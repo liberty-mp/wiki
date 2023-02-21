@@ -119,7 +119,7 @@ Teritoriile din categoria **Drug Plantation** pot fi folosite de către grupări
 
 | Item | Obținere | 
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/X2Fi4Nx.png" alt="Cannabis Seeds" width="30" label="Cannabis Seeds" /> | containerele turfurilor de tip port | 
+| <Image src="https://i.imgur.com/X2Fi4Nx.png" alt="Cannabis Seeds" width="30" label="Cannabis Seeds" /> | containerele turfurilor de tip [**Port**](#teritorii-de-tip-port) | 
 
 # Sistemul de War
 
@@ -357,7 +357,7 @@ Pentru a culege plantele de **Cannabis**, du-te lângă fiecare și apasă tasta
 
 ### Obținere 
 
-Modul de obținere principal a **Adderal Pills** este prin intermediul teritoriilor de tip [**Port**](#port) deținute de grupările mafiote, unde aceastea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Acestea mai pot fi oferite jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
+Modul de obținere principal a **Adderal Pills** este prin intermediul teritoriilor de tip [**Port**](#teritorii-de-tip-port) deținute de grupările mafiote, unde aceastea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Acestea mai pot fi oferite jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
 
 ## **Crystal Meth**
 
@@ -371,5 +371,4 @@ Modul de obținere principal a **Adderal Pills** este prin intermediul teritorii
 
 ### Obținere 
 
-Modul de obținere principal al **Crystal Meth** este prin intermediul teritoriilor de tip [**Port**](#port) deținute de grupările mafiote, unde aceastea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Aceasta mai pot fi oferit jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
-
+Modul de obținere principal al **Crystal Meth** este prin intermediul teritoriilor de tip [**Port**](#teritorii-de-tip-port) deținute de grupările mafiote, unde aceastea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Aceasta mai pot fi oferit jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
