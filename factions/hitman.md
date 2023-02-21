@@ -54,7 +54,7 @@ Să nu uiți să verifici ce fel de contract este inainte să-l duci la capăt!
 :::
 
 ::: details Exemplu video
-<Image src="http://i.imgur.com/8lwhrHOh.gif" alt="Proces" />
+<Image src="https://i.imgur.com/8lwhrHO.gif" alt="Proces" />
 :::
 
 ## Pașii contractului
