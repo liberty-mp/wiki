@@ -34,7 +34,7 @@ Pentru a înregistra activitatea lor de lucru, taximetriștii utilizează telefo
 
 Preluarea unei comenzi se realizează prin deschiderea aplicației [Taxi](https://wiki.liberty.mp/general/phone#taxi) din telefon, se selectează comanda dorită iar apoi se apasă butonul `YES` pentru confirmare.
 
-<Img src = "https://i.imgur.com/o8NNmKw.gif" alt="preluare comanda"/>
+<Image src = "https://i.imgur.com/o8NNmKw.gif" alt="preluare comanda"/>
 
 ### Anularea unei comenzi
 
@@ -42,5 +42,5 @@ Preluarea unei comenzi se realizează prin deschiderea aplicației [Taxi](https:
 
 Anularea unei comenzi se realizează prin deschiderea aplicației [Taxi](https://wiki.liberty.mp/general/phone#taxi) din telefon, apăsând butonul `CANCEL`.
 
-<Img src = "https://i.imgur.com/C09Ik0E.gif" alt = "anulare comanda"/>
+<Image src = "https://i.imgur.com/C09Ik0E.gif" alt = "anulare comanda"/>
 
