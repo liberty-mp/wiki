@@ -2,7 +2,7 @@
 title: Hitman Agency
 ---
 
-### Informații generale despre <Color hex="#6b1818">Hitman Agency</Color>
+### Informații generale despre Hitman Agency
 
 **Hitman Agency** este o grupare de asasini profesioniști plătiți pentru anumite servicii primite de la alți oameni prin intermediul aplicației *Hitman* din telefonul mobil. Aceștia acționează cu finețe și strategie pentru a satisface clientul.
 
@@ -16,7 +16,7 @@ title: Hitman Agency
 
 ## Aplicația Hitman
 
-Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim 200 USDT și pot fi de **două tipuri**, mai exact fară martori și cât se poate de **discret** sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, <Color hex="#6b1818">**indiferent de circumstanțe**</Color>.
+Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim 200 USDT și pot fi de **două tipuri**, mai exact fară martori și cât se poate de **discret** sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe.
 
 <Image src="https://i.imgur.com/3oHqd3o.png" alt="Hitman" /> 
 
@@ -40,9 +40,6 @@ Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta 
 | Obey      | Sports Coupe | [**8F Drafter**](https://static.wikia.nocookie.net/gtawiki/images/b/b8/8FDrafter-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20190723230655) |
 | Dewbauchee      |   Luxury Sedan    |   [**Exemplar**](https://static.wikia.nocookie.net/gtawiki/images/d/de/Exemplar-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20150530112831) |
 
-
-
-
 ## Contractul
 
 Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsarea tastei `E` pe *checkpoint-ul* mov de lângă harta orașului după ce te-ai echipat. Toate contractele valabile o să fie afișate, împreună cu suma pe care asasinul o să o încaseze **după** finalizarea serviciului, numele țintei, ce tip de contract este și totodată când a fost pus contractul. 
@@ -62,10 +59,10 @@ Să nu uiți să verifici ce fel de contract este inainte să-l duci la capăt!
 
 ## Pașii contractului
 Odată cu acceptarea unui contract, asasinul are responsabilitatea să-l execute. Acesta primește patru pași pe care trebuie să-i urmeze pentru a asasina persoana în cauză. Aceste sarcini în ordine sunt:
-- <Color hex="#6b1818">**Get equipped for your hit**</Color>
-- <Color hex="#6b1818">**Get in the convert car**</Color>
-- <Color hex="#6b1818">**Assassinate the target**</Color>
-- <Color hex="#6b1818">**Hide the convert car**</Color>
+1. Get equipped for your hit
+2. Get in the convert car
+3. Assassinate the target
+4. Hide the convert car
 
 Imediat cum membrul Hitman ajunge la *conver car* și urcă în ea la volan, acesta o să primească **locația exactă** a țintei, trecând de sistemul de securitate a telefonului acestuia, reușind sa primească **informații în detaliu despre poziționarea sa**.
 
