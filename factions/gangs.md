@@ -353,7 +353,7 @@ Pentru a culege plantele de **Cannabis**, du-te lângă fiecare și apasă tasta
 
 | Efecte după consum | Durată |
 | :-----------: | :-----------: | 
-| 10% job boost | 15 minute |
+| Reduce recoil-ul în timpul tragerii | 15 minute |
 
 ### Obținere 
 
@@ -367,7 +367,7 @@ Modul de obținere principal a **Adderal Pills** este prin intermediul teritorii
 
 | Efecte după consum | Durată |
 | :-----------: | :-----------: | 
-| 10% job boost | 15 minute |
+| Reduce DMG-ul primit la war | 15 minute |
 
 ### Obținere 
 
