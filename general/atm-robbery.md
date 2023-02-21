@@ -17,7 +17,7 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 
 ### De unde pot procura itemele pentru jefuire?
 
-**Itemele** le poți primi la **finalizarea** unei ture de job la **Garbageman**
+**Itemele** le poți primi la **finalizarea** unei ture de job la **Garbageman**.
 
 ### Căt pot câștiga dacă jefuiesc un ATM?
 
@@ -40,7 +40,7 @@ De fiecare data când vei jefui un ATM, vei primi 100% Heat Level, care va scade
 
 ### Cum jefuiesc un ATM?
 
-Pentru jefuirea unui ATM, va trebui sa **NU** aveți wanted și nici Heat Level 
+Pentru jefuirea unui ATM, va trebui sa **NU** aveți wanted și nici Heat Level. 
 
 - Odată început rob-ul, ai 30 de secunde sa atașezi funia de ATM și de masină, în caz contrar vei da fail.
 ::: details Începerea rob-ului  
