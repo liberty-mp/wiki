@@ -361,7 +361,7 @@ Modul de obținere principal a **Adderal Pills** este prin intermediul teritorii
 
 ## **Crystal Meth**
 
-<Image src="https://i.imgur.com/nbaIUiG.png" alt="Marijuana Joint" width="50" label="Adderal Pills" />
+<Image src="https://i.imgur.com/nbaIUiG.png" alt="Marijuana Joint" width="50" label="Crystal Meth" />
 
 **Crystal Meth** este o substanță psiho-stimulentă care cauzează diverse stări de euforie.  
 
