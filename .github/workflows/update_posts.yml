@@ -32,6 +32,7 @@ jobs:
           mkdir ./wiki/new_wiki
           mv -f ./wiki/wiki/.vitepress ./wiki/new_wiki
           mv -f ./wiki/wiki/public ./wiki/new_wiki
+          mv -f ./wiki/wiki/vite.config.ts ./wiki/new_wiki
           mv -f ./posts/* ./wiki/new_wiki
           rm -rf ./wiki/wiki
           mv -f ./wiki/new_wiki ./wiki/wiki
