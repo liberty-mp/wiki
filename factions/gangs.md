@@ -234,7 +234,7 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 ## Blueprint-uri 
 
 **Blueprint-urile** reprezintă instrucțiunile pentru proiectarea obiectelor (armelor, componentelor și muniției).\
-Acestea se pot obține din teritoriile tip [**Port**](#port) sau prin inspectarea unui item ([**Research Table**](https://i.imgur.com/dnzRdZ5.png)).
+Acestea se pot obține din teritoriile tip [**Port**](#teritorii-de-tip-port) sau prin inspectarea unui item ([**Research Table**](https://i.imgur.com/dnzRdZ5.png)).
 
 **Pe server exista urmatoarele blueprint-uri:** 
 
@@ -289,15 +289,15 @@ Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](.
 | <Image src="https://i.imgur.com/ivgAp7g.png" alt="45acp" width="50" label="30x .45 ACP Ammo" /> | <Image src="https://i.imgur.com/a9rvCFP.png" alt="45acp" width="50" label=".45 ACP Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="50" label="2x Metal Bare" /> |
 | <Image src="https://i.imgur.com/Gjadnlz.png" alt="5.56mm" width="50" label="30x 5.56mm Ammo" /> | <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm Ammo Blueprint" width="50" label="5.56mm Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="50" label="2x Metal Bare" /> |
 
-# Sistemul de Droguri
+## Sistemul de Droguri
 
 ### Informații generale despre droguri 
 
-În momentul actual, pe serverul [**liberty.mp**](https://ucp.liberty.mp) există **3 tipuri de droguri** care pot fi utilizate:  
+În momentul actual, pe server există **3 tipuri de droguri** care pot fi utilizate:  
 
-- [**Marijuana Joint**](#marijuana-joint); 
-- [**Adderal Pills**](#adderal-pills); 
-- [**Crystal Meth**](#crystal-meth).
+- [**Marijuana Joint**](#marijuana-joint)
+- [**Adderal Pills**](#adderal-pills)
+- [**Crystal Meth**](#crystal-meth)
 
 ::: warning
 Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote. 
