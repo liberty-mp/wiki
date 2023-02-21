@@ -61,7 +61,7 @@ title: Grupari Mafiote
 
 **Los Santos Vagos** este învăluită în mister, precum și multe dintre evenimentele din jurul grupării, deși, probabil, a încercat să se formeze simultan în relație cu celelalte grupări din Los Santos în anii 1970 și 1980. Imigrația venită din Mexic și din alte țări din America Latină a crescut populația zonei și se poate presupune că privarea zonei, precum și atitudinile cinice față de forțele de ordine au permis grupării să se formeze și să înflorească.
 
-**Culoare reprezentativă**: <Color hex="#EEC64E">Portocaliu</Color>
+**Culoare reprezentativă**: <Color hex="#EEC64E">Galben</Color>
 
 <Image src="https://i.imgur.com/PbN9X9y.png" alt="HQ Los Santos Vagos" label="Locație: Vitus Street" labelAlign="left" />
 
