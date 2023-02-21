@@ -2,27 +2,27 @@
 title: Marketplace
 ---
 
-# Informații generale despre marketplace
+## Informații generale despre marketplace
 
 Marketplace-ul reprezintă unul dintre cele mai importante sisteme integrate pe serverul [**liberty.mp**](https://ucp.liberty.mp), acesta le permite jucătorilor să cumpere sau să vândă diverse bunuri.
 
-# Intrebări frecvente
+## Intrebări frecvente
 
-## Am nevoie de un anume level pentru a folosi marketplace-ul?
+### Am nevoie de un anume level pentru a folosi marketplace-ul?
 
 Folosirea marketplace-ului necesită minim level 5.
 
-## Unde se află marketplace-ul?
+### Unde se află marketplace-ul?
 
 Localizarea marketplace-ului se poate face prin deschiderea aplicației [**Maps**](https://wiki.liberty.mp/general/phone#maps) de pe telefon, selectând categoria **Businesses**, unde veți găsi opțiunea **News Agency**.
 
-## Cum pot interacționa cu marketplace-ul?
+### Cum pot interacționa cu marketplace-ul?
 
 Interacționarea cu marketplace-ul se face prin apăsarea tastei `G` pentru deschidere, iar tasta `ESC` pentru iesire. Acesta funcționează pe principiul Drag & Drop în cea mai mare proporție.
 
-# Categorii
+## Categorii
 
-## Items List
+### Items List
 
 In această categorie sunt afișate bunurile listate de catre jucatori, puteți vedea informații precum:
   - Numele bunului
