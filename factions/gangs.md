@@ -311,7 +311,7 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote.
 
 | Efecte după consum | Durată |
 | :-----------: | :-----------: | 
-| Necompletat | 15 minute |
+| 10% job boost | 15 minute |
 
 ### Obținere
 
@@ -345,5 +345,31 @@ Pentru a planta semințele de **Cannabis**, intră în inventar și apasă *clic
 Pentru a culege plantele de **Cannabis**, du-te lângă fiecare și apasă tasta `E`. 
 ::: 
 
+## **Adderal Pills**
 
+<Image src="https://i.imgur.com/Kn658hi.png" alt="Marijuana Joint" width="50" label="Adderal Pills" />
+
+**Adderal Pills** sunt niște pastile cu un amestec obținut din săruri mixte de amfetamine.  
+
+| Efecte după consum | Durată |
+| :-----------: | :-----------: | 
+| 10% job boost | 15 minute |
+
+### Obținere 
+
+Modul de obținere principal a **Adderal Pills** este prin intermediul teritoriilor de tip [**Port**](#port) deținute de grupările mafiote, unde aceastea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Acestea mai pot fi oferite jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
+
+## **Crystal Meth**
+
+<Image src="https://i.imgur.com/nbaIUiG.png" alt="Marijuana Joint" width="50" label="Adderal Pills" />
+
+**Crystal Meth** este o substanță psiho-stimulentă care cauzează diverse stări de euforie.  
+
+| Efecte după consum | Durată |
+| :-----------: | :-----------: | 
+| 10% job boost | 15 minute |
+
+### Obținere 
+
+Modul de obținere principal al **Crystal Meth** este prin intermediul teritoriilor de tip [**Port**](#port) deținute de grupările mafiote, unde aceastea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Aceasta mai pot fi oferit jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
 
