@@ -210,7 +210,7 @@ Statisticile personale pot fi vizualizate și în timpul war-ului, în partea di
 
 ### Informații generale despre craft-uri 
 
-**Sistemul de Craftare** reprezintă procesul de a obținere de armament, componente (atașamente) pentru arme sau muniție.
+**Sistemul de Craftare** reprezintă procesul de obținere de armament, componente (atașamente) pentru arme sau muniție.
 
 ## Instrumente 
 
@@ -288,4 +288,62 @@ Materialele pot fi obținute de la jucători sau lucrând la jobul [**Miner**](.
 | <Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="50" label="30x 12-gauge Ammo" /> | <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="50" label="12-gauge Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="50" label="2x Metal Bare" /> |
 | <Image src="https://i.imgur.com/ivgAp7g.png" alt="45acp" width="50" label="30x .45 ACP Ammo" /> | <Image src="https://i.imgur.com/a9rvCFP.png" alt="45acp" width="50" label=".45 ACP Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="50" label="2x Metal Bare" /> |
 | <Image src="https://i.imgur.com/Gjadnlz.png" alt="5.56mm" width="50" label="30x 5.56mm Ammo" /> | <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm Ammo Blueprint" width="50" label="5.56mm Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="50" label="2x Metal Bare" /> |
+
+# Sistemul de Droguri
+
+### Informații generale despre droguri 
+
+În momentul actual, pe serverul [**liberty.mp**](https://ucp.liberty.mp) există **3 tipuri de droguri** care pot fi utilizate:  
+
+- [**Marijuana Joint**](#marijuana-joint); 
+- [**Adderal Pills**](); 
+- [**Crystal Meth**]().
+
+::: warning
+Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote. 
+:::  
+
+## **Marijuana Joint** 
+
+<Image src="https://i.imgur.com/o5XphUl.png" alt="Marijuana Joint" width="50" label="Marijuana Joint" />
+
+**Marijuana Joint** este o țigară cu un amestec obținut din frunzele și tulpina plantei de **Cannabis** ajunsă la maturitate. 
+
+| Efecte după consum | Durată |
+| :-----------: | :-----------: | 
+| Necompletat | 15 minute |
+
+### Obținere
+
+| Materiale necesare | 
+| :-----------: | 
+| <Image src="https://i.imgur.com/XW4F0dG.png" alt="Cannabis Seeds" width="50" label="Cannabis Seeds" /> |
+
+Pentru a obține **Marijuana Joint** ai nevoie de **Cannabis Seeds** pe care trebuie să le plantezi în teritorii de tip **Drug Plantation**.
+
+> Vezi care sunt teritoriile de tip [**Drug Plantation**](#drug-plantation).
+
+<Image src="https://i.imgur.com/k5CczMZ.jpg" alt="DoneCannabis" label="Plantarea semințelor de Cannabis" labelAlign="left" /> <Image src="https://i.imgur.com/4uwibf7.jpg" alt="DoneCannabis" /> 
+
+Semințele de **Cannabis** pot fi plantate doar pe terenurile arabile din spațiul delimitat al teritoriilor.
+
+::: tip
+Pentru a planta semințele de **Cannabis**, intră în inventar și apasă *click-dreapta* pe ele, apoi pe opțiunea **Plant Seeds**. 
+::: 
+
+| Cantitate plantată | Timp de așteptare | Cantitate obținută | 
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/XW4F0dG.png" alt="Cannabis Seeds" width="50" label="1x Cannabis Seeds" /> | 10 minute | <Image src="https://i.imgur.com/o5XphUl.png" alt="Marijuana Joint" width="50" label="5x Marijuana Joint" /> | 
+
+<Image src="https://i.imgur.com/gikVFXX.jpg" alt="DoneCannabis" label="Evoluția plantei de Cannabis" labelAlign="left" /> <Image src="https://i.imgur.com/s0sLbAE.jpg" alt="DoneCannabis" /> 
+
+În momentul în care planta de **Cannabis** a ajuns la maturitate (după timpul de așteptare), o poți culege. 
+
+<Image src="https://i.imgur.com/RAhzaVM.jpg" alt="DoneCannabis" label="Culegerea plantei de Cannabis" labelAlign="left" /> 
+
+::: tip
+Pentru a culege plantele de **Cannabis**, du-te lângă fiecare și apasă tasta `E`. 
+::: 
+
+
 
