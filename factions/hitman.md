@@ -27,8 +27,9 @@ Prin intermediul acestei aplicații se transmit servicii către **agenția Hitma
 ::: tip
 Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta `E` pe *checkpoint-ul* mov denumit *Faction Locker*! 
 :::
-<Image src="https://i.imgur.com/dRDFhzZ.png" alt="Pistol" /> 
-<Image src="https://i.imgur.com/DaKm2fC.png" alt="Sniper" />
+
+<Image src="https://i.imgur.com/kp2pnkN.png" alt="Pistol" label="Pistol" width="150" /> 
+<Image src="https://i.imgur.com/LNDlffh.png" alt="Sniper" label="Sniper Rifle" width="150" />
 
 
 ## Vehicule
