@@ -63,7 +63,7 @@ Pentru a porni girofarul, apasă tasta `E`.
 ## Wanted
 Oamenii care sunt urmăriți de poliție au un anumit grad de gravitate raportat la **crima** sau *ilegalitatea* lor. Acesta prezintă două tipuri, mai exact infractori cu **drept de predare** și infractori **fără drept de predare**. Mai multe informații în detaliu despre acestea sunt [**aici**](https://ucp.liberty.mp/forums/post/5).
 
-Pentru a identifica atât *motivul, wanted-ul, cât și locația infractorului*, polițistul o să utilizeze **Police Computer-ul** atunci când este în interiorul unei masini, apăsând pe tasta `P`. În acesta poate să vadă lista activă cu criminali, să le vadă poziția, să caute persoane după nume, să cheme întăriri, dar și [**altele**](#police-computer).
+Pentru a identifica atât *motivul, wanted-ul, cât și locația infractorului*, polițistul o să utilizeze **Police Computer-ul** atunci când este în interiorul unei mașini, apăsând pe tasta `P`. În acesta poate să vadă lista activă cu criminali, să le vadă poziția, să caute persoane după nume, să cheme întăriri, dar și [**altele**](#police-computer).
 
 <Image src="https://i.imgur.com/ywpEsfN.gif" alt="PC1" />
 
