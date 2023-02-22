@@ -38,7 +38,7 @@ Preluarea unei comenzi se realizează prin deschiderea aplicației [Taxi](../gen
 
 ### Anularea unei comenzi
 
-::: info 
+::: tip 
 Pentru a vedea cazurile în care se poate anula o comandă poți vedea [aici](https://ucp.liberty.mp/forums/post/6/reply/4). 
 :::
 
