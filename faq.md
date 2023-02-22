@@ -64,7 +64,7 @@ Pe server sunt active, momentan, doar 7 facțiuni: [Downtown Taxi Company](.fact
 
 
 | Facțiune   | Cerințe minime |  Locuri |
-| ----------- | :-----------: | :-----------: |
+| :-----------: | :-----------: | :-----------: |
 | [**Downtown Taxi Company**](.factions/taxi.md) | Nu s-a decis încă | 30 |
 | [**Los Santos Police Department**](.factions/lspd.md) | Nu s-a decis încă | 30 |
 | [**Hitman Agency**](.factions/hitman.md) | Nu s-a decis încă | 30 |
