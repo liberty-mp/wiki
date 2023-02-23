@@ -4,7 +4,7 @@ title: Hoteluri & Moteluri
 
 ### Informații generale despre hoteluri și moteluri 
 
-**Hotelurile și Motelurile** sunt unități de cazare pe care orice jucător le poate închiria (nu simultan), în funcție de necesități pe care acesta le are. 
+**Hotelurile și Motelurile** sunt unități de cazare pe care orice jucător le poate închiria (nu simultan), în funcție de necesitățile pe care acesta le are. 
 
 ::: tip
 Fiecare jucător nou care se înregistrează pe serverul [**liberty.mp**](https://ucp.liberty.mp/) este repartizat automat la un **Hotel** de pe raza orașului **Los Santos**, în limita camerelor disponibile.
@@ -52,7 +52,7 @@ După ce te deplasezi în locație, intră în checkpoint și apăsă tasta `E` 
 
 <Image src="https://i.imgur.com/OtQthbg.png" alt="Hotel" label="Procedura de Check-in" labelAlign="left" /> 
 
-După ce ți se deschide meniul, poți introduce numărul de zile pentru care vrei să te închiriezi locația (între **1-30** de zile). Ulterior, apasă *click-stânga* pe butonul **Submit**. 
+După ce ți se deschide meniul, poți introduce numărul de zile pentru care vrei să închiriezi locația (între **1-30** de zile). Ulterior, apasă *click-stânga* pe butonul **Submit**. 
 
 ::: tip
 În colțul din stânga-jos o să primești o notificare, iar plata se efectueză automat pentru numărul de zile introdus.
@@ -60,7 +60,7 @@ După ce ți se deschide meniul, poți introduce numărul de zile pentru care vr
 
 <Image src="https://i.imgur.com/TvWKMTZ.png" alt="Hotel" label="Opțiunile locației" labelAlign="left" /> 
 
-Pentru a extinde numărul de zile pentru care dorești să închiriezi locația, trebuie să intrii în interiorul acesteia, apoi în checkpoint-ul de la ușa principală și să apeși tasta `F` (**Options**). Ulterior, apasă *click-stânga* pe butonul **Extend** și poți introduce numărul de zile pentru care dorești să extinzi șederea în locație.  
+Pentru a extinde numărul de zile pentru care dorești să închiriezi locația, trebuie să intri în interiorul acesteia, apoi în checkpoint-ul de la ușa principală și să apeși tasta `F` (**Options**). Ulterior, apasă *click-stânga* pe butonul **Extend** și poți introduce numărul de zile pentru care dorești să extinzi șederea în locație.  
 
 Dacă dorești să renunți la locație, urmează aceiași pași de mai sus, doar că trebuie să apeși *click-stânga* pe butonul pentru **Check-out**. 
 
