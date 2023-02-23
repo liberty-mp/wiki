@@ -22,13 +22,13 @@ Localizarea sediului se poate face prin deschiderea aplicației [Maps](../genera
 
 ## Faction Locker
 
-Faction Locker este locul în care te poți pune **ON-DUTY** sau **OFF-DUTY**, acest lucru se face prin apăsarea tastei `E` lânga checkpoint. Acesta se gasește în garajul sediului.
+**Faction Locker-ul** este locul în care te poți pune **ON-DUTY** sau **OFF-DUTY**, acest lucru se face prin apăsarea tastei `E` lânga checkpoint. Acesta se gasește în garajul sediului.
  
 <Image src = "https://i.imgur.com/p1tTdPG.png" alt="locker" width="450px" />
 
 ## Informatii despre comenzi
 
-Pentru a înregistra activitatea lor de lucru, taximetriștii utilizează telefonul pentru a prelua și gestiona comenzile de taxi. De obicei, interacțiunea cu clienții este realizată automat prin intermediul aplicatiei [Taxi](../general/phone#taxi).
+Pentru a înregistra activitatea lor de lucru, taximetriștii utilizează telefonul pentru a prelua și gestiona comenzile de taxi. De obicei, interacțiunea cu clienții este realizată automat prin intermediul aplicației [Taxi](../general/phone#taxi).
 
 ### Preluarea unei comenzi 
 
@@ -39,7 +39,7 @@ Preluarea unei comenzi se realizează prin deschiderea aplicației [Taxi](../gen
 ### Anularea unei comenzi
 
 ::: tip 
-Pentru a vedea cazurile în care se poate anula o comandă poți vedea [aici](https://ucp.liberty.mp/forums/post/6/reply/4). 
+Pentru a vedea cazurile în care se poate anula o comandă, poți verifica [aici](https://ucp.liberty.mp/forums/post/6/reply/4). 
 :::
 
 Anularea unei comenzi se realizează prin deschiderea aplicației [Taxi](../general/phone#taxi) din telefon, apăsând butonul `CANCEL`.
