@@ -24,7 +24,7 @@ Fiecare **Hotel** are un număr aproximativ de peste **50 de camere**.
 
 | Iconiță specifică | Număr total | Zone geografice | Preț / zi |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/zGPYlER.png" alt="Hotel" width="30" label="Hotel Blip" /> | 4  |  [**West Vinewood**](https://i.imgur.com/i9ckVOL.png) (1), [**Richard Majestic**](https://i.imgur.com/wNd6dzR.png) (1), [**Pillbox Hill**](https://i.imgur.com/uqo0n5E.png) (2) |  <Dinero :amount="150" /> |
+| <Image src="https://i.imgur.com/zGPYlER.png" alt="Hotel" width="30" label="Hotel Blip" /> | 4  |  [**West Vinewood**](https://i.imgur.com/i9ckVOL.png) (1) <br> [**Richard Majestic**](https://i.imgur.com/wNd6dzR.png) (1) <br> [**Pillbox Hill**](https://i.imgur.com/uqo0n5E.png) (2) |  <Dinero :amount="150" /> |
 
 ## Moteluri
 
@@ -32,7 +32,7 @@ Fiecare **Motel** are doar **o singură cameră** (de aceea sunt 55 la număr).
 
 | Iconiță specifică | Număr total | Zone geografice | Preț / zi |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/PB9PgvF.png" alt="Motel" width="30" label="Motel Blip" /> | 55  |  [**Rancho**](https://i.imgur.com/KAgrDXa.png) (15), [**Del Perro**](https://i.imgur.com/kAgZGLW.png) (9), [**Alta**](https://i.imgur.com/loalFLO.png) (14), [**East Vinewood**](https://i.imgur.com/kKKEAIg.png) (5), [**Paleto Bay**](https://i.imgur.com/pGUSuWX.png) (12) | <Dinero :amount="75" /> | 
+| <Image src="https://i.imgur.com/PB9PgvF.png" alt="Motel" width="30" label="Motel Blip" /> | 55  |  [**Rancho**](https://i.imgur.com/KAgrDXa.png) (15) <br> [**Del Perro**](https://i.imgur.com/kAgZGLW.png) (9) <br> [**Alta**](https://i.imgur.com/loalFLO.png) (14) <br> [**East Vinewood**](https://i.imgur.com/kKKEAIg.png) (5) <br> [**Paleto Bay**](https://i.imgur.com/pGUSuWX.png) (12) | <Dinero :amount="75" /> | 
 
 ::: tip
 Disponibilitatea unui **Motel** este redată de culoarea verde a iconiței de pe minimap-ul din joc. 
@@ -46,11 +46,11 @@ Pentru a închiria o cameră într-un **Hotel** sau **Motel**, trebuie să verif
 Procedura de Check-in a unei camere de **Hotel** sau **Motel** este aceeași. 
 ::: 
 
-<Image src="https://i.imgur.com/OWGr1C9.png" alt="Hotel" label="Deplasarea în locație" /> 
+<Image src="https://i.imgur.com/OWGr1C9.png" alt="Hotel" label="Deplasarea în locație" labelAlign="left" /> 
 
 După ce te deplasezi în locație, intră în checkpoint și apăsă tasta `E` (**Rent room**) pentru a deschide meniul.   
 
-<Image src="https://i.imgur.com/OtQthbg.png" alt="Hotel" label="Procedura de Check-in" /> 
+<Image src="https://i.imgur.com/OtQthbg.png" alt="Hotel" label="Procedura de Check-in" labelAlign="left" /> 
 
 După ce ți se deschide meniul, poți introduce numărul de zile pentru care vrei să te închiriezi locația (între **1-30** de zile). Ulterior, apasă *click-stânga* pe butonul **Submit**. 
 
@@ -58,7 +58,7 @@ După ce ți se deschide meniul, poți introduce numărul de zile pentru care vr
 În colțul din stânga-jos o să primești o notificare, iar plata se efectueză automat pentru numărul de zile introdus.
 ::: 
 
-<Image src="https://i.imgur.com/TvWKMTZ.png" alt="Hotel" label="Opțiunile locației" /> 
+<Image src="https://i.imgur.com/TvWKMTZ.png" alt="Hotel" label="Opțiunile locației" labelAlign="left" /> 
 
 Pentru a extinde numărul de zile pentru care dorești să închiriezi locația, trebuie să intrii în interiorul acesteia, apoi în checkpoint-ul de la ușa principală și să apeși tasta `F` (**Options**). Ulterior, apasă *click-stânga* pe butonul **Extend** și poți introduce numărul de zile pentru care dorești să extinzi șederea în locație.  
 
