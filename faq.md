@@ -60,14 +60,14 @@ Așadar, rămâne la decizia ta care job te atrage mai mult din punct de vedere 
 
 ## Ce facțiuni există pe server și cum pot face parte din una?
 
-Pe server sunt active, momentan, doar 7 facțiuni: [Downtown Taxi Company](.factions/taxi.md), [Los Santos Police Department](.factions/lspd.md), [Hitman Agency](.factions/hitman.md) și cele 4 [Grupări Mafiote](./factions/gangs.md) ([_Varrios Los Aztecas_](./factions/gangs.md#varrios-los-aztecas), [_Grove Street Families_](./factions/gangs.md#grove-street-families), [_Ballas_](./factions/gangs.md#ballas), [_Los Santos Vagos_](./factions/gangs.md#los-santos-vagos)).
+Pe server sunt active, momentan, doar 7 facțiuni: [Downtown Taxi Company](./factions/taxi.md), [Los Santos Police Department](./factions/lspd.md), [Hitman Agency](./factions/hitman.md) și cele 4 [Grupări Mafiote](./factions/gangs.md) ([_Varrios Los Aztecas_](./factions/gangs.md#varrios-los-aztecas), [_Grove Street Families_](./factions/gangs.md#grove-street-families), [_Ballas_](./factions/gangs.md#ballas), [_Los Santos Vagos_](./factions/gangs.md#los-santos-vagos)).
 
 
 | Facțiune   | Cerințe minime |  Locuri |
 | :-----------: | :-----------: | :-----------: |
-| [**Downtown Taxi Company**](.factions/taxi.md) | Nu s-a decis încă | 30 |
-| [**Los Santos Police Department**](.factions/lspd.md) | Nu s-a decis încă | 30 |
-| [**Hitman Agency**](.factions/hitman.md) | Nu s-a decis încă | 30 |
+| [**Downtown Taxi Company**](./factions/taxi.md) | Nu s-a decis încă | 30 |
+| [**Los Santos Police Department**](./factions/lspd.md) | Nu s-a decis încă | 30 |
+| [**Hitman Agency**](./factions/hitman.md) | Nu s-a decis încă | 30 |
 | [**Grupări Mafiote**](./factions/gangs.md) | Nu s-a decis încă | 30 |
 
 Dacă dorești să faci parte dintr-o facțiune enumerată mai sus, asigură-te că îndeplinești cerințele minime (**Opened**), astfel vei putea crea o aplicație pe [**UCP**](https://ucp.liberty.mp/) pentru facțiunea dorită din secțiunea [**Factions**](https://ucp.liberty.mp/factions), în care vei fi nevoit să răspunzi la câteva intrebări de natură personală, dar și virtuală (similar cu un CV de angajare).
