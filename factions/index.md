@@ -40,7 +40,7 @@ Este un procedeu foarte **ușor** și **intuitiv**. Acesta presupune accesarea [
 
 Fiecare facțiune are un **număr maxim** de membri, un lider, un **nivel minim** și un status în legătură cu aplicațiile, mai exact *closed* sau *opened*. Dacă acestea sunt **deschise**, apeși pe butonul **verde** `Opened` și începi să îți scrii aplicația, ca mai apoi să o trimiți. Dacă sunt **închise** nu poți să aplici momentan.
 
-::: Exemplu aplicație
+::: details Exemplu aplicație
 <Image src="https://i.imgur.com/VR0m4Td.gif" alt="aplicatiemodel" />
 :::
 
