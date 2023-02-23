@@ -78,4 +78,4 @@ Dacă dorești să faci parte dintr-o facțiune enumerată mai sus, asigură-te 
 
 <Image src="https://i.imgur.com/w6JQmSb.gif" alt="Aplicare" />
 
-Dacă aplicația ta a fost acceptată de către un lider sau co-lider, va trebui să susții un test, cel care a susținut testul cu tine fiind nevoit să atașeze în aplicația ta o dovadă cu faptul că ai susținut acel test, indiferent de rezultatul obținut.
+Dacă aplicația ta a fost acceptată de către un lider sau co-lider, va trebui să susții un test, cel care a susținut testul cu tine fiind nevoit să atașeze în aplicația ta o dovadă cu faptul că ai susținut acel test, indiferent de rezultatul obținut. Mai multe informații legate de facțiuni aveți [**aici**](https://wiki.liberty.mp/factions/)!
