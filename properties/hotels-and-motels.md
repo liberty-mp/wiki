@@ -2,4 +2,68 @@
 title: Hoteluri & Moteluri
 ---
 
-hotels-and-motels
+### Informații generale despre hoteluri și moteluri 
+
+**Hotelurile și Motelurile** sunt unități de cazare pe care orice jucător le poate închiria (nu simultan), în funcție de necesități pe care acesta le are. 
+
+::: tip
+Fiecare jucător nou care se înregistrează pe serverul [**liberty.mp**](https://ucp.liberty.mp/) este repartizat automat la un **Hotel** de pe raza orașului **Los Santos**, în limita camerelor disponibile.
+:::  
+
+Poți vizualiza locația închiriată, respectiv **ID-ul** (numărul din dreptul simbolului `#`) acesteia din **Profil**, categoria **General**, **Your Rent**. 
+
+<Image src="https://i.imgur.com/729Me2L.png" alt="Hotel" /> 
+
+::: tip
+Dacă dorești un waypoint în locația închiriată, apasă *click-stânga* pe simbolul alăturat (cel alb din dreapta). 
+::: 
+
+## Hoteluri
+
+Fiecare **Hotel** are un număr aproximativ de peste **50 de camere**.
+
+| Iconiță specifică | Număr total | Zone geografice | Preț / zi |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/zGPYlER.png" alt="Hotel" width="30" label="Hotel Blip" /> | 4  |  [**West Vinewood**](https://i.imgur.com/i9ckVOL.png) (1), [**Richard Majestic**](https://i.imgur.com/wNd6dzR.png) (1), [**Pillbox Hill**](https://i.imgur.com/uqo0n5E.png) (2) |  <Dinero :amount="150" /> |
+
+## Moteluri
+
+Fiecare **Motel** are doar **o singură cameră** (de aceea sunt 55 la număr).
+
+| Iconiță specifică | Număr total | Zone geografice | Preț / zi |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/PB9PgvF.png" alt="Motel" width="30" label="Motel Blip" /> | 55  |  [**Rancho**](https://i.imgur.com/KAgrDXa.png) (15), [**Del Perro**](https://i.imgur.com/kAgZGLW.png) (9), [**Alta**](https://i.imgur.com/loalFLO.png) (14), [**East Vinewood**](https://i.imgur.com/kKKEAIg.png) (5), [**Paleto Bay**](https://i.imgur.com/pGUSuWX.png) (12) | <Dinero :amount="75" /> | 
+
+::: tip
+Disponibilitatea unui **Motel** este redată de culoarea verde a iconiței de pe minimap-ul din joc. 
+::: 
+
+## Procedura de Check-in & Check-out
+
+Pentru a închiria o cameră într-un **Hotel** sau **Motel**, trebuie să verifici pe minimap dacă există disponibilitate și în caz pozitiv, să te deplasezi în locația respectivă. 
+
+::: tip
+Procedura de Check-in a unei camere de **Hotel** sau **Motel** este aceeași. 
+::: 
+
+<Image src="https://i.imgur.com/OWGr1C9.png" alt="Hotel" label="Deplasarea în locație" /> 
+
+După ce te deplasezi în locație, intră în checkpoint și apăsă tasta `E` (**Rent room**) pentru a deschide meniul.   
+
+<Image src="https://i.imgur.com/OtQthbg.png" alt="Hotel" label="Procedura de Check-in" /> 
+
+După ce ți se deschide meniul, poți introduce numărul de zile pentru care vrei să te închiriezi locația (între **1-30** de zile). Ulterior, apasă *click-stânga* pe butonul **Submit**. 
+
+::: tip
+În colțul din stânga-jos o să primești o notificare, iar plata se efectueză automat pentru numărul de zile introdus.
+::: 
+
+<Image src="https://i.imgur.com/TvWKMTZ.png" alt="Hotel" label="Opțiunile locației" /> 
+
+Pentru a extinde numărul de zile pentru care dorești să închiriezi locația, trebuie să intrii în interiorul acesteia, apoi în checkpoint-ul de la ușa principală și să apeși tasta `F` (**Options**). Ulterior, apasă *click-stânga* pe butonul **Extend** și poți introduce numărul de zile pentru care dorești să extinzi șederea în locație.  
+
+Dacă dorești să renunți la locație, urmează aceiași pași de mai sus, doar că trebuie să apeși *click-stânga* pe butonul pentru **Check-out**. 
+
+::: warning
+Banii retrași pentru plata numărului de zile introdus nu se restituie în momentul procedurii de **Check-out**. 
+::: 
