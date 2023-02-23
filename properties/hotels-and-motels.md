@@ -58,7 +58,7 @@ După ce ți se deschide meniul, poți introduce numărul de zile pentru care vr
 În colțul din stânga-jos o să primești o notificare, iar plata se efectueză automat pentru numărul de zile introdus.
 ::: 
 
-<Image src="https://i.imgur.com/TvWKMTZ.pngg" alt="Hotel" label="Opțiunile locației" /> 
+<Image src="https://i.imgur.com/TvWKMTZ.png" alt="Hotel" label="Opțiunile locației" /> 
 
 Pentru a extinde numărul de zile pentru care dorești să închiriezi locația, trebuie să intrii în interiorul acesteia, apoi în checkpoint-ul de la ușa principală și să apeși tasta `F` (**Options**). Ulterior, apasă *click-stânga* pe butonul **Extend** și poți introduce numărul de zile pentru care dorești să extinzi șederea în locație.  
 
