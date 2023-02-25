@@ -45,7 +45,7 @@ Fiecare facțiune are un **număr maxim** de membri, un lider, un **nivel minim*
 :::
 
 ::: info
-În cazul în care jucătorul este acceptat de către conducerea facțiunii, o să susțină un test. Mai multe informații despre asta aveți mai [**jos**](#cum-pot-să-devin-membru-într-o-facțiune).
+În cazul în care jucătorul este acceptat de către conducerea facțiunii, o să susțină un test. Mai multe informații despre asta aveți mai [**jos**](#cum-pot-sa-devin-membru-intr-o-factiune).
 :::
 
 ::: tip
