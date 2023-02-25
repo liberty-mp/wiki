@@ -8,7 +8,7 @@ title: Businesses
 
 ## Unde le găsesc și cum le accesez?
 
-Aceste *afaceri* sunt prezente pe toată harta în număr mare, așadar sunt mai multe de fiecare. Pentru a le afla locația exactă, este recomandată folosirea telefonului, mai exact aplicația `Maps`! Acolo avem secțiunea `Businesses` unde sunt toate locațiile și distanța până la ele. Odată ce ai dat *click* pe *business-ul* dorit, o să fie setat un *checkpoint* automat către acesta. Mai multe informații despre telefon aveți [**aici**](https://wiki.liberty.mp/general/phone).
+Aceste *afaceri* sunt prezente pe toată harta în număr mare, așadar sunt mai multe de fiecare. Pentru a le afla locația exactă, este recomandată folosirea telefonului, mai exact aplicația `Maps`! Acolo avem secțiunea `Businesses` unde sunt toate locațiile și distanța până la ele. Odată ce ai dat *click* pe *business-ul* dorit, o să fie setat un *checkpoint* automat către acesta. Mai multe informații despre telefon aveți [**aici**](../general/phone).
 
 <Image src="https://i.imgur.com/KPNOCr7.gif" alt="maps" />
 
@@ -68,7 +68,7 @@ Este locația de unde îți poți procura o armă, mai exact un cuțit, o bâtă
 :::
 
 ::: tip
-Alte tipuri de arme se cumpără de la grupările mafiote. Pentru mai multe informații în privința asta aveți [**aici**](https://wiki.liberty.mp/factions/gangs).
+Alte tipuri de arme se cumpără de la grupările mafiote. Pentru mai multe informații în privința asta aveți [**aici**](../factions/gangs).
 :::
 
 ### **Electric chargers** 
