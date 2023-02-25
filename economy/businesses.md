@@ -149,6 +149,6 @@ Mobila se poate poziționa cu ușurință oriunde doriți în casă, folosind si
 :::
 
 ## Stock Market
-Ca jucător poți deține **acțiuni** la aceste *afaceri*, prin urmare venitul poate fi făcut din mai multe activități! Stock-urile se accesează din telefon, mai exact din aplicația `Bank`, secțiunea **Stock Market**. Pentru mai multe informații în detaliu despre aceste acțiuni, citiți [**aici**](https://wiki.liberty.mp/economy/stock-market).
+Ca jucător poți deține **acțiuni** la aceste *afaceri*, prin urmare venitul poate fi făcut din mai multe activități! Stock-urile se accesează din telefon, mai exact din aplicația `Bank`, secțiunea **Stock Market**. Pentru mai multe informații în detaliu despre aceste acțiuni, citiți [**aici**](./stock-market).
 
 <Image src="https://i.imgur.com/Q0n2VRu.png" alt="stock" />
