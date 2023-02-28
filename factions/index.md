@@ -72,7 +72,7 @@ Informații legate de felul în care trebuie să acționezi sau să-ți desfăș
 
 ## Cum pot să devin membru într-o facțiune?
 
-Aplicația **completată și trimisă** pe UCP este revizuită de conducerea facțiunii respective, iar aceasta poate fi **acceptată** sau **respinsă**. În cazul în care este acceptată, o să se susțină un test din regulamentul acesteia cu un membru ce este fie **lider, colider sau tester**. Dacă jucătorul trece de acest test, acesta o să fie invitat. 
+Aplicația **completată și trimisă** pe UCP este revizuită de conducerea facțiunii respective, iar aceasta poate fi **acceptată** sau **respinsă**. În cazul în care este acceptată, o să se susțină un test din regulamentul acesteia cu un membru ce este fie **lider, colider sau tester**. Dacă jucătorul trece de acest test, acesta o să fie invitat, devenind membrul grupării respective. 
 
 ::: warning
 **Dovada** testului trebuie pusă pe UCP de către membrul facțiunii care s-a ocupat cu susținerea examinării jucătorului! Aceasta presupune două poze și selectarea opțiunii `test passed` sau `test failed` în funcție de rezultatul acordat în urma testului. De asemenea, pozele apar și pe UCP pentru cel acceptat.
@@ -92,6 +92,8 @@ Există și un *clopoțel* pe UCP care te informează în privința aplicațiilo
 <Image src="https://i.imgur.com/H4HFb8F.png" alt="notificarinoi" />
 :::
 
+## Informații suplimentare 
+
 Dacă un membru dintr-o facțiune te-a deranjat cu ceva sau crezi că nu a procedat corect, îi poți face o *reclamație* pe UCP.
 ::: warning
 Ai nevoie și de dovezi, altfel reclamația o să fie închisă!
@@ -99,6 +101,12 @@ Ai nevoie și de dovezi, altfel reclamația o să fie închisă!
 
 ::: details Reclamație
 <Image src="https://i.imgur.com/9eBvd27.gif" alt="complaint" />
+:::
+
+În cazul în care nu îți poți completa raportul, despre care puteți citi mai multe [**aici**](https://wiki.liberty.mp/factions/raport), există opțiunea de *învoire*, mai exact o **cerere de inactivitate**. Aceasta presupune o săptămână în care membrul facțiunii nu este nevoit să-și îndeplinească datoriile. Pentru a face acest lucru, trebuie să accesați [**UCP-ul**](https://ucp.liberty.mp), să intrați pe profil la secțiunea `Faction & Jobs` și să apăsați pe butonul portocaliu denumit `Request inactivity`! 
+
+::: details Cerere de inactivitate
+<Image src="https://i.imgur.com/X3d4uDL.gif" alt="inact" />
 :::
 
 ::: tip
