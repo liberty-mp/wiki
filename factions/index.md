@@ -7,20 +7,20 @@ title: Informații generale facțiuni
 **Facțiunile** prezente pe [**liberty.mp**](https://ucp.liberty.mp) sunt următoarele: **Los Santos Police Department**, **Hitman Agency**, **Downtown Taxi Company**, **Varrios Los Aztecas**, **Grove Street Families**, **Ballas** și **Los Santos Vagos**. Acestea sunt grupări în care jucătorii se pot alătura prin intermediul [**UCP-ului**](https://ucp.liberty.mp/factions), aplicând la respectivele.
 
 ## Ce fac aceste facțiuni?
-Fiecare dintre cele enumerate **anterior** au *scopuri* și *organizare diferită*, întreprinzând activități diferite. **Los Santos Police Department** menține starea de liniște în orașul Los Santos, pe când **grupările mafiote** produc haos, făcând contrabandă, trafic de droguri, pe care de asemenea le și consumă. Mai multe detalii despre acestea aveți [**aici**](https://wiki.liberty.mp/factions/lspd) și [**aici**](https://wiki.liberty.mp/factions/gangs).
+Fiecare dintre cele enumerate **anterior** au *scopuri* și *organizare diferită*, întreprinzând activități diferite. **Los Santos Police Department** menține starea de liniște în orașul Los Santos, pe când **grupările mafiote** produc haos, făcând contrabandă, trafic de droguri, pe care de asemenea le și consumă. Mai multe detalii despre acestea aveți [**aici**](./lspd) și [**aici**](./gangs).
 
 ::: tip
 Grupările mafiote sunt împărțite pe teritorii. 
 :::
 
 
-Agenții precum **Hitman** desfășoară servicii de asasinare printr-un contract trimis de jucători prin intermediul telefonului. Membrii acestei agenții sunt **profesioniști** ce lucrează cu mare atenție, iar suma pe care ei o încasează în urma contractului este doar in **cryptomonede**, mai exact **USDT**. Mai multe detalii [**aici**](https://wiki.liberty.mp/factions/hitman).
+Agenții precum **Hitman** desfășoară servicii de asasinare printr-un contract trimis de jucători prin intermediul telefonului. Membrii acestei agenții sunt **profesioniști** ce lucrează cu mare atenție, iar suma pe care ei o încasează în urma contractului este doar in **cryptomonede**, mai exact **USDT**. Mai multe detalii [**aici**](./hitman).
 
 ::: tip
 Apelarea la serviciile **Hitman** este anonimă. Victima nu o să afle cine i-a pus gând rău.
 :::
 
-Jucătorii ce nu dispun de un mijloc de transport pot apela la serviciile **taximetriștilor** prin intermediul telefonului. Aceștia au **tarife avantajoase**, acționează **rapid** și cel mai important, **respectă regulile de circulație**. Membrii companiei sunt șoferi profesioniști ce au scopul de a transporta clientul în siguranță la destinația dorită. Mai multe detalii [**aici**](https://wiki.liberty.mp/factions/taxi).
+Jucătorii ce nu dispun de un mijloc de transport pot apela la serviciile **taximetriștilor** prin intermediul telefonului. Aceștia au **tarife avantajoase**, acționează **rapid** și cel mai important, **respectă regulile de circulație**. Membrii companiei sunt șoferi profesioniști ce au scopul de a transporta clientul în siguranță la destinația dorită. Mai multe detalii [**aici**](./taxi).
 
 ::: tip
 Dacă ai fost mulțumit de serviciul unui taximetrist, poți să îl ajuți cu un rating de **5 stele** la finalul cursei!
@@ -52,7 +52,7 @@ Fiecare facțiune are un **număr maxim** de membri, un lider, un **nivel minim*
 O aplicație conține anumite întrebări alese de liderul respectiv! Este recomandat să-ți alegi cât se poate de bine cuvintele și felul în care te exprimi pentru a avea șanse mai mari să fii acceptat!
 :::
 
-Pentru a vedea membrii unei facțiuni trebuie să apeși pe **numele** facțiunii, urmând sa îți apară o listă cu toți jucătorii ce aparțin grupării respective, rank-ul lor, raportul lor și câte puncte de penalizare au. Mai multe informații despre raport și rank-uri aveți [**aici**](https://wiki.liberty.mp/factions/raport).
+Pentru a vedea membrii unei facțiuni trebuie să apeși pe **numele** facțiunii, urmând sa îți apară o listă cu toți jucătorii ce aparțin grupării respective, rank-ul lor, raportul lor și câte puncte de penalizare au. Mai multe informații despre raport și rank-uri aveți [**aici**](./raport).
 
 ::: details Detalii facțiune
 <Image src="https://i.imgur.com/Uto19Jy.gif" alt="detaliiF" />
@@ -72,7 +72,7 @@ Informații legate de felul în care trebuie să acționezi sau să-ți desfăș
 
 ## Cum pot să devin membru într-o facțiune?
 
-Aplicația **completată și trimisă** pe UCP este revizuită de conducerea facțiunii respective, iar aceasta poate fi **acceptată** sau **respinsă**. În cazul în care este acceptată, o să se susțină un test din regulamentul acesteia cu un membru ce este fie **lider, colider sau tester**. Dacă jucătorul trece de acest test, acesta o să fie invitat. 
+Aplicația **completată și trimisă** pe UCP este revizuită de conducerea facțiunii respective, iar aceasta poate fi **acceptată** sau **respinsă**. În cazul în care este acceptată, o să se susțină un test din regulamentul acesteia cu un membru ce este fie **lider, colider sau tester**. Dacă jucătorul trece de acest test, acesta o să fie invitat, devenind membrul grupării respective. 
 
 ::: warning
 **Dovada** testului trebuie pusă pe UCP de către membrul facțiunii care s-a ocupat cu susținerea examinării jucătorului! Aceasta presupune două poze și selectarea opțiunii `test passed` sau `test failed` în funcție de rezultatul acordat în urma testului. De asemenea, pozele apar și pe UCP pentru cel acceptat.
@@ -92,6 +92,8 @@ Există și un *clopoțel* pe UCP care te informează în privința aplicațiilo
 <Image src="https://i.imgur.com/H4HFb8F.png" alt="notificarinoi" />
 :::
 
+## Informații suplimentare 
+
 Dacă un membru dintr-o facțiune te-a deranjat cu ceva sau crezi că nu a procedat corect, îi poți face o *reclamație* pe UCP.
 ::: warning
 Ai nevoie și de dovezi, altfel reclamația o să fie închisă!
@@ -99,6 +101,12 @@ Ai nevoie și de dovezi, altfel reclamația o să fie închisă!
 
 ::: details Reclamație
 <Image src="https://i.imgur.com/9eBvd27.gif" alt="complaint" />
+:::
+
+În cazul în care nu îți poți completa raportul, despre care puteți citi mai multe [**aici**](./raport), există opțiunea de *învoire*, mai exact o **cerere de inactivitate**. Aceasta presupune o săptămână în care membrul facțiunii nu este nevoit să-și îndeplinească datoriile. Pentru a face acest lucru, trebuie să accesați [**UCP-ul**](https://ucp.liberty.mp), să intrați pe profil la secțiunea `Faction & Jobs` și să apăsați pe butonul portocaliu denumit `Request inactivity`! 
+
+::: details Cerere de inactivitate
+<Image src="https://i.imgur.com/X3d4uDL.gif" alt="inact" />
 :::
 
 ::: tip
