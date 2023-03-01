@@ -79,3 +79,7 @@ Dacă dorești să faci parte dintr-o facțiune enumerată mai sus, asigură-te 
 <Image src="https://i.imgur.com/w6JQmSb.gif" alt="Aplicare" />
 
 Dacă aplicația ta a fost acceptată de către un lider sau co-lider, va trebui să susții un test, cel care a susținut testul cu tine fiind nevoit să atașeze în aplicația ta o dovadă cu faptul că ai susținut acel test, indiferent de rezultatul obținut. Mai multe informații legate de facțiuni aveți [**aici**](./factions/)!
+
+## Cum instalez moduri și unde le găsesc?
+
+Modurile de grafică aduc niște schimbări sesizabile plăcute pentru jucător, formând un *gameplay* mai frumos din punct de vedere vizual. Recomandarea noastră este folosirea unui program denumit [**Network Graphics**](https://vrp.network/graphics), care este compatibil cu platforma **RAGE Multiplayer**, prin urmare și cu server-ul nostru. Acesta are o varietate de moduri de grafică, fie gratis, fie contra cost pe baza unui abonament. De asemenea, există opțiunea de a optimiza jocul în funcție de performanța calculatorului, să schimbați filtrele, saturația, ș.a.m.d.. Un video explicativ ce conține instalarea și alte detalii aveți [**aici**](https://www.youtube.com/watch?v=5t1q9DH_8-I&ab_channel=libertymoments).
