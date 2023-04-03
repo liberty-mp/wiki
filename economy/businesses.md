@@ -115,11 +115,12 @@ Poți cumpăra hotdogi și apă și de la standurile destinate acestora, denumit
 :::
 
 ### **News Agency**
-Aici este unicul loc unde îți poți lăsa anunțuri pentru alți jucători, ce pot fi de vânzare-cumpărare sau pentru a presta anumite servicii. De asemenea, tot la **News Agency** se află și marketplace-ul, unde îți poți lista *iteme* sau bunuri personale pentru alți jucători! Există o singură locație de genul pe hartă.
+Aici este unicul loc unde îți poți lăsa anunțuri pentru alți jucători, ce pot fi de vânzare-cumpărare sau pentru a presta anumite servicii. De asemenea, tot la **News Agency** se află și marketplace-ul, unde îți poți lista *iteme* sau bunuri personale pentru alți jucători, dar și licitațiile pentru locuințe! Există o singură locație de genul pe hartă.
 
 ::: details News Agency
 <Image src="https://i.imgur.com/kH8xPQa.png" alt="newsa2" />
 <Image src="http://i.imgur.com/bJk5kHO.gif" alt="newsa1" />
+<Image src="http://i.imgur.com/aN7GdY7.gif" alt="newsa2" />
 :::
 
 ::: tip
