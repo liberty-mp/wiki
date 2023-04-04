@@ -16,7 +16,7 @@ Pe server există un număr de două Dealership-uri diferite, unul cu vehicule o
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 1 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) + Luxury Vehicle Ticket | 
 
 ::: tip 
-Pentru a achiziționa un vehicul personal trebuie să intrii în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. Ulterior, îți alegi vehiculul dorit dintr-una din categorii. 
+Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. Ulterior, îți alegi vehiculul dorit dintr-una din categorii. 
 ::: 
 
 ## Accesarea panoului de comandă a vehiculelor personale 
