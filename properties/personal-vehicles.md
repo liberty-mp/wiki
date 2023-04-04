@@ -59,8 +59,6 @@ Dacă vindeți vehiculul către un Dealership, nu veți primi bani!
 
 Pentru a vizualiza informații suplimentare cu privire la vehiculul deținut, apasă pe butonul mov **View info** din partea de jos a panoului de comandă. 
 
-<Image src="https://i.imgur.com/tMdMT9t.png" alt="ViewinfoB"/>
-
 <Image src="https://i.imgur.com/IlOo5lU.png" alt="VehAllInfo"/> 
 
 ::: tip 
