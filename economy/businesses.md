@@ -94,12 +94,13 @@ Pentru a folosi canistra, se apasă tasta `N` și se selectează mașina, apoi o
 :::
 
 ### **24/7 Market**
-Sunt locurile unde găsești lucruri esențiale, precum canistra, undița, repair kit-ul, walkie takie-ul și mâncarea sau băutura. Sunt 18 astfel de locații, iar prețurile sunt următoarele:
+Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger-ul, undița, repair kit-ul, walkie takie-ul și mâncarea sau băutura. Sunt 18 astfel de locații, iar prețurile sunt următoarele:
 
 | **Obiect** | **Preț** |
 | :-----------: | :-----------: | 
 | Canistră | <Dinero :amount='200' /> | 
 | Undiță | <Dinero :amount='100' />  | 
+| Mobile Charger | <Dinero :amount='350' />  | 
 | Repair kit | <Dinero :amount='500' /> | 
 | Walkie takie | <Dinero :amount='1000' /> |
 | Momeală | <Dinero :amount='64' /> |
