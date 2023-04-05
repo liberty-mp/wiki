@@ -8,7 +8,7 @@ title: Case & apartamente
 
 ## Cum obțin o casă?
 
-Proprietățile se vând prin intermediul licitațiilor, acestea pot dura pentru o mică sau mare durată de timp. Pentru mai multe informații în legătură cu procedeul prin care licitezi aveți [**aici**](https://wiki.liberty.mp/economy/businesses#news-agency). După ce ai câștigat licitația o să îți primești automat casa pe cont. Poți să vezi ce proprietăți ai si pe [**UCP**](https://ucp.liberty.mp) la profilul tău!
+Proprietățile se vând prin intermediul licitațiilor, acestea pot dura pentru o mică sau mare durată de timp. Pentru mai multe informații în legătură cu procedeul prin care licitezi aveți [**aici**](https://wiki.liberty.mp/economy/businesses#news-agency). După ce ai câștigat licitația o să îți primești automat casa pe cont. Poți să vezi ce proprietăți ai și pe [**UCP**](https://ucp.liberty.mp) la profilul tău!
 
 ## Ce pot face dacă am casă?
 
@@ -19,7 +19,7 @@ Un beneficiu îl reprezintă faptul că nu trebuie să plătești pentru cazare 
 <Image src="https://i.imgur.com/v1Gw166.png" alt="opt" />
 
 ::: warning
-Alți jucători care locuiesc în casa ta nu o să plăteasca nimic, prin urmare proprietarul nu face bani de pe urma lor.
+Alți jucători care locuiesc în casa ta nu o să plătească nimic, prin urmare proprietarul nu face bani de pe urma lor.
 :::
 
 ## Cum îmi pot mobila casa?
@@ -39,6 +39,6 @@ Pentru mai multe detalii în legătură cu IKEA, aveți [**aici**](https://wiki.
 <Image src="http://i.imgur.com/v9UqBUV.gif" alt="mob2" />
 :::
 
-::: tips
+::: tip
 Dacă cumpărați un obiect din IKEA și observați că acesta nu se potrivește cu decorul sau nu vă place, îl puteți returna!
 :::
