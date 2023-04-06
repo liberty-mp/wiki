@@ -8,11 +8,12 @@ title: Vehicule Personale
 
 ## Achiziția unui vehicul personal
 
-Pe server există un număr de două Dealership-uri diferite, unul cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default) și vehicule reale (Luxury Autos). 
+Pe server există un număr de trei Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motocycles Default) și unul cu vehicule reale (Luxury Autos).
 
 | Iconiță specifică | Tip | Număr total | Zone geografice | Materiale necesare |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 1 | [**Pillbox Hill**](https://i.imgur.com/LnAZ7m4.png) | Bani în joc ($) | 
+| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 1 | [**Adams Apple's Boulevard**](https://i.imgur.com/MgrRcjk.png) | Bani în joc |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 1 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) + Luxury Vehicle Ticket | 
 
 ::: tip 
