@@ -49,7 +49,7 @@ Panoul de comandă este folosit pentru vizualizarea stării tehnice a mașinii �
 - **Despawn vehicle**: se folosește atunci când vrei să despawnezi vehiculul personal;
 - **Locate vehicle**: ajută la localizarea vehicului personal în cazul în care nu mai știi locația acestuia;
 - **Change lock**: se utilizează când dorești să schimbi încuietoarea vehiculului, după ce ai dat cheia acestuia unui alt jucător;  
-- **Tow vehicle**: poate fi folosit pentru a spawna vehiculul în locația unde a fost parcat (`/parkvehicle`); 
+- **Tow vehicle**: poate fi folosit pentru a spawna vehiculul în locația unde a fost parcat (`/parkvehicle`) sau la ultima locație cunoscută; 
 - **Sell to Dealership**: se utilizează în cazul în care dorești să vinzi vehiculul către un Dealership.
 
 ::: warning 
