@@ -55,7 +55,7 @@ După accesarea linkului de confirmare, o să fii redirecționat înapoi pe [**U
 <Image src="https://im5.ezgif.com/tmp/ezgif-5-9958a75010.gif" alt="Link Email" />
 
 ::: warning
-Daca mail-ul de confirmare nu apare in **Inbox** sugeram sa il cauti in **Spam**.
+Dacă mail-ul de confirmare nu apare in **Inbox**, îți sugerăm să-l cauți in **Spam**.
 ::: 
 
 ## Care este cel mai profitabil job de pe server?
