@@ -8,11 +8,12 @@ title: Vehicule Personale
 
 ## Achiziția unui vehicul personal
 
-Pe server există un număr de două Dealership-uri diferite, unul cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default) și vehicule reale (Luxury Autos). 
+Pe server există un număr de trei Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motocycles Default) și unul cu vehicule reale (Luxury Autos).
 
 | Iconiță specifică | Tip | Număr total | Zone geografice | Materiale necesare |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 1 | [**Pillbox Hill**](https://i.imgur.com/LnAZ7m4.png) | Bani în joc ($) | 
+| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 1 | [**Adams Apple's Boulevard**](https://i.imgur.com/MgrRcjk.png) | Bani în joc ($) |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 1 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) + Luxury Vehicle Ticket | 
 
 ::: tip 
@@ -48,7 +49,7 @@ Panoul de comandă este folosit pentru vizualizarea stării tehnice a mașinii �
 - **Despawn vehicle**: se folosește atunci când vrei să despawnezi vehiculul personal;
 - **Locate vehicle**: ajută la localizarea vehicului personal în cazul în care nu mai știi locația acestuia;
 - **Change lock**: se utilizează când dorești să schimbi încuietoarea vehiculului, după ce ai dat cheia acestuia unui alt jucător;  
-- **Tow vehicle**: poate fi folosit pentru a spawna vehiculul în locația unde a fost parcat (`/parkvehicle`); 
+- **Tow vehicle**: poate fi folosit pentru a spawna vehiculul în locația unde a fost parcat (`/parkvehicle`) sau la ultima locație cunoscută; 
 - **Sell to Dealership**: se utilizează în cazul în care dorești să vinzi vehiculul către un Dealership.
 
 ::: warning 
