@@ -1,0 +1,1 @@
+ghid pentru incepatori
