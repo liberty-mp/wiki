@@ -10,6 +10,12 @@ title: Case & apartamente
 
 Proprietățile se vând prin intermediul licitațiilor, acestea pot dura pentru o mică sau mare durată de timp. Pentru mai multe informații în legătură cu procedeul prin care licitezi aveți [**aici**](https://wiki.liberty.mp/economy/businesses#news-agency). După ce ai câștigat licitația o să îți primești automat casa pe cont. Poți să vezi ce proprietăți ai și pe [**UCP**](https://ucp.liberty.mp) la profilul tău!
 
+De asemenea, există și **apartamente**, nu doar case propriu-zise. Acestea au aceleași beneficii și prezintă aceleași opțiuni!
+
+::: details Apartament
+<Image src="http://i.imgur.com/y6Z7q2a.gif" alt="apart" />
+:::
+
 ## Ce pot face dacă am casă?
 
 Un beneficiu îl reprezintă faptul că nu trebuie să plătești pentru cazare ca la hotel sau motel, îți poți **decora** casa, să îi oferi personalitate cumpărând mobilă de la **IKEA**. De asemenea, poți invita jucători să locuiască cu tine și ai și loc de parcare. Există și opțiunea de a încuia casa pentru a evita musafirii nedoriți, iar daca aceștia vor să intre, pot să bată la ușă urmând ca proprietarul casei să decidă daca îi lasă sau nu înauntru. 
