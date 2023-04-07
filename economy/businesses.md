@@ -91,6 +91,7 @@ Au rolul alimentării mașinilor ce funcționează pe combustibil! De asemenea, 
 
 ::: tip 
 Pentru a folosi canistra, se apasă tasta `N` și se selectează mașina, apoi opțiunea `Fill vehicle` în timp ce aveți gas can-ul în mână. Nu uita să îți umpli canistra tot de la benzinărie după ce ai folosit-o!
+După ce ați rămas fără benzină în canistră este recomandat să o umpleți din nou. Pentru a face asta trebuie să luați canistra în mână și să mergeți pe jos la *checkpoint-ul* mov de lângă pompa din benzinărie și să plătiți!
 :::
 
 ### **24/7 Market**
