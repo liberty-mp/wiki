@@ -46,7 +46,7 @@ La final, o să fii redirecționat înapoi pe [**UCP**](https://ucp.liberty.mp/)
 
 ## Cum îmi asociez contul din joc cu o adresă de E-mail?
 
-Pentru a îți asocia contul din joc cu o adresa de E-mail trebuie să te autentifici pe [**UCP**](https://ucp.liberty.mp/), să apeși pe numele tău din dreapta-sus, apoi să selectezi **Settings**. 
+Pentru a îți asocia contul din joc cu o adresă de E-mail trebuie să te autentifici pe [**UCP**](https://ucp.liberty.mp/), să apeși pe numele tău din dreapta-sus, apoi să selectezi **Settings**. 
 
 Ulterior, apasă pe opțiunea **Set** din dreptul textului **Email address**. Introduci adresa de email dorită apoi selectezi **Set email**. O sa primești un mail de confirmare pe adresa de email introdusă.
 
