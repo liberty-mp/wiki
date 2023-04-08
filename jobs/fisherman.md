@@ -4,12 +4,12 @@ title: Fisherman
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora | ~<Dinero :amount='1800' /> |
+| Câștig mediu pe ora | ~<Dinero :amount='1750' /> |
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Da, undiță și momeală. |
 | Posibilitate câștigare iteme extra? | Da. |
-| Locație NPC-uri Fisherman | [Locație 1: Paleto Cove](https://i.imgur.com/5mGr5NE.png) <br> [Locație 2: Alamo Sea](https://i.imgur.com/AoslGiy.png) <br> [Locație 3: Procopio Beach](https://i.imgur.com/0Ur4iDk.png) |
+<!--- | Locație NPC-uri Fisherman | [Locație 1: Paleto Cove](https://i.imgur.com/5mGr5NE.png) <br> [Locație 2: Alamo Sea](https://i.imgur.com/AoslGiy.png) <br> [Locație 3: Procopio Beach](https://i.imgur.com/0Ur4iDk.png) | --->
 
 ## Desfășurarea jobului
 
@@ -30,7 +30,8 @@ Poți cumpăra o undiță normală, din lemn, dintr-un business de tip **magazin
   <Image src="https://i.imgur.com/i8RG0sN.png" alt="Wooden Rod" />
 :::
 
-Undița normala are o durabilitate de 120, însemnând 120 pești prinși cu **succes**. Se spune că 4 din 10 pești reușesc să scape din cârlig când folosești această undiță.  
+Undița normala are o durabilitate de 120, însemnând 120 pești prinși cu **succes**.  
+Se spune că 4 din 10 pești reușesc să scape din cârlig când folosești această undiță (40% sansă ca peștele să scape înainte de a fi prins).  
 Pentru a vedea durabilitatea undiței, apasă _**click dreapta**_ pe undiță în inventar, apoi selectează "**Inspect**".  
 
 ::: details Durabilitate undiță
@@ -48,11 +49,12 @@ Pentru a o crafta ai nevoie de următoarele obiecte:
 | <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="100" label="Rod Grip" /> | **25x** bucăți | Șansă de a obține din pescuit |
 | <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="100" label="Reel Rod" /> | **1x** bucată | Șansă de a obține din pescuit |  
 
-Această undiță capătă o durabilitate aleatorie între **100** și **1000**. De asemenea capătă o șansă aleatorie între **5%** și **30%** de a prinde un pește mai valoros. Se spune că doar unul din 10 pești reușește să scape din cârlig când folosești această undiță.
+Această undiță capătă o durabilitate aleatorie între _**100**_ și _**1000**_. De asemenea capătă o șansă aleatorie între _**5%**_ și _**30%**_ de a prinde un pește mai valoros.  
+Se spune că doar 1 din 10 pești reușește să scape din cârlig când folosești această undiță (10% sansă ca peștele să scape înainte de a fi prins).  
 
 ### Cum fac rost de momeală?
 
-O poți cumpăra dintr-un business de tip **magazin 24/7** pentru prețul de <Dinero :amount='64' /> pentru **64x** de bucăți de momeală.  
+O poți cumpăra dintr-un business de tip **magazin 24/7** pentru prețul de <Dinero :amount='64' /> pentru **64** bucăți de momeală.  
 
 ::: details Momeală în magazin   
   <Image src="https://i.imgur.com/qdsVOWE.png" alt="Shop Fishrod" width="125" />
@@ -75,8 +77,8 @@ După ce am echipat undița într-un fast slot din inventar, apăsăm tasta resp
 :::  
 
 Apăsăm din nou tasta `SPACE` atunci când indicatorul se face culoarea verde, însemânand că peștele a mușcat momeala. Dacă nu acționăm asupra peștelui timp de 3 secunde de când indicatorul și-a schimbat culoarea în verde, aceasta reușește să scape din cârlig.
-Există o șansă ca peștele să scape și când noi tragem undița.  
-Vei fi notificat deasupra hărții despre ce tip de pește ai prins, dacă ai prins un item extra sau nu îndeplinești o cerință pentru a pescui.
+Există o șansă ca peștele să scape și când noi tragem undița, în funcție de undița folosită.  
+Vei fi notificat deasupra hărții despre ce tip de pește ai prins, dacă ai prins un obiect special sau nu îndeplinești o cerință pentru a pescui.
 
 ### Unde se vinde peștele?
 
@@ -118,20 +120,19 @@ Un tabel cu toți peștii din apele statului San Adreas și șansele de prindere
 | <Image src="https://i.imgur.com/Ki860Lq.png" alt="Sparus" width="64" label="Sparus" /> | **<Dinero :amount='15' />** | **0%** | **0%** | Nu |
 | <Image src="https://i.imgur.com/BQVLCfo.png" alt="Yabby" width="64" label="Yabby" /> | **<Dinero :amount='23' />** | **0%** | **17%** | Da |
 
-## Iteme câștigate extra & șansele de drop
+## Obiecte speciale pentru crafting și alte activități & șanse de prindere  
 
-Pe lângă peștele prins, mai ai o șansă la a prinde **un item** care te ajută **în craft-ing** sau la **alte activități**.  
+Pe lângă peștele prins, mai ai o șansă la a prinde **obiecte speciale** care te ajută **în crafting** sau la **alte activități**.  
 
 | Imagine | Șansă de drop % | Utilitate
 | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="100" label="Rod Guide" /> | **~50%**  | Craftarea unei undițe speciale |
-| <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="100" label="Rod Grip" /> |  **~50%** | Craftarea unei undițe speciale |
+| <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="100" label="Rod Guide" /> | **49%**  | Craftarea unei undițe speciale |
+| <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="100" label="Rod Grip" /> |  **49%** | Craftarea unei undițe speciale |
 | <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="100" label="Reel Rod" /> | **2%**  | Craftarea unei undițe speciale |
 
-## Cazuri în care nu poți efectua jobul  
+## Cazuri în care nu poți efectua jobul   
  
 - Dacă nivelul apei este scăzut sau are valuri, nu poți să pescuiești în locația aceea, ești înștiintat printr-o notificare deasupra hărții dacă este cazul.  
-
 ::: details Nu poți să pescuiești aici  
  <Image src="https://i.imgur.com/z0OnAOM.png" alt="Eroare loc/valuri" />  
 :::  

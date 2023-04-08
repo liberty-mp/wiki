@@ -8,6 +8,10 @@ Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcur
 
 ## Intrebări frecvente
 
+### Ce venituri sunt la joburi?
+
+Veniturile joburilor sunt calculate astfel încât la sfârșitul unei sesiuni de exemplu: 5 ore, totalul câștigat să fie **aproximativ ~<Dinero :amount='1750' /> per oră**. Venitul depinde și de **itemele extra** pe care le poți găsi practicând **joburile cu drop**, aceste iteme pot fi adăugate pe [Market](../general/marketplace) sau folosite în [Trade](../general/trade) cu alți jucători.
+
 ### Cum găsesc jobul?  
 
 Pentru a găsi orice locație din statul San Andreas, folosește-te de aplicația "**Maps**" din telefon.  
@@ -21,16 +25,16 @@ Pentru a găsi orice locație din statul San Andreas, folosește-te de aplicați
 
 ### Cum avansez în skill?
 
-Pentru a avansa în skill ai nevoie să câștigi o anumită sumă de bani din prestarea serviciilor job-ului, fiecare avansare crește procentual câștigul per serviciu prestat.  
+Pentru a avansa în skill ai nevoie să câștigi o anumită sumă de bani din prestarea serviciilor jobului, fiecare avansare crește procentual câștigul per serviciu prestat.  
 
 | **Skill** | **Bani câștigați pt. avansare** | **Beneficii**
 | :-----------: | :-----------: | :-----------: |
-| Bronze | <Dinero :amount='0' /> | venitul de baza al jobului |
-| Silver | <Dinero :amount='15000' /> | venit majorat cu **7%** |
-| Gold | <Dinero :amount='75000' /> | venit majorat cu **23%** |
-| Platinum | <Dinero :amount='250000' /> | venit majorat cu **53%** |
-| Diamond | <Dinero :amount='750000' /> | venit **dublu** la job |
-| Master | <Dinero :amount='1500000' /> | venit **triplu** la job |
+| <Image src="https://i.imgur.com/NbQyTpk.png" alt="Bronze" width="48" label="Bronze" /> | <Dinero :amount='0' /> | venitul de baza al jobului |
+| <Image src="https://i.imgur.com/RjMVsJ4.png" alt="Silver" width="48" label="Silver" /> | <Dinero :amount='15000' /> | venit majorat cu **7%** |
+| <Image src="https://i.imgur.com/AcZaBTu.png" alt="Gold" width="48" label="Gold" /> | <Dinero :amount='75000' /> | venit majorat cu **23%** |
+| <Image src="https://i.imgur.com/cKJ7qOm.png" alt="Platinum" width="48" label="Platinum" /> | <Dinero :amount='250000' /> | venit majorat cu **53%** |
+| <Image src="https://i.imgur.com/T75C1py.png" alt="Diamond" width="48" label="Diamond" /> | <Dinero :amount='750000' /> | venit **dublu** la job |
+| <Image src="https://i.imgur.com/IF7wZwY.png" alt="Master" width="48" label="Master" /> | <Dinero :amount='1500000' /> | venit **triplu** la job |
 
 ### Cum mă opresc din muncă?
  

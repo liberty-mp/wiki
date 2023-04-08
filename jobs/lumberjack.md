@@ -9,7 +9,7 @@ title: Lumberjack
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
 | Posibilitate câștigare iteme extra? | Nu. |
-| Locație NPC Lumberjack | [M. Chiliad Wilderness, Great Ocean Highway](https://i.imgur.com/AiOKyO4.png)  |
+<!--- | Locație NPC Lumberjack | [M. Chiliad Wilderness, Great Ocean Highway](https://i.imgur.com/AiOKyO4.png)  | --->
 
 ## Desfășurarea jobului  
 
@@ -19,7 +19,7 @@ Desfășurarea jobului Lumberjack constă în tăierea copacilor marcați și tr
 
 ### Cum încep munca?
 
-Odată ajuns la locația NPC-ului Lumberjack, interacționează cu el și selectează "**Începe munca**", ți se va da un vehicul special în care trebuie să încarci toți copacii marcați pe hartă după ce îi vei tăia.
+Odată ajuns la locația NPC-ului Lumberjack, interacționează cu el folosind butonul `E` și selectează "**Începe munca**", ți se va da un vehicul special în care trebuie să încarci toți copacii marcați pe hartă după ce îi vei tăia.
 
 ::: details Începe munca  
   <Image src="https://i.imgur.com/RH12e7E.gif" alt="Start Job" />
@@ -44,17 +44,17 @@ După ce ai început tura de job, trebuie să tai toți copacii marcați pe hart
 
 ## Cazuri în care nu poți efectua jobul  
  
-- Dacă te îndepărtezi prea mult de zona în care se face jobul, ți se va termina tura de job automat. Nu te îndepărta mai mult decât cel mai îndepărtat checkpoint față de fabrică.  
+- Dacă te îndepărtezi prea mult de zona în care se practică jobul, tura de job se va termina instant. Nu te îndepărta mai mult decât cel mai îndepărtat punct marcat pe hartă față de fabrică.  
 ::: details Îndepărtare zonă job  
  <Image src="https://i.imgur.com/ez6DHN8.gif" alt="Îndepărtare zonă job" />  
+:::  
+
+- Tura de job se oprește automat dacă abandonezi vehiculul pentru mai mult de _**5 minute**_. Nu sta AFK (away from keyboard) dacă nu ești la volanul vehicului.  
+::: details Abandon vehicul  
+ <Image src="https://i.imgur.com/HBqBhT7.gif" alt="Abandon vehicul" />  
 :::  
 
 - Dacă mori, tura de job este anulată instant și pierdeți orice progres din vehiculul Wastelander.  
 ::: details Moarte în timpul jobului  
  <Image src="https://i.imgur.com/QBtPQSi.gif" alt="Moarte job Lumberjack" />  
-:::  
-
-- Ți se oprește tura de job automat dacă abandonezi vehiculul pentru mai mult de _**5 minute**_. Nu sta AFK (away from keyboard) dacă nu ești la volanul vehicului.  
-::: details Abandon vehicul  
- <Image src="https://i.imgur.com/HBqBhT7.gif" alt="Abandon vehicul" />  
 :::  

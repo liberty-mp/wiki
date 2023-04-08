@@ -2,7 +2,7 @@
 title: Cum să joci?
 ---
 
-Pentru a te putea juca pe serverul nostru, trebuie să instalezi în calculator (PC) jocul [**Grand Thef Auto V**](https://ro.wikipedia.org/wiki/Grand_Theft_Auto_V) în varianta licențiată, de pe orice platformă (Rockstar Games, Steam sau Epic Games), cu toate actualizările la zi și launcherul [**RAGE Multiplayer**](https://rage.mp).
+Pentru a te putea juca pe serverul nostru, trebuie să instalezi în calculator (PC) jocul [**Grand Thef Auto V**](https://ro.wikipedia.org/wiki/Grand_Theft_Auto_V) în varianta licențiată, de pe orice platformă (**Rockstar Games, Steam sau Epic Games**), cu toate actualizările la zi și launcher-ul [**RAGE Multiplayer**](https://rage.mp).
 
 Dacă nu te descurci, îți recomandăm să urmărește cu atenție ghidul detaliat de mai jos.
 
@@ -10,8 +10,8 @@ Dacă nu te descurci, îți recomandăm să urmărește cu atenție ghidul detal
 
 Poți achiziționa jocul de pe una dintre cele trei platforme recomandate, respectiv [**Rockstar Games**](https://store.rockstargames.com/game/buy-gta-v), [**Steam**](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/) sau [**Epic Games**](https://store.epicgames.com/en-US/p/grand-theft-auto-v). Prețul se învârte în jurul sumei de **140 RON** și diferă de la platformă la plaftormă sau de perioada în care alegi să îl achiziționezi (de sărbători pot exista reduceri).
 
-::: warning
-Jocul **Grand Thef Auto V** nu rulează pe orice fel de calculator (PC)! Înainte de a achiziționa jocul, [verifică](https://support.rockstargames.com/articles/203428177/Grand-Theft-Auto-V-PC-System-Requirements) dacă calculatorul (PC-ul) tău este compatibil cu cerințele minime ale acestuia.
+::: warning Atenție!
+Jocul **Grand Thef Auto V** nu rulează pe orice fel de calculator (PC)! Înainte de a achiziționa jocul, [verifică](https://support.rockstargames.com/articles/203428177/Grand-Theft-Auto-V-PC-System-Requirements) dacă calculatorul (PC-ul) tău are cerințele minime pentru rularea jocului.
 :::
 
 ### Instalarea jocului **Grand Theft Auto V**
@@ -23,13 +23,13 @@ Instalarea se realizează din cadrul platformei în care ai achiziționat jocul.
 
 În toate cele trei situații, rămâne la alegerea ta unde dorești să instalezi jocul. Timpul de instalare diferă și este influențat de conexiunea pe care o ai la internet.
 
-După ce s-a instalat jocul, **este necesar** să realizezi misiunea introductivă din **Story Mode** a jocului: _Prologue_.
+După ce s-a instalat jocul, **este obligatoriu** să realizezi prologue-ul (**misiunea introductivă**) din **Story Mode** (carieră), altfel nu te vei putea juca online.
 
 ### Instalarea launcherului **RAGE Multiplayer**
 
-În momentul de față, serverul nostru rulează pe platforma **RAGE Multiplayer**, iar singura metodă prin care te poți conecta la server este aceea de a utiliza launcherul acesteia.
+Serverul nostru rulează pe platforma **RAGE Multiplayer**, iar singura metodă prin care te poți conecta la server este aceea de a utiliza launcher-ul oficial.
 
-Pentru a instala launcherul **RAGE Multiplayer**, [accesează](https://rage.mp) pagina lor oficială de internet și apasă pe butonul roșu **Download**. Ulterior, salvează fișierul _RAGEMultiplayer_Setup.exe_ pe **Desktop** sau dacă ți se salveză automat în alt loc, deschide-l din locul în care s-a salvat. Apasă **Next** la prima fereastră deschisă, apoi apasă **I Agree** la termenii licenței **RAGE Multiplayer** și în final, alege locul unde dorești să se instaleze launcherul (recomandat este să nu modificați locul).
+Pentru a instala launcher-ul **RAGE Multiplayer**, [accesează](https://rage.mp) pagina lor oficială de internet și apasă pe butonul roșu **Download**. Ulterior, salvează fișierul _RAGEMultiplayer_Setup.exe_ pe **Desktop** sau dacă ți se salveză automat în alt loc, deschide-l din locul în care s-a salvat. Apasă **Next** la prima fereastră deschisă, apoi apasă **I Agree** la termenii licenței **RAGE Multiplayer** și în final, alege locul unde dorești să se instaleze launcherul (recomandat este să nu modificați locul).
 
 Așteaptă să se instaleze launcherul, apoi pornește-l.
 

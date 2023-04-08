@@ -4,61 +4,65 @@ title: ATM Robbery
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Necesită vehicul personal? | Da. |
+| Necesită **vehicul personal**? | Da. |
 | Necesită permis de conducere? | Nu. |
 | Necesită iteme specifice? | <Image src="https://i.imgur.com/u8nsUCN.png" alt="Hook" width="48" label="hook" /> <Image src="https://i.imgur.com/rJVKhFd.png" alt="Rope" width="48" label="rope" /> |
-| Necesita un minim de level? | Da, ai nevoie de minim level 3. |
+| Necesită un minim de level? | Da, ai nevoie de minim level 3. |
 
 ## Desfășurarea unui **ATM Robbery**
 
-Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin smulgerea sa din perete, folosindu-te de o **mașină personală** și de **instrumente speciale**, urmat de **livrarea** acestuia către **Alfred**.
+Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin smulgerea consolei din perete, folosindu-te de o **mașină personală** și de **obiecte speciale**, urmat de **livrarea** consolei către **Alfred** pentru încasarea banilor.
 
 ## Intrebări frecvente
 
-### De unde pot procura itemele pentru jefuire?
+### De unde fac rost de obiectele necesare pentru jefuire?
 
-**Itemele** le poți primi la **finalizarea** unei ture de job la **Garbageman**.
+**Obiectele speciale** necesare jefuirii pot fi găsite [la sfârșitul unei ture de job la Garbageman ♻️.](../jobs/garbageman#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire)
 
 ### Căt pot câștiga dacă jefuiesc un ATM?
 
-În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător căt timp transportai ATM-ul, câștig-ul va fi intre <Dinero :amount='600'/> și <Dinero :amount='800'/>.
+În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător căt timp transportai consola ATM-ului, câștig-ul va fi intre <Dinero :amount='600'/> și <Dinero :amount='800'/>.
 
-Daca furi ATM-ul de la un alt jucător, câștigul va fi intre <Dinero :amount='250'/> și <Dinero :amount='400'/>.
+Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul va fi între <Dinero :amount='250'/> și <Dinero :amount='400'/>.
 
 ### Cum aflu daca un ATM este disponibil pentru jefuire?
 
-Culoarea ATM-ului de pe hartă va indica disponibilitatea sa.
+Culoarea ATM-ului de pe hartă va indica statusul acestuia.
 
 <Image src="https://i.imgur.com/gxhqRjU.png" width="32" alt="Disponibil" label="Disponibil" /> 
 <Image src="https://i.imgur.com/LNnW3DH.png" width="32" alt="Indisponibil" label="Indisponibil" />
 
 ### Ce este Heat Level?
 
-Heat level-ul este un delay al activităților ilegale, ce te împiedica din practicarea acestora.
+Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce te împiedica din practicarea acestora deoarece atragi prea multă atenție.
 
-De fiecare data când vei jefui un ATM, vei primi 100% Heat Level, care va scadea complet în 5 ore (scade cu 1% la cate 3 minute)
+De fiecare dată când vei jefui un ATM, vei primi 100% Heat Level, care va scădea complet în 5 ore (1% per 3 minute).
 
 ### Cum jefuiesc un ATM?
 
-Pentru jefuirea unui ATM, va trebui sa **NU** aveți wanted și nici Heat Level. 
+Pentru jefuirea unui ATM, va trebui să **nu aveți Heat Level** și **să nu fiți căutați de poliție** (Heat Level 0 & fără wanted).
 
-- Odată început rob-ul, ai 30 de secunde sa atașezi funia de ATM și de masină, în caz contrar vei da fail.
+- Apasă tasta `R` când ești lângă un ATM jefuibil și ai obiectele speciale în inventar.
+
+- Odată început jaful, ai 30 de secunde să atașezi funia de ATM și de mașină, în caz contrar vei eșua jaful.
 ::: details Începerea rob-ului  
  <Image src="https://i.imgur.com/Vj3xcLT.gif" alt="rob1" />  
 :::
 
-- Când ATM-ul a ieșit din perete, ai un minut la dispoziție pentru a îl lua.
-::: warning 
-Jucatorii îți pot lua ATM-ul și-l pot livra ei în locul tău dacă vei muri. 
+- Când ATM-ul a ieșit din perete, ai un minut la dispoziție pentru a ridica consola ATM de pe jos.
+::: danger Atenție! 
+ Dacă mori cu consola ATM în invetar, jucătorii îți pot lua consola ATM și o pot livra ei în locul tău lui **Alfred** pentru un câștig redus. 
 :::
 
-::: details Extragerea și ridicarea ATM-ului  
+::: details Extragerea și ridicarea consolei ATM  
  <Image src="https://i.imgur.com/KOr595L.gif" alt="rob2" />  
 :::
 
-::: details Livrarea ATM-ului 
+::: details Livrarea consolei ATM  
  <Image src="https://i.imgur.com/f9QrMAv.gif" alt="rob3" />  
 :::
 
-- După extragerea ATM-ului din perete, vei primi **wanted** și **100% Heat Level**. 
-- ATM-ul va ramane în inventar pentru 20 de minute, după acest timp el se va șterge automat.
+::: tip   
+- După jefuirea consolei ATM din perete, vei primi **wanted Robbery fără drept de predare** și **100 procente (%) de Heat Level**. 
+- Consola ATM rămâne în inventar pentru **20 de minute**, după acest timp **Alfred** nu mai dorește să aibă de a face cu tine deoarece atrage prea multă atenție asupra ta.  
+:::
