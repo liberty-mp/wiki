@@ -12,7 +12,7 @@ title: Ghid începători
 
 ## Primii pași 
 
-Cel mai important aspect pe care trebuie să-l cunoști când vine vorba de server, este acela că modul de joc aplicat face parte din caetegoria **Role Playing Game** (RPG). Diferența dintre acest tip de joc aplicat și **Roleplay** (RP) este explicat la întrebarea **[Ce mod de joc se aplică pe server?](https://wiki.liberty.mp/faq#ce-mod-de-joc-se-aplica-pe-server)** din secțiunea **[Întrebări frecvente](https://wiki.liberty.mp/faq)**.
+Cel mai important aspect pe care trebuie să-l cunoști când vine vorba de server, este acela că modul de joc aplicat face parte din caetegoria **Role Playing Game** (RPG). Diferența dintre acest tip de joc aplicat și **Roleplay** (RP) este explicat la întrebarea **[Ce mod de joc se aplică pe server?](./faq#ce-mod-de-joc-se-aplica-pe-server)** din secțiunea **[Întrebări frecvente](./faq)**.
 
 // De adăugat primele lucruri pe care trebuie să le faci pe server sau ce considerați voi că are legătură
 
