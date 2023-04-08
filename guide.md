@@ -22,7 +22,7 @@ Nu sunteți obligați să urmați în detaliu acești pași, sunt doar niște î
 
 ### Între level 1 și 3
 
-Recomandarea noastră este să frecventați **job-urile** despre care aflați mai multe [**aici**](https://wiki.liberty.mp/jobs/), pentru a vă crește exponențial banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, Panto-ul oferit de către noi pentru **30 payday-uri** o să vă ajute extrem de mult în privința deplasărilor, dar și pentru job-uri, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru hartă, bancă și altele, prin intermediul lui navigați pe *server*.
+Recomandarea noastră este să frecventați **job-urile** despre care aflați mai multe [**aici**](./jobs), pentru a vă crește exponențial banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, Panto-ul oferit de către noi pentru **30 payday-uri** o să vă ajute extrem de mult în privința deplasărilor, dar și pentru job-uri, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru hartă, bancă și altele, prin intermediul lui navigați pe *server*.
 
 ::: tip
 Încearcă să ai mereu la tine mâncare, precum un hotdog, dar și apă. Acestea costă doar 20$! Dacă nu mănânci sau nu te hidratezi, nu o să mai poți alerga sau sări, fapt ce-ți împiedică activitățile la început.
