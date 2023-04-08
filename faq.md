@@ -25,7 +25,7 @@ Economia joburilor a fost realizată cu scopul ca profitabilitatea la fiecare di
 Serverul [🗽liberty.mp](https://ucp.liberty.mp/) dispune în momentul de față de **6 joburi**:  
 [Electrician 🔌](./jobs/electrician) | [Fisherman 🎣](./jobs/fisherman) | [Garbageman ♻️](./jobs/garbageman) | [Lumberjack 🪓](./jobs/lumberjack) | [Miner ⛏️](./jobs/miner) | [Trucker 🚚](./jobs/trucker).  
 
- Într-o **oră** de muncă la job poți câștiga între <Dinero :amount="1500" /> și <Dinero :amount="2000" /> sau chiar mai mult, depinzând de anumiți factori: [skill-ul la jobul respectiv](./jobs/#cum-avansez-in-skill), [dacă se vând obiectele de crafting și alte activități găsite în urma jobului](../general/crafting), [dacă ai job boost activ cât timp practici jobul](../factions/gangs#sistemul-de-droguri).
+ Într-o **oră** de muncă la job poți câștiga între <Dinero :amount="1500" /> și <Dinero :amount="2000" /> sau chiar mai mult, depinzând de anumiți factori: [skill-ul la jobul respectiv](./jobs/#cum-avansez-in-skill), [dacă se vând obiectele de crafting și alte activități găsite în urma jobului](./general/crafting), [dacă ai job boost activ cât timp practici jobul](./factions/gangs#sistemul-de-droguri).
 
 ## Cum îmi aleg numele din joc?
 
