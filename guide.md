@@ -7,7 +7,7 @@ title: Ghid începători
 **Ghidul pentru începători** a fost realizat cu scopul de a oferi sprijin jucătorilor pentru a face trecerea de la **Grand Theft Auto: San Andreas** - platforma **San Andreas Multiplayer** la **Grand Theft Auto V** - platforma **RAGE Multiplayer** pe serverul **[liberty.mp](https://liberty.mp)**. 
 
 ::: tip
-În cazul în care ai nevoie de ajutor pentru instalarea jocului și a platformei, accesează secțiunea **[Cum să joci?](https://wiki.liberty.mp/how-to-play)**.  
+În cazul în care ai nevoie de ajutor pentru instalarea jocului și a platformei, accesează secțiunea **[Cum să joci?](./how-to-play)**.  
 :::
 
 ## Primii pași 
