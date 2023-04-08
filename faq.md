@@ -89,7 +89,7 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**
 
 Dacă dorești să faci parte dintr-o facțiune enumerată mai sus, asigură-te că îndeplinești cerințele minime pentru facțiunea dorită și aplică dând click pe butonul **Opened**, din secțiunea [**Factions**](https://ucp.liberty.mp/factions), aplicația constă în răspunderea unor întrebări de natură personală și virtuală (similar cu un CV foarte simplu de angajare).
 
-::: Tip
+::: tip
    *  - Cerințele minime pentru deschidere nu au fost decise încă. Cerințele minime vor crește/schimba în funcție de progresul jucătorilor din joc.
    ** - Slot-urile (locurile din facțiuni) facțiunilor se vor schimba în funcție de nevoia din joc și numărul total de jucători. 
 :::
