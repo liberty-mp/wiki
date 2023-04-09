@@ -117,7 +117,7 @@ Această eroare este întâlnită în mare parte de jucătorii noi atunci când 
 1. Înainte de a te conecta pe server, verifică dacă ți-ai schimbat nickname-ul default (**WierdNewbie**) din launcherul **RAGE Multiplayer**. 
 
 ::: tip
-Vezi întrebarea [**Cum îmi aleg numele din joc?**](https://wiki.liberty.mp/faq#cum-imi-aleg-numele-din-joc) de mai sus. 
+Vezi întrebarea [**Cum îmi aleg numele din joc?**](#cum-imi-aleg-numele-din-joc) de mai sus. 
 ::: 
 
 2. Verifică pe [**UCP**](https://ucp.liberty.mp) dacă nickname-ul pe care dorești să-l folosești este deja utilizat de un alt jucător. 
