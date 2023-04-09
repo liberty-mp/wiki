@@ -20,7 +20,7 @@ Vanzarea si cumpararea actiunilor functioneaza pe baza de orders, pe scurt, ofer
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/CMq0CEZ.png" alt="sell orders"/> | <Image src="https://i.imgur.com/whBxl3I.png" alt="buy orders"/>
 
-Luand ca exemplu situatiile prezentante in screenshoturi, putem vedea ordinele de vanzare sau cumparare ordonate crescator (in cazul ordinelor de vanzare) sau descrescator (in cazul ordinelor de cumparare), cea mai benefica oferta disponibila fiind reprezentata intotdeauna prima.
+Luand ca exemplu situatiile prezentante in screenshoturi, putem vedea ca ordinele de vanzare sau cumparare sunt ordonate crescator (in cazul ordinelor de vanzare) sau descrescator (in cazul ordinelor de cumparare), cea mai benefica oferta disponibila fiind reprezentata intotdeauna prima.
 
 Presupunem ca jucatorul doreste sa achizitioneze 5 actiuni din aceasta afacere la cel mai mic pret disponibil, acesta va pune un ordin de cumparare cu pretul de $20.000 per actiune in felul urmator:
 
