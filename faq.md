@@ -139,5 +139,5 @@ Eroarea apare și în cazul în care ai fost interzis pe server (ban).
 - Dezactivează opțiunea **Accelerated CEF rendering** a lancherului **RAGE Multiplayer**.
 
 ::: tip
-Intră în setările launcherului și debifează opțiunea. În cazul în care nu știi cum să accesezi setările launcherului, citește [**Utilizarea launcherului RAGE Multiplayer**](https://wiki.liberty.mp/how-to-play#utilizarea-launcherului-rage-multiplayer).
+Intră în setările launcherului și debifează opțiunea. În cazul în care nu știi cum să accesezi setările launcherului, citește [**Utilizarea launcherului RAGE Multiplayer**](./how-to-play#utilizarea-launcherului-rage-multiplayer).
 :::  
