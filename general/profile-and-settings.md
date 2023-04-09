@@ -113,7 +113,7 @@ Secțiunea **Statistics**:
 ### Referrals 
 
 **Referrals** reprezintă categoria unde fiecare jucător își poate vizualiza statisticile și își poate colecta bonusurile câștigate cu privire la recomandările pe care le-a făcut altor jucători pentru a se alătura serverului folosind codul propriu de **Referral**.
-Mai multe detalii aici: [Referral Program](./referrals)] 
+Mai multe detalii aici: [Referral Program](./referrals) 
 
 **Prezentarea secțiunilor:** 
 
