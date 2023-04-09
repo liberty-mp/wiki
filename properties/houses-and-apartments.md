@@ -30,7 +30,7 @@ Alți jucători care locuiesc în casa ta nu o să plătească nimic, prin urmar
 
 ## Cum îmi pot mobila casa?
 
-Pentru a face acest lucru mai întâi trebuie să vă achiziționați mobilă din **IKEA**, unde aveți o gamă largă, de la paturi, canapele și scaune, până la obiecte de uz casnic, de bucătărie si baie. Plasarea mobilei se face prin folosirea axei care apare odată cu începerea procesului, prin urmare poți amplasa mobila exact cum îți dorești și o poți muta ulterior când dorești.
+Pentru a face acest lucru mai întâi trebuie să vă achiziționați mobilă din **IKEA**, unde aveți o gamă largă, de la paturi, canapele și scaune, până la obiecte de uz casnic, de bucătărie si baie. Plasarea mobilei se face prin folosirea axei care apare odată cu începerea procesului, prin urmare poți amplasa mobila exact cum îți dorești și o poți muta ulterior când vrei. De asemenea, dacă o să vinzi casa după ce ai mobilat-o, toată mobila o să îți revină ție!
 
 ::: warning
 Poți mobila o casă doar dacă o deții.
