@@ -102,4 +102,42 @@ Dacă aplicația ta a fost acceptată de către un lider sau co-lider, va trebui
 
 ## Cum instalez moduri și unde le găsesc?
 
-Modurile de grafică aduc niște schimbări sesizabile plăcute pentru jucător, formând un *gameplay* mai frumos din punct de vedere vizual. Recomandarea noastră este folosirea unui program denumit [**Network Graphics**](https://vrp.network/graphics), care este compatibil cu platforma **RAGE Multiplayer**, prin urmare și cu server-ul nostru. Acesta are o varietate de moduri de grafică, fie gratis, fie contra cost pe baza unui abonament. De asemenea, există opțiunea de a optimiza jocul în funcție de performanța calculatorului, să schimbați filtrele, saturația, ș.a.m.d.. Un video explicativ ce conține instalarea și alte detalii aveți [**aici**](https://www.youtube.com/watch?v=5t1q9DH_8-I&ab_channel=libertymoments).
+Modurile de grafică aduc niște schimbări sesizabile plăcute pentru jucător, formând un *gameplay* mai frumos din punct de vedere vizual. Recomandarea noastră este folosirea unui program denumit [**Network Graphics**](https://vrp.network/graphics), care este compatibil cu platforma **RAGE Multiplayer**, prin urmare și cu server-ul nostru. Acesta are o varietate de moduri de grafică, fie gratis, fie contra cost pe baza unui abonament. De asemenea, există opțiunea de a optimiza jocul în funcție de performanța calculatorului, să schimbați filtrele, saturația, ș.a.m.d.. Un video explicativ ce conține instalarea și alte detalii aveți [**aici**](https://www.youtube.com/watch?v=5t1q9DH_8-I&ab_channel=libertymoments). 
+
+## De ce nu mă pot conecta pe server?  
+
+Mai jos îți sunt prezentate câteva dintre cele mai întâlnite situații cu care jucătorii se confruntă atunci când doresc să intre pe serverul nostru.  
+
+### Autentificare în loc de înregistrare 
+
+Această eroare este întâlnită în mare parte de jucătorii noi atunci când se conectează pe server. 
+
+**Soluții:**
+
+1. Înainte de a te conecta pe server, verifică dacă ți-ai schimbat nickname-ul default (**WierdNewbie**) din launcherul **RAGE Multiplayer**. 
+
+::: tip
+Vezi întrebarea [**Cum îmi aleg numele din joc?**](#cum-imi-aleg-numele-din-joc) de mai sus. 
+::: 
+
+2. Verifică pe [**UCP**](https://ucp.liberty.mp) dacă nickname-ul pe care dorești să-l folosești este deja utilizat de un alt jucător. 
+
+::: tip
+Folosește funcția de căutare [**Search**](https://ucp.liberty.mp/search).
+:::  
+
+### Eroare: "Connection has been closed" 
+
+Această eroare este una dintre cele mai cunoscute și vizează în special utilizatorii noi ai platformei **RAGE Multiplayer**, dar nu numai. 
+
+::: warning 
+Eroarea apare și în cazul în care ai fost interzis pe server (ban).
+::: 
+
+**Soluție:** 
+
+- Dezactivează opțiunea **Accelerated CEF rendering** a lancherului **RAGE Multiplayer**.
+
+::: tip
+Intră în setările launcherului și debifează opțiunea. În cazul în care nu știi cum să accesezi setările launcherului, citește [**Utilizarea launcherului RAGE Multiplayer**](./how-to-play#utilizarea-launcherului-rage-multiplayer).
+:::  
