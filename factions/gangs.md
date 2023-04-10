@@ -19,7 +19,7 @@ title: Grupari Mafiote
 
 ### <Color hex="#65B9E7">Varrios Los Aztecas</Color>
 
-**Varrios Los Aztecas** este o grupare hispanica extrem de periculoasă, implicată în traficul de armament și violență stradală din orașul Los Santos.
+**Varrios Los Aztecas** este o grupare hispanică extrem de periculoasă, implicată în traficul de armament și violență stradală din orașul Los Santos.
 
 **Istoric**: 
 
@@ -31,7 +31,7 @@ title: Grupari Mafiote
 
 ### <Color hex="#71CB71">Grove Street Families</Color>
 
-**Grove Street Families** este o grupare stradălă afro-americană și una dintre cele mai vechi din orașul Los Santos. Ei sunt dușmanul jurat al grupării **Ballas**, între acestea existând o rivalitate intensă și continuă ca parte a războiului din oraș. De asemenea, această grupare este implicată în special în traficul cu substanțe interzise.
+**Grove Street Families** este o grupare stradală afro-americană și una dintre cele mai vechi din orașul Los Santos. Ei sunt dușmanul jurat al grupării **Ballas**, între acestea existând o rivalitate intensă și continuă ca parte a războiului din oraș. De asemenea, această grupare este implicată în special în traficul cu substanțe interzise.
 
 **Istoric**:  
 
@@ -43,7 +43,7 @@ title: Grupari Mafiote
 
 ### <Color hex="#9C6EAF">Ballas</Color>
 
-**Ballas** este o grupare stradălă afro-americană și face parte din garda veche a orașului Los Santos, având ca principală preocuparea traficul de substanțe interzise, pe lângă cel cu armament și muniție.
+**Ballas** este o grupare stradală afro-americană și face parte din garda veche a orașului Los Santos, având ca principală preocuparea traficul de substanțe interzise, pe lângă cel cu armament și muniție.
 
 **Istorie**:
 
@@ -94,10 +94,10 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/uAC9Dqk.png" alt="Port" width="30" label="Port Map Blip" /> | 4 teritorii |  [**Elysian Island**](https://i.imgur.com/wL8s2vU.png), [**Terminal**](https://i.imgur.com/ElkPiyb.png) | 
 
-Teritoriile din categoria **Port** permit aprovizionărea cu arme, muniție și diverse substanțe interzise.<br>
-Aprovizionare are loc zilnic la aproximativ 15 minute după terminarea războaielor (war-uri).<br>
-Toti jucatorii apartinatori gang-ului detinator al unui turf de tip port vor primi cate un item.<br>
-Jucatorii au timp 24 de ore pentru a extrage itemele. In caz contrar acestea vor fi șterse.
+Teritoriile din categoria **Port** permit aprovizionarea cu arme, muniție și diverse substanțe interzise.<br>
+Aprovizionarea are loc zilnic la aproximativ 15 minute după terminarea războaielor (war-uri).<br>
+Toți jucătorii apartinători gang-ului deținător al unui turf de tip port vor primi câte un item.<br>
+Jucătorii au timp 24 de ore pentru a extrage itemele. În caz contrar acestea vor fi șterse.
 
 ### Warehouse
 
@@ -133,8 +133,8 @@ Grupările mafiote care dețin mai multe teritorii beneficiază de posibilităț
 
 ## Începutul war-ului 
 
-**War-urile** pot fi începute doar de către **Lider** (rank 5) sau **Co-lider** (rank 4) prin folosirea comenzii `/attack` în spațiul delimitat al unui teritoriu detinut de catre o grupare inamică (war turf).<br>
-Razboaiele se desfașoară conform urmatorului program:
+**War-urile** pot fi începute doar de către **Lider** (rank 5) sau **Co-lider** (rank 4) prin folosirea comenzii `/attack` în spațiul delimitat al unui teritoriu deținut de către o grupare inamică (war turf).<br>
+Războaiele se desfașoară conform următorului program:
 
 | Zile | Ore | 
 | :-----------: | :-----------: | 
@@ -153,7 +153,7 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 
 ## Desfășurarea war-ului
 
-O dată cu începerewa war-ului, participanții care se află deja în ținuta grupării sau care urmează să se schimbe în aceasta, vor fi teleportați într-un **Virtual World** separat, împreună cu ceilalți membrii ai grupării rivale.
+O dată cu începerea war-ului, participanții care se află deja în ținuta grupării sau care urmează să se schimbe în aceasta, vor fi teleportați într-un **Virtual World** separat, împreună cu ceilalți membrii ai grupării rivale.
 
 ### Arme disponibile
 
@@ -180,8 +180,8 @@ Cucerirea unui teritoriu constă în acumularea a cât mai multor puncte, pe toa
 
 | Modalitate de obținere | Puncte | 
 | :-----------: | :-----------: | 
-| Prezența membriilor pe teritoriu | +1/minut | 
-| Uciderea membriilor rivali pe teritoriu | +1/kill |
+| Prezența membrilor pe teritoriu | +1/minut | 
+| Uciderea membrilor rivali pe teritoriu | +1/kill |
  
 Punctele acumulate în total de fiecare grupare mafiotă implicată în war precum și timpul ramas se pot vizualiza în partea superioară a ecranului.
 
@@ -197,7 +197,7 @@ Statisticile personale pot fi vizualizate și în timpul war-ului, în partea di
 
 ### Scorul personal 
 
-**Scorul personal** este calculat automat la sfârșitul fiecărui război in functie de performanțele individuale.â 
+**Scorul personal** este calculat automat la sfârșitul fiecărui război in functie de performanțele individuale.
 
 | Numar puncte | Activitate |
 | :-----------: | :-----------: |
