@@ -104,7 +104,7 @@ Dacă aplicația ta a fost acceptată de către un lider sau co-lider, va trebui
 
 Modurile de grafică aduc niște schimbări sesizabile plăcute pentru jucător, formând un *gameplay* mai frumos din punct de vedere vizual. Recomandarea noastră este folosirea unui program denumit [**Network Graphics**](https://vrp.network/graphics), care este compatibil cu platforma **RAGE Multiplayer**, prin urmare și cu server-ul nostru. Acesta are o varietate de moduri de grafică, fie gratis, fie contra cost pe baza unui abonament. De asemenea, există opțiunea de a optimiza jocul în funcție de performanța calculatorului, să schimbați filtrele, saturația, ș.a.m.d.. Un video explicativ ce conține instalarea și alte detalii aveți [**aici**](https://www.youtube.com/watch?v=5t1q9DH_8-I&ab_channel=libertymoments). 
 
-## De ce nu mă pot conecta pe server?  
+## Probleme frecvente cu jocul sau launcherul  
 
 Mai jos îți sunt prezentate câteva dintre cele mai întâlnite situații cu care jucătorii se confruntă atunci când doresc să intre pe serverul nostru.  
 
@@ -140,4 +140,24 @@ Eroarea apare și în cazul în care ai fost interzis pe server (ban).
 
 ::: tip
 Intră în setările launcherului și debifează opțiunea. În cazul în care nu știi cum să accesezi setările launcherului, citește [**Utilizarea launcherului RAGE Multiplayer**](./how-to-play#utilizarea-launcherului-rage-multiplayer).
-:::  
+:::   
+
+### Jocul pornește în singleplayer 
+
+Această eroare este de asemenea foarte întâlnită în rândul jucătorilor care încearcă să se conecteze pe server și poate fi rezolvată urmând una dintre cele trei soluții de mai jos. 
+
+**Soluții:** 
+
+1. Restartează calculatorul și încearcă din nou să intrii pe server. 
+
+2. (pentru Steam) Închide complet **Steam-ul**, apoi intră în launcherul **Rage Multiplayer** și încearcă să te conectezi pe server, lăsând ca Steam-ul, respectiv jocul să pornească din launcher.  
+
+::: warning
+Această variantă nu funcționează pentru toți utilizatorii platformei **Steam**.
+::: 
+
+3. Asigură-te că ai [**Visual C++ redistributable 2015**](https://www.microsoft.com/en-us/download/details.aspx?id=48145). 
+
+::: tip
+Pentru a-l instala, apasă pe butonul portocaliu de **Download**.
+::: 
