@@ -104,7 +104,7 @@ Dacă aplicația ta a fost acceptată de către un lider sau co-lider, va trebui
 
 Modurile de grafică aduc niște schimbări sesizabile plăcute pentru jucător, formând un *gameplay* mai frumos din punct de vedere vizual. Recomandarea noastră este folosirea unui program denumit [**Network Graphics**](https://vrp.network/graphics), care este compatibil cu platforma **RAGE Multiplayer**, prin urmare și cu server-ul nostru. Acesta are o varietate de moduri de grafică, fie gratis, fie contra cost pe baza unui abonament. De asemenea, există opțiunea de a optimiza jocul în funcție de performanța calculatorului, să schimbați filtrele, saturația, ș.a.m.d.. Un video explicativ ce conține instalarea și alte detalii aveți [**aici**](https://www.youtube.com/watch?v=5t1q9DH_8-I&ab_channel=libertymoments). 
 
-## De ce nu mă pot conecta pe server?  
+## Probleme frecvente cu jocul sau launcherul  
 
 Mai jos îți sunt prezentate câteva dintre cele mai întâlnite situații cu care jucătorii se confruntă atunci când doresc să intre pe serverul nostru.  
 
