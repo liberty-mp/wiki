@@ -22,7 +22,7 @@ Nu sunteți obligați să urmați în detaliu acești pași, sunt doar niște î
 
 ### Între level 1 și 3
 
-Recomandarea noastră este să frecventați **job-urile** despre care aflați mai multe [**aici**](./jobs), pentru a vă crește exponențial banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, Panto-ul oferit de către noi pentru **30 payday-uri** o să vă ajute extrem de mult în privința deplasărilor, dar și pentru job-uri, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru hartă, bancă și altele, prin intermediul lui navigați pe *server*.
+Recomandarea noastră este să frecventați **job-urile** despre care aflați mai multe [**aici**](./jobs/), pentru a vă crește exponențial banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, Panto-ul oferit de către noi pentru **30 payday-uri** o să vă ajute extrem de mult în privința deplasărilor, dar și pentru job-uri, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru hartă, bancă și altele, prin intermediul lui navigați pe *server*.
 
 ::: tip
 Încearcă să ai mereu la tine mâncare, precum un hotdog, dar și apă. Acestea costă doar 20$! Dacă nu mănânci sau nu te hidratezi, nu o să mai poți alerga sau sări, fapt ce-ți împiedică activitățile la început.
@@ -49,7 +49,7 @@ Pentru a jefui un ATM ai nevoie de *hook* și *rope*, ce pot pica de la job-ul G
 
 Din momentul acesta poți investi și în **cryptomonede**, despre care aveți mai multe informații [**aici**](./economy/crypto). Acestea sunt sincronizate cu cele din realitate și dacă ești atent la piață poți să ai încă o sursă de venit de aici, pe lângă stock-uri! De asemenea, dacă nu mai dorești să locuiești la un hotel sau un motel îți poți păstra banii pentru o **casă sau un apartament** pentru licitațiile ce o să urmeze. Din moment ce poți utiliza cryptomonedele, poți folosi și aplicația Hitman care folosește moneda *Tether* pentru a angaja un asasin!
 
-Nu uita că există mai multe facțiuni din care poți face parte, pentru mai multe detalii citiți [**aici**](./factions). Acestea sunt diferite între ele și te poți alătura lor prin intermediul unei aplicații pe UCP-ul nostru. Trebuie doar să te decizi ce îți place mai mult, ce ai vrea să faci și să te documentezi în legătură cu ce se ocupă acestea.
+Nu uita că există mai multe facțiuni din care poți face parte, pentru mai multe detalii citiți [**aici**](./factions/). Acestea sunt diferite între ele și te poți alătura lor prin intermediul unei aplicații pe UCP-ul nostru. Trebuie doar să te decizi ce îți place mai mult, ce ai vrea să faci și să te documentezi în legătură cu ce se ocupă acestea.
 
 
 ## Asistență în joc
