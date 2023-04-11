@@ -47,7 +47,7 @@ Câștigul depinde de ruta aleasă, fiecare destinație oferă un anumit număr 
   <Image src="https://i.imgur.com/MP8x2we.png" alt="Interfață alegere rută" />  
 :::  
 
-::: Tip
+::: tip
 În colțul din stânga jos a interfeței îți este afișată distanța pâna la destinație cât și un timp estimat în minute cât ar dura ruta aleasă.
 :::
 
