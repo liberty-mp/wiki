@@ -49,6 +49,7 @@ Câștigul depinde de ruta aleasă, fiecare destinație oferă un anumit număr 
 
 ::: Tip
 În colțul din stânga jos a interfeței îți este afișată distanța pâna la destinație cât și un timp estimat în minute cât ar dura ruta aleasă.
+:::
 
 Ajuns la prima destinație cu transportul, trebuie să reîncarci camionul într-o locație din apropiere, un punct pe hartă îți va marca acestă locație.
 
