@@ -4,12 +4,12 @@ title: Lumberjack
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora | ~<Dinero :amount='1750' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='1775' /> |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
 | Posibilitate câștigare iteme extra? | Nu. |
-<!--- | Locație NPC Lumberjack | [M. Chiliad Wilderness, Great Ocean Highway](https://i.imgur.com/AiOKyO4.png)  | --->
+| Locație NPC Lumberjack | [M. Chiliad Wilderness, Great Ocean Highway](https://i.imgur.com/AiOKyO4.png)  |
 
 ## Desfășurarea jobului  
 

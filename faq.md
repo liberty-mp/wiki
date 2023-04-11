@@ -79,19 +79,19 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**
 
 | Facțiune   | Cerințe minime |  Slot-uri (locuri) | Wiki |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="16" label="Downtown Taxi Company" /> | -* | 30** | [**Downtown Taxi Company**](./factions/taxi.md)
-| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="16" label="Los Santos Police Department" /> | -*| 30** | [**Los Santos Police Department**](./factions/lspd.md)
-| <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="16" label="Hitman Agency" /> | -* | 30** | [**Hitman Agency**](./factions/hitman.md)
-| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="16" label="Varrios Los Aztecas" />| -* | 30** | [**Gangs**](./factions/gangs.md)
-| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="16" label="Grove Street Families" />| -* | 30** | [**Gangs**](./factions/gangs.md)
-| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="16" label="Ballas" />| -* | 30** | [**Gangs**](./factions/gangs.md)
-| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="16" label="Los Santos Vagos" />| -* | 30** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | -* | 30** | [**Downtown Taxi Company**](./factions/taxi.md)
+| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | -*| 30** | [**Los Santos Police Department**](./factions/lspd.md)
+| <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> | -* | 30** | [**Hitman Agency**](./factions/hitman.md)
+| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| -* | 30** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| -* | 30** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| -* | 30** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| -* | 30** | [**Gangs**](./factions/gangs.md)
 
 Dacă dorești să faci parte dintr-o facțiune enumerată mai sus, asigură-te că îndeplinești cerințele minime pentru facțiunea dorită și aplică dând click pe butonul **Opened**, din secțiunea [**Factions**](https://ucp.liberty.mp/factions), aplicația constă în răspunderea unor întrebări de natură personală și virtuală (similar cu un CV foarte simplu de angajare).
 
 ::: tip
 
-   - Cerințele minime pentru deschidere nu au fost decise încă. Cerințele minime vor crește/schimba în funcție de progresul jucătorilor din joc.
+   - Cerințele minime pentru deschidere nu au fost decise încă. Cerințele minime se schimbă în funcție de progresul jucătorilor din joc.
    - Slot-urile (locurile din facțiuni) facțiunilor se vor schimba în funcție de nevoia din joc și numărul total de jucători. 
 
 :::
@@ -114,13 +114,13 @@ Această eroare este întâlnită în mare parte de jucătorii noi atunci când 
 
 **Soluții:**
 
-1. Înainte de a te conecta pe server, verifică dacă ți-ai schimbat nickname-ul default (**WierdNewbie**) din launcherul **RAGE Multiplayer**. 
+1. Înainte de a te conecta pe server, verifică dacă ți-ai schimbat nickname-ul default (**WeirdNewbie**) din launcher-ul **RAGE Multiplayer**. 
 
 ::: tip
 Vezi întrebarea [**Cum îmi aleg numele din joc?**](#cum-imi-aleg-numele-din-joc) de mai sus. 
 ::: 
 
-2. Verifică pe [**UCP**](https://ucp.liberty.mp) dacă nickname-ul pe care dorești să-l folosești este deja utilizat de un alt jucător. 
+2. Verifică pe [**UCP**](https://ucp.liberty.mp/search) dacă nickname-ul pe care dorești să-l folosești este deja utilizat de un alt jucător. 
 
 ::: tip
 Folosește funcția de căutare [**Search**](https://ucp.liberty.mp/search).
@@ -130,34 +130,14 @@ Folosește funcția de căutare [**Search**](https://ucp.liberty.mp/search).
 
 Această eroare este una dintre cele mai cunoscute și vizează în special utilizatorii noi ai platformei **RAGE Multiplayer**, dar nu numai. 
 
-::: warning 
-Eroarea apare și în cazul în care ai fost interzis pe server (ban).
+::: warning Atenție!
+Eroarea apare și în cazul în care ți-a fost interzis accesul pe server (banned).
 ::: 
 
 **Soluție:** 
 
-- Dezactivează opțiunea **Accelerated CEF rendering** a lancherului **RAGE Multiplayer**.
+- Dezactivează opțiunea **Accelerated CEF rendering** a lancher-ului **RAGE Multiplayer**.
 
 ::: tip
-Intră în setările launcherului și debifează opțiunea. În cazul în care nu știi cum să accesezi setările launcherului, citește [**Utilizarea launcherului RAGE Multiplayer**](./how-to-play#utilizarea-launcherului-rage-multiplayer).
-:::   
-
-### Jocul pornește în singleplayer 
-
-Această eroare este de asemenea foarte întâlnită în rândul jucătorilor care încearcă să se conecteze pe server și poate fi rezolvată urmând una dintre cele trei soluții de mai jos. 
-
-**Soluții:** 
-
-1. Restartează calculatorul și încearcă din nou să intri pe server. 
-
-2. (pentru Steam) Închide complet **Steam-ul**, apoi intră în launcherul **Rage Multiplayer** și încearcă să te conectezi pe server, lăsând ca Steam-ul, respectiv jocul să pornească din launcher.  
-
-::: warning
-Această variantă nu funcționează pentru toți utilizatorii platformei **Steam**.
-::: 
-
-3. Asigură-te că ai [**Visual C++ redistributable 2015**](https://www.microsoft.com/en-us/download/details.aspx?id=48145). 
-
-::: tip
-Pentru a-l instala, apasă pe butonul portocaliu de **Download**.
-::: 
+Intră în setările launcher-ului și debifează opțiunea. În cazul în care nu știi cum să accesezi setările launcher-ului, citește [**Utilizarea launcher-ului RAGE Multiplayer**](./how-to-play#utilizarea-launcher-ului-rage-multiplayer).
+:::  

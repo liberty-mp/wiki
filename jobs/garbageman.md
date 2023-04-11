@@ -4,12 +4,12 @@ title: Garbageman
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora | ~<Dinero :amount='1750' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='1650' /> |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
 | Posibilitate câștigare iteme extra? | Da. |
-<!--- | Locație NPC Garbageman | [La Puerta, Mutiny Road](https://i.imgur.com/gyUjAQG.png) | --->
+| Locație NPC Garbageman | [La Puerta, Mutiny Road](https://i.imgur.com/gyUjAQG.png) |
 
 ## Desfășurarea jobului  
 

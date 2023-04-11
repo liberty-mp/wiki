@@ -4,12 +4,12 @@ title: Fisherman
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora | ~<Dinero :amount='1750' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='1700' /> |
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Da, undiță și momeală. |
-| Posibilitate câștigare iteme extra? | Da. |
-<!--- | Locație NPC-uri Fisherman | [Locație 1: Paleto Cove](https://i.imgur.com/5mGr5NE.png) <br> [Locație 2: Alamo Sea](https://i.imgur.com/AoslGiy.png) <br> [Locație 3: Procopio Beach](https://i.imgur.com/0Ur4iDk.png) | --->
+| Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-prindere). |
+| Locație NPC-uri Fisherman | [Locație 1: Paleto Cove](https://i.imgur.com/5mGr5NE.png) <br> [Locație 2: Alamo Sea](https://i.imgur.com/AoslGiy.png) <br> [Locație 3: Procopio Beach](https://i.imgur.com/0Ur4iDk.png) | --->
 
 ## Desfășurarea jobului
 
@@ -103,22 +103,22 @@ Un tabel cu toți peștii din apele statului San Adreas și șansele de prindere
 **ș.p.u = șansă prindere undiță**
 | **Imagine** | **Preț** | **ș.p.u. din lemn** | **ș.p.u. din fibră de carbon** | **Considerat valoros?** |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/vCLbj0r.png" alt="Bitterling" width="64" label="Bitterling" /> | **<Dinero :amount='14' />** | **24%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/ayekP7W.png" alt="Bluefin Tuna" width="64" label="Bluefin Tuna" /> | **<Dinero :amount='18' />** | **0%** | **33%** | Da |
-| <Image src="https://i.imgur.com/w6zNIt3.png" alt="Common Carp" width="64" label="Common Carp" /> | **<Dinero :amount='12' />** | **0%** | **20%** | Nu |
-| <Image src="https://i.imgur.com/ZzudxmG.png" alt="Common Dentex" width="64" label="Common Dentex" /> | **<Dinero :amount='12' />** | **0%** | **20%** | Nu |
-| <Image src="https://i.imgur.com/Xd7pBSZ.png" alt="Common Pandora" width="64" label="Common Pandora" /> | **<Dinero :amount='14' />** | **0%** | **8%** | Nu |
-| <Image src="https://i.imgur.com/aIlcJy7.png" alt="European Hake" width="64" label="European Hake" /> | **<Dinero :amount='15' />** | **0%** | **8%** | Nu |
-| <Image src="https://i.imgur.com/sDWEmf6.png" alt="Gold Fish" width="64" label="Gold Fish" /> | **<Dinero :amount='22' />** | **0%** | **17%** | Da |
-| <Image src="https://i.imgur.com/EWQCtdW.png" alt="Guvid" width="64" label="Guvid" /> | **<Dinero :amount='16' />** | **12%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/gKQykl2.png" alt="Hamsie" width="64" label="Hamsie" /> | **<Dinero :amount='16' />** | **12%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/lJPOxZT.png" alt="Lobster" width="64" label="Lobster" /> | **<Dinero :amount='21' />** | **0%** | **32%** | Da |
-| <Image src="https://i.imgur.com/9YSh8Tq.png" alt="Monkfish" width="64" label="Monkfish" /> | **<Dinero :amount='15' />** | **0%** | **12%** | Nu |
-| <Image src="https://i.imgur.com/uIL6Hil.png" alt="Mosquito" width="64" label="Mosquito" /> | **<Dinero :amount='15' />** | **26%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/JEHTuKk.png" alt="Prussian Carp" width="64" label="Prussian Carp" /> | **<Dinero :amount='12' />** | **0%** | **20%** | Nu |
-| <Image src="https://i.imgur.com/2Qkoa9W.png" alt="Rainbow Fish" width="64" label="Rainbow Fish" /> | **<Dinero :amount='14' />** | **26%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/Ki860Lq.png" alt="Sparus" width="64" label="Sparus" /> | **<Dinero :amount='15' />** | **0%** | **0%** | Nu |
-| <Image src="https://i.imgur.com/BQVLCfo.png" alt="Yabby" width="64" label="Yabby" /> | **<Dinero :amount='23' />** | **0%** | **17%** | Da |
+| <Image src="https://i.imgur.com/vCLbj0r.png" alt="Bitterling" width="64" label="Bitterling" /> | **<Dinero :amount='15' />** | **24%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/ayekP7W.png" alt="Bluefin Tuna" width="64" label="Bluefin Tuna" /> | **<Dinero :amount='19' />** | **0%** | **33%** | Da |
+| <Image src="https://i.imgur.com/w6zNIt3.png" alt="Common Carp" width="64" label="Common Carp" /> | **<Dinero :amount='13' />** | **0%** | **20%** | Nu |
+| <Image src="https://i.imgur.com/ZzudxmG.png" alt="Common Dentex" width="64" label="Common Dentex" /> | **<Dinero :amount='13' />** | **0%** | **20%** | Nu |
+| <Image src="https://i.imgur.com/Xd7pBSZ.png" alt="Common Pandora" width="64" label="Common Pandora" /> | **<Dinero :amount='15' />** | **0%** | **8%** | Nu |
+| <Image src="https://i.imgur.com/aIlcJy7.png" alt="European Hake" width="64" label="European Hake" /> | **<Dinero :amount='16' />** | **0%** | **8%** | Nu |
+| <Image src="https://i.imgur.com/sDWEmf6.png" alt="Gold Fish" width="64" label="Gold Fish" /> | **<Dinero :amount='23' />** | **0%** | **17%** | Da |
+| <Image src="https://i.imgur.com/EWQCtdW.png" alt="Guvid" width="64" label="Guvid" /> | **<Dinero :amount='17' />** | **12%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/gKQykl2.png" alt="Hamsie" width="64" label="Hamsie" /> | **<Dinero :amount='17' />** | **12%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/lJPOxZT.png" alt="Lobster" width="64" label="Lobster" /> | **<Dinero :amount='22' />** | **0%** | **32%** | Da |
+| <Image src="https://i.imgur.com/9YSh8Tq.png" alt="Monkfish" width="64" label="Monkfish" /> | **<Dinero :amount='16' />** | **0%** | **12%** | Nu |
+| <Image src="https://i.imgur.com/uIL6Hil.png" alt="Mosquito" width="64" label="Mosquito" /> | **<Dinero :amount='16' />** | **26%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/JEHTuKk.png" alt="Prussian Carp" width="64" label="Prussian Carp" /> | **<Dinero :amount='13' />** | **0%** | **20%** | Nu |
+| <Image src="https://i.imgur.com/2Qkoa9W.png" alt="Rainbow Fish" width="64" label="Rainbow Fish" /> | **<Dinero :amount='15' />** | **26%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/Ki860Lq.png" alt="Sparus" width="64" label="Sparus" /> | **<Dinero :amount='16' />** | **0%** | **0%** | Nu |
+| <Image src="https://i.imgur.com/BQVLCfo.png" alt="Yabby" width="64" label="Yabby" /> | **<Dinero :amount='24' />** | **0%** | **17%** | Da |
 
 ## Obiecte speciale pentru crafting și alte activități & șanse de prindere  
 

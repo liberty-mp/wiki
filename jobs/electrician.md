@@ -4,12 +4,12 @@ title: Electrician
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora | ~<Dinero :amount='1750' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='1750' /> |
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate câștigare iteme extra? | Nu. |
-<!--- | Locație NPC Electrician | [Cypress Flats, El Rancho Blvd](https://i.imgur.com/L4CW5VF.png)  | --->
+| Posibilitate găsire obiecte speciale? | Nu. |
+| Locație NPC Electrician | [Cypress Flats, El Rancho Blvd](https://i.imgur.com/L4CW5VF.png)
 
 
 ## Desfășurarea jobului  
