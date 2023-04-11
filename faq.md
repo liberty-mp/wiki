@@ -148,7 +148,7 @@ Această eroare este de asemenea foarte întâlnită în rândul jucătorilor ca
 
 **Soluții:** 
 
-1. Restartează calculatorul și încearcă din nou să intrii pe server. 
+1. Restartează calculatorul și încearcă din nou să intri pe server. 
 
 2. (pentru Steam) Închide complet **Steam-ul**, apoi intră în launcherul **Rage Multiplayer** și încearcă să te conectezi pe server, lăsând ca Steam-ul, respectiv jocul să pornească din launcher.  
 
