@@ -55,7 +55,7 @@ Pentru jefuirea unui ATM, va trebui să **nu aveți Heat Level** și **să nu fi
 :::
 
 ::: details Extragerea și ridicarea consolei ATM  
- <Image src="https://i.imgur.com/66178J5.gif" alt="rob2" />  
+ <Image src="https://i.imgur.com/66178J5.mp4" alt="rob2" />  
 :::
 
 ::: details Livrarea consolei ATM  
