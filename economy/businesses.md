@@ -15,7 +15,7 @@ Aceste *afaceri* sunt prezente pe toată harta în număr mare, așadar sunt mai
 Odată ajunși la business, o să fiți nevoiți fie să interacționați cu vânzătorul sau vânzătoarea, fie să vă poziționați pe checkpoint-ul mov și să apăsați tasta `E`.
 
 ::: tip
-Fiecare business din aceeași categorie, spre exemplu un Clothing Store din centrul orașului și unul de la periferie, are aceleași prețuri! Nu diferă nimic între ele, înafară de locație.
+Fiecare business din aceeași categorie, spre exemplu un Clothing Store din centrul orașului și unul de la periferie, are aceleași prețuri! Nu diferă nimic între ele, în afară de locație.
 :::
 
 ## Ce sunt fiecare și ce pot face la acestea?
