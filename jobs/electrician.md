@@ -14,7 +14,7 @@ title: Electrician
 
 ## Desfășurarea jobului  
 
-Desfășurarea jobului Electrician constă în menținerea în funcțiune a echipementelor electrice din orașul Los Santos prin reglarea siguranțelor dereglate din panourile electrice.   
+Desfășurarea jobului Electrician constă în menținerea în funcțiune a echipementelor electrice din orașul Los Santos prin reglarea siguranțelor defecte din panourile electrice.   
 
 ## Intrebări frecvente
 
