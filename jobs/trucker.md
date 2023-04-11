@@ -31,16 +31,15 @@ Odată ajuns la locația NPC-ului Trucker, interacționează cu el folosind buto
   <Image src="https://i.imgur.com/pri7tvS.png" alt="Pounder" />
 ::: 
 
-
 ### Ce rută să aleg?  
 
-Câștigul depinde de ruta aleasă, fiecare destinație oferă un anumit număr de <Dinero :amount='/km' />. În concluzie rutele mai lungi oferă un câștig mai mare, dar poate să dureze și mai mult datorită traficului și a altor incidente care pot să aibă loc.
+Câștigul depinde de ruta aleasă, fiecare destinație oferă un anumit număr de km. În concluzie rutele mai lungi oferă un câștig mai mare, dar poate să dureze și mai mult datorită traficului și a altor incidente care pot să aibă loc.
 
 ::: details Începe munca
   <Image src="https://i.imgur.com/9Is6xNE.gif" alt="Începe munca" />  
 :::
 
-::: details Alege prima rută  
+::: details Alege prima rută
   <Image src="https://i.imgur.com/ue5uyfE.gif" alt="Alege prima rută" />  
 :::  
 
@@ -55,7 +54,8 @@ Ajuns la prima destinație cu transportul, trebuie să reîncarci camionul într
 
 ## Cazuri în care nu poți efectua jobul  
  
-- Tura de job se oprește automat dacă abandonezi vehiculul pentru mai mult de _**5 minute**_. Nu sta AFK (away from keyboard) dacă nu ești la volanul vehicului.  
+- Tura de job se oprește automat dacă abandonezi vehiculul pentru mai mult de _**5 minute**_. Nu sta AFK (away from keyboard) dacă nu ești la volanul vehicului.
+
 ::: details Abandon vehicul  
  <Image src="https://i.imgur.com/Eo5lgj9.png" alt="Abandon vehicul" />  
 :::  
