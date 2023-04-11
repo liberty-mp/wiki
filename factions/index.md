@@ -4,7 +4,17 @@ title: Informații generale facțiuni
 
 ### Informații generale despre facțiuni
 
-**Facțiunile** prezente pe [**liberty.mp**](https://ucp.liberty.mp) sunt următoarele: **Los Santos Police Department**, **Hitman Agency**, **Downtown Taxi Company**, **Varrios Los Aztecas**, **Grove Street Families**, **Ballas** și **Los Santos Vagos**. Acestea sunt grupări în care jucătorii se pot alătura prin intermediul [**UCP-ului**](https://ucp.liberty.mp/factions), aplicând la respectivele.
+Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni** momentan, acestea sunt:  
+
+| Facțiune   | Cerințe minime |  Slot-uri (locuri) | Wiki |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | -* | 30** | [**Downtown Taxi Company**](./factions/taxi.md)
+| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | -*| 30** | [**Los Santos Police Department**](./factions/lspd.md)
+| <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> | -* | 30** | [**Hitman Agency**](./factions/hitman.md)
+| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| -* | 30** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| -* | 30** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| -* | 30** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| -* | 30** | [**Gangs**](./factions/gangs.md)
 
 ## Ce fac aceste facțiuni?
 Fiecare dintre cele enumerate **anterior** au *scopuri* și *organizare diferită*, întreprinzând activități diferite. **Los Santos Police Department** menține starea de liniște în orașul Los Santos, pe când **grupările mafiote** produc haos, făcând contrabandă, trafic de droguri, pe care de asemenea le și consumă. Mai multe detalii despre acestea aveți [**aici**](./lspd) și [**aici**](./gangs).
@@ -12,7 +22,6 @@ Fiecare dintre cele enumerate **anterior** au *scopuri* și *organizare diferit�
 ::: tip
 Grupările mafiote sunt împărțite pe teritorii. 
 :::
-
 
 Agenții precum **Hitman** desfășoară servicii de asasinare printr-un contract trimis de jucători prin intermediul telefonului. Membrii acestei agenții sunt **profesioniști** ce lucrează cu mare atenție, iar suma pe care ei o încasează în urma contractului este doar in **cryptomonede**, mai exact **USDT**. Mai multe detalii [**aici**](./hitman).
 
@@ -32,7 +41,7 @@ Hărțuirea unui taximetrist prin orice metodă duce la încheierea cursei și e
 
 ## Cum aplici într-o facțiune?
 
-Este un procedeu foarte **ușor** și **intuitiv**. Acesta presupune accesarea [**UCP-ului**](ucp.liberty.mp), să-ți introduci datele contului atunci când apeși pe butonul denumit `Login` și să apeși pe secțiunea `Factions`.
+Este un procedeu foarte **ușor** și **intuitiv**. Acesta presupune accesarea [**UCP-ului**](https://ucp.liberty.mp), să-ți introduci datele contului atunci când apeși pe butonul denumit `Login` și să apeși pe secțiunea `Factions`.
 
 ::: details Login & Factions
 <Image src="https://i.imgur.com/U9a7sEg.gif" alt="login" />

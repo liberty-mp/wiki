@@ -10,7 +10,7 @@ Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcur
 
 ### Ce venituri sunt la joburi?
 
-Veniturile joburilor sunt calculate astfel încât la sfârșitul unei sesiuni de exemplu: 5 ore, totalul câștigat să fie **aproximativ ~<Dinero :amount='1750' /> per oră**. Venitul depinde și de **itemele extra** pe care le poți găsi practicând **joburile cu drop**, aceste iteme pot fi adăugate pe [Market](../general/marketplace) sau folosite în [Trade](../general/trade) cu alți jucători.
+Veniturile joburilor sunt calculate astfel încât la sfârșitul unei sesiuni de exemplu: 5 ore, totalul câștigat să fie **aproximativ ~<Dinero :amount='1700' /> per oră**. Venitul depinde și de **obiectele speciale** pe care le poți găsi practicând **joburile cu ;șanse de drop (găsire)**, aceste iteme pot fi adăugate pe [Market](../general/marketplace) sau folosite în [Trade](../general/trade) cu alți jucători.
 
 ### Cum găsesc jobul?  
 

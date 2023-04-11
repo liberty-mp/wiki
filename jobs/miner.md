@@ -4,12 +4,12 @@ title: Miner
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora | ~<Dinero :amount='1750' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='1675' /> |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate câștigare iteme extra? | Da. |
-<!--- | Locație NPC Miner | [##########](#########)  | --->
+| Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire). |
+| Locație NPC Miner | [Grand Senora Desert, Davis Quartz](https://i.imgur.com/Pk1jdQp.png)  |
 
 ## Desfășurarea jobului  
 
@@ -21,29 +21,25 @@ Desfășurarea jobului Miner constă în extragerea pietrei de construcții și 
 
 Odată ajuns la locația NPC-ului Miner, interacționează cu el folosind butonul `E` și selectează "**Începe munca**", ți se va da un vehicul special în care trebuie să încarci piatra extrasă cu ajutorul târnăcopului, iar mai apoi să descarci mașina la punctul de procesare.
 
-<!---
+
 ::: details Începe munca  
-  <Image src="##############" alt="Start Job" />
+  <Image src="https://i.imgur.com/moFm75E.gif" alt="Start Job" />
 :::  
 
 ::: details Vehicul oferit de NPC  
   Bison | Top speed: 150 km/h | Tractiune: integrală | Viteze: 5 | Manevrabilitate: mare 
-  <Image src="##############" alt="Bison" />
+  <Image src="https://i.imgur.com/vK2ZjZJ.png" alt="Bison" />
 ::: 
---->
+
 
 ### Cum extrag piatra?  
 
 După ce ai început tura de job, trebuie să urmezi ruta de pe hartă până când ajungi în cariera de piatra. Pentru a mina piatra, coboara din mașină și apropie-te de punctul indicat de lângă rocă. Vei începe să minezi, când minatul este gata, încarcă piatra în spatele mașinii. Când mașina este plină, trebuie descărcată la punctul de procesare, urmează ruta de pe hartă pentru a face asta.  
-<!---
-::: details Minarea rocilor și încărcarea în vehicul  
-  <Image src="#####################################################################" alt="Minarea rocilor & încărcare vehicul" />  
-:::
 
-::: details Livrare vehicul cu roci  
-  <Image src="###############################################################" alt="Livrare vehicul încărcat" />  
-:::  
---->
+::: details Minarea rocilor și încărcarea în vehicul  
+  <Image src="https://i.imgur.com/yScPR41.gif" alt="Minarea rocilor & încărcare vehicul" />  
+::: 
+
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
 Pe lângă suma de bani primită după descărcare, mai ai o șansă la a găsi **obiecte speciale** care te ajută la **alte activități** sau **în crafting**.  
@@ -53,8 +49,8 @@ La **descărcarea mașinii** la punctul de procesare ai o șansă de **10%** să
 :::  
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/wy3nrJG.png" alt="Metal Bar" width="48" label="Metal Bar" /> | **Da, 8 per stack** |  **50%, vezi deasupra tabelului**  | folosit in crafting - [Crafting](../general/crafting) |
-| <Image src="https://i.imgur.com/Ub9vSWq.png" alt="Gunpowder" width="48" label="Gunpowder" /> | **Da, 32 per stack** |  **50%, vezi deasupra tabelului** | folosit in crafting - [Crafting](../general/crafting) |
+| <Image src="https://i.imgur.com/wy3nrJG.png" alt="Metal Bar" width="48" label="Metal Bar" /> | **Da, 8 per stack** |  **50%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
+| <Image src="https://i.imgur.com/Ub9vSWq.png" alt="Gunpowder" width="48" label="Gunpowder" /> | **Da, 32 per stack** |  **50%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
 
 ## Cazuri în care nu poți efectua jobul  
  
