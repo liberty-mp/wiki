@@ -63,5 +63,5 @@ Pentru a vizualiza informații suplimentare cu privire la vehiculul deținut, ap
 <Image src="https://i.imgur.com/IlOo5lU.png" alt="VehAllInfo"/> 
 
 ::: tip 
-Informațiile legate de modificările aduse vehiculului, numărul de kilometrii, dar și altele se pot vizualiza în acest meniu. 
+Informațiile legate de modificările aduse vehiculului, numărul de kilometri, dar și altele se pot vizualiza în acest meniu. 
 :::  

@@ -48,14 +48,14 @@ Procedura de Check-in a unei camere de **Hotel** sau **Motel** este aceeași.
 
 <Image src="https://i.imgur.com/OWGr1C9.png" alt="Hotel" label="Deplasarea în locație" labelAlign="left" /> 
 
-După ce te deplasezi în locație, intră în checkpoint și apăsă tasta `E` (**Rent room**) pentru a deschide meniul.   
+După ce te deplasezi în locație, intră în checkpoint și apasă tasta `E` (**Rent room**) pentru a deschide meniul.   
 
 <Image src="https://i.imgur.com/OtQthbg.png" alt="Hotel" label="Procedura de Check-in" labelAlign="left" /> 
 
 După ce ți se deschide meniul, poți introduce numărul de zile pentru care vrei să închiriezi locația (între **1-30** de zile). Ulterior, apasă *click-stânga* pe butonul **Submit**. 
 
 ::: tip
-În colțul din stânga-jos o să primești o notificare, iar plata se efectueză automat pentru numărul de zile introdus.
+În colțul din stânga-jos o să primești o notificare, iar plata se efectuează automat pentru numărul de zile introdus.
 ::: 
 
 <Image src="https://i.imgur.com/TvWKMTZ.png" alt="Hotel" label="Opțiunile locației" labelAlign="left" /> 
