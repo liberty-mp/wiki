@@ -46,7 +46,7 @@ Pentru jefuirea unui ATM, va trebui să **nu aveți Heat Level** și **să nu fi
 
 - Odată început jaful, ai 30 de secunde să atașezi funia de ATM și de mașină, în caz contrar vei eșua jaful.
 ::: details Începerea rob-ului  
- <Image src="https://i.imgur.com/Vj3xcLT.gif" alt="rob1" />  
+ <Image src="https://i.imgur.com/QfRdUH2.gif" alt="rob1" />  
 :::
 
 - Când ATM-ul a ieșit din perete, ai un minut la dispoziție pentru a ridica consola ATM de pe jos.
@@ -55,11 +55,11 @@ Pentru jefuirea unui ATM, va trebui să **nu aveți Heat Level** și **să nu fi
 :::
 
 ::: details Extragerea și ridicarea consolei ATM  
- <Image src="https://i.imgur.com/KOr595L.gif" alt="rob2" />  
+ <Image src="https://i.imgur.com/66178J5.gif" alt="rob2" />  
 :::
 
 ::: details Livrarea consolei ATM  
- <Image src="https://i.imgur.com/f9QrMAv.gif" alt="rob3" />  
+ <Image src="https://i.imgur.com/UlgLvoJ.gif" alt="rob3" />  
 :::
 
 ::: tip   
