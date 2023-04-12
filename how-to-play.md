@@ -25,29 +25,29 @@ Instalarea se realizează din cadrul platformei în care ai achiziționat jocul.
 
 După ce s-a instalat jocul, **este obligatoriu** să realizezi prologue-ul (**misiunea introductivă**) din **Story Mode** (carieră), altfel nu te vei putea juca online.
 
-### Instalarea launcherului **RAGE Multiplayer**
+### Instalarea launcher-ului **RAGE Multiplayer**
 
 Serverul nostru rulează pe platforma **RAGE Multiplayer**, iar singura metodă prin care te poți conecta la server este aceea de a utiliza launcher-ul oficial.
 
-Pentru a instala launcher-ul **RAGE Multiplayer**, [accesează](https://rage.mp) pagina lor oficială de internet și apasă pe butonul roșu **Download**. Ulterior, salvează fișierul _RAGEMultiplayer_Setup.exe_ pe **Desktop** sau dacă ți se salveză automat în alt loc, deschide-l din locul în care s-a salvat. Apasă **Next** la prima fereastră deschisă, apoi apasă **I Agree** la termenii licenței **RAGE Multiplayer** și în final, alege locul unde dorești să se instaleze launcherul (recomandat este să nu modificați locul).
+Pentru a instala launcher-ul **RAGE Multiplayer**, [accesează](https://rage.mp) pagina lor oficială de internet și apasă pe butonul roșu **Download**. Ulterior, salvează fișierul _RAGEMultiplayer_Setup.exe_ pe **Desktop** sau dacă ți se salveză automat în alt loc, deschide-l din locul în care s-a salvat. Apasă **Next** la prima fereastră deschisă, apoi apasă **I Agree** la termenii licenței **RAGE Multiplayer** și în final, alege locul unde dorești să se instaleze launcher-ul (recomandat este să nu modificați locul).
 
-Așteaptă să se instaleze launcherul, apoi pornește-l.
+Așteaptă să se instaleze launcher-ul, apoi pornește-l.
 
-### Utilizarea launcherului **RAGE Multiplayer**
+### Utilizarea launcher-ului **RAGE Multiplayer**
 
-Launcherul **RAGE Multiplayer** a fost construit într-un stil modern, fapt pentru care este foarte ușor de folosit
+Launcher-ul **RAGE Multiplayer** a fost construit într-un stil modern, fapt pentru care este foarte ușor de folosit.
 
-Funcțiile launcherului:
+Funcțiile launcher-ului:
 
 - **Search** — te ajută să cauți un server după denumirea acestuia
 - **Favourites** — te ajută să vizualizezi o listă cu serverele tale favorite. Pentru a adăuga un server în această listă, trebuie să apeși _click-dreapta_ pe server și apoi pe opțiunea **Add to favourites**
 - **History** — te ajută să vizualizezi istoricul conectărilor pe servere
 - **Direct connect** - te ajută să te conectezi direct pe server cu adresa și portul acestuia
-- **Settings** - te ajută să accesezi setările launcherului
+- **Settings** - te ajută să accesezi setările launcher-ului
 
 ### Cum mă conectez pe server?
 
-Înainte de a te conecta pe server, trebuie să îți schimbi numele din setările launcherului în cel dorit.
+Înainte de a te conecta pe server, trebuie să îți schimbi numele din setările launcher-ului în cel dorit.
 
 Pentru a face acest lucru, intră în **Settings**, apoi la **General** și modifică-ți numele de la rubrica **Choose name**.
 <Image src="https://i.imgur.com/2m0U8hn.gif" alt="Choose name" />
