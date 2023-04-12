@@ -136,7 +136,7 @@ Eroarea apare și în cazul în care ți-a fost interzis accesul pe server (bann
 
 **Soluție:** 
 
-- Dezactivează opțiunea **Accelerated CEF rendering** a lancher-ului **RAGE Multiplayer**.
+- Dezactivează opțiunea **Accelerated CEF rendering** a launcher-ului **RAGE Multiplayer**.
 
 ::: tip
 Intră în setările launcher-ului și debifează opțiunea. În cazul în care nu știi cum să accesezi setările launcher-ului, citește [**Utilizarea launcher-ului RAGE Multiplayer**](./how-to-play#utilizarea-launcher-ului-rage-multiplayer).
