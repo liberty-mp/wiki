@@ -8,12 +8,12 @@ title: Miner
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire). |
+| Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-și-alte-activități-șanse-de-găsire). |
 | Locație NPC Miner | [Grand Senora Desert, Davis Quartz](https://i.imgur.com/Pk1jdQp.png)  |
 
 ## Desfășurarea jobului  
 
-Desfășurarea jobului Miner constă în extragerea pietrei de construcții și a zăcămintelor din cariera de piatră și transportul acestora la punctul de procesare.  
+Desfășurarea jobului Miner constă în extragerea pietrei de construcții din cariera de piatră și transportul acestora la punctul de procesare.  
 
 ## Intrebări frecvente
 

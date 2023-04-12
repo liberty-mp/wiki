@@ -33,7 +33,7 @@ Odată ajuns la locația NPC-ului Trucker, interacționează cu el folosind buto
 
 ### Ce rută să aleg?  
 
-Câștigul depinde de ruta aleasă, fiecare destinație oferă un anumit număr de km. În concluzie rutele mai lungi oferă un câștig mai mare, dar poate să dureze și mai mult datorită traficului și a altor incidente care pot să aibă loc.
+Câștigul depinde de ruta aleasă, fiecare destinație oferă un anumit număr de dolari per km. În concluzie rutele mai lungi oferă un câștig mai mare, dar poate să dureze și mai mult datorită traficului și a altor incidente care pot să aibă loc.
 
 ::: details Începe munca
   <Image src="https://i.imgur.com/9Is6xNE.gif" alt="Începe munca" />  
@@ -46,12 +46,11 @@ Câștigul depinde de ruta aleasă, fiecare destinație oferă un anumit număr 
 ::: details Interfață alegere rută  
   <Image src="https://i.imgur.com/MP8x2we.png" alt="Interfață alegere rută" />  
 :::  
+În colțul din stânga jos a interfeței îți este afișată distanța pâna la destinație cât și un timp estimat în minute cât ar dura ruta aleasă.
 
 ::: tip
-În colțul din stânga jos a interfeței îți este afișată distanța pâna la destinație cât și un timp estimat în minute cât ar dura ruta aleasă.
-:::
-
 Ajuns la prima destinație cu transportul, trebuie să reîncarci camionul într-o locație din apropiere, un punct pe hartă îți va marca acestă locație.
+:::
 
 ## Cazuri în care nu poți efectua jobul  
  
