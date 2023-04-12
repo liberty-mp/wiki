@@ -18,10 +18,10 @@ Dacă nu este vizibil chenarul, apăsați tastele CTRL și F5 în același timp 
 
 Completați după cum urmează:
 
-Username/Nickname - Numele dorit pe server, între `3` și `21` de caractere, **poate include**: litere, numere și următoarele caractere: ] [ _ $ = ( ) @ .
-Email - Adresa ta de email validă, primești confirmări de schimbare parolă, etc.
-Password - Parola, recomandat să nu fie folosită și pe alte pagini web, _**trebuie să includă `minim 8 caractere` și următoarele**_: **`o literă mare`, `o literă mică` și `o cifră`**. ex. parolă corectă: Exemplu1; ex. parolă sigură: Exe*MplUu249
-Confirm Password - Reintrodu parola de mai sus pentru confirmare.
+- Username/Nickname - Numele dorit pe server, între `3` și `21` de caractere, **poate include**: litere, numere și următoarele caractere: ] [ _ $ = ( ) @ .
+- Email - Adresa ta de email validă, primești confirmări de schimbare parolă, etc.
+- Password - Parola, recomandat să nu fie folosită și pe alte pagini web, _**trebuie să includă `minim 8 caractere` și următoarele**_: **`o literă mare`, `o literă mică` și `o cifră`**. ex. parolă corectă: Exemplu1; ex. parolă sigură: Exe*MplUu249
+- Confirm Password - Reintrodu parola de mai sus pentru confirmare.
 
 ## Pentru rezervarea de pe telefonul mobil:
 
