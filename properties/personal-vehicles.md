@@ -2,37 +2,37 @@
 title: Vehicule Personale
 ---
 
-### Informații generale despre vehicule persoanele
+### Informații generale despre vehicule personale
 
-**Vehiculele Personale** reprezintă o categorie de bunuri pe care jucătorii le pot deține pe server și care se pot obține din cadrul unui magazin de mașini: **Dealership**. 
+**Vehiculele Personale** reprezintă o categorie de bunuri pe care jucătorii le pot deține pe server. Se pot obține din cadrul unui magazin de mașini: **Dealership**. 
 
 ## Achiziția unui vehicul personal
 
-Pe server există un număr de trei Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motocycles Default) și unul cu vehicule reale (Luxury Autos).
+Pe server există un număr de trei Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motocycles Default) și unul cu vehicule din viața reală (Luxury Autos).
 
-| Iconiță specifică | Tip | Număr total | Zone geografice | Materiale necesare |
+| Iconiță specifică | Tip | Număr total | Zone geografice | Monedă/Valută |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 1 | [**Pillbox Hill**](https://i.imgur.com/LnAZ7m4.png) | Bani în joc ($) | 
 | <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 1 | [**Adams Apple's Boulevard**](https://i.imgur.com/MgrRcjk.png) | Bani în joc ($) |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 1 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) + Luxury Vehicle Ticket | 
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 1 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) <br> + <br> Luxury Vehicle Ticket | 
 
 ::: tip 
-Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. Ulterior, îți alegi vehiculul dorit dintr-una din categorii. 
+Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
 ::: 
 
-## Accesarea panoului de comandă a vehiculelor personale 
+## Organizarea vehiculelor personale 
 
-Panoul de comandă a vehiculelor este folosit pentru managementul vehiculelor personale deținute de jucători.      
+Organizarea vehiculelor se realizează printr-o aplicație de pe [telefonul mobil](../general/phone.md#).      
 
 <Image src="https://i.imgur.com/luVZn5r.png" alt="VehApp"/> 
 
 ::: tip 
-Panoul de comandă a vehiculelor poate fi accesat din aplicația **Vehicles** a telefonului sau tastând comanda `/vehicles` sau `/cars` pe chat.
+Aplicația **Vehicles** din telefonul mobil se poate accesa și prin comenzile: `/vehicles` sau `/cars` în chat chat.
 :::    
 
 ### Lista vehiculelor personale 
 
-Accesând aplicația sau tastând comanda specifică, o să ai acces la lista de vehicule deținute.   
+Accesând aplicația sau tastând una din comenzile specifice, o să ai acces la lista de vehicule deținute.   
 
 <Image src="https://i.imgur.com/hfl0O6Z.png" alt="VehList"/>  
 
@@ -40,19 +40,19 @@ Accesând aplicația sau tastând comanda specifică, o să ai acces la lista de
 Vehiculele spawnate vor apărea în listă cu bulina verde, iar cele despawnate cu bulina roșie. 
 :::  
 
-### Utilizarea panoului de comandă
+### Utilizarea aplicației Vehicles
 
 Panoul de comandă este folosit pentru vizualizarea stării tehnice a mașinii și format din mai multe funcții care pot fi utilizate pentru gestionarea vehiculelor personale, după cum urmează: 
 
 <Image src="https://i.imgur.com/ltw2e3V.png" alt="VehControl"/>  
 
-- **Despawn vehicle**: se folosește atunci când vrei să despawnezi vehiculul personal;
+- **Despawn vehicle**: se folosește atunci când vrei să despawnezi (dispare de pe server) vehiculul personal;
 - **Locate vehicle**: ajută la localizarea vehicului personal în cazul în care nu mai știi locația acestuia;
 - **Change lock**: se utilizează când dorești să schimbi încuietoarea vehiculului, după ce ai dat cheia acestuia unui alt jucător;  
-- **Tow vehicle**: poate fi folosit pentru a spawna vehiculul în locația unde a fost parcat (`/parkvehicle`) sau la ultima locație cunoscută; 
+- **Tow vehicle**: poate fi folosit pentru a spawna (apare mașina pe server) vehiculul în locația unde a fost parcat (`/parkvehicle`) sau la ultima locație cunoscută; 
 - **Sell to Dealership**: se utilizează în cazul în care dorești să vinzi vehiculul către un Dealership.
 
-::: warning 
+::: warning Atenție!
 Dacă vindeți vehiculul către un Dealership, nu veți primi bani!  
 ::: 
 
