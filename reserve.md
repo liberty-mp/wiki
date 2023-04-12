@@ -45,6 +45,10 @@ Dacă chenarul nu este vizibil deloc, accesați pagina web folosind funcția "Re
 <Image src="https://i.imgur.com/0AAmoNr.png" alt="Fill" />
 
 
-După completare, apăsați pe butonul _**Reserve**.
+::: warning Felicitări!
 
-Felicitări! Ai rezervat cu succes numele și creat contul cu care te vei conecta **Vineri, 14 Aprilie 2023, Ora 20:00 pe serverul [🗽liberty.mp](https://liberty.mp).**
+După completare, apăsați pe butonul _**Reserve**_.
+
+Ai rezervat cu succes numele și creat contul cu care te vei conecta **Vineri, 14 Aprilie 2023, Ora 20:00 pe serverul [🗽liberty.mp](https://liberty.mp).**
+
+:::
