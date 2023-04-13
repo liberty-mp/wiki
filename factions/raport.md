@@ -2,4 +2,4 @@
 title: Rapoarte de activitate
 ---
 
-raport
+Această pagină se va finaliza înainte de deschiderea aplicațiilor la facțiuni.

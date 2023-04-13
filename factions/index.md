@@ -35,7 +35,7 @@ Jucătorii ce nu dispun de un mijloc de transport pot apela la serviciile **taxi
 Dacă ai fost mulțumit de serviciul unui taximetrist, poți să îl ajuți cu un rating de **5 stele** la finalul cursei!
 :::
 
-::: danger ATENTIE
+::: warning Atenție!
 Hărțuirea unui taximetrist prin orice metodă duce la încheierea cursei și evacuarea pasagerului în cauză! 
 :::
 
