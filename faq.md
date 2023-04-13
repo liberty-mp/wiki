@@ -160,4 +160,44 @@ Această variantă nu funcționează pentru toți utilizatorii platformei **Stea
 
 ::: tip
 Pentru a-l instala, apasă pe butonul portocaliu de **Download**.
+:::  
+
+### Jocul se închide după încărcarea Easy Anti-Cheat-ului  
+
+Această eroare este întâlnită în rândul jucătorilor care încearcă să intre pe server, iar după ce se încarcă Easy Anti-Cheat-ul, jocul li se închide complet.  
+
+**Soluții:** 
+
+1. Încearcă să rulezi jocul fără unul dintre procesele de mai jos, până când problema se rezolvă: 
+
+::: details Lista programelor care pot afecta funcționalitatea jocului
+
+- RivaTuner (componentă **MSI Afterburner**);  
+- MSI Afterburner; 
+- MSI Nahimic; 
+- Discord Overlay;    
+- Overwolf;  
+- Nvidia Shadowplay; 
+- Adguard; 
+- Microsoft Gaming Overlay (mai exact, **Xbox Game Bar**);
+- Sandboxie; 
+- AI Suite 3;
+- GameFirst V;
+- ASUS Sonic Radar 3;
+- Razer Cortex;
+- Antivirus Software;
+- Streaming Software;
+- OBS Software. 
+
 ::: 
+
+::: tip
+Pentru a dezactiva unul dintre procesele de mai sus, intră în **Task Manager**, apoi la **Processes** de unde le poți închide.
+:::  
+
+2. Încearcă să rulezi jocul în **Windowed borderless**. 
+
+::: tip
+Intră în Story Mode-ul jocului și la setările rezoluției, pune opțiunea precizată. 
+:::  
+
