@@ -171,11 +171,12 @@ Această eroare este întâlnită în rândul jucătorilor care încearcă să i
 1. Încearcă să rulezi jocul fără unul dintre procesele de mai jos, până când problema se rezolvă: 
 
 ::: details Lista programelor care pot afecta funcționalitatea jocului
-- RivaTuner (componentă **MSI Afterburner**); 
-- MSI Afterburner;
-- MSI Nahimic;
-- Discord Overlay;  
-- Overwolf; 
+
+- RivaTuner (componentă **MSI Afterburner**);  
+- MSI Afterburner; 
+- MSI Nahimic; 
+- Discord Overlay;    
+- Overwolf;  
 - Nvidia Shadowplay; 
 - Adguard; 
 - Microsoft Gaming Overlay (mai exact, **Xbox Game Bar**);
@@ -187,6 +188,7 @@ Această eroare este întâlnită în rândul jucătorilor care încearcă să i
 - Antivirus Software;
 - Streaming Software;
 - OBS Software. 
+
 ::: 
 
 ::: tip
