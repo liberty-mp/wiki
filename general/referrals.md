@@ -27,7 +27,7 @@ Poți introduce un referral după ce _termini tutorialul_ de pe server sau în *
 | 15 ore jucate | <Dinero :amount='1000' /> |
 | 25 ore jucate | <Dinero :amount='1500' /> |
 | 40 ore jucate | <Gold :amount='250' /> |
-| 75 ore jucate | [**clothing crate**](./referrals.md#clothing-crate) |
+| 75 ore jucate | [**clothing crate**](#clothing-crate) |
 | 150 ore jucate | <Gold :amount='750' /> |
 
 **Persoana ce a introdus referral-ul** (numele sau ID-ul unic) primește următoarele recompense atunci când atinge numărul de ore jucate:
@@ -37,7 +37,7 @@ Poți introduce un referral după ce _termini tutorialul_ de pe server sau în *
 | 10 ore jucate | <Dinero :amount='1000' /> |
 | 20 ore jucate | <Dinero :amount='1500' /> |
 | 40 ore jucate | <Gold :amount='200' /> |
-| 80 ore jucate | [**clothing crate**](./referrals.md#clothing-crate) |
+| 80 ore jucate | [**clothing crate**](#clothing-crate) |
 | 150 ore jucate | <Gold :amount='700' /> |
 
 <Color hex="#FFD700">Gold</Color>-ul este folosit în [Shop](https://ucp.liberty.mp/shop).
