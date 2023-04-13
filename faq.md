@@ -190,7 +190,7 @@ Această eroare este întâlnită în rândul jucătorilor care încearcă să i
 ::: 
 
 ::: tip
-Pentru a dezactiva unul dintre procesele de mai sus, intră în **Task Manager**, apoi la **Processes** de unde le poți îmchide.
+Pentru a dezactiva unul dintre procesele de mai sus, intră în **Task Manager**, apoi la **Processes** de unde le poți închide.
 :::  
 
 2. Încearcă să rulezi jocul în **Windowed borderless**. 
