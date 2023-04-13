@@ -10,8 +10,12 @@ Fiecare jucător are un ID unic ce poate fi folosit ca și referral sau mai simp
 
 ### Introducerea referral-ului
 
+::: info Atenție!
+Dacă te apuci împreună cu un prieten să vă jucați pe server, prietenul tău poate să introducă referral-ul tău și tu pe al lui cât timp nu depășești maximul de 3 ore jucate și alegi să nu-l introduci la finalizarea tutorialului (apeși Nu). Poți să introduci codul de referral după tutorial, în categoria "**Referrals**" din [Profil și setări](./profile-and-settings.md#cum-vizualizez-profilul-și-setările).
+:::
+
 ::: warning Atenție
-Poți introduce un referral după ce _termini tutorialul_ de pe server sau în **primele 3 ore jucate** pe server.
+Poți introduce un referral după ce _termini tutorialul de început_ sau în **primele 3 ore jucate** pe server.
 :::
 
 ::: details Introducere Referral:  
@@ -40,7 +44,7 @@ Poți introduce un referral după ce _termini tutorialul_ de pe server sau în *
 | 80 ore jucate | [**clothing crate**](#clothing-crate) |
 | 150 ore jucate | <Gold :amount='700' /> |
 
-<Color hex="#FFD700">Gold</Color>-ul este folosit în [Shop](https://ucp.liberty.mp/shop).
+**<Color hex="#FFD700">Gold</Color>**-ul este folosit în [Shop](https://ucp.liberty.mp/shop).
 
 ## Clothing Crate
 
@@ -48,12 +52,12 @@ Poți introduce un referral după ce _termini tutorialul_ de pe server sau în *
 ::: details Posibile crate-uri  
 | Crate (cutie)   | Ce conține? |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/OFqUT7c.png" alt="CrateMT" width="50" label="Crate Male Top" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Top |
-| <Image src="https://i.imgur.com/MTLwxUA.png" alt="CrateML" width="50" label="Crate Male Legs" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Legs |
-| <Image src="https://i.imgur.com/iw7O1fV.png" alt="CrateMS" width="50" label="Crate Male Shoes" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Shoes |
-| <Image src="https://i.imgur.com/75jMgNa.png" alt="CrateFT" width="50" label="Crate Female Top" />| haine din viața reală,<br> pt. femei<br>folosite în slot-ul Top |
-| <Image src="https://i.imgur.com/883DuGw.png" alt="CrateFL" width="50" label="Crate Female Legs" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Legs |
-| <Image src="https://i.imgur.com/jV12tMI.png" alt="CrateFS" width="50" label="Crate Female Shoes" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Shoes |
+| <Image src="https://i.imgur.com/OFqUT7c.png" alt="CrateMT" width="100" label="Crate Male Top" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Top |
+| <Image src="https://i.imgur.com/MTLwxUA.png" alt="CrateML" width="100" label="Crate Male Legs" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Legs |
+| <Image src="https://i.imgur.com/iw7O1fV.png" alt="CrateMS" width="100" label="Crate Male Shoes" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Shoes |
+| <Image src="https://i.imgur.com/75jMgNa.png" alt="CrateFT" width="100" label="Crate Female Top" />| haine din viața reală,<br> pt. femei<br>folosite în slot-ul Top |
+| <Image src="https://i.imgur.com/883DuGw.png" alt="CrateFL" width="100" label="Crate Female Legs" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Legs |
+| <Image src="https://i.imgur.com/jV12tMI.png" alt="CrateFS" width="100" label="Crate Female Shoes" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Shoes |
 
 Mai multe informații despre [Slot-uri și inventar](./inventory.md#clothing-items).
 :::
