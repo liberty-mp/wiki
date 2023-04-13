@@ -22,9 +22,9 @@ Sistemul este împărțit în **4 secțiuni**:
 
 ## Secțiuni
 
-### Clothes Items
+### Clothing Items
 
-**Clothes Items** reprezintă secțiunea cu caracter vizual pentru jucători, deoarece în această secțiune se pot atașa caracterului diferite **obiecte de îmbrăcăminte** (șepci, tricouri, pantaloni și așa mai departe) sau **accesorii** (ceasuri, brățări, lanțuri și așa mai departe) care sunt deținute în inventar (**Inventory Items**). 
+**Clothing Items** reprezintă secțiunea cu caracter vizual pentru jucători, deoarece în această secțiune se pot atașa caracterului diferite **obiecte de îmbrăcăminte** (șepci, tricouri, pantaloni și așa mai departe) sau **accesorii** (ceasuri, brățări, lanțuri și așa mai departe) care sunt deținute în inventar (**Inventory Items**). 
 
 **Prezentarea secțiunii:** 
 

@@ -2,9 +2,10 @@
 title: Grupari Mafiote
 ---
 
-### Informații generale despre grupările mafiote
-
-<Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="16" label="Varrios Los Aztecas" /> <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="16" label="Grove Street Families" /> <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="16" label="Ballas" /> <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="16" label="Los Santos Vagos" />  sunt rețele de crimă organizată care funcționează pe întreg teritoriul statului **San Andreas**, orașul **Los Santos** reprezentând punctul central de evoluție al acestora, din cauza posibilităților extinse și al factorilor de influență. 
+## Informații generale despre grupările mafiote
+<br>
+<br>
+<Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="25" label="Varrios Los Aztecas ;" /> <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="25" label="Grove Street Families ;" /> <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="25" label="Ballas ;" /> <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="25" label="Los Santos Vagos" />  sunt rețele de crimă organizată care funcționează pe întreg teritoriul statului **San Andreas**, orașul **Los Santos** reprezentând punctul central de evoluție al acestora, din cauza posibilităților extinse și al factorilor de influență. 
 
 În ciuda eforturilor depuse de facțiunea [**Los Santos Police Department**](./lspd), unele rețele reușesc să preia controlul tot mai multor teritorii, prin intermediul conflictelor stradale din ce în ce mai frecvente dar și al influenței politice.  
 
@@ -200,14 +201,11 @@ Statisticile personale pot fi vizualizate și în timpul war-ului, în partea di
 | 0.5 puncte | asistarea unui coechipier în uciderea unui inamic |
 | -1 punct | deces |  
 
-<br>
-
-# Sistemul de crafting și droguri
-
 ## Sistemul de crafting
 
-::: warning Atenție!
+::: warning Atenție!  
 Mafioții folosesc in foarte mare proporție acest sistem, este recomandat să citiți pagina principala de [Crafting](../general/crafting.md).
+:::
 
 ## Sistemul de Droguri
 
@@ -221,7 +219,7 @@ Mafioții folosesc in foarte mare proporție acest sistem, este recomandat să c
 
 ::: warning Atenție!
 Sistemul de obținere a drogurilor este pentru membrii grupărilor mafiote.  
-Drogul **Marijuana Join** se poate utiliza de orice jucător, celelalte 2 sunt axate pe mafioți.
+Drogul **Marijuana Joint** se poate utiliza de către orice jucător, celelalte 2 sunt axate pe mafioți.
 :::  
 
 ## **Marijuana Joint** 

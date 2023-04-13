@@ -4,7 +4,7 @@ title: Informații generale facțiuni
 
 ### Informații generale despre facțiuni
 
-Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni** momentan, acestea sunt:  
+Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**, acestea sunt:  
 
 | Facțiune   | Cerințe minime |  Slot-uri (locuri) | Wiki |
 | :-----------: | :-----------: | :-----------: | :-----------: |
