@@ -3,8 +3,9 @@ title: Hitman Agency
 ---
 
 ### Informații generale despre Hitman Agency
-
-<Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> este o grupare de asasini profesioniști plătiți pentru anumite servicii primite de la alți oameni prin intermediul aplicației _**Hitman**_ din telefonul mobil. Aceștia acționează cu finețe și strategie pentru a realiza cu succes misiunea primită.
+<br>
+<br>
+<Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="25" label="Hitman Agency" /> este o grupare de asasini profesioniști plătiți pentru anumite servicii primite de la alți oameni prin intermediul aplicației _**Hitman**_ din telefonul mobil. Aceștia acționează cu finețe și strategie pentru a realiza cu succes misiunea primită.
 
 
 ## Locația HQ (Headquarters)
@@ -23,14 +24,14 @@ Prin intermediul acestei aplicații se transmit servicii către **agenția Hitma
 
 ## Echipament
 
-**Echipamentul** presupune schimbarea de **haine**, preluarea **armelor**, mai exact un **pistol cu 36 de gloanțe** în total și un **sniper cu 20 de gloanțe**, suficiente pentru a duce contractul la capăt.
+**Echipamentul** presupune schimbarea de **haine**, preluarea **armelor**, mai exact un **pistol** și un **sniper**.
 
 ::: tip
 Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta `E` pe *checkpoint-ul* mov denumit *Faction Locker*! 
 :::
 
-<Image src="https://i.imgur.com/kp2pnkN.png" alt="Pistol" label="Pistol" width="150" /> 
-<Image src="https://i.imgur.com/LNDlffh.png" alt="Sniper" label="Sniper Rifle" width="150" />
+<Image src="https://i.imgur.com/kp2pnkN.png" alt="Pistol" label="Pistol - 36 bullets" width="150" /> 
+<Image src="https://i.imgur.com/LNDlffh.png" alt="Sniper" label="Sniper Rifle - 20 bullets" width="150" />
 
 
 ## Vehicule

@@ -3,8 +3,9 @@ title: Downtown Taxi Company
 ---
 
 ### Informații generale despre Downtown Taxi Company
-
-<Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> se specializează în gestionarea unei flote de taxiuri și oferă servicii de transport pentru jucători de la o locație la alta.
+<br>
+<br>
+<Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="25" label="Downtown Taxi Company" /> se specializează în gestionarea unei flote de taxiuri și oferă servicii de transport pentru jucători de la o locație la alta.
 
 ## Vehicule
 
