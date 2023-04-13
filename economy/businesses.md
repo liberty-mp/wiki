@@ -95,7 +95,7 @@ După ce ați rămas fără benzină în canistră este recomandat să o umpleț
 :::
 
 ### **24/7 Market**
-Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger-ul, undița, repair kit-ul, walkie takie-ul și mâncarea sau băutura. Sunt 18 astfel de locații, iar prețurile sunt următoarele:
+Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger-ul, undița, repair kit-ul, walkie talkie-ul și mâncarea sau băutura. Sunt 18 astfel de locații, iar prețurile sunt următoarele:
 
 | **Obiect** | **Preț** |
 | :-----------: | :-----------: | 
@@ -103,7 +103,7 @@ Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger
 | Undiță | <Dinero :amount='100' />  | 
 | Mobile Charger | <Dinero :amount='350' />  | 
 | Repair kit | <Dinero :amount='500' /> | 
-| Walkie takie | <Dinero :amount='1000' /> |
+| Walkie talkie | <Dinero :amount='1000' /> |
 | Momeală | <Dinero :amount='64' /> |
 | Mâncare & băutură | <Dinero :amount='10' /> |
 
