@@ -20,7 +20,7 @@ Fiecare business din aceeași categorie, spre exemplu un Clothing Store din cent
 
 ## Ce sunt fiecare și ce pot face la acestea?
 
-### **Clothing Store**
+### **Clothing Store** <Image src="https://i.imgur.com/xNX4SOu.png" alt="clth" />
 Este un magazin destinat vestimentației. Sunt 14 locații de-a lungul hărții și toate conțin aceleași haine. Aici puteți găsi tricouri, geci, paltoane, jachete, blugi, adidași, dar și accesorii, de exemplu brățări, ceasuri, ochelari.
 
 Prețurile variază în funcție de haină. Un tabel cu acestea aveți mai jos.
@@ -34,8 +34,8 @@ Prețurile variază în funcție de haină. Un tabel cu acestea aveți mai jos.
 | Adidași | <Dinero :amount='160' /> - <Dinero :amount='2200' /> | 
 | Brățări | <Dinero :amount='500' /> - <Dinero :amount='18000' />| 
 
-::: details Clothing store
-<Image src="https://i.imgur.com/R7u6CrF.png" alt="cs1" />
+::: details Clothing store 
+
 <Image src="http://i.imgur.com/MdvAS73.gif" alt="exemplu1" />
 ::: 
 
@@ -43,15 +43,14 @@ Prețurile variază în funcție de haină. Un tabel cu acestea aveți mai jos.
 Hainele nu oferă niciun avantaj! Sunt doar estetice.
 :::
 
-### **Car Wash**
+### **Car Wash** <Image src="https://i.imgur.com/w3ePWZY.png" alt="cwh" />
 Este o afacere destinată spălării unei mașini murdare, după o zi de lucru doar cu aceasta. Desigur, acest business presupune si o taxă de <Dinero :amount='50' />/60 secunde. Există 14 astfel de locații.
 
 ::: details Car wash
-<Image src="https://i.imgur.com/tUpWgR4.png" alt="cw1" />
 <Image src="http://i.imgur.com/tE1hAJG.gif" alt="cw2" />
 :::
 
-### **Gun Shop**
+### **Gun Shop** <Image src="https://i.imgur.com/G3mJm9o.png" alt="gns" />
 Este locația de unde îți poți procura o armă, mai exact un cuțit, o bâtă, un pistol și muniție pentru el. Există doar 9 magazine, iar prețurile sunt următoarele:
 
 | **Armă** | **Preț** |
@@ -63,7 +62,6 @@ Este locația de unde îți poți procura o armă, mai exact un cuțit, o bâtă
 
 
 ::: details Gun shop
-<Image src="https://i.imgur.com/WV7bcdC.png" alt="gun1" />
 <Image src="http://i.imgur.com/Jv5fzM5.gif" alt="gun2" />
 :::
 
@@ -71,21 +69,19 @@ Este locația de unde îți poți procura o armă, mai exact un cuțit, o bâtă
 Alte tipuri de arme se cumpără de la grupările mafiote. Pentru mai multe informații în privința asta aveți [**aici**](../factions/gangs).
 :::
 
-### **Electric chargers** 
+### **Electric chargers** <Image src="https://i.imgur.com/qVc3zVl.png" alt="ecc" />
 Sunt destinate **doar** mașinilor electrice. O mașină ce folosește combustibil nu poate să alimenteze aici! Sunt doar 6 astfel de locații.
 
 ::: details Electric chargers
-<Image src="https://i.imgur.com/T9TZ36r.png" alt="elec1" />
 <Image src="https://i.imgur.com/9aW6PBi.png" alt="elec2" />
 :::
 
-### **Gas station** 
+### **Gas station** <Image src="https://i.imgur.com/CnD94IW.png" alt="" />
 Au rolul alimentării mașinilor ce funcționează pe combustibil! De asemenea, îți poți achiziționa un **gas can** sau o canistră de la un **24/7** pentru a avea la tine mereu benzină. Există 24 de benzinării.
 
 
 ::: details Benzinărie
 <Image src="https://i.imgur.com/PkPWXTG.png" alt="b2" />
-<Image src="https://i.imgur.com/3XIY6tq.png" alt="b1" />
 <Image src="https://i.imgur.com/rrMo2Lg.gif" alt="b3" label="Exemplu canistră" />
 :::
 
@@ -94,7 +90,7 @@ Pentru a folosi canistra, se apasă tasta `N` și se selectează mașina, apoi o
 După ce ați rămas fără benzină în canistră este recomandat să o umpleți din nou. Pentru a face asta trebuie să luați canistra în mână și să mergeți pe jos la *checkpoint-ul* mov de lângă pompa din benzinărie și să plătiți!
 :::
 
-### **24/7 Market**
+### **24/7 Market** <Image src="https://i.imgur.com/wFTPcRe.png" alt="mark" />
 Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger-ul, undița, repair kit-ul, walkie talkie-ul și mâncarea sau băutura. Sunt 18 astfel de locații, iar prețurile sunt următoarele:
 
 | **Obiect** | **Preț** |
@@ -108,7 +104,6 @@ Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger
 | Mâncare & băutură | <Dinero :amount='10' /> |
 
 ::: details 24/7
-<Image src="https://i.imgur.com/4Jr72jQ.png" alt="241" />
 <Image src="http://i.imgur.com/2RnhMsn.gif" alt="242" />
 :::
 
@@ -116,11 +111,10 @@ Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger
 Poți cumpăra hotdogi și apă și de la standurile destinate acestora, denumite `Hotdog Stand`. Acestea costă <Dinero :amount='20' />.
 :::
 
-### **News Agency**
+### **News Agency** <Image src="https://i.imgur.com/kcAML0H.png" alt="newsg" />
 Aici este unicul loc unde îți poți lăsa anunțuri pentru alți jucători, ce pot fi de vânzare-cumpărare sau pentru a presta anumite servicii. De asemenea, tot la **News Agency** se află și marketplace-ul, unde îți poți lista *iteme* sau bunuri personale pentru alți jucători, despre care puteți citi mai multe [**aici**](../general/marketplace), dar și licitațiile pentru locuințe! Există o singură locație de genul pe hartă.
 
 ::: details News Agency
-<Image src="https://i.imgur.com/kH8xPQa.png" alt="newsa2" />
 <Image src="http://i.imgur.com/bJk5kHO.gif" alt="newsa1" />
 <Image src="http://i.imgur.com/aN7GdY7.gif" alt="newsa2" />
 :::
@@ -129,24 +123,22 @@ Aici este unicul loc unde îți poți lăsa anunțuri pentru alți jucători, ce
 Anunțurile puse o să apară pe *chat* și o să fie vizibile pentru toți jucătorii, iar bunurile puse pe marketplace o să fie vizibile doar la News Agency.
 :::
 
-### **Furniture Store**
+### **Furniture Store** <Image src="https://i.imgur.com/hU7JlHj.png" alt="fstore" />
 Ai o casă și vrei mobilă nouă? La IKEA găsiți orice fel de model, fiind o gamă întinsă și vastă, de la paturi, canapele și scaune, până la obiecte de uz casnic, de bucătărie si baie. Toate la un preț avantajos! De asemenea, dacă ți-ai achiziționat mobilier de la IKEA, îl poți returna dacă ți-ai dat seama că nu este chiar pe placul tău. Există un singur magazin de genul.
 
 ::: details IKEA
 <Image src="https://i.imgur.com/QhAipTC.png" alt="ikea1" />
 <Image src="http://i.imgur.com/HM2SwYJ.gif" alt="ikea2" />
-<Image src="https://i.imgur.com/QVF9pBJ.png" alt="ikea3" />
 :::
 
 ::: tip
 Mobila se poate poziționa cu ușurință oriunde doriți în casă, folosind sistemul de pe server.
 :::
 
-### **Vehicle Mod Shop**
+### **Vehicle Mod Shop** <Image src="https://i.imgur.com/329vcWB.png" alt="vmods" />
 În cazul în care mașina ta este lovită și trebuie neapărat reparată, acest business te salvează de probleme! De asemenea, tot aici îți poți face *tuning auto* la cei mai profesioniști mecanici. Sunt doar 5 astfel de locații.
 
 ::: details Vehicle mod shop
-<Image src="https://i.imgur.com/LB2S6Zz.png" alt="vms3" />
 <Image src="https://i.imgur.com/7vxJ7J0.png" alt="vms1" />
 <Image src="http://i.imgur.com/ePJ2sGC.gif" alt="vms2" />
 :::
@@ -154,4 +146,3 @@ Mobila se poate poziționa cu ușurință oriunde doriți în casă, folosind si
 ## Stock Market
 Ca jucător poți deține **acțiuni** la aceste *afaceri*, prin urmare venitul poate fi făcut din mai multe activități! Stock-urile se accesează din telefon, mai exact din aplicația `Bank`, secțiunea **Stock Market**. Pentru mai multe informații în detaliu despre aceste acțiuni, citiți [**aici**](./stock-market).
 
-<Image src="https://i.imgur.com/Q0n2VRu.png" alt="stock" />
