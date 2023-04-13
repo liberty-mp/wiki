@@ -4,23 +4,24 @@ title: Hitman Agency
 
 ### Informații generale despre Hitman Agency
 
-**Hitman Agency** este o grupare de asasini profesioniști plătiți pentru anumite servicii primite de la alți oameni prin intermediul aplicației *Hitman* din telefonul mobil. Aceștia acționează cu finețe și strategie pentru a satisface clientul.
+<Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> este o grupare de asasini profesioniști plătiți pentru anumite servicii primite de la alți oameni prin intermediul aplicației _**Hitman**_ din telefonul mobil. Aceștia acționează cu finețe și strategie pentru a realiza cu succes misiunea primită.
 
 
-## Locația Agenției
+## Locația HQ (Headquarters)
 
-**Sediul agenției** sau **HQ-ul** este ferit de ochii oamenilor, locul fiind folosit pentru **colaborarea asasinilor** între ei, **echiparea cu arme**, **preluarea contractelor** și punerea la punct a **planului pentru asasinarea țintei**.
-
+**Sediul agenției** este ferit de ochii oamenilor, locul fiind folosit pentru **colaborarea asasinilor** între ei, **echiparea cu arme**, **preluarea contractelor** și punerea la punct a **planului pentru asasinarea țintei**.
+::: details Locație agenție  
 <Image src="https://i.imgur.com/baLM7e6.png" alt="Locatie" />
-
+:::
 
 ## Aplicația Hitman
 
-Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim 200 USDT și pot fi de **două tipuri**, mai exact fară martori și cât se poate de **discret** sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe.
-
+Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim **200 USDT** și pot fi de **două tipuri**, mai exact fară martori și cât se poate de **discret** sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe.
+::: details Aplicația Hitman  
 <Image src="https://i.imgur.com/3oHqd3o.png" alt="Hitman" /> 
+:::
 
-## Echipamentul
+## Echipament
 
 **Echipamentul** presupune schimbarea de **haine**, preluarea **armelor**, mai exact un **pistol cu 36 de gloanțe** în total și un **sniper cu 20 de gloanțe**, suficiente pentru a duce contractul la capăt.
 
@@ -45,7 +46,7 @@ Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta 
 
 Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsarea tastei `E` pe *checkpoint-ul* mov de lângă harta orașului după ce te-ai echipat. Toate contractele valabile o să fie afișate, împreună cu suma pe care asasinul o să o încaseze **după** finalizarea serviciului, numele țintei, ce tip de contract este și totodată când a fost pus contractul. 
 
-::: warning
+::: warning Atenție!
 Să nu uiți să verifici ce fel de contract este inainte să-l duci la capăt!
 :::
 
@@ -71,7 +72,7 @@ După ce victima este asasinată, este datoria agentului Hitman să ascundă *co
 
 Contractul nu este dus la capăt și se consideră *eșuat* dacă membrul Hitman moare sau părăsește jocul.
 
-::: warning
+::: warning Atenție!
 Asasinatul nu se face cu **mașina agenției**, ci cu **mașina pe care o primiți la pasul doi**, urmând *checkpoint-ul* pus automat pe hartă!
 :::
 
@@ -83,6 +84,7 @@ Asasinatul nu se face cu **mașina agenției**, ci cu **mașina pe care o primi�
 ::: details Exemplu asasinat nesilențios
 <Image src="https://i.imgur.com/svLNa1I.gif" alt="Asasin" />
 :::
+
 ## Finalizarea contractului
 
 După finalizarea asasinatului, membrul Hitman este liber să-și încaseze suma prin intermediul telefonului, accesând aplicația **Bank**, la secțiunea **Cryptomonede** reprezentată de logo-ul *Bitcoin*. Suma este transferată la **Tether** de unde o poate vinde pentru bani cash.

@@ -4,31 +4,34 @@ title: LSPD
 
 ### Informații generale despre Los Santos Police Department
 
-**Los Santos Police Department** are un obiectiv unic, acela fiind să aplice legea în orașul **Los Santos**, statul **San Andreas**. Poliția are de-a face atât cu oameni din lumea mafiotă, dar și cu civili care încalcă anumite legi sau nu se supun ordinelor aduse. Deși există un număr mare de polițiști, cei din lumea frauduloasă și imorală continuă să întreprindă activități.
+<Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> are un obiectiv unic, acela fiind să aplice legea în orașul **Los Santos**, statul **San Andreas**. Poliția are de-a face atât cu oameni din lumea mafiotă, dar și cu civili care încalcă anumite legi sau nu se supun ordinelor aduse. Deși există un număr mare de polițiști, cei din lumea frauduloasă și imorală continuă să întreprindă activități ilegale și periculoase.
 
-## Sediul Los Santos Police Department
+## Locația HQ (Headquarters)
 
-**Secția** se află într-o zonă activă, centrală, astfel încât oamenii legii pot ajunge cât se poate de repede la orice eveniment **ilegal** sau **neplăcut**. La același sediu sunt aduși oamenii ce sunt **căutați** de poliție pentru a fi încarcerați, pe care îi poți vedea și la închisoare ulterior. Aceasta are o poziționare bună, având un rol important pentru controlul orașului.
-
+**Sediul LSPD** se află într-o zonă activă, centrală, astfel încât oamenii legii pot ajunge cât se poate de repede la orice eveniment **ilegal** sau **neplăcut**. La același sediu sunt aduși oamenii ce sunt **căutați** de poliție pentru a fi încarcerați, pe care îi poți vedea și la închisoare ulterior.
+::: details Locație HQ  
 <Image src="https://i.imgur.com/zRIqcjg.png" alt="Sediu" label="Locație: Mission Row" labelAlign="left" />
+:::
 
-## Echipamentul
+## Echipament
 
-**Echipamentul** presupune schimbarea de **haine** în ținuta de polițist, preluarea **armelor**, mai exact un **pistol**, un **pistol radar**, un **tazer** și un **rifle**.
+**Echipamentul** presupune schimbarea de **haine** în uniforma de polițist, preluarea **armelor**, mai exact un **pistol**, un **pistol radar**, un **tazer** și o **pușcă automată**.
 
 <Image src="https://i.imgur.com/496pa8b.png" alt="Pistol" width="150" label="Pistol" />
 <Image src="https://i.imgur.com/EdkzxtF.png" alt="Tazer" width="150" label="Tazer" />
 <Image src="https://i.imgur.com/rmx6CMm.png" alt="Radar" width="150" label="Radar" />
-<Image src="https://i.imgur.com/7JDzBXz.png" alt="Rifle" width="150" label="Rifle" />
+<Image src="https://i.imgur.com/7JDzBXz.png" alt="Rifle" width="150" label="Pușcă automată" />
 
-**Pistolul radar** are scopul de a surprinde șoferii ce conduc fără licență și cu viteză, iar **tazer-ul** de a imobiliza individul în cauză.
+**Pistolul radar** are scopul de a surprinde șoferii ce conduc fără licență sau cu viteză, iar **tazer-ul** de a imobiliza individul în cauză.
+::: details Interfață radar  
 <Image src="https://i.imgur.com/atYt6Yd.png" alt="radar1" />
-
-::: tip
-Pentru a face asta, trebuie să intri în **HQ-ul** poliției și să apeși tasta `E` pe *checkpoint-ul* mov denumit *Faction Locker*!
 :::
 
-::: danger ATENTIE
+::: tip
+Pentru a te schimba în uniformă, trebuie să intri în **HQ-ul** poliției și să apeși tasta `E` pe *checkpoint-ul* mov denumit *Faction Locker*!
+:::
+
+::: warning Atenție!
 Fară echipament nu îți poți întreprinde activitățile de polițist!
 :::
 
@@ -37,7 +40,7 @@ Fară echipament nu îți poți întreprinde activitățile de polițist!
 :::
 
 ::: tip
-Pentru a intra în incinta închisorii trebuie să folosești Locker-ul, astfel încât să fii echipat și să ai ținuta de polițist!
+Pentru a intra în incinta închisorii trebuie să folosești Locker-ul, astfel încât să fii echipat și să ai uniforma de polițist!
 :::
 
 ::: details Închisoarea
@@ -61,17 +64,16 @@ Pentru a porni girofarul, apasă tasta `E`.
 | Invetero | [**Coquette**](https://static.wikia.nocookie.net/gtawiki/images/0/08/Coquette-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20190818142055) | 
 
 ## Wanted
-Oamenii care sunt urmăriți de poliție au un anumit grad de gravitate raportat la **crima** sau *ilegalitatea* lor. Acesta prezintă două tipuri, mai exact infractori cu **drept de predare** și infractori **fără drept de predare**. Mai multe informații în detaliu despre acestea sunt [**aici**](https://ucp.liberty.mp/forums/post/5).
+Oamenii care sunt urmăriți de poliție au un anumit grad de gravitate raportat la **crima** sau *ilegalitatea* lor. Acesta prezintă două tipuri, mai exact infractori cu **drept de predare** și infractori **fără drept de predare**. Mai multe informații în detaliu despre acestea sunt [**aici**](https://ucp.liberty.mp).
 
 Pentru a identifica atât *motivul, wanted-ul, cât și locația infractorului*, polițistul o să utilizeze **Police Computer-ul** atunci când este în interiorul unei mașini, apăsând pe tasta `P`. În acesta poate să vadă lista activă cu criminali, să le vadă poziția, să caute persoane după nume, să cheme întăriri, dar și [**altele**](#police-computer).
-
+::: details Interfață computer
 <Image src="https://i.imgur.com/ywpEsfN.gif" alt="PC1" />
+:::
 
 ::: tip 
 Infractorii care au **cătușe** deasupra capului înseamnă că au drept de predare și trebuie încătușați și duși la secție la punctul de arest! Punctul de **arest** este în spatele secției. Cei care nu au drept de predare au deasupra capului o **țintă** și trebuie omorâți pe loc.
 :::
-
-
 
 ::: details Punct de arest
 <Image src="http://i.imgur.com/Fo6MlTE.gif" alt="Arest" />
@@ -83,7 +85,7 @@ Infractorii care au **cătușe** deasupra capului înseamnă că au drept de pre
 <Image src="https://i.imgur.com/ObqggyG.gif" alt="catuse2" />
 :::
 
-De asemenea, tracking-ul care afișează locația infractorului este **aproximativă**. Este reprezentată de o **zonă roșie**. Dacă polițistul nu mai dorește să-l urmărească poate apăsa tasta `F5`.
+De asemenea, tracking-ul (localizarea) care afișează locația infractorului este **aproximativă**. Este reprezentată de o **zonă roșie**. Dacă polițistul nu mai dorește să-l urmărească poate apăsa tasta `F5`.
 <Image src="https://i.imgur.com/xy2hGNm.gif" alt="zona" />
 ::: details Exemple de wanted in chat
 <Image src="https://i.imgur.com/VosHIlY.png" alt="wanted1" />
@@ -93,8 +95,9 @@ De asemenea, tracking-ul care afișează locația infractorului este **aproximat
 ## Police Computer
 
 **Police Computer-ul** ajută și la **reținerea permiselor** și acordarea **wanted-ului** prin căutarea jucătorului. De asemenea, poate vedea mai multe informații despre persoana în cauză.
-
+::: details Interfață computer  
 <Image src="https://i.imgur.com/IPdOuvW.gif" alt="PC2" />
+:::
 
 ## Somații și percheziții
 
