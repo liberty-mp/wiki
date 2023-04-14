@@ -21,7 +21,7 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 
 ### Căt pot câștiga dacă jefuiesc un ATM?
 
-În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător căt timp transportai consola ATM-ului, câștig-ul va fi intre <Dinero :amount='600'/> și <Dinero :amount='800'/>.
+În cazul în care nu ai întâmpinat probleme și nu ai fost ucis de către un alt jucător căt timp transportai consola ATM-ului, câștigul va fi intre <Dinero :amount='600'/> și <Dinero :amount='800'/>.
 
 Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul va fi între <Dinero :amount='250'/> și <Dinero :amount='400'/>.
 
