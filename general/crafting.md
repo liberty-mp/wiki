@@ -83,7 +83,7 @@ Acestea se pot obține din teritoriile (turfs) tip [**Port**](#teritorii-de-tip-
 **Materialele** reprezintă obiectele necesare în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) pentru realizarea armelor, componentelor și muniției din blueprint-uri.
 
 ::: tip
-Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrând la jobul [**Miner**](../jobs//miner) și [**Garbageman**](../jobs/garbageman).
+Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrând la jobul [**Miner**](../jobs/miner) și [**Garbageman**](../jobs/garbageman).
 :::
 
 **Pe server se pot crafta urmatoarele iteme:** 
