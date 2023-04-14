@@ -6,7 +6,7 @@ title: Intrebări frecvente
 
 ## Ce mod de joc se aplică pe server?
 
-Serverul [🗽liberty.mp](https://ucp.liberty.mp/) este gândit și conceput astfel încât modul de joc să facă parte din categoria **RPG**(Role Playing Game).
+Serverul [🗽liberty.mp](https://liberty.mp/) este gândit și conceput astfel încât modul de joc să facă parte din categoria **RPG**(Role Playing Game).
 
 Așadar, **nu este necesară** simularea realității, comparativ cu un server de **RP** (Role Play) unde simularea acțiunilor se realizează conform realității.
  
@@ -15,7 +15,7 @@ Chiar dacă serverul face parte din categoria **Role Playing Game** (RPG), regul
 ::: 
 
 ::: tip
-Pentru a evita sancțiunile referitoare la informațiile de mai sus, îți recomandăm să citești [regulamentul general](https://ucp.liberty.mp/forums/post/4/reply/2).
+Pentru a evita sancțiunile referitoare la informațiile de mai sus, îți recomandăm să citești [regulamentul general](https://ucp.liberty.mp/forums/post/27).
 ::: 
 
 ## Care este cel mai profitabil job de pe server?
