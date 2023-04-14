@@ -10,11 +10,11 @@ title: Vehicule Personale
 
 Pe server există un număr de trei Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motocycles Default) și unul cu vehicule din viața reală (Luxury Autos).
 
-| Iconiță specifică | Tip | Număr total | Zone geografice | Monedă/Valută |
+| Iconiță specifică | Tip | Nivel minim acces | Zone geografice | Monedă/Valută |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 1 | [**Pillbox Hill**](https://i.imgur.com/LnAZ7m4.png) | Bani în joc ($) | 
-| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 1 | [**Adams Apple's Boulevard**](https://i.imgur.com/MgrRcjk.png) | Bani în joc ($) |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 1 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) <br> + <br> Luxury Vehicle Ticket | 
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 3 | [**Pillbox Hill**](https://i.imgur.com/LnAZ7m4.png) | Bani în joc ($) | 
+| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | [**Adams Apple's Boulevard**](https://i.imgur.com/MgrRcjk.png) | Bani în joc ($) |
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) <br> + <br> Luxury Vehicle Ticket | 
 
 ::: tip 
 Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
