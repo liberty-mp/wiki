@@ -10,7 +10,9 @@ Marketplace-ul reprezintă unul dintre cele mai importante sisteme integrate pe 
 
 ### Am nevoie de un anume level pentru a folosi marketplace-ul?
 
-Folosirea marketplace-ului necesită minim level 5.
+::: tip  
+Marketplace-ul este deblocat începând cu nivel 5.
+:::
 
 ### Unde se află marketplace-ul?
 
