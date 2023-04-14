@@ -48,11 +48,11 @@ Este esențial la aceste nivele de început să ai o bază financiară ca să fi
 
 ### Între level 3 și 5
 
-Acum că ai crescut în nivel poți efectua **rob-uri (jefuiri)**, despre care aveți mai multe informații [**aici**](./general/atm-robbery), să îți cumperi o mașină din Dealership dacă ai banii necesari și să începi să investești în afaceri prin intermediul *Stock Market-ului*! La acest stagiu depinde de tine ca jucător ce fel de *gameplay* vrei să faci, ori poți să continui doar să muncești la jobul tău favorit ori să te axezi pe partea de jafuri, unde ai un nivel de reputație în care crești.
+Acum că ai crescut în nivel poți efectua **rob-uri (jefuiri)**, despre care aveți mai multe informații [**aici**](./general/atm-robbery), și să îți cumperi o mașină din Dealership dacă ai banii necesari! La acest stagiu depinde de tine ca jucător ce fel de *gameplay* vrei să faci, ori poți să continui doar să muncești la jobul tău favorit ori să te axezi pe partea de jafuri, unde ai un nivel de reputație în care crești.
 
 ### De la level 5 în sus
 
-Din momentul acesta poți investi și în **cryptomonede**, despre care aveți mai multe informații [**aici**](./economy/crypto). Acestea sunt sincronizate cu cele din realitate și dacă ești atent la piață poți să ai încă o sursă de venit de aici, pe lângă cea din *Stock Market*! De asemenea, dacă nu mai dorești să locuiești la un hotel sau un motel îți poți păstra banii pentru o **casă sau un apartament** pentru licitațiile ce o să urmeze. Din moment ce poți utiliza cryptomonedele, poți folosi și aplicația **Hitman** care folosește cryptomoneda *Tether* pentru a angaja un asasin!
+Din momentul acesta poți investi și în **cryptomonede**, despre care aveți mai multe informații [**aici**](./economy/crypto). Acestea sunt sincronizate cu cele din realitate și dacă ești atent la piață poți să ai încă o sursă de venit de aici, pe lângă cea din *Stock Market*, acesta fiind valabil de la level 7! De asemenea, dacă nu mai dorești să locuiești la un hotel sau un motel îți poți păstra banii pentru o **casă sau un apartament** pentru licitațiile ce o să urmeze. Din moment ce poți utiliza cryptomonedele, poți folosi și aplicația **Hitman** care folosește cryptomoneda *Tether* pentru a angaja un asasin!
 
 Nu uita că există mai multe facțiuni din care poți face parte, pentru mai multe detalii citiți [**aici**](./factions/). Acestea sunt diferite între ele și te poți alătura lor prin intermediul unei aplicații pe UCP-ul nostru. Trebuie doar să te decizi ce îți place mai mult, ce ai vrea să faci și să te documentezi în legătură cu ce se ocupă acestea.
 
