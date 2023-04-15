@@ -29,8 +29,9 @@ Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul
 
 Culoarea ATM-ului de pe hartă va indica statusul acestuia.
 
-<Image src="https://i.imgur.com/gxhqRjU.png" width="32" alt="Disponibil" label="Disponibil" /> 
+<Image src="https://i.imgur.com/t2ZYapF.png" width="32" alt="Disponibil" label="Disponibil" /> 
 <Image src="https://i.imgur.com/LNnW3DH.png" width="32" alt="Indisponibil" label="Indisponibil" />
+<Image src="https://i.imgur.com/gxhqRjU.png" width="32" alt="Indestructibil" label="Indestructibil" /> 
 
 ### Ce este Heat Level?
 
