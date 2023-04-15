@@ -73,10 +73,11 @@ Ca să pescuiești trebuie să echipezi undița în unul din cele 5 fast slot-ur
 După ce am echipat undița într-un fast slot din inventar, apăsăm tasta respectivă (1-5) pentru a pune undița în mâini, apăsăm tasta `SPACE` cu privirea la un corp de apă pentru a arunca cârligul și momeala. Culoarea turcoaz indică faptul că așteptăm până când un pește va mușca momeala.  
 
 ::: details Exemplu pescuit  
-  <Image src="https://i.imgur.com/qXwSTRb.gif" />
+  <Image src="https://i.imgur.com/nHG4OBI.gif" alt="Exemplu fish" />
+  <Image src="https://i.imgur.com/ZeBO0rZ.png" alt="Exemplu minigame" />
 :::  
 
-Apăsăm din nou tasta `SPACE` atunci când indicatorul se face culoarea verde, însemânand că peștele a mușcat momeala. Dacă nu acționăm asupra peștelui timp de 3 secunde de când indicatorul și-a schimbat culoarea în verde, aceasta reușește să scape din cârlig.
+Apăsăm din nou tasta `SPACE` atunci când indicatorul se face culoarea verde, însemânand că peștele a mușcat momeala. Dacă nu acționăm asupra peștelui timp de 3 secunde de când indicatorul și-a schimbat culoarea în verde, aceasta reușește să scape din cârlig. După apăsare o să apară un minigame cu o bară unde trebuie să apeși încă o dată `SPACE` în momentul în care peștele ajunge în pătratul verde pentru a putea trage undița și a pescui peștele.
 Există o șansă ca peștele să scape și când noi tragem undița, în funcție de undița folosită.  
 Vei fi notificat deasupra hărții despre ce tip de pește ai prins, dacă ai prins un obiect special sau nu îndeplinești o cerință pentru a pescui.
 
@@ -146,3 +147,4 @@ Pe lângă peștele prins, mai ai o șansă la a prinde **obiecte speciale** car
 ::: details Nu ai momeală in inventar  
  <Image src="https://i.imgur.com/1zQ91yu.png" alt="Eroare momeala" />  
 :::  
+
