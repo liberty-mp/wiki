@@ -21,6 +21,8 @@ Desfășurarea jobului Garbageman constă în păstrarea curată a orașului Los
 
 Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind butonul `E` și selectează "**Începe munca**", ți se va da un vehicul în care trebuie să depozitezi sacii de gunoi. Urmează ruta de pe hartă până la prima pubelă.
 
+- Dacă mori sau te deconectezi, tura de job este salvată automat și poți continua umplerea vehiculului Trashmaster. 
+
 ::: details Începe munca  
   <Image src="https://i.imgur.com/lIPqxgm.gif" alt="Start Job" />
 :::  
@@ -66,7 +68,4 @@ La fiecare _**20%**_ capacitate, ai o șansă de _**15%**_ să găsești Rope ș
 <Image src="https://i.imgur.com/ENhmJFT.png" alt="Abandon vehicul" />
 :::  
 
-- Dacă mori, tura de job este anulată instant și pierdeți orice progres din vehiculul Trashmaster. 
-::: details Moarte în timpul jobului
- <Image src="https://i.imgur.com/YB6bRG1.png" alt="Moarte job Garbageman" />
-:::  
+

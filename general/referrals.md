@@ -15,7 +15,7 @@ Dacă te apuci împreună cu un prieten să vă jucați pe server, prietenul tă
 :::
 
 ::: warning Atenție
-Poți introduce un referral după ce _termini tutorialul de început_ sau în **primele 3 ore jucate** pe server.
+Poți introduce un referral după ce _termini tutorialul de început_ sau în **primele 10 ore jucate** pe server.
 :::
 
 ::: details Introducere Referral:  
