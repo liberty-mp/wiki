@@ -4,13 +4,13 @@ title: Informații generale joburi
 
 ### Informații generale joburi
  
-Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătății experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o categorizare a joburilor curente.  
+Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o categorizare a joburilor curente.  
 
 ## Intrebări frecvente
 
 ### Ce venituri sunt la joburi?
 
-Veniturile joburilor sunt calculate astfel încât la sfârșitul unei sesiuni de exemplu: 5 ore, totalul câștigat să fie **aproximativ ~<Dinero :amount='1700' /> per oră**. Venitul depinde și de **obiectele speciale** pe care le poți găsi practicând **joburile cu ;șanse de drop (găsire)**, aceste iteme pot fi adăugate pe [Market](../general/marketplace) sau folosite în [Trade](../general/trade) cu alți jucători.
+Veniturile joburilor sunt calculate astfel încât la sfârșitul unei sesiuni de exemplu: 5 ore, totalul câștigat să fie **aproximativ ~<Dinero :amount='1700' /> per oră**. Venitul depinde și de **obiectele speciale** pe care le poți găsi practicând **joburile cu șanse de drop (găsire)**, aceste iteme pot fi adăugate pe [Market](../general/marketplace) sau folosite în [Trade](../general/trade) cu alți jucători.
 
 ### Cum găsesc jobul?  
 
@@ -73,7 +73,7 @@ Ai nevoie de un nas puternic și **permis de conducere categoria B** dacă nu vr
 
 ### Lumberjack 🪓
 
-Vrei să descoperi farmecul vieții în sălbăticie? Călătorește în adâncurile pădurii și ia parte la o aventura plina de provocari și dealuri aducând lemnul necesar construcției orașului nostru! Explorează natura și muncește din greu pentru a tăia arborii cu pricepere și îndemânare. Când munca este gata, vei fi recompensat cu bani frumoși și simțul împlinirii de a fi contribuit la construcția orașului nostru. 
+Vrei să descoperi farmecul vieții în sălbăticie? Călătorește în adâncurile pădurii și ia parte la o aventură plină de provocări și dealuri aducând lemnul necesar construcției orașului nostru! Explorează natura și muncește din greu pentru a tăia arborii cu pricepere și îndemânare. Când munca este gata, vei fi recompensat cu bani frumoși și simțul împlinirii de a fi contribuit la construcția orașului nostru. 
 
 Ai nevoie de brațe puternice și **permis de conducere categoria B** dacă nu vrei să riști **o vizită la închisoare**!.  
 
