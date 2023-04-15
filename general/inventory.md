@@ -66,9 +66,9 @@ Pentru a **utiliza** (Use), **inspecta** (Inspect) sau **separa** (Split) obiect
 ![Nearby Items](https://i.imgur.com/a9Ety9S.png)
 
 ::: tip
-Pentru a lua un obiect de pe jos (**Nearby Items**) în inventarul propiu, ține apăsat *click-stangă* pe obiectul dorit și trage-l în inventar (**Inventory Items**).
+Pentru a lua un obiect de pe jos (**Nearby Items**) în inventarul propiu, ține apăsat *click-stânga* pe obiectul dorit și trage-l în inventar (**Inventory Items**).
 
-Pentru a arunca un obiect din inventar (**Inventory Items**), ține apăsat *click-stangă* pe obiectul dorit și trage-l în interiorul chenarului cu linie despărțită **Drop Items**. De precizat este faptul că obiectele pe care le arunci din inventar ajung la **Nearby Items**.
+Pentru a arunca un obiect din inventar (**Inventory Items**), ține apăsat *click-stânga* pe obiectul dorit și trage-l în interiorul chenarului cu linie despărțită **Drop Items**. De precizat este faptul că obiectele pe care le arunci din inventar ajung la **Nearby Items**.
 :::
 
 ### Fast Slots 
