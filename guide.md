@@ -32,6 +32,8 @@ Nu sunteți obligați să urmați în detaliu acești pași, sunt doar niște î
 
 ### Între level 1 și 3
 
+Nu uita să introduci codul de referral (recomandare/afiliere) la sfârșitul tutorialului sau mai târziu din meniul [Profil & setări](./general/profile-and-settings.md#cum-vizualizez-profilul-și-setările), categoria **Referrals** - butonul *Activate*.
+
 Recomandarea noastră este să frecventați **joburile** despre care aflați mai multe [**aici**](./jobs/), pentru a vă crește exponențial banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, vehiculul **Panto** primit cadou temporar pentru **30 payday-uri** o să vă ajute extrem de mult în privința deplasării, dar și la unele joburi, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru funcția de GPS, organizarea banilor - banking (Bank) și multe alte sisteme printre care și administrarea vehiculelor personale, prin intermediul telefonului navigați pe server.
 
 ::: tip
