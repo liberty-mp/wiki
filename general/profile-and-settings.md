@@ -12,6 +12,13 @@ title: Profil & Setări
 
 Fiecare jucător își poate vizualiza **Profilul** și **Setările** apăsând pe butonul `O` în joc. Pentru a închide interfața, apasă `ESC` sau din nou `O`.
 
+### Ce reprezinta bara din jurul pozei de profil?
+
+Bara ce înconjoară poza de profil din meniul care se deschide pe tasta `O` reprezintă progresul experienței pe care îl ai la nivelul curent.
+
+<Image src="https://i.imgur.com/D0pCoaE.png" alt="Bara nivel" />
+
+
 ### Ghid interfață
 
 Interfața se împarte în **6 categorii**, fiecare categorie se poate accesa din **bara de navigare**, cu un simplu `CLICK STANGA`:
