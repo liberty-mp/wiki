@@ -4,7 +4,7 @@ title: Cum să joci?
 
 Pentru a te putea juca pe serverul nostru, trebuie să instalezi în calculator (PC) jocul [**Grand Thef Auto V**](https://ro.wikipedia.org/wiki/Grand_Theft_Auto_V) în varianta licențiată, de pe orice platformă (**Rockstar Games, Steam sau Epic Games**), cu toate actualizările la zi și launcher-ul [**RAGE Multiplayer**](https://rage.mp).
 
-Dacă nu te descurci, îți recomandăm să urmărește cu atenție ghidul detaliat de mai jos.
+Dacă nu te descurci, îți recomandăm să urmărești cu atenție ghidul detaliat de mai jos.
 
 ### Achizițonarea jocului **Grand Theft Auto V**
 
@@ -55,6 +55,6 @@ Pentru a face acest lucru, intră în **Settings**, apoi la **General** și modi
 De asemenea, tot de la **Settings**, respectiv **Advanced** deselectează opțiunea **Accelerated CEF rendering**.
 <Image src="https://i.imgur.com/czKh5Sr.gif" alt="Disable Accelerated CEF rendering" />
 
-Pasul final, este conectarea pe server, poti face acest lucru in 2 moduri:
+Pasul final este conectarea pe server. Poți face acest lucru in 2 moduri:
 1. Cauți serverul cu ajutorul bării de search, folosind keyword-ul `liberty.mp` <Image src="https://i.imgur.com/4ceQtBz.gif" alt="Connect to the server by search" />
-2. Te conectezi direct folosind optiunea de **Direct connect**, folosind DNS-ul: `game.liberty.mp` sau IP-ul: `54.37.93.255`. (port-ul ramane cel default `:22005`) <Image src="https://i.imgur.com/hH2FVWy.gif" alt="Connect to the server by direct connect" />
+2. Te conectezi direct folosind opțiunea de **Direct connect**, folosind DNS-ul: `game.liberty.mp` sau IP-ul: `54.37.93.255`. (port-ul ramane cel default `:22005`) <Image src="https://i.imgur.com/hH2FVWy.gif" alt="Connect to the server by direct connect" />
