@@ -8,7 +8,7 @@ title: Fisherman
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Da, undiță și momeală. |
-| Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-și-alte-activități-șanse-de-prindere). |
+| Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-prindere). |
 | Locație NPC-uri Fisherman | [Locație 1: Paleto Cove](https://i.imgur.com/5mGr5NE.png) <br> [Locație 2: Alamo Sea](https://i.imgur.com/AoslGiy.png) <br> [Locație 3: Procopio Beach](https://i.imgur.com/0Ur4iDk.png) | --->
 
 ## Desfășurarea jobului
