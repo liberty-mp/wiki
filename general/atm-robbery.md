@@ -29,9 +29,11 @@ Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul
 
 Culoarea ATM-ului de pe hartă va indica statusul acestuia.
 
-<Image src="https://i.imgur.com/t2ZYapF.png" width="32" alt="Disponibil" label="Disponibil" /> 
-<Image src="https://i.imgur.com/LNnW3DH.png" width="32" alt="Indisponibil" label="Indisponibil" />
-<Image src="https://i.imgur.com/gxhqRjU.png" width="32" alt="Indestructibil" label="Indestructibil" /> 
+| Status   | Semnificație |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/t2ZYapF.png" width="32" alt="Disponibil" label="Disponibil" />  | Indeplinește condițiile pentru a fi jefuit |
+| <Image src="https://i.imgur.com/LNnW3DH.png" width="32" alt="Indisponibil" label="Indisponibil" /> | Nu poate fi jefuit (delay 3 minute) |
+| <Image src="https://i.imgur.com/gxhqRjU.png" width="32" alt="Indestructibil" label="Indestructibil" />  | Folosit doar pentru a depune/scoate bani |
 
 ### Ce este Heat Level?
 
