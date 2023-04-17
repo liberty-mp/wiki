@@ -19,9 +19,9 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 
 **Obiectele speciale** necesare jefuirii pot fi găsite [la sfârșitul unei ture de job la Garbageman ♻️.](../jobs/garbageman#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire)
 
-### Căt pot câștiga dacă jefuiesc un ATM?
+### Cât pot câștiga dacă jefuiesc un ATM?
 
-În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător căt timp transportai consola ATM-ului, câștig-ul va fi intre <Dinero :amount='1300'/> și <Dinero :amount='1800'/>.
+În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător cât timp transportai consola ATM-ului, câștigul va fi intre <Dinero :amount='1300'/> și <Dinero :amount='1800'/>.
 
 Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul va fi între <Dinero :amount='650'/> și <Dinero :amount='900'/>.
 
