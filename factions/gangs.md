@@ -134,7 +134,7 @@ Războaiele se desfașoară conform următorului program:
 
 | Zile | Ore | 
 | :-----------: | :-----------: | 
-| Luni - Vineri | 20:00 - 00:00 | 
+| Luni - Vineri | 20:00 - 22:00 | 
 
 ::: warning Atenție!
 Nu există posibilitatea de a ataca teritoriile grupărilor mafiote inamice aflate deja într-un alt war, în afara programului stabilit sau la un timp prea scurt de la ultimul atac. 
