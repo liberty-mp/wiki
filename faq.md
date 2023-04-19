@@ -108,6 +108,10 @@ Modurile de grafică aduc niște schimbări sesizabile plăcute pentru jucător,
 
 Mai jos îți sunt prezentate câteva dintre cele mai întâlnite situații cu care jucătorii se confruntă atunci când doresc să intre pe serverul nostru.  
 
+::: tip
+Poți vizualiza acest [**videoclip**](https://youtu.be/Ih78r1Lpk-0), unde îți sunt prezentate problemele uzuale intâmpinate la conectarea pe server.
+:::
+
 ### Autentificare în loc de înregistrare 
 
 Această eroare este întâlnită în mare parte de jucătorii noi atunci când se conectează pe server. 
