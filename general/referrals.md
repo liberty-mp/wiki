@@ -48,7 +48,7 @@ Poți introduce un referral după ce _termini tutorialul de început_ sau în **
 
 ## Clothing Crate
 
-În funcție de sexul caracterului, **Male** _sau_ **Female**, ales la crearea caracterului îm joc, primiți aleatoriu o cutie ce conține haine:
+În funcție de sexul caracterului, **Male** _sau_ **Female**, ales la crearea caracterului în joc, primiți aleatoriu o cutie ce conține haine:
 ::: details Posibile crate-uri  
 | Crate (cutie)   | Ce conține? |
 | :-----------: | :-----------: |
