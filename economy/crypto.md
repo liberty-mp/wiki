@@ -14,14 +14,14 @@ title: Cryptomonede
 
  Din acest meniu putem interacționa cu cryptomoneda pe care dorim să o cumpărăm.
 
-  ## Cum putem cumpara / vinde / transfera?
+  ## Cum putem cumpăra / vinde / transfera?
 
-  Din aplicatia Bank selectam cryptomoneda dorita pe care vrem sa o cumparam. O sa se deschida un nou meniu de unde putem cumpara prin intermediul Buy unde introducem numarul de monede pe care o sa le achizitionam. Cu ajutorul Sell putem vinde monedele pe care le detinem. Aceasta actiune este identica cu cea de cumparare.
+  Din aplicația Bank selectăm cryptomoneda pe care vrem să o cumpărăm. O să se deschidă un nou meniu de unde putem cumpăra apăsând pe butonul Buy, urmând a introduce numărul de monede pe care o să le achiziționăm. Apăsând pe butonul Sell putem vinde monedele deținute. Această acțiune este identică cu cea de cumpărare.
 
    <Image src="https://i.imgur.com/dm8cs5n.png" alt="buycrypto" />
 
-  Trimiterea unui alt jucator se efectueaza prin Send. Pentru a transfera altui jucator un numar de cryptomende cautati numele acestuia in bara Search user. Dupa ce ati selectat persoana careia doriti sa ii trimiteti cryptomonedele introduceti suma dorita sau puteti modifica asta chiar cu ajutorul slider-ului.
+  Trimiterea cryptomonedelor unui alt jucator se efectuează apăsând pe butonul Send. Pentru a transfera altui jucător un număr de cryptomonede căutați numele acestuia în bara Search user. După ce ați selectat persoana căreia doriți să îi trimiteți cryptomonedele trebuie să introduceți suma dorită (acest lucru poate fi realizat și mișcând slider-ul).
 
   ## La ce putem folosi cryptomonedele?
 
-  Acestea pot fi folosite de catre jucatori pentru a face Trade-uri sau pentru angajarea unui Hitman. Mai multe informatii despre angajarea unui asasin găsești [aici](../factions/hitman.md).
+  Acestea pot fi folosite de către jucători pentru a face Trade-uri sau pentru angajarea unui Hitman. Mai multe informații despre angajarea unui Hitman găsești [aici](../factions/hitman.md).
