@@ -144,7 +144,7 @@ Intră în setările launcher-ului și debifează opțiunea. În cazul în care 
 
 ### Jocul pornește în singleplayer 
 
-Această eroare este de asemenea foarte întâlnită în rândul jucătorilor care încearcă să se conecteze pe server și poate fi rezolvată urmând una dintre cele trei soluții de mai jos. 
+Această eroare este de asemenea foarte întâlnită în rândul jucătorilor care încearcă să se conecteze pe server și poate fi rezolvată urmând una dintre cele patru soluții de mai jos. 
 
 **Soluții:** 
 
@@ -156,7 +156,9 @@ Această eroare este de asemenea foarte întâlnită în rândul jucătorilor ca
 Această variantă nu funcționează pentru toți utilizatorii platformei **Steam**.
 ::: 
 
-3. Asigură-te că ai [**Visual C++ redistributable 2015**](https://www.microsoft.com/en-us/download/details.aspx?id=48145). 
+3. Asigură-te că ai [**Visual C++ redistributable 2015**](https://www.microsoft.com/en-us/download/details.aspx?id=48145).
+
+4. Asigură-te că ai terminat prima misiune din Story Mode (prologue).
 
 ::: tip
 Pentru a-l instala, apasă pe butonul portocaliu de **Download**.
