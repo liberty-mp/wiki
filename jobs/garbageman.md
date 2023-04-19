@@ -49,13 +49,20 @@ Pentru a termina tura de job instant și posibilitatea să faci altă activitate
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
 Pe lângă suma de bani primită după descărcare, mai ai o șansă la a găsi **obiecte speciale** care te ajută la **alte activități** sau **în crafting**.  
+
 ::: tip Detalii șanse drop  
+
 Dacă vehiculul are peste _**50%**_ capacitate și îl descarci, ai o șansă de _**20%**_ să găsești un item de crafting - Shattered Glass sau Piece of Plastic.
 
 La fiecare _**20%**_ capacitate, ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.
-De menționat este faptul ca șansele nu se acumulează! Spre exemplu, dacă ai _**40%**_, se mai face o "tragere la sorți", având _**15%**_ sanșe să găsești un Rope și _**30%**_ șanse să găsești un Hook, repetându-se la fiecare _**20%**_ completat din capacitate.
+Spre exemplu, dacă ai _**40%**_, se mai face o "tragere la sorți", având _**15%**_ sanșe să găsești un Rope și _**30%**_ șanse să găsești un Hook, repetându-se la fiecare _**20%**_ completat din capacitate.
 
 :::  
+
+::: warning 
+  De menționat este faptul ca șansele nu se acumulează! 
+:::
+
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **30%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
