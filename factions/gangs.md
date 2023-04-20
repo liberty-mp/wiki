@@ -1,3 +1,4 @@
+
 ---
 title: Grupari Mafiote
 ---
@@ -84,7 +85,7 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 
 **Teritoriul** sau turf-ul reprezintă un spațiul bine delimitat pe harta statului **San Andreas** cu o culoare specifică care deservește ca zonă de desfășurare a activităților specifice grupărilor mafiote.
 
-În momentul de față, există un număr total de **10 teritorii**, încluse în mai multe categorii, după cum urmează: 
+În momentul de față, există un număr total de **10 teritorii**, incluse în mai multe categorii, după cum urmează: 
 
 ### Teritorii de tip port
 
@@ -94,12 +95,12 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 
 Teritoriile din categoria **Port** permit aprovizionarea cu arme, muniție și diverse substanțe interzise.<br>
 Aprovizionarea are loc zilnic la aproximativ 15 minute după terminarea războaielor (war-uri).<br>
-Toți jucătorii apartinători gang-ului deținător al unui turf de tip port vor primi câte un item.<br>
+Toți jucătorii aparținători gang-ului deținător al unui turf de tip port vor primi câte un item.<br>
 Jucătorii au timp 24 de ore pentru a extrage itemele. În caz contrar acestea vor fi șterse.
 
 ### Warehouse
 
-| Iconiță specifică | Numar teritorii | Zone geografice | 
+| Iconiță specifică | Număr teritorii | Zone geografice | 
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/2SYFtvq.png" alt="Warehouse" width="30" label="Iconiță turf warehouse" /> | 4 teritorii | [**Rancho**](https://i.imgur.com/oIkcM8h.png), [**La Puerta**](https://i.imgur.com/pWcc1NX.png), [**Vesspuci**](https://i.imgur.com/oNQBJNv.png), [**Pacific  Bluffs**](https://i.imgur.com/FUkiDbY.png) | 
 
@@ -107,7 +108,7 @@ Teritoriile din categoria **Warehouse** pot fi folosite de către grupările maf
 
 ### Drug Plantation 
 
-| Iconiță specifică | Numar teritorii | Zone geografice | 
+| Iconiță specifică | Număr teritorii | Zone geografice | 
 | :-----------: | :-----------: | :-----------: |
 |  <Image src="https://i.imgur.com/F5xSqxB.png" alt="Drug Plantation" width="30" label="Iconiță turf drugs" /> | 2 teritorii | [**Grapeseed**](https://i.imgur.com/19CAB56.png), [**Paleto Bay**](https://i.imgur.com/J0xdlfF.png) | 
 
@@ -115,7 +116,7 @@ Teritoriile din categoria **Drug Plantation** pot fi folosite de către grupări
 
 | Item | Obținere | 
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/X2Fi4Nx.png" alt="Cannabis Seeds" width="30" label="Cannabis Seeds" /> | containerele turfurilor de tip [**Port**](#teritorii-de-tip-port) | 
+| <Image src="https://i.imgur.com/X2Fi4Nx.png" alt="Cannabis Seeds" width="30" label="Cannabis Seeds" /> | containerele turf-urilor de tip [**Port**](#teritorii-de-tip-port) | 
 
 # Sistemul de War
 
@@ -130,7 +131,7 @@ Grupările mafiote care dețin mai multe teritorii beneficiază de posibilităț
 ## Începutul war-ului 
 
 **War-urile** pot fi începute doar de către **Lider** (rank 5) sau **Co-lider** (rank 4) prin folosirea comenzii `/attack` în spațiul delimitat al unui teritoriu deținut de către o grupare inamică (war turf).<br>
-Războaiele se desfașoară conform următorului program:
+Războaiele se desfășoară conform următorului program:
 
 | Zile | Ore | 
 | :-----------: | :-----------: | 
@@ -179,7 +180,7 @@ Cucerirea unui teritoriu constă în acumularea a cât mai multor puncte, pe toa
 | Prezența membrilor pe teritoriu | +1/minut | 
 | Uciderea membrilor rivali pe teritoriu | +1/kill |
  
-Punctele acumulate în total de fiecare grupare mafiotă implicată în war precum și timpul ramas se pot vizualiza în partea superioară a ecranului.
+Punctele acumulate în total de fiecare grupare mafiotă implicată în war precum și timpul rămas se pot vizualiza în partea superioară a ecranului.
 
 <Image src="https://i.imgur.com/FeLLDmU.png" alt="Score1" />
 
@@ -195,7 +196,7 @@ Statisticile personale pot fi vizualizate și în timpul war-ului, în partea di
 
 **Scorul personal** este calculat automat la sfârșitul fiecărui război in functie de performanțele individuale.
 
-| Numar puncte | Activitate |
+| Număr puncte | Activitate |
 | :-----------: | :-----------: |
 | 1 punct | uciderea unui inamic | 
 | 0.5 puncte | asistarea unui coechipier în uciderea unui inamic |
@@ -276,7 +277,7 @@ Pentru a culege plantele de **Cannabis**, du-te lângă fiecare și apasă tasta
 
 ### Obținere 
 
-Modul de obținere principal a **Adderal Pills** este prin intermediul teritoriilor de tip [**Port**](#teritorii-de-tip-port) deținute de grupările mafiote, unde aceastea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Acestea mai pot fi oferite jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
+Modul de obținere principal a **Adderal Pills** este prin intermediul teritoriilor de tip [**Port**](#teritorii-de-tip-port) deținute de grupările mafiote, unde acestea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Acestea mai pot fi oferite jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
 
 ## **Crystal Meth**
 
@@ -290,4 +291,4 @@ Modul de obținere principal a **Adderal Pills** este prin intermediul teritorii
 
 ### Obținere 
 
-Modul de obținere principal al **Crystal Meth** este prin intermediul teritoriilor de tip [**Port**](#teritorii-de-tip-port) deținute de grupările mafiote, unde aceastea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Aceasta mai pot fi oferit jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
+Modul de obținere principal al **Crystal Meth** este prin intermediul teritoriilor de tip [**Port**](#teritorii-de-tip-port) deținute de grupările mafiote, unde acestea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Aceasta mai pot fi oferit jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
