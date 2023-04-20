@@ -207,7 +207,7 @@ Pentru a dezactiva unul dintre procesele de mai sus, intră în **Task Manager**
 Intră în Story Mode-ul jocului și la setările rezoluției, pune opțiunea precizată. 
 :::  
 
-### Easy Anti-Cheat dă eroarea `"settings.json not found"`
+### Eroare: "settings.json not found" 
 
 Această eroare este întâlnită în rândul jucatorilor care incearcă să intre pe server, iar după ce se incarcă Easy Anti-Cheat-ul, le apare eroarea de mai sus.
 
@@ -219,7 +219,7 @@ Singura soluție in acest caz este sa stergeți folderul **EasyAntiCheat** de un
 Pentru multi folderul **RAGEMP** se afla in **C:\RAGEMP** sau **D:\RAGEMP**
 :::
 
-### ERROR: Script server cache got rejected
+### Eroare: "Script server cache got rejected" 
 
 Această eroare se întâlneste in rândul jucătorilor care incearcă să intre pe server, dintr-o țară străina, sau nu au fișierele serverului descărcate corect.
 
