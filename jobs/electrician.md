@@ -1,3 +1,4 @@
+
 ---
 title: Electrician
 ---
@@ -14,9 +15,9 @@ title: Electrician
 
 ## Desfășurarea jobului  
 
-Desfășurarea jobului Electrician constă în menținerea în funcțiune a echipementelor electrice din orașul Los Santos prin reglarea siguranțelor defecte din panourile electrice.   
+Desfășurarea jobului Electrician constă în menținerea în funcțiune a echipamentelor electrice din orașul Los Santos prin reglarea siguranțelor defecte din panourile electrice.   
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### Cum încep munca?
 
@@ -27,7 +28,7 @@ Odată ajuns la locația NPC-ului Electrician, interacționează cu el folosind 
 :::  
 
 ::: details Vehicul oferit de NPC 
-  Vapid Speedo | Top speed: 150 km/h | Tractiune: spate | Viteze: 5 | Manevrabilitate: medie  
+  Vapid Speedo | Top speed: 150 km/h | Tracțiune: spate | Viteze: 5 | Manevrabilitate: medie  
   <Image src="https://i.imgur.com/1ygPC69.png" alt="Vapid Speedo" />
 ::: 
  
@@ -46,7 +47,7 @@ Pentru a regla siguranțele trebuie să apeși `CLICK STÂNGA` pe siguranțele d
  <Image src="https://i.imgur.com/ftJmAXl.gif" alt="Electrocutare" />  
 :::  
 
-- Dacă ai acceptat vehiculul oferit de Electrician, tura de job se oprește automat dacă abandonezi vehiculul pentru mai mult de _**5 minute**_. Nu sta AFK (away from keyboard) dacă nu ești la volanul vehicului.
+- Dacă ai acceptat vehiculul oferit de Electrician, tura de job se oprește automat dacă abandonezi vehiculul pentru mai mult de _**5 minute**_. Nu sta AFK (away from keyboard) dacă nu ești la volanul vehiculului.
 ::: details Oprire tură job dacă abandonezi vehiculul de job   
 <Image src="https://i.imgur.com/SIgpCH9.png" alt="Abandon vehicul job" />
 :::  
