@@ -1,3 +1,4 @@
+
 ---
 title: Vehicule Personale
 ---
@@ -8,7 +9,7 @@ title: Vehicule Personale
 
 ## Achiziția unui vehicul personal
 
-Pe server există un număr de trei Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motocycles Default) și unul cu vehicule din viața reală (Luxury Autos).
+Pe server există un număr de trei Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motorcycles Default) și unul cu vehicule din viața reală (Luxury Autos).
 
 | Iconiță specifică | Tip | Nivel minim acces | Zone geografice | Monedă/Valută |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
@@ -47,7 +48,7 @@ Panoul de comandă este folosit pentru vizualizarea stării tehnice a mașinii �
 <Image src="https://i.imgur.com/ltw2e3V.png" alt="VehControl"/>  
 
 - **Despawn vehicle**: se folosește atunci când vrei să despawnezi (dispare de pe server) vehiculul personal;
-- **Locate vehicle**: ajută la localizarea vehicului personal în cazul în care nu mai știi locația acestuia;
+- **Locate vehicle**: ajută la localizarea vehiculului personal în cazul în care nu mai știi locația acestuia;
 - **Change lock**: se utilizează când dorești să schimbi încuietoarea vehiculului, după ce ai dat cheia acestuia unui alt jucător;  
 - **Tow vehicle**: poate fi folosit pentru a spawna (apare mașina pe server) vehiculul în locația unde a fost parcat (`/parkvehicle`) sau la ultima locație cunoscută; 
 - **Sell to Dealership**: se utilizează în cazul în care dorești să vinzi vehiculul către un Dealership.
