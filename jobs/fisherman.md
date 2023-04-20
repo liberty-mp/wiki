@@ -1,3 +1,4 @@
+
 ---
 title: Fisherman
 ---
@@ -13,14 +14,14 @@ title: Fisherman
 
 ## Desfășurarea jobului
 
-Desfășurarea jobului Fisherman constă în pescuirea peștilor folosind o undiță și momeală, iar mai apoi vânzarea acestora la unul din NPC-uri.  
+Desfășurarea jobului Fisherman constă în pescuitul peștilor folosind o undiță și momeală, iar mai apoi vânzarea acestora la unul din NPC-uri.  
 
 ## Locație pescuit  
 
 Găsește un loc de pescuit, poți pescui în aproape orice corp de apă din joc, cum ar fi lacuri, râuri sau mare.  
 O locație populară este pe plaja de lângă **Fisherman 3, Procopio Beach** datorită locației unui **magazin 24/7** in apropiere. 
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### Cum fac rost de undiță?
 
@@ -31,7 +32,7 @@ Poți cumpăra o undiță normală, din lemn, dintr-un business de tip **magazin
 :::
 
 Undița normala are o durabilitate de 120, însemnând 120 pești prinși cu **succes**.  
-Se spune că 4 din 10 pești reușesc să scape din cârlig când folosești această undiță (40% sansă ca peștele să scape înainte de a fi prins).  
+Se spune că 4 din 10 pești reușesc să scape din cârlig când folosești această undiță (40% șansă ca peștele să scape înainte de a fi prins).  
 Pentru a vedea durabilitatea undiței, apasă _**click dreapta**_ pe undiță în inventar, apoi selectează "**Inspect**".  
 
 ::: details Durabilitate undiță
@@ -42,7 +43,7 @@ Pentru a vedea durabilitatea undiței, apasă _**click dreapta**_ pe undiță î
 
 Poți crafta o undiță specială, din fibră de carbon, la NPC-ul Fisherman localizat la fiecare locație pe hartă cu iconița <Image src="https://i.imgur.com/W89GtyV.png" alt="Fisherman" />
 
-Pentru a o crafta ai nevoie de următoarele obiecte:
+Pentru a o crafta, ai nevoie de următoarele obiecte:
 | Imagine | Cantitate necesară | Obținere |
 | :---: | :---: | :---: |
 | <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="100" label="Rod Guide" /> | **30x** bucăți | Șansă de a obține din pescuit |
@@ -77,7 +78,7 @@ După ce am echipat undița într-un fast slot din inventar, apăsăm tasta resp
   <Image src="https://i.imgur.com/ZeBO0rZ.png" alt="Exemplu minigame" />
 :::  
 
-Apăsăm din nou tasta `SPACE` atunci când indicatorul se face culoarea verde, însemânand că peștele a mușcat momeala. Dacă nu acționăm asupra peștelui timp de 3 secunde de când indicatorul și-a schimbat culoarea în verde, aceasta reușește să scape din cârlig. După apăsare o să apară un minigame cu o bară unde trebuie să apeși încă o dată `SPACE` în momentul în care peștele ajunge în pătratul verde pentru a putea trage undița și a pescui peștele.
+Apăsăm din nou tasta `SPACE` atunci când indicatorul se face culoarea verde, însemnând că peștele a mușcat momeala. Dacă nu acționăm asupra peștelui timp de 3 secunde de când indicatorul și-a schimbat culoarea în verde, aceasta reușește să scape din cârlig. După apăsare o să apară un mini-game cu o bară unde trebuie să apeși încă o dată `SPACE` în momentul în care peștele ajunge în pătratul verde pentru a putea trage undița și a pescui peștele.
 Există o șansă ca peștele să scape și când noi tragem undița, în funcție de undița folosită.  
 Vei fi notificat deasupra hărții despre ce tip de pește ai prins, dacă ai prins un obiect special sau nu îndeplinești o cerință pentru a pescui.
 
@@ -99,7 +100,7 @@ Peștii se vând la oricare dintre cei 3 NPC Fisherman aflați pe insulă la ico
 :::  
 
 ## Enciclopedie pești
-Un tabel cu toți peștii din apele statului San Adreas și șansele de prindere:  
+Un tabel cu toți peștii din apele statului San Andreas și șansele de prindere:  
 
 **ș.p.u = șansă prindere undiță**
 | **Imagine** | **Preț** | **ș.p.u. din lemn** | **ș.p.u. din fibră de carbon** | **Considerat valoros?** |
@@ -133,7 +134,7 @@ Pe lângă peștele prins, mai ai o șansă la a prinde **obiecte speciale** car
 
 ## Cazuri în care nu poți efectua jobul   
  
-- Dacă nivelul apei este scăzut sau are valuri, nu poți să pescuiești în locația aceea, ești înștiintat printr-o notificare deasupra hărții dacă este cazul.  
+- Dacă nivelul apei este scăzut sau are valuri, nu poți să pescuiești în locația aceea, ești înștiințat printr-o notificare deasupra hărții dacă este cazul.  
 ::: details Nu poți să pescuiești aici  
  <Image src="https://i.imgur.com/z0OnAOM.png" alt="Eroare loc/valuri" />  
 :::  
