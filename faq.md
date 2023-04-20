@@ -213,7 +213,7 @@ Această eroare este întâlnită în rândul jucatorilor care incearcă să int
 
 **Soluție:**
 
-= Singura soluție in acest caz este sa stergeți folderul **EasyAntiCheat** de unde aveți **RAGEMP** instalat.
+Singura soluție in acest caz este sa stergeți folderul **EasyAntiCheat** de unde aveți **RAGEMP** instalat.
 
 :::tip
 Pentru multi folderul **RAGEMP** se afla in **C:\RAGEMNP**
