@@ -1,16 +1,17 @@
+
 ---
 title: Informații generale joburi
 ---
 
 ### Informații generale joburi
  
-Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o categorizare a joburilor curente.  
+Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a joburilor prezente în momentul actual pe server.  
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### Ce venituri sunt la joburi?
 
-Veniturile joburilor sunt calculate astfel încât la sfârșitul unei sesiuni de exemplu: 5 ore, totalul câștigat să fie **aproximativ ~<Dinero :amount='1700' /> per oră**. Venitul depinde și de **obiectele speciale** pe care le poți găsi practicând **joburile cu șanse de drop (găsire)**, aceste iteme pot fi adăugate pe [Market](../general/marketplace) sau folosite în [Trade](../general/trade) cu alți jucători.
+Veniturile joburilor sunt calculate astfel încât la sfârșitul unei sesiuni de exemplu: 5 ore, totalul câștigat să fie **aproximativ ~<Dinero :amount='1700' /> per oră**. Venitul depinde și de **obiectele speciale** pe care le poți găsi practicând **joburile cu șanse de drop (găsire)**. Aceste iteme pot fi adăugate pe [Market](../general/marketplace) sau folosite în [Trade](../general/trade) cu alți jucători.
 
 ### Cum găsesc jobul?  
 
@@ -18,6 +19,8 @@ Pentru a găsi orice locație din statul San Andreas, folosește-te de aplicați
 1. Apasă tasta `UP` (săgeată sus) pentru a lua telefonul în mână. Apasă pe textul "Touch to open" pentru a debloca telefonul.  
 2. Selectează aplicația "**Maps**" de pe ecranul telefonului. Poți tasta numele locației dorite sau poți să răsfoiești prin meniul cu locații.  
 3. Pentru a te reîntoarce la meniul principal, apasă pe săgeată înapoi. Pentru a închide telefonul instant, apasă tasta `DOWN` (săgeată jos) sau tasta `ESC`.  
+
+De altfel, poți scrie comanda `/jobs` și să selectezi de acolo jobul dorit.
 
 ::: details Tutorial folosire aplicația Maps  
   <Image src="https://i.imgur.com/JgYepsG.gif" alt="Aplicația Maps" />  
@@ -49,7 +52,7 @@ Ești în căutarea unei cariere care să îți ofere atât provocări cât și 
 Devino un electrician și ajută la menținerea orașului în funcțiune.
 
 Oferim **vehicul pentru job**, dar poți lucra cu orice **vehicul dorești**.  
-Ai nevoie de **permis de conducere categoria B** dacă nu vrei să riști **o vizită la închisoare**!     
+Ai nevoie de **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!     
 
 > Vezi detalierea jobului [Electrician](./electrician).  
 
@@ -67,7 +70,7 @@ Ai nevoie de **echipament**, multă răbdare și de preferat, un **mijloc de tra
 Ești pregătit să faci un pas în față și să cureți străzile murdare ale orașului nostru?
 Dacă îți place să lucrezi în afara zonelor de confort, atunci ai ajuns la locul potrivit! Devino un erou urban și ajută la menținerea orașului nostru curat ca o oglindă, nu doar vei face un impact pozitiv asupra mediului înconjurător, dar vei câștiga și bani frumoși în același timp!
 
-Ai nevoie de un nas puternic și **permis de conducere categoria B** dacă nu vrei să riști **o vizită la închisoare**!.  
+Ai nevoie de un nas puternic și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.  
 
 > Vezi detalierea jobului [Garbageman](./garbageman).  
 
@@ -75,7 +78,7 @@ Ai nevoie de un nas puternic și **permis de conducere categoria B** dacă nu vr
 
 Vrei să descoperi farmecul vieții în sălbăticie? Călătorește în adâncurile pădurii și ia parte la o aventură plină de provocări și dealuri aducând lemnul necesar construcției orașului nostru! Explorează natura și muncește din greu pentru a tăia arborii cu pricepere și îndemânare. Când munca este gata, vei fi recompensat cu bani frumoși și simțul împlinirii de a fi contribuit la construcția orașului nostru. 
 
-Ai nevoie de brațe puternice și **permis de conducere categoria B** dacă nu vrei să riști **o vizită la închisoare**!.  
+Ai nevoie de brațe puternice și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.  
 
 > Vezi detalierea jobului [Lumberjack](./lumberjack).  
 
@@ -83,7 +86,7 @@ Ai nevoie de brațe puternice și **permis de conducere categoria B** dacă nu v
 
 Vrei să faci o diferență reală în construcția orașului nostru? Minează cu pricepere și îndemânare pentru a colecta cât mai multă piatră pentru construcție. Fii o parte vitală a echipei noastre de construcție și adu-ți contribuția la dezvoltarea orașului nostru. Obține satisfacția de a vedea cum clădirile noastre se înalță datorită muncii tale și câștigă bani frumoși în același timp. 
 
-Ai nevoie de forță și **permis de conducere categoria B** dacă nu vrei să riști **o vizită la închisoare**!. 
+Ai nevoie de forță și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!. 
 
 > Vezi detalierea jobului [Miner](./miner).  
 
@@ -91,6 +94,6 @@ Ai nevoie de forță și **permis de conducere categoria B** dacă nu vrei să r
 
 Condu camioanele noastre prin cele mai periculoase și provocatoare drumuri, asigurându-te că livrarea se face în siguranță și la timp. Descoperă cele mai frumoase locații din statul San Andreas în timp ce livrezi marfa. Câștigă bani frumoși și bucură-te de libertatea pe care acest job o oferă.
 
-Ai nevoie de experiență în condus și **permis de conducere categoria C** dacă nu vrei să riști **o vizită la închisoare**!.  
+Ai nevoie de experiență în condus și **permis de conducere categoria C**, dacă nu vrei să riști **o vizită la închisoare**!.  
 
 > Vezi detalierea jobului [Trucker](./trucker). 
