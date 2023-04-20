@@ -1,3 +1,4 @@
+
 ---
 title: LSPD
 ---
@@ -33,7 +34,7 @@ Pentru a te schimba în uniformă, trebuie să intri în **HQ-ul** poliției și
 :::
 
 ::: warning Atenție!
-Fară echipament nu îți poți întreprinde activitățile de polițist!
+Fără echipament nu îți poți desfășura activitățile de polițist!
 :::
 
 ::: details Faction Locker
@@ -41,7 +42,7 @@ Fară echipament nu îți poți întreprinde activitățile de polițist!
 :::
 
 ::: tip
-Pentru a intra în incinta închisorii trebuie să folosești Locker-ul, astfel încât să fii echipat și să ai uniforma de polițist!
+Pentru a intra în incinta închisorii trebuie să folosești locker-ul, astfel încât să fii echipat și să ai uniforma de polițist!
 :::
 
 ::: details Închisoarea
