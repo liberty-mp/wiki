@@ -1,3 +1,4 @@
+
 ---
 title: Crafting
 ---
@@ -30,7 +31,7 @@ Obiectele speciale sunt:
 
 ## Instrumente 
 
-**Sistemul de Craftare** cuprinde obiecte speciale care se pot utiliza doar în interiorul teritoriilor (turfs) de tip **Warehouse** deținute de grupările mafiote.
+**Sistemul de Crafting** cuprinde obiecte speciale care se pot utiliza doar în interiorul teritoriilor (turfs) de tip **Warehouse** deținute de grupările mafiote.
 
 > Vezi care sunt teritoriile de tip [**Warehouse**](#warehouse). 
 
@@ -52,7 +53,7 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote. Obți
 **Blueprint-urile** reprezintă instrucțiunile pentru proiectarea obiectelor (armelor, componentelor și muniției).
 Acestea se pot obține din teritoriile (turfs) tip [**Port**](#teritorii-de-tip-port) sau prin analizarea unui obiect ([**Research Table**](https://i.imgur.com/dnzRdZ5.png)).
 
-**Pe server există urmatoarele blueprint-uri:** 
+**Pe server există următoarele blueprint-uri:** 
 
 ### **Arme**
 
@@ -86,7 +87,7 @@ Acestea se pot obține din teritoriile (turfs) tip [**Port**](#teritorii-de-tip-
 Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrând la jobul [**Miner**](../jobs/miner) și [**Garbageman**](../jobs/garbageman).
 :::
 
-**Pe server se pot crafta urmatoarele iteme:** 
+**Pe server se pot crafta următoarele iteme:** 
 
 | Item | Blueprint necesar | Materiale necesare | 
 | :-----------: | :-----------: | :-----------: |
