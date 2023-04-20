@@ -27,13 +27,13 @@ Un beneficiu îl reprezintă faptul că nu trebuie să plătești pentru cazare 
  <Image src="https://i.imgur.com/v1Gw166.png" alt="Optiuni" />  
 ::: 
 
-::: warning Atenție
+::: warning Atenție!
 Alți jucători care locuiesc în casa ta nu o să plătească nimic, prin urmare proprietarul nu face bani de pe urma lor.
 :::
 
 ## Cum îmi pot mobila casa/apartamentul?
 
-Pentru a face acest lucru mai întâi trebuie să vă achiziționați mobilă din **IKEA**, unde aveți o gamă largă, de la paturi, canapele și scaune, până la obiecte de uz casnic, de bucătărie si baie. Plasarea mobilei se face prin folosirea axei care apare odată cu începerea procesului, prin urmare poți amplasa mobila exact cum îți dorești și o poți muta ulterior când vrei. De asemenea, dacă o să vinzi casa după ce ai mobilat-o, toată mobila o să îți revină ție!
+Pentru a face acest lucru mai întâi trebuie să vă achiziționați mobilă din **IKEA**, unde aveți o gamă largă, de la paturi, canapele și scaune, până la obiecte de uz casnic, de bucătărie și baie. Plasarea mobilei se face prin folosirea axei care apare odată cu începerea procesului, prin urmare poți amplasa mobila exact cum îți dorești și o poți muta ulterior când vrei. De asemenea, dacă o să vinzi casa după ce ai mobilat-o, toată mobila o să îți revină ție!
 
 ::: warning Atenție!
 Poți mobila o casă doar dacă o deții.
