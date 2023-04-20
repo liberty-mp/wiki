@@ -1,3 +1,4 @@
+
 ---
 title: Hitman Agency
 ---
@@ -10,14 +11,14 @@ title: Hitman Agency
 
 ## Locația HQ (Headquarters)
 
-**Sediul agenției** este ferit de ochii oamenilor, locul fiind folosit pentru **colaborarea asasinilor** între ei, **echiparea cu arme**, **preluarea contractelor** și punerea la punct a **planului pentru asasinarea țintei**.
+**Sediul agenției** este ferit de ochii oamenilor, locul fiind folosit pentru **colaborare între asasini**, **echiparea cu arme**, **preluarea contractelor** și punerea la punct a **planului pentru asasinarea țintei**.
 ::: details Locație agenție  
 <Image src="https://i.imgur.com/baLM7e6.png" alt="Locatie" />
 :::
 
 ## Aplicația Hitman
 
-Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim **200 USDT** și pot fi de **două tipuri**, mai exact fară martori și cât se poate de **discret** sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe.
+Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim **200 USDT** și pot fi de **două tipuri**, mai exact fără martori și cât se poate de **discret** sau într-o manieră **brutală**, fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe.
 ::: details Aplicația Hitman  
 <Image src="https://i.imgur.com/3oHqd3o.png" alt="Hitman" /> 
 :::
@@ -48,7 +49,7 @@ Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta 
 Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsarea tastei `E` pe *checkpoint-ul* mov de lângă harta orașului după ce te-ai echipat. Toate contractele valabile o să fie afișate, împreună cu suma pe care asasinul o să o încaseze **după** finalizarea serviciului, numele țintei, ce tip de contract este și totodată când a fost pus contractul. 
 
 ::: warning Atenție!
-Să nu uiți să verifici ce fel de contract este inainte să-l duci la capăt!
+Să nu uiți să verifici ce fel de contract este înainte să-l duci la capăt!
 :::
 
 ::: details Interfață & Tracking
@@ -62,10 +63,10 @@ Să nu uiți să verifici ce fel de contract este inainte să-l duci la capăt!
 
 ## Pașii contractului
 Odată cu acceptarea unui contract, asasinul are responsabilitatea să-l execute. Acesta primește patru pași pe care trebuie să-i urmeze pentru a asasina persoana în cauză. Aceste sarcini în ordine sunt:
-1. Get equipped for your hit
-2. Get in the convert car
-3. Assassinate the target
-4. Hide the convert car
+1. Get equipped for your hit (Echipează-te pentru asasinare)
+2. Get in the convert car (Urcă-te într-o mașină)
+3. Assassinate the target (Asasinează ținta)
+4. Hide the convert car (Ascunde mașina)
 
 Imediat cum membrul Hitman ajunge la *convert car* și urcă în ea la volan, acesta o să primească **locația exactă** a țintei, trecând de sistemul de securitate a telefonului acestuia, reușind sa primească **informații în detaliu despre poziționarea sa**. De asemenea, ținta are deasupra capului o săgeată **roșie**.
 
