@@ -1,3 +1,4 @@
+
 ---
 title: Lumberjack
 ---
@@ -15,11 +16,11 @@ title: Lumberjack
 
 Desfășurarea jobului Lumberjack constă în tăierea copacilor marcați și transportul acestora la fabrică pentru procesare.  
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### Cum încep munca?
 
-Odată ajuns la locația NPC-ului Lumberjack, interacționează cu el folosind butonul `E` și selectează "**Începe munca**", ți se va da un vehicul special în care trebuie să încarci toți copacii marcați pe hartă după ce îi vei tăia.
+Odată ajuns la locația NPC-ului Lumberjack, interacționează cu el folosind butonul `E` și selectează "**Începe munca**". Ți se va da un vehicul special în care trebuie să încarci toți copacii marcați pe hartă după ce îi vei tăia.
 
 ::: details Începe munca  
   <Image src="https://i.imgur.com/RH12e7E.gif" alt="Start Job" />
