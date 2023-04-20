@@ -1,3 +1,4 @@
+
 ---
 title: Stock market
 ---
@@ -21,13 +22,13 @@ Vânzarea și cumpărarea acțiunilor funcționează pe bază de orders, pe scur
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/CMq0CEZ.png" alt="sell orders"/> | <Image src="https://i.imgur.com/whBxl3I.png" alt="buy orders"/>
 
-Luând ca exemplu situațiile prezentante în screenshoturi, putem vedea că ordinele de vânzare sau cumpărare sunt ordonate crescător (în cazul ordinelor de vânzare) sau descrescător (în cazul ordinelor de cumpărare), cea mai benefică ofertă disponibilă fiind reprezentată întotdeauna prima.
+Luând ca exemplu situațiile prezentate în screenshot-uri, putem vedea că ordinele de vânzare sau cumpărare sunt ordonate crescător (în cazul ordinelor de vânzare) sau descrescător (în cazul ordinelor de cumpărare), cea mai benefică ofertă disponibilă fiind reprezentată întotdeauna prima.
 
 Presupunem că jucătorul dorește să achiziționeze 5 acțiuni din această afacere la cel mai mic preț disponibil, acesta va pune un ordin de cumpărare cu prețul de $20.000 per acțiune in felul următor:
 
 <Image src="https://i.imgur.com/f8Um39X.png" alt="placing a buy order"/>
 
-În momentul plasării ordinului, sistemul va asocia cele două ordine iar tranzacția va fi incheiată, vânzătorul primindu-și banii, iar cumpărătorul acțiunile. Ambii participanți vor fi informați printr-un email pe telefonul din joc despre soluționarea ordinelor.
+În momentul plasării ordinului, sistemul va asocia cele două ordine iar tranzacția va fi încheiată, vânzătorul primindu-și banii, iar cumpărătorul acțiunile. Ambii participanți vor fi informați printr-un email pe telefonul din joc despre soluționarea ordinelor.
 
 #### Particularități ale ordinelor de cumpărare
 
@@ -39,7 +40,7 @@ Un exemplu și mai interesant este în momentul în care dorim să cumpărăm 50
 
 Ordinul plasat de noi (50 acțiuni * $25.000) însumează $1.250.000.
 
-**Cum a fost de fapt incheiată tranzacția:**
+**Cum a fost de fapt încheiată tranzacția:**
 | Nr. acțiuni | Preț per acțiune | Total |
 | :-----------: | :-----------: | :-----------: |
 | 17 | $20.000 | $340.000 |
