@@ -54,7 +54,7 @@ Pentru jefuirea unui ATM, va trebui să **nu aveți Heat Level** și **să nu fi
 
 - Când ATM-ul a ieșit din perete, ai un minut la dispoziție pentru a ridica consola ATM de pe jos.
 ::: danger Atenție! 
- Dacă mori cu consola ATM în invetar, jucătorii îți pot lua consola ATM și o pot livra ei în locul tău lui **Alfred** pentru un câștig redus. 
+ Dacă mori cu consola ATM în inventar, jucătorii îți pot lua consola ATM și o pot livra ei în locul tău lui **Alfred** pentru un câștig redus. 
 :::
 
 ::: details Extragerea și ridicarea consolei ATM  
