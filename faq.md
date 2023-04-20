@@ -225,9 +225,8 @@ Această eroare se întâlneste in rândul jucătorilor care incearcă să intre
 
 **Soluții:**
 
-1. Stergeți fișierele serverului din **C:\RAGEMP\cliet_resources** și conectați-vă pe server pentru a le putea reinstala corect.
-
-2. Încercați să vă conectați pe server folosind un VPN la care aveti acces.
+1. Stergeți fișierele serverului din **C:\RAGEMP\client_resources** și conectați-vă pe server pentru a le putea reinstala corect.
+2. Încercați să vă conectați pe server folosind un VPN la care aveți acces.
 
 ::: warning Atenție! Locația folderului specificată mai sus poate să nu corespundă cu Locația unde aveți voi instalat Rage-ul, sunteți rugați sa verificați singuri acest lucru
 :::
