@@ -2,13 +2,13 @@
 title: Intrebări frecvente
 ---
 
-Înainte de a utiliza funcția de ajutor în joc `/helpme` sau [**Discord**](https://liberty.mp/discord), îți sugerăm să verifici acesastă secțiune de [**Wiki**](https://wiki.liberty.mp), unde îți este prezentată o listă cu întrebări frecvente legate de server și nu numai, împreună cu răspunsurile aferente.
+Înainte de a utiliza funcția de ajutor în joc `/helpme` sau [**Discord**](https://liberty.mp/discord), îți sugerăm să verifici această secțiune de [**Wiki**](https://wiki.liberty.mp), unde îți este prezentată o listă cu întrebări frecvente legate de server și nu numai, împreună cu răspunsurile aferente.
 
 ## Ce mod de joc se aplică pe server?
 
-Serverul [🗽liberty.mp](https://liberty.mp/) este gândit și conceput astfel încât modul de joc să facă parte din categoria **RPG**(Role Playing Game).
+Serverul [🗽liberty.mp](https://liberty.mp/) este gândit și conceput astfel încât modul de joc să facă parte din categoria **RPG** (Role Playing Game).
 
-Așadar, **nu este necesară** simularea realității, comparativ cu un server de **RP** (Role Play) unde simularea acțiunilor se realizează conform realității.
+Așadar, **nu este necesară** simularea realității, comparativ cu un server de **RP** (Role Play), unde simularea acțiunilor se realizează conform realității.
  
 ::: warning Atenție!
 Chiar dacă serverul face parte din categoria **Role Playing Game** (RPG), regulamentul include reguli de bază în manieră **Roleplay** (RP) care trebuie respectate.
@@ -20,7 +20,7 @@ Pentru a evita sancțiunile referitoare la informațiile de mai sus, îți recom
 
 ## Care este cel mai profitabil job de pe server?
 
-Economia joburilor a fost realizată cu scopul ca profitabilitatea la fiecare dintre cele **6 joburi** enumerate mai jos să devină egală după un număr de ore de muncă.
+Economia joburilor a fost realizată cu scopul ca profitabilitatea fiecaruia dintre cele **6 joburi** enumerate mai jos să devină egală după un număr de ore de muncă.
 
 Serverul [🗽liberty.mp](https://ucp.liberty.mp/) dispune în momentul de față de **6 joburi**:  
 [Electrician 🔌](./jobs/electrician) | [Fisherman 🎣](./jobs/fisherman) | [Garbageman ♻️](./jobs/garbageman) | [Lumberjack 🪓](./jobs/lumberjack) | [Miner ⛏️](./jobs/miner) | [Trucker 🚚](./jobs/trucker).  
@@ -35,7 +35,7 @@ Pentru a îți alege numele din joc este necesar să accesezi setările launcher
   <Image src="https://i.imgur.com/E6J7tQG.png" alt="Setări RAGE.MP" />
 :::  
 
-Ulterior, la rubrica **General** ai opțiunea **Choose name** unde îți poți introduce numele pe care dorești să-l folosești pe server.
+Ulterior, navigând la rubrica **General**, ai opțiunea **Choose name** unde îți poți introduce numele pe care dorești să-l folosești pe server.
 
 ::: details Schimbare nume  
 <Image src="https://i.imgur.com/2m0U8hn.gif" alt="Choose name" />
@@ -87,12 +87,14 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**
 | <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| -* | 30** | [**Gangs**](./factions/gangs.md)
 | <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| -* | 30** | [**Gangs**](./factions/gangs.md)
 
-Dacă dorești să faci parte dintr-o facțiune enumerată mai sus, asigură-te că îndeplinești cerințele minime pentru facțiunea dorită și aplică dând click pe butonul **Opened**, din secțiunea [**Factions**](https://ucp.liberty.mp/factions), aplicația constă în răspunderea unor întrebări de natură personală și virtuală (similar cu un CV foarte simplu de angajare).
+Dacă dorești să faci parte dintr-o facțiune enumerată mai sus, asigură-te că îndeplinești cerințele minime pentru facțiunea dorită și aplică dând click pe butonul **Opened**, din secțiunea [**Factions**](https://ucp.liberty.mp/factions).
+
+Crearea unei aplicații constă în răspunderea unor întrebări atât de natură personală, cât și de natură virtuală (similar cu un CV foarte simplu de angajare).
 
 ::: tip
 
    - Cerințele minime pentru deschidere nu au fost decise încă. Cerințele minime se schimbă în funcție de progresul jucătorilor din joc.
-   - Slot-urile (locurile din facțiuni) facțiunilor se vor schimba în funcție de nevoia din joc și numărul total de jucători. 
+   - Slot-urile (locurile) facțiunilor se vor schimba în funcție de nevoia din joc și numărul total de jucători. 
 
 :::
 
@@ -114,7 +116,7 @@ Poți vizualiza acest [**videoclip**](https://youtu.be/Ih78r1Lpk-0), unde îți 
 
 ### Autentificare în loc de înregistrare 
 
-Această eroare este întâlnită în mare parte de jucătorii noi atunci când se conectează pe server. 
+Această eroare este întâlnită, în mare parte, de jucătorii noi atunci când se conectează pe server. 
 
 **Soluții:**
 
@@ -135,7 +137,7 @@ Folosește funcția de căutare [**Search**](https://ucp.liberty.mp/search).
 Această eroare este una dintre cele mai cunoscute și vizează în special utilizatorii noi ai platformei **RAGE Multiplayer**, dar nu numai. 
 
 ::: warning Atenție!
-Eroarea apare și în cazul în care ți-a fost interzis accesul pe server (banned).
+Eroarea apare și în cazul în care ți-a fost interzis accesul pe server (ai fost banned).
 ::: 
 
 **Soluție:** 
@@ -148,7 +150,7 @@ Intră în setările launcher-ului și debifează opțiunea. În cazul în care 
 
 ### Jocul pornește în singleplayer 
 
-Această eroare este de asemenea foarte întâlnită în rândul jucătorilor care încearcă să se conecteze pe server și poate fi rezolvată urmând una dintre cele patru soluții de mai jos. 
+Această eroare este, de asemenea, foarte întâlnită în rândul jucătorilor care încearcă să se conecteze pe server și poate fi rezolvată urmând una dintre cele patru soluții prezentate mai jos. 
 
 **Soluții:** 
 
@@ -165,12 +167,12 @@ Această variantă nu funcționează pentru toți utilizatorii platformei **Stea
 4. Asigură-te că ai terminat prima misiune din Story Mode (prologue).
 
 ::: tip
-Pentru a-l instala, apasă pe butonul portocaliu de **Download**.
+Pentru a instala **Visual C++ redistributable 2015**, apasă pe butonul portocaliu de **Download**.
 :::  
 
-### Jocul se închide după încărcarea Easy Anti-Cheat-ului  
+### Jocul se închide după încărcarea Easy Anti-Cheat-ului
 
-Această eroare este întâlnită în rândul jucătorilor care încearcă să intre pe server, iar după ce se încarcă Easy Anti-Cheat-ul, jocul li se închide complet.  
+Această eroare este întâlnită în rândul jucătorilor și poate fi descrisă ca și închiderea completă a jocului în urma încărcării Easy Anti-Cheat-ului.  
 
 **Soluții:** 
 
