@@ -1,3 +1,4 @@
+
 ---
 title: Downtown Taxi Company
 ---
@@ -5,7 +6,7 @@ title: Downtown Taxi Company
 ### Informații generale despre Downtown Taxi Company
 <br>
 <br>
-<Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="25" label="Downtown Taxi Company" /> se specializează în gestionarea unei flote de taxiuri și oferă servicii de transport pentru jucători de la o locație la alta.
+<Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="25" label="Downtown Taxi Company" /> se specializează în gestionarea unei flote de taxiuri și oferă servicii pentru transportul jucătorilor de la o locație la alta.
 
 ## Vehicule
 
@@ -24,7 +25,7 @@ Localizarea sediului se poate face prin deschiderea aplicației [Maps](../genera
 
 ## Faction Locker
 
-**Faction Locker-ul** este locul în care te poți pune **ON-DUTY** sau **OFF-DUTY**, acest lucru se face prin apăsarea tastei `E` lânga checkpoint. Acesta se gasește în garajul sediului.
+**Faction Locker-ul** este locul în care te poți pune **ON-DUTY** sau **OFF-DUTY**, acest lucru se face prin apăsarea tastei `E` lângă checkpoint. Acesta se găsește în garajul sediului.
 ::: details Locație locker  
 <Image src = "https://i.imgur.com/p1tTdPG.png" alt="locker" width="450px" />
 :::
@@ -35,7 +36,7 @@ Pentru a înregistra activitatea lor de lucru, taximetriștii utilizează telefo
 
 ### Preluarea unei comenzi 
 
-Preluarea unei comenzi se realizează prin deschiderea aplicației [Taxi](../general/phone#taxi) din telefon, se selectează comanda dorită iar apoi se apasă butonul `YES` pentru confirmare.
+Preluarea unei comenzi se realizează prin deschiderea aplicației [Taxi](../general/phone#taxi) din telefon, se selectează comanda dorită, iar apoi se apasă butonul `YES` pentru confirmare.
 
 <Image src = "https://i.imgur.com/o8NNmKw.gif" alt="preluare comanda" />
 
