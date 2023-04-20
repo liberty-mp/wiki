@@ -1,3 +1,4 @@
+
 ---
 title: Garbageman
 ---
@@ -15,7 +16,7 @@ title: Garbageman
 
 Desfășurarea jobului Garbageman constă în păstrarea curată a orașului Los Santos prin colectarea sacilor de gunoi de la diferite puncte de colectare și livrarea acestora la groapa de gunoi.  
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### Cum încep munca?
 
@@ -28,13 +29,13 @@ Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind b
 :::  
 
 ::: details Vehicul oferit de NPC 
-  Trashmaster | Top speed: 130 km/h | Tractiune: spate | Viteze: 5 | Manevrabilitate: mică  
+  Trashmaster | Top speed: 130 km/h | Tracțiune: spate | Viteze: 5 | Manevrabilitate: mică  
   <Image src="https://i.imgur.com/inPyGOf.png" alt="Trashmaster" />
 ::: 
  
 ### Cum ridic și depozitez sacii de gunoi?  
 
-După ce ai început tura de munca, trebuie să urmezi ruta de pe hartă până ajungi la o pubelă care trebuie golită. Dupa ce ai ajuns, trebuie să te dai jos din vehicul și să te duci lânga pubelă pentru a ridica sacul de gunoi. Odată ridicat trebuie dus în spatele vehiculului Trashmaster pentru depozitare. După aceea urcă în vehicul și urmează noua rută. Vei fi plătit la descărcarea vehiculului la groapa de gunoi.
+După ce ai început tura de munca, trebuie să urmezi ruta de pe hartă până ajungi la o pubelă care trebuie golită. Dupa ce ai ajuns, trebuie să te dai jos din vehicul și să te duci lângă pubelă pentru a ridica sacul de gunoi. Odată ridicat trebuie dus în spatele vehiculului Trashmaster pentru depozitare. După aceea urcă în vehicul și urmează noua rută. Vei fi plătit la descărcarea vehiculului la groapa de gunoi.
 
 ::: details Ridicare și depozitare sac gunoi  
   <Image src="https://i.imgur.com/JXZvgXX.gif" alt="Ridicare și depozitare sac gunoi" />
@@ -42,9 +43,9 @@ După ce ai început tura de munca, trebuie să urmezi ruta de pe hartă până 
 
 ### Cum mă opresc din muncă?  
  
-Vehiculul trebuie golit automat când idicatorul îți indică _**100%**_ dar poți să o faci la orice nivel de umplere tastând comanda `/unloadgarbage` sau `/unloadtrash`.
+Vehiculul trebuie golit automat când indicatorul îți indică _**100%**_ dar poți să o faci la orice nivel de umplere tastând comanda `/unloadgarbage` sau `/unloadtrash`.
 
-Pentru a termina tura de job instant și posibilitatea să faci altă activitate imediat, tastează comanda `/stopwork` - acest lucru îți anulează orice progres salvat în vehiculul Trashmaster
+Pentru a termina tura de job instant și posibilitatea să faci altă activitate imediat, tastează comanda `/stopwork` - acest lucru îți anulează orice progres salvat în vehiculul Trashmaster.
 
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
@@ -55,7 +56,7 @@ Pe lângă suma de bani primită după descărcare, mai ai o șansă la a găsi 
 Dacă vehiculul are peste _**50%**_ capacitate și îl descarci, ai o șansă de _**20%**_ să găsești un item de crafting - Shattered Glass sau Piece of Plastic.
 
 La fiecare _**20%**_ capacitate, ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.
-Spre exemplu, dacă ai _**40%**_, se mai face o "tragere la sorți", având _**15%**_ sanșe să găsești un Rope și _**30%**_ șanse să găsești un Hook, repetându-se la fiecare _**20%**_ completat din capacitate.
+Spre exemplu, dacă ai _**40%**_, se mai face o "tragere la sorți", având _**15%**_ șanse să găsești un Rope și _**30%**_ șanse să găsești un Hook, repetându-se la fiecare _**20%**_ completat din capacitate.
 
 :::  
 
@@ -76,5 +77,3 @@ Spre exemplu, dacă ai _**40%**_, se mai face o "tragere la sorți", având _**1
 ::: details Abandon vehicul  
 <Image src="https://i.imgur.com/ENhmJFT.png" alt="Abandon vehicul" />
 :::  
-
-
