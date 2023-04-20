@@ -1,3 +1,4 @@
+
 ---
 title: Cryptomonede
 ---
@@ -10,7 +11,7 @@ title: Cryptomonede
 
 **Vânzarea și cumpărarea de cryptomonede este deblocată începând cu nivel 5.**
 
- Aceste cryptomonede se pot accesa folosind telefonul prin intermediul aplicatiei Bank. Acestea fiind actualizate în timp real cu valorile din viața reală. Mai multe informații despre telefon aveți [aici](../general/phone.md).
+ Aceste cryptomonede se pot accesa folosind telefonul prin intermediul aplicației Bank. Acestea fiind actualizate în timp real cu valorile din viața reală. Mai multe informații despre telefon aveți [aici](../general/phone.md).
 
  Din acest meniu putem interacționa cu cryptomoneda pe care dorim să o cumpărăm.
 
