@@ -1,3 +1,4 @@
+
 ---
 title: Telefon
 ---
@@ -6,7 +7,7 @@ title: Telefon
 
 **Telefonul** reprezintă, fără îndoială, cel mai folosit sistem de către jucători, prin care se realizează interacțiune cu alte sisteme ale serverului [**liberty.mp**](https://ucp.liberty.mp/) în momentul actual. Acest sistem beneficiază de o interfață modernă, bine structurată, realizată identic după modelul telefonului **iPhone 14 Pro Max**. Utilizarea **Telefonului** se poate realiza doar prin folosirea *mouse-ului* sau a *touchpad-ului*.
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### Cum deschid telefonul?
 
@@ -28,7 +29,7 @@ Sistemul include un număr total de **15 aplicații**, după cum urmează:
 
 - [**Phone** & **Contacts**](#phone-contacts): se pot apela numerele de telefon ale altor jucători, se pot vizualiza apelurile recente și pot adăuga jucători în lista de contacte
 - [**Camera**](#camera): se pot realiza fotografii centrale sau frontale
-- [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și înclusiv locația curentă către alți jucători
+- [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și inclusiv locația curentă către alți jucători
 - [**Emails**](#emails): se pot vizualiza e-mail-urile primite
 - [**Bank**](#bank): se pot vizualiza banii din bancă, realiza transferuri între jucători sau se pot achiziționa cryptomonede sau acțiuni în cadrul unor companii
 - [**Vehicles**](#vehicles): se pot vizualiza vehiculele personale ale jucătorului și meniul de comandă al acestora
@@ -162,7 +163,7 @@ Pentru a efectua un transfer bancar către un alt jucător, trebuie să îi intr
 <Image src="https://i.imgur.com/m4OeSaQ.png" alt="BankFinalTrans" /> 
 
 - **Card** - permite vizualizarea cardului de pe care se realizează transferul de bani; 
-- **Recipient** - permite vizualizarea jucăturlui căruia îi realizezi transferul de bani. 
+- **Recipient** - permite vizualizarea jucătorului căruia îi realizezi transferul de bani. 
 
 ::: tip
 Pentru a finaliza transferul bancar, selectați suma de bani dorită și apăsați *click-stânga* pe butonul **Transfer**, apoi pe **Yes**. 
@@ -213,7 +214,7 @@ Pentru a identifica o anumită locație de pe server, trebuie să accesezi una d
 <Image src="https://i.imgur.com/c79hUcs.png" alt="Photos1" /> <Image src="https://i.imgur.com/gcU8SeJ.png" alt="Photos2" />  
 
 ::: tip
-Pentru a realiza o nouă fotografie, apasă *click-stânga* pe iconița în formă de cameră din dreaptea-sus a aplicației.
+Pentru a realiza o nouă fotografie, apasă *click-stânga* pe iconița în formă de cameră din dreapta-sus a aplicației.
 
 Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau distribui o fotografie către un alt jucător, apasă *click-stânga* pe respectiva, iar de acolo folosește cele două iconițe din partea de jos în formă de săgeată (pentru distribuire), respectiv coș de gunoi (pentru ștergere). 
 ::: 
@@ -256,7 +257,7 @@ Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau 
   
 <Image src="https://i.imgur.com/uCHubHe.png" alt="Settings" /> 
 
-- **Airplane Mode** - permite oprirea anumitor propietăți ale telefonului;
+- **Airplane Mode** - permite oprirea anumitor proprietăți ale telefonului;
 - **Ignore calls** - permite blocare apelurilor din partea altor jucători;
 - **Ignore unkown sender** - permite blocarea mesajelor din partea altor jucători necunoscuți de aplicația **Contacts** (cei care nu se află pe lista de contacte);
 
@@ -301,7 +302,7 @@ Pentru a rula melodia selectată în fundal (fără a mai apărea interfața mob
 - **Search user** - permite căutarea numerelor de telefon ale jucătorilor după denumirea acestora. 
 
 ::: tip
-Pentru a căuta, scrie denumirea jucătorului căruia dorești să îi afli numărul de telefon în căsuța **Search user**, apoi folosește cele trei iconițe în funcție de preferițele pe care le ai. 
+Pentru a căuta, scrie denumirea jucătorului căruia dorești să îi afli numărul de telefon în căsuța **Search user**, apoi folosește cele trei iconițe în funcție de preferințele pe care le ai. 
 
 Dacă dorești să apelezi jucătorul, apasă *click-stânga* pe iconița în formă de telefon (prima), dacă dorești să îi trimiți un mesaj jucătorului, apasă *click-stânga* pe iconița în formă de plic (cea din mijloc), iar dacă dorești să adaugi jucătorul în lista de contacte, apasă *click-stânga* pe iconița în formă de omuleț (ultima). 
 :::  
