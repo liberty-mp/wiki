@@ -207,7 +207,7 @@ Pentru a dezactiva unul dintre procesele de mai sus, intră în **Task Manager**
 Intră în Story Mode-ul jocului și la setările rezoluției, pune opțiunea precizată. 
 :::  
 
-### Easy Anti-Cheat dă eroarea ''Settings,JSON not found''
+### Easy Anti-Cheat dă eroarea `"settings.json not found"`
 
 Această eroare este întâlnită în rândul jucatorilor care incearcă să intre pe server, iar după ce se incarcă Easy Anti-Cheat-ul, le apare eroarea de mai sus.
 
