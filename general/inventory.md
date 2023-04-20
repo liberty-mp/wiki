@@ -17,14 +17,14 @@ Pentru a deschide sau închide **Inventarul**, apasă tasta `I`, respectiv `ESC`
 Sistemul este împărțit în **4 secțiuni**: 
 - [**Clothes Items**](#clothes-items) (obiectele de îmbrăcăminte purtate);
 - [**Inventory Items**](#inventory-items) (obiectele aflate în inventar); 
-- [**Nearby & Drop Items**](#nearby-drop-items) (obiectele din afara inventarului/de pe jos); 
+- [**Nearby & Drop Items**](#nearby-drop-items) (obiectele din afara inventarului / de pe jos); 
 - [**Fast Slots**](#fast-slots) (locurile destinate special pentru obiectele principale/purtate). 
 
 ## Secțiuni
 
 ### Clothing Items
 
-**Clothing Items** reprezintă secțiunea cu caracter vizual pentru jucători, deoarece în această secțiune se pot atașa caracterului diferite **obiecte de îmbrăcăminte** (șepci, tricouri, pantaloni și așa mai departe) sau **accesorii** (ceasuri, brățări, lanțuri și așa mai departe) care sunt deținute în inventar (**Inventory Items**). 
+**Clothing Items** - reprezintă secțiunea cu caracter vizual pentru jucători, deoarece în această secțiune se pot atașa caracterului diferite **obiecte de îmbrăcăminte** (șepci, tricouri, pantaloni și așa mai departe) sau **accesorii** (ceasuri, brățări, lanțuri și așa mai departe) care sunt deținute în inventar (**Inventory Items**). 
 
 **Prezentarea secțiunii:** 
 
@@ -45,7 +45,7 @@ Pentru a ocupa un **slot** trebuie să tragi din inventar (**Inventory Items**) 
 
 ### Inventory Items
 
-**Inventory Items** reprezintă cea mai importantă secțiune pentru jucători, deoarece în aceasta se află/stochează **toate obiectele** deținute (telefon, undiță, funie și așa mai departe). 
+**Inventory Items** - reprezintă cea mai importantă secțiune pentru jucători, deoarece în aceasta se află/stochează **toate obiectele** deținute (telefon, undiță, funie și așa mai departe). 
 
 **Prezentarea secțiunii:** 
 
@@ -59,21 +59,21 @@ Pentru a **utiliza** (Use), **inspecta** (Inspect) sau **separa** (Split) obiect
 
 ### Nearby & Drop Items
 
-**Nearby Items** reprezintă secțiunea comună pentru jucători, deoarece în aceasta se află **toate obiectele** aflate pe jos (undiță, funie și așa mai departe) și care pot fi luate de orice jucător. **Drop Items*** reprezintă o componentă a secțiunii în care se pot trage obiectele din inventar în vederea aruncării acestora din **Inventory Items**.
+**Nearby Items** - reprezintă secțiunea comună pentru jucători, deoarece în aceasta se află **toate obiectele** aflate pe jos (undiță, funie și așa mai departe) și care pot fi luate de orice jucător. **Drop Items*** reprezintă o componentă a secțiunii în care se pot trage obiectele din inventar în vederea aruncării acestora din **Inventory Items**.
 
 **Prezentarea secțiunii:** 
 
 ![Nearby Items](https://i.imgur.com/a9Ety9S.png)
 
 ::: tip
-Pentru a lua un obiect de pe jos (**Nearby Items**) în inventarul propiu, ține apăsat *click-stânga* pe obiectul dorit și trage-l în inventar (**Inventory Items**).
+Pentru a lua un obiect de pe jos (**Nearby Items**) în inventarul propriu, ține apăsat *click-stânga* pe obiectul dorit și trage-l în inventar (**Inventory Items**).
 
 Pentru a arunca un obiect din inventar (**Inventory Items**), ține apăsat *click-stânga* pe obiectul dorit și trage-l în interiorul chenarului cu linie despărțită **Drop Items**. De precizat este faptul că obiectele pe care le arunci din inventar ajung la **Nearby Items**.
 :::
 
 ### Fast Slots 
 
-**Fast Slots** reprezintă una dintre cele mai folosite secțiuni de către jucători, deoarece în aceasta se atașează obiectele pentru a putea fi folosite (undița, pistolul, canistră cu benzină și așa mai departe).
+**Fast Slots** - reprezintă una dintre cele mai folosite secțiuni de către jucători, deoarece în aceasta se atașează obiectele pentru a putea fi folosite (undița, pistolul, canistră cu benzină și așa mai departe).
 
 **Prezentarea secțiunii:** 
 
