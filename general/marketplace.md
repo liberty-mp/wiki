@@ -1,3 +1,4 @@
+
 ---
 title: Marketplace
 ---
@@ -6,7 +7,7 @@ title: Marketplace
 
 Marketplace-ul reprezintă unul dintre cele mai importante sisteme integrate pe serverul [**liberty.mp**](https://ucp.liberty.mp), acesta le permite jucătorilor să cumpere sau să vândă diverse bunuri.
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### Am nevoie de un anume level pentru a folosi marketplace-ul?
 
@@ -20,15 +21,15 @@ Localizarea marketplace-ului se poate face prin deschiderea aplicației [**Maps*
 
 ### Cum pot interacționa cu marketplace-ul?
 
-Interacționarea cu marketplace-ul se face prin apăsarea tastei `G` pentru deschidere, iar tasta `ESC` pentru iesire. Acesta funcționează pe principiul Drag & Drop în cea mai mare proporție.
+Interacționarea cu marketplace-ul se face prin apăsarea tastei `G` pentru deschidere, iar tasta `ESC` pentru ieșire. Acesta funcționează pe principiul Drag & Drop în cea mai mare proporție.
 
 ## Categorii
 
 ### Items List
 
-In această categorie sunt afișate bunurile listate de catre jucatori, puteți vedea informații precum:
+În această categorie sunt afișate bunurile listate de către jucatori, puteți vedea informații precum:
   - Numele bunului
-  - Pretul bunului 
+  - Prețul bunului 
   - Timpul de listare al bunului
 
 <Image src = "https://i.imgur.com/zFWZ3VC.png" alt= "ItemsList"/>
@@ -45,13 +46,13 @@ In această categorie sunt afișate bunurile listate de catre jucatori, puteți 
 
 ## Transactions History
 
-În această categorie se afișeaza istoricul de bunuri cumpărate sau vândute.
+În această categorie este afișat istoricul bunurilor cumpărate sau vândute.
 
 <Image src= "https://i.imgur.com/l5gfoY1.png" alt = "Transactions History"/>
 
 ## Manage Items
 
-În această categorie poți adauga sau scoate bunuri pentru listare.
+În această categorie poți adăuga sau scoate bunuri pentru listare.
 
 <Image src = "https://i.imgur.com/0kx3ptm.png" alt="manageitems"/>
 
@@ -63,7 +64,7 @@ In această categorie sunt afișate bunurile listate de catre jucatori, puteți 
 
 ### Your market items
 
-În această secțiune sunt afisate bunurile listate de către tine.
+În această secțiune sunt afișate bunurile listate de către tine.
 
 <Image src = "https://i.imgur.com/VbvYxwX.png" alt="market-items"/>
 
