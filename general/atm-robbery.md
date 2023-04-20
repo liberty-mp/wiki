@@ -1,3 +1,4 @@
+
 ---
 title: ATM Robbery
 ---
@@ -11,9 +12,9 @@ title: ATM Robbery
 
 ## Desfășurarea unui **ATM Robbery**
 
-Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin smulgerea consolei din perete, folosindu-te de o **mașină personală** și de **obiecte speciale**, urmat de **livrarea** consolei către **Alfred** pentru încasarea banilor.
+Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin smulgerea consolei din perete, folosindu-te de o **mașină personală** și de **obiecte speciale**, urmată de **livrarea** consolei către **Alfred** pentru încasarea banilor.
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### De unde fac rost de obiectele necesare pentru jefuire?
 
@@ -31,7 +32,7 @@ Culoarea ATM-ului de pe hartă va indica statusul acestuia.
 
 | Status   | Semnificație |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/t2ZYapF.png" width="32" alt="Disponibil" label="Disponibil" />  | Indeplinește condițiile pentru a fi jefuit |
+| <Image src="https://i.imgur.com/t2ZYapF.png" width="32" alt="Disponibil" label="Disponibil" />  | Îndeplinește condițiile pentru a fi jefuit |
 | <Image src="https://i.imgur.com/LNnW3DH.png" width="32" alt="Indisponibil" label="Indisponibil" /> | Nu poate fi jefuit (delay 3 minute) |
 | <Image src="https://i.imgur.com/gxhqRjU.png" width="32" alt="Indestructibil" label="Indestructibil" />  | Folosit doar pentru a depune/scoate bani |
 
