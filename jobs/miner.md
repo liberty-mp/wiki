@@ -1,3 +1,4 @@
+
 ---
 title: Miner
 ---
@@ -15,7 +16,7 @@ title: Miner
 
 Desfășurarea jobului Miner constă în extragerea pietrei de construcții din cariera de piatră și transportul acestora la punctul de procesare.  
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### Cum încep munca?
 
@@ -27,14 +28,14 @@ Odată ajuns la locația NPC-ului Miner, interacționează cu el folosind butonu
 :::  
 
 ::: details Vehicul oferit de NPC  
-  Bison | Top speed: 150 km/h | Tractiune: integrală | Viteze: 5 | Manevrabilitate: mare 
+  Bison | Top speed: 150 km/h | Tracțiune: integrală | Viteze: 5 | Manevrabilitate: mare 
   <Image src="https://i.imgur.com/vK2ZjZJ.png" alt="Bison" />
 ::: 
 
 
 ### Cum extrag piatra?  
 
-După ce ai început tura de job, trebuie să urmezi ruta de pe hartă până când ajungi în cariera de piatra. Pentru a mina piatra, coboara din mașină și apropie-te de punctul indicat de lângă rocă. Vei începe să minezi, când minatul este gata, încarcă piatra în spatele mașinii. Când mașina este plină, trebuie descărcată la punctul de procesare, urmează ruta de pe hartă pentru a face asta.  
+După ce ai început tura de job, trebuie să urmezi ruta de pe hartă până când ajungi în cariera de piatra. Pentru a mina piatra, coboară din mașină și apropie-te de punctul indicat de lângă rocă. Vei începe să minezi, când minatul este gata, încarcă piatra în spatele mașinii. Când mașina este plină, trebuie descărcată la punctul de procesare, urmează ruta de pe hartă pentru a face asta.  
 
 ::: details Minarea rocilor și încărcarea în vehicul  
   <Image src="https://i.imgur.com/yScPR41.gif" alt="Minarea rocilor & încărcare vehicul" />  
@@ -60,7 +61,7 @@ La **descărcarea mașinii** la punctul de procesare ai o șansă de **10%** să
  <Image src="https://i.imgur.com/9oNK7SN.png" alt="Îndepărtare zonă job 2" />  
 :::  
 
-- Tura de job se oprește automat dacă abandonezi vehiculul pentru mai mult de _**5 minute**_. Nu sta AFK (away from keyboard) dacă nu ești la volanul vehicului.  
+- Tura de job se oprește automat dacă abandonezi vehiculul pentru mai mult de _**5 minute**_. Nu sta AFK (away from keyboard) dacă nu ești la volanul vehiculului.  
 ::: details Abandon vehicul  
  <Image src="https://i.imgur.com/L6ut45T.png" alt="Abandon vehicul" />  
 :::  
