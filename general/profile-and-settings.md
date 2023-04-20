@@ -1,3 +1,4 @@
+
 --- 
 title: Profil & Setări
 ---
@@ -6,13 +7,13 @@ title: Profil & Setări
 
 **Profilul  caracterului** împreună cu **Setările de joc** reprezintă unul dintre cele mai importante sisteme integrate pe serverul [**liberty.mp**](https://ucp.liberty.mp/map) în momentul de față. Interfața permite vizualizarea tuturor informațiilor și statisticilor jucătorilor din momentul în care și-au creat caracterul, până în prezent, dar și posibilitatea realizării unor setări de preferință. 
 
-## Intrebări frecvente
+## Întrebări frecvente
 
 ### Cum vizualizez profilul și setările?
 
 Fiecare jucător își poate vizualiza **Profilul** și **Setările** apăsând pe butonul `O` în joc. Pentru a închide interfața, apasă `ESC` sau din nou `O`.
 
-### Ce reprezinta bara din jurul pozei de profil?
+### Ce reprezintă bara din jurul pozei de profil?
 
 Bara ce înconjoară poza de profil din meniul care se deschide pe tasta `O` reprezintă progresul experienței pe care îl ai la nivelul curent.
 
@@ -26,7 +27,7 @@ Interfața se împarte în **6 categorii**, fiecare categorie se poate accesa di
 
 - [**General**](#general): se pot vizualiza statisticile principale ale jucătorului
 - [**Jobs** & **Faction**](#jobs-faction): se poate vizualiza progresul în cadrul facțiunilor și al joburilor
-- [**Quests** & **Events**](#quests-events): se pot vizualiza misiunile zilnice împreună cu statisicile acestora, dar și evenimentele active
+- [**Quests** & **Events**](#quests-events): se pot vizualiza misiunile zilnice împreună cu statisticile acestora, dar și evenimentele active
 - [**Referrals**](#referrals): se pot vizualiza informațiile despre programul de Referral și se pot colecta bonusurile câștigate
 - [**Achievements**](#achievements): se pot vizualiza realizările obținute și progresul până la deblocarea următoarelor
 - [**Settings**](#settings): se pot modifica preferințele de joc
@@ -61,7 +62,7 @@ Secțiunea **Your Rent**:
 - afișează locul unde un jucător deține o chirie;  
 
 Secțiunea **Properties**: 
-- afișează propietățile deținute de un jucător (case, apartamente);  
+- afișează proprietățile deținute de un jucător (case, apartamente);  
 
 Secțiunea **Account Penalties**: 
 - afișează sancțiunile administrative ale jucătorului;  
@@ -161,7 +162,7 @@ Secțiunea **Economy**:
 
 Secțiunea **Evolution**: 
 
-| Realizare ințială | Mod de obținere |
+| Realizare inițială | Mod de obținere |
 | --- | --- |
 | Dedicated player | Acumulează 100 de ore jucate pe server |
 | Landlord | Achiziționează-ți prima casă sau primul apartament |
@@ -173,7 +174,7 @@ Secțiunea **Evolution**:
 
 Secțiunea **Living in Los Santos**:  
 
-| Realizare ințială | Mod de obținere |
+| Realizare inițială | Mod de obținere |
 | --- | --- |
 | To be or not to be | Achiziționează orice obiect din Ammu-Nation |
 | Behind bars | Intră la închisoare |
@@ -206,7 +207,7 @@ Secțiunea **Audio**:
 - **Vehicle Radio** - se poate selecta dacă să se audă radioul în vehicule sau nu; 
 - **Radio Volume** - se poate ajusta volumul radioului din vehicule;  
 - **Boombox** - se poate selecta dacă să se audă boombox-ul (boxa portabilă) pe server sau nu; 
-- **Boombox Volume** - se poate ajusta volumul boomboxe-ului (boxei portabile).   
+- **Boombox Volume** - se poate ajusta volumul boombox-ului (boxei portabile).   
 
 ![Settings2](https://i.imgur.com/B7S9QtN.png)   
 
