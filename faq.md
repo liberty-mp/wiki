@@ -216,7 +216,7 @@ Această eroare este întâlnită în rândul jucatorilor care incearcă să int
 Singura soluție in acest caz este sa stergeți folderul **EasyAntiCheat** de unde aveți **RAGEMP** instalat.
 
 :::tip
-Pentru multi folderul **RAGEMP** se afla in **C:\RAGEMNP**
+Pentru multi folderul **RAGEMP** se afla in **C:\RAGEMP** sau **D:\RAGEMP**
 :::
 
 ### ERROR: Script server cache got rejected
