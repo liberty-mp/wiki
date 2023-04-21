@@ -46,9 +46,11 @@ După ce ai început tura de job, trebuie să tai toți copacii marcați pe hart
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
 Pe lângă suma de bani primită după descărcare, mai ai o șansă la a găsi **obiecte speciale** care te ajută la **alte activități** sau **în crafting**.  
+
 ::: tip Detalii șanse drop  
-La fiecare tură descarcată, ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.  
+La fiecare tură descarcată, ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.
 :::  
+
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **30%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |

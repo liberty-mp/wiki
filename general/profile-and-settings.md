@@ -1,4 +1,3 @@
-
 --- 
 title: Profil & Setări
 ---

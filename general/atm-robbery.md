@@ -22,9 +22,29 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 
 ### Cât pot câștiga dacă jefuiesc un ATM?
 
-În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător cât timp transportai consola ATM-ului, câștigul va fi intre <Dinero :amount='1300'/> și <Dinero :amount='1800'/>.
+În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător cât timp transportai consola ATM-ului, câștigul de bază va fi intre <Dinero :amount='1300'/> și <Dinero :amount='1800'/> **+ procentul aferent skill-ului avut la Robbing (Street Rep)** la care se adaugă și un procent de _**10%**_ pentru jucătorii ce dețin **<Color hex="#FFD700">Gold Subscription</Color>** și _**20%**_ pentru jucătorii ce dețin **<Color hex="#100C84">Platinum Subscription</Color>**.
 
-Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul va fi între <Dinero :amount='650'/> și <Dinero :amount='900'/>.
+Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul de bază va fi între <Dinero :amount='650'/> și <Dinero :amount='900'/> la care se adaugă bonusurile de mai sus.
+
+### Care sunt skill-urile la Robbing (Street Reputation)?
+
+| Numele skill-ului | Puncte necesare pentru avansare | Bonus |
+| :-----------: | :-----------: | :-----------: |
+| Prospect | **0** |  _**0%**_ |
+| Snitch | **100** |  _**5%**_ |
+| Shoplifer | **250** |  _**15%**_ |
+| Crook | **750** |  _**20%**_ |
+| Burglar | **1500** |  _**25%**_ |
+| Thug | **3000** |  _**30%**_ |
+| Capo | **6000** |  _**35%**_ |
+| Consigliere | **12000** |  _**40%**_ |
+| Don | **24000** |  _**50%**_ |
+| Kingpin | **48000** |  _**60%**_ |
+| Padrino | **96000** |  _**70%**_ |
+| Godfather | **192000** |  _**80%**_ |
+
+La livrarea consolei ATM la NPC-ul Alfred pentru extragerea banilor, primești între (inclusiv) _**5 și 7**_ *# Street Rep Points*.
+La livrarea consolei ATM furată de la un alt jucător, primești între (inclusiv) _**2 și 4**_ *# Street Rep Points*.
 
 ### Cum aflu daca un ATM este disponibil pentru jefuire?
 

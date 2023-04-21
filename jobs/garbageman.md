@@ -53,16 +53,15 @@ Pe lângă suma de bani primită după descărcare, mai ai o șansă la a găsi 
 
 ::: tip Detalii șanse drop  
 
+La _**20%**_ capacitate, se încearcă găsirea unui obiect - ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.
+La fiecare _**20%**_ se mai adaugă o încercare, pentru un total de 5 încercări (20% x 5 = 100%).  
+_**Șansele (15% și 30%) nu se acumulează.**_  
+
+Dacă descarci vehiculul la 20% e ca și cum l-ai descarca doar pentru o încercare, iar dacă descarci la 100% vei avea 5 încercări de găsit obiecte cu șansele aferente, 15% pentru Rope și 30% pentru Hook.
+
 Dacă vehiculul are peste _**50%**_ capacitate și îl descarci, ai o șansă de _**20%**_ să găsești un item de crafting - Shattered Glass sau Piece of Plastic.
 
-La fiecare _**20%**_ capacitate, ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.
-Spre exemplu, dacă ai _**40%**_, se mai face o "tragere la sorți", având _**15%**_ șanse să găsești un Rope și _**30%**_ șanse să găsești un Hook, repetându-se la fiecare _**20%**_ completat din capacitate.
-
 :::  
-
-::: warning 
-  De menționat este faptul ca șansele nu se acumulează! 
-:::
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
