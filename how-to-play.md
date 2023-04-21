@@ -11,7 +11,7 @@ Dacă nu te descurci, îți recomandăm să urmărești cu atenție ghidul detal
 Poți achiziționa jocul de pe una dintre cele trei platforme recomandate, respectiv [**Rockstar Games**](https://store.rockstargames.com/game/buy-gta-v), [**Steam**](https://store.steampowered.com/app/271590/Grand_Theft_Auto_V/) sau [**Epic Games**](https://store.epicgames.com/en-US/p/grand-theft-auto-v). Prețul se învârte în jurul sumei de **140 RON** și diferă de la platformă la plaftormă sau de perioada în care alegi să îl achiziționezi (de sărbători pot exista reduceri).
 
 ::: warning Atenție!
-Jocul **Grand Theft Auto V** nu rulează pe orice fel de calculator (PC)! Înainte de a achiziționa jocul, [verifică](https://support.rockstargames.com/articles/203428177/Grand-Theft-Auto-V-PC-System-Requirements) dacă calculatorul (PC-ul) tău are cerințele minime pentru rularea jocului.
+Jocul **Grand Theft Auto V** nu rulează pe orice fel de calculator (PC)! Înainte de a achiziționa jocul, [verifică](https://support.rockstargames.com/articles/203428177/Grand-Theft-Auto-V-PC-System-Requirements) dacă PC-ul tău are cerințele minime pentru rularea jocului.
 :::
 
 ### Instalarea jocului **Grand Theft Auto V**

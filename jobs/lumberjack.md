@@ -1,4 +1,3 @@
-
 ---
 title: Lumberjack
 ---
@@ -14,7 +13,7 @@ title: Lumberjack
 
 ## Desfășurarea jobului  
 
-Desfășurarea jobului Lumberjack constă în tăierea copacilor marcați și transportul acestora la fabrică pentru procesare.  
+Jobul de Lumberjack constă în tăierea copacilor marcați și transportul acestora la fabrică pentru procesare.  
 
 ## Întrebări frecvente
 
@@ -45,7 +44,7 @@ După ce ai început tura de job, trebuie să tai toți copacii marcați pe hart
 
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
-Pe lângă suma de bani primită după descărcare, mai ai o șansă la a găsi **obiecte speciale** care te ajută la **alte activități** sau **în crafting**.  
+Pe lângă suma de bani primită după descărcare, mai ai o șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 
 ::: tip Detalii șanse drop  
 La fiecare tură descarcată, ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.

@@ -55,10 +55,6 @@ La final, o să fii redirecționat înapoi pe [**UCP**](https://ucp.liberty.mp/)
 
 <Image src="https://i.imgur.com/cn2tW1u.gif" alt="Link Discord" />
 
-::: tip  
-În perioada **Beta** (de testare) a serverului, jucătorii care își asociază contul din joc cu cel de **Discord**, primesc automat rolul de **Open Beta** pe serverul de **Discord** al comunității [**liberty.mp**](https://liberty.mp/discord).
-::: 
-
 ## Cum îmi asociez contul din joc cu o adresă de E-mail?
 
 Pentru a îți asocia contul din joc cu o adresă de **E-mail**, trebuie să te autentifici pe [**UCP**](https://ucp.liberty.mp/), să apeși pe numele tău din dreapta-sus, apoi să selectezi **Settings**. 
@@ -104,7 +100,7 @@ Dacă aplicația ta a fost acceptată de către un lider sau co-lider, va trebui
 
 ## Cum instalez moduri și unde le găsesc?
 
-Modurile de grafică aduc niște schimbări sesizabile plăcute pentru jucător, formând un *gameplay* mai frumos din punct de vedere vizual. Recomandarea noastră este folosirea unui program denumit [**Network Graphics**](https://vrp.network/graphics), care este compatibil cu platforma **RAGE Multiplayer**, prin urmare și cu server-ul nostru. Acesta are o varietate de moduri de grafică, fie gratis, fie contra cost pe baza unui abonament. De asemenea, există opțiunea de a optimiza jocul în funcție de performanța calculatorului, să schimbați filtrele, saturația, ș.a.m.d.. Un video explicativ ce conține instalarea și alte detalii aveți [**aici**](https://www.youtube.com/watch?v=5t1q9DH_8-I&ab_channel=libertymoments). 
+Modurile de grafică aduc niște schimbări sesizabile plăcute pentru jucător, formând un *gameplay* mai frumos din punct de vedere vizual. Recomandarea noastră este folosirea unui program numit [**Network Graphics**](https://vrp.network/graphics), care este compatibil cu platforma **RAGE Multiplayer**, prin urmare și cu server-ul nostru. Acesta are o varietate de moduri de grafică, fie gratis, fie contra cost pe baza unui abonament. De asemenea, există opțiunea de a optimiza jocul în funcție de performanța calculatorului, să schimbați filtrele, saturația, ș.a.m.d.. Un video explicativ ce conține instalarea și alte detalii aveți [**aici**](https://www.youtube.com/watch?v=5t1q9DH_8-I&ab_channel=libertymoments). 
 
 ## Probleme frecvente cu jocul sau launcherul  
 
@@ -211,14 +207,14 @@ Intră în Story Mode-ul jocului și la setările rezoluției, pune opțiunea pr
 
 ### Eroare: "settings.json not found" 
 
-Această eroare este întâlnită în rândul jucatorilor care incearcă să intre pe server, iar după ce se incarcă Easy Anti-Cheat-ul, le apare eroarea de mai sus.
+Această eroare este întâlnită în rândul jucatorilor care încearcă să intre pe server, iar după ce se incarcă Easy Anti-Cheat-ul, le apare eroarea de mai sus.
 
 **Soluție:**
 
-Singura soluție in acest caz este sa stergeți folderul **EasyAntiCheat** de unde aveți **RAGEMP** instalat.
+Singura soluție în acest caz este să ștergeți folderul **EasyAntiCheat** unde aveți **RAGEMP** instalat.
 
 :::tip
-Pentru multi folderul **RAGEMP** se afla in **C:\RAGEMP** sau **D:\RAGEMP**
+Pentru mulți, folderul **RAGEMP** se află in **C:\RAGEMP** sau **D:\RAGEMP**
 :::
 
 ### Eroare: "Script server cache got rejected" 
