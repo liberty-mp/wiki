@@ -8,13 +8,13 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**
 
 | Facțiune   | Cerințe minime |  Slot-uri (locuri) | Wiki |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | -* | 30 | [**Downtown Taxi Company**](./taxi.md)
-| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | -*| 40 | [**Los Santos Police Department**](./lspd.md)
-| <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> | -* | 30 | [**Hitman Agency**](./hitman.md)
-| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| -* | 30 | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| -* | 30 | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| -* | 30** | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| -* | 30 | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | Min. Level 5* | 30 | [**Downtown Taxi Company**](./taxi.md)
+| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | Min. Level 7* | 40 | [**Los Santos Police Department**](./lspd.md)
+| <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> | Min. Level 5* | 30 | [**Hitman Agency**](./hitman.md)
+| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| Min. Level 5* | 30 | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| Min. Level 5* | 30 | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| Min. Level 5* | 30** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| Min. Level 5* | 30 | [**Gangs**](./gangs.md)
 
 ## Ce fac aceste facțiuni?
 Fiecare dintre cele enumerate **anterior** au *scopuri* și *organizare diferită*, întreprinzând activități diferite. **Los Santos Police Department** menține starea de liniște în orașul Los Santos, pe când **grupările mafiote** produc haos, făcând contrabandă, trafic de droguri, pe care de asemenea le și consumă. Mai multe detalii despre acestea aveți [**aici**](./lspd) și [**aici**](./gangs).
