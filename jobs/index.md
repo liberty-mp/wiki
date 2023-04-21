@@ -1,4 +1,3 @@
-
 ---
 title: Informații generale joburi
 ---
@@ -32,7 +31,7 @@ Pentru a avansa în skill ai nevoie să câștigi o anumită sumă de bani din p
 
 | **Skill** | **Bani câștigați pt. avansare** | **Beneficii**
 | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/NbQyTpk.png" alt="Bronze" width="48" label="Bronze" /> | <Dinero :amount='0' /> | venitul de baza al jobului |
+| <Image src="https://i.imgur.com/NbQyTpk.png" alt="Bronze" width="48" label="Bronze" /> | <Color hex="#47D2A5">$</Color>0 | venitul de baza al jobului |
 | <Image src="https://i.imgur.com/RjMVsJ4.png" alt="Silver" width="48" label="Silver" /> | <Dinero :amount='15000' /> | venit majorat cu **7%** |
 | <Image src="https://i.imgur.com/AcZaBTu.png" alt="Gold" width="48" label="Gold" /> | <Dinero :amount='75000' /> | venit majorat cu **23%** |
 | <Image src="https://i.imgur.com/cKJ7qOm.png" alt="Platinum" width="48" label="Platinum" /> | <Dinero :amount='250000' /> | venit majorat cu **53%** |

@@ -1,4 +1,3 @@
-
 ---
 title: Fisherman
 ---
@@ -14,7 +13,7 @@ title: Fisherman
 
 ## Desfășurarea jobului
 
-Desfășurarea jobului Fisherman constă în pescuitul peștilor folosind o undiță și momeală, iar mai apoi vânzarea acestora la unul din NPC-uri.  
+Jobul de Fisherman constă în pescuitul peștilor folosind o undiță și momeală, apoi vânzarea acestora la unul dintre NPC-uri.  
 
 ## Locație pescuit  
 
@@ -31,9 +30,9 @@ Poți cumpăra o undiță normală, din lemn, dintr-un business de tip **magazin
   <Image src="https://i.imgur.com/i8RG0sN.png" alt="Wooden Rod" />
 :::
 
-Undița normala are o durabilitate de 120, însemnând 120 pești prinși cu **succes**.  
-Se spune că 4 din 10 pești reușesc să scape din cârlig când folosești această undiță (40% șansă ca peștele să scape înainte de a fi prins).  
-Pentru a vedea durabilitatea undiței, apasă _**click dreapta**_ pe undiță în inventar, apoi selectează "**Inspect**".  
+Undița normală are o durabilitate de 120, însemnând 120 pești prinși cu **succes**.  
+Se spune că 4 din 10 pești reușesc să scape din cârlig când folosești această undiță (40% șansă ca peștele să scape înainte de a fi prins).
+Pentru a vedea durabilitatea undiței, apasă _**click dreapta**_ pe undiță în inventar, apoi selectează "**Inspect**".
 
 ::: details Durabilitate undiță
   <Image src="https://i.imgur.com/l24Y6He.png" alt="Rod Durability" />
@@ -71,21 +70,21 @@ Ca să pescuiești trebuie să echipezi undița în unul din cele 5 fast slot-ur
   <Image src="https://i.imgur.com/XpaQb63.gif" />
 :::  
 
-După ce am echipat undița într-un fast slot din inventar, apăsăm tasta respectivă (1-5) pentru a pune undița în mâini, apăsăm tasta `SPACE` cu privirea la un corp de apă pentru a arunca cârligul și momeala. Culoarea turcoaz indică faptul că așteptăm până când un pește va mușca momeala.  
+După ce am echipat undița într-un fast slot din inventar, apăsăm tasta respectivă (1-5) pentru a pune undița în mâini, apăsăm tasta `SPACE` cu privirea îndreptată la un corp de apă pentru a arunca cârligul cu momeala. Culoarea turcoaz indică faptul că așteptăm până când un pește va mușca momeala.  
 
 ::: details Exemplu pescuit  
   <Image src="https://i.imgur.com/nHG4OBI.gif" alt="Exemplu fish" />
   <Image src="https://i.imgur.com/ZeBO0rZ.png" alt="Exemplu minigame" />
 :::  
 
-Apăsăm din nou tasta `SPACE` atunci când indicatorul se face culoarea verde, însemnând că peștele a mușcat momeala. Dacă nu acționăm asupra peștelui timp de 3 secunde de când indicatorul și-a schimbat culoarea în verde, aceasta reușește să scape din cârlig. După apăsare o să apară un mini-game cu o bară unde trebuie să apeși încă o dată `SPACE` în momentul în care peștele ajunge în pătratul verde pentru a putea trage undița și a pescui peștele.
-Există o șansă ca peștele să scape și când noi tragem undița, în funcție de undița folosită.  
-Vei fi notificat deasupra hărții despre ce tip de pește ai prins, dacă ai prins un obiect special sau nu îndeplinești o cerință pentru a pescui.
+Vom apăsa din nou tasta `SPACE` atunci când indicatorul devine culoarea verde, însemnând că peștele a mușcat momeala. Pe această săgeata vor aparea cifrele 3, 2, 1, 0, care indică câte secunde mai avem până când peștele va scăpa din cârlig (ducând la **pierderea peștelui**). Dacă am reușit să apăsăm la momentul potrivit, va apărea un mini-game în partea din mijloc-jos a ecranului, unde trebuie ca jucatorul să apese tasta `SPACE` când indicatorul sub formă de pește se află în pătratul verde.
+În funcție de undița folosită, există șanse ca peștele să scape din cârlig chiar dacă jucătorul a apăsat când trebuie.
+Pentru a putea vedea dacă peștele a fost prins sau nu, vei putea verifica notificarea plasată deasupra hărții, care va indica și ce fel de peste ai prins, dacă ai prins un obiect special sau dacă nu îndeplinești o cerință pentru a pescui.
+Fiecare pește prins ocupă un slot din inventarul jucătorului, alături de prețul acestuia dacă ținem cursorul mouse-ului pe el.
 
 ### Unde se vinde peștele?
 
-Peștele prins este vizibil în inventar alături de prețul acestuia dacă ținem cursorul mouse-ului pe el.  
-Peștii se vând la oricare dintre cei 3 NPC Fisherman aflați pe insulă la iconița <Image src="https://i.imgur.com/W89GtyV.png" alt="Fisherman Icon" width="32" />
+Peștii prinși se pot vinde la oricare dintre cei 3 NPC Fisherman aflați pe insulă la iconița <Image src="https://i.imgur.com/W89GtyV.png" alt="Fisherman Icon" width="32" />.
 
 ::: details Locație 1: Paleto Cove
   <Image src="https://i.imgur.com/5mGr5NE.png" alt="Paleto Cove, Fisherman 1" />
@@ -134,7 +133,7 @@ Pe lângă peștele prins, mai ai o șansă la a prinde **obiecte speciale** car
 
 ## Cazuri în care nu poți efectua jobul   
  
-- Dacă nivelul apei este scăzut sau are valuri, nu poți să pescuiești în locația aceea, ești înștiințat printr-o notificare deasupra hărții dacă este cazul.  
+- Dacă nivelul apei este scăzut sau are valuri, nu poți să pescuiești în locația aceea, vei fi înștiințat printr-o notificare deasupra hărții dacă este cazul.  
 ::: details Nu poți să pescuiești aici  
  <Image src="https://i.imgur.com/z0OnAOM.png" alt="Eroare loc/valuri" />  
 :::  

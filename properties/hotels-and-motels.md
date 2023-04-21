@@ -40,7 +40,7 @@ Disponibilitatea unui **Motel** este redată de culoarea verde a iconiței de pe
 
 ## Procedura de Check-in & Check-out
 
-Pentru a închiria o cameră într-un **Hotel** sau **Motel**, trebuie să verifici pe minimap dacă există disponibilitate și în caz pozitiv, să te deplasezi la locația respectivă. 
+Pentru a închiria o cameră într-un **Hotel** sau **Motel**, trebuie să verifici pe minimap dacă există disponibilitate și, în cazul în care sunt locuri libere, să te deplasezi la locația respectivă. 
 
 ::: tip
 Procedura de Check-in a unei camere de **Hotel** sau **Motel** este aceeași.

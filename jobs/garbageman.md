@@ -1,4 +1,3 @@
-
 ---
 title: Garbageman
 ---
@@ -14,15 +13,17 @@ title: Garbageman
 
 ## Desfășurarea jobului  
 
-Desfășurarea jobului Garbageman constă în păstrarea curată a orașului Los Santos prin colectarea sacilor de gunoi de la diferite puncte de colectare și livrarea acestora la groapa de gunoi.  
+Jobul de Garbageman constă în păstrarea curată a orașului Los Santos prin colectarea sacilor de gunoi de la diferite puncte de colectare și livrarea acestora la groapa de gunoi.  
 
 ## Întrebări frecvente
 
 ### Cum încep munca?
 
-Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind butonul `E` și selectează "**Începe munca**", ți se va da un vehicul în care trebuie să depozitezi sacii de gunoi. Urmează ruta de pe hartă până la prima pubelă.
+Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind butonul `E` și selectează "**Începe munca**". Ți se va da un vehicul în care trebuie să depozitezi sacii de gunoi. Urmează ruta de pe hartă până la prima pubelă.
 
-- Dacă mori sau te deconectezi, tura de job este salvată automat și poți continua umplerea vehiculului Trashmaster. 
+::: tip
+Dacă mori sau te deconectezi, tura de job este salvată automat și poți continua umplerea vehiculului Trashmaster. 
+:::
 
 ::: details Începe munca  
   <Image src="https://i.imgur.com/lIPqxgm.gif" alt="Start Job" />
@@ -49,20 +50,19 @@ Pentru a termina tura de job instant și posibilitatea să faci altă activitate
 
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
-Pe lângă suma de bani primită după descărcare, mai ai o șansă la a găsi **obiecte speciale** care te ajută la **alte activități** sau **în crafting**.  
+Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 
 ::: tip Detalii șanse drop  
 
+La _**20%**_ capacitate, se încearcă găsirea unui obiect - ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.
+La fiecare _**20%**_ se mai adaugă o încercare, pentru un total de 5 încercări (20% x 5 = 100%).  
+_**Șansele (15% și 30%) nu se acumulează.**_  
+
+Dacă descarci vehiculul la 20% e ca și cum l-ai descarca doar pentru o încercare, iar dacă descarci la 100% vei avea 5 încercări de a găsi obiecte cu șansele aferente, 15% pentru Rope și 30% pentru Hook.
+
 Dacă vehiculul are peste _**50%**_ capacitate și îl descarci, ai o șansă de _**20%**_ să găsești un item de crafting - Shattered Glass sau Piece of Plastic.
 
-La fiecare _**20%**_ capacitate, ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.
-Spre exemplu, dacă ai _**40%**_, se mai face o "tragere la sorți", având _**15%**_ șanse să găsești un Rope și _**30%**_ șanse să găsești un Hook, repetându-se la fiecare _**20%**_ completat din capacitate.
-
 :::  
-
-::: warning 
-  De menționat este faptul ca șansele nu se acumulează! 
-:::
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |

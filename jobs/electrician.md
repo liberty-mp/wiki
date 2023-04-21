@@ -1,4 +1,3 @@
-
 ---
 title: Electrician
 ---
@@ -15,13 +14,17 @@ title: Electrician
 
 ## Desfășurarea jobului  
 
-Desfășurarea jobului Electrician constă în menținerea în funcțiune a echipamentelor electrice din orașul Los Santos prin reglarea siguranțelor defecte din panourile electrice.   
+Jobul de Electrician constă în menținerea în funcțiune a echipamentelor electrice din orașul Los Santos prin reglarea siguranțelor defecte din panourile electrice.
 
 ## Întrebări frecvente
 
 ### Cum încep munca?
 
-Odată ajuns la locația NPC-ului Electrician, interacționează cu el folosind butonul `E` și selectează "**Începe munca**", vei avea de ales dacă dorești să începi munca folosind vehiculul oferit de el sau unul personal. Selectând vehiculul oferit de el, se va asigura că vei avea rezervorul de combustibil mereu plin.
+Odată ajuns la locația NPC-ului Electrician, interacționează cu el folosind butonul `E` și selectează "**Începe munca**". Vei avea de ales dacă dorești să începi munca folosind vehiculul oferit de server sau unul personal. 
+
+::: tip
+Selectând vehiculul oferit de el, se va asigura că vei avea rezervorul de combustibil mereu plin, deci nu va trebui ca tu să acoperi costurile combustibilului.
+:::
 
 ::: details Începe munca  
   <Image src="https://i.imgur.com/cTjCQDk.gif" alt="Start Job" />  
@@ -34,8 +37,10 @@ Odată ajuns la locația NPC-ului Electrician, interacționează cu el folosind 
  
 ### Cum reglez siguranțele din panourile electrice?  
 
-După ce ai început tura de munca, trebuie să urmezi ruta de pe hartă până ajungi la panoul electric care trebuie menținut, odată deschis, ai aproximativ _**20 de secunde**_, timp în care trebuie să reglezi siguranțele altfel panoul electric se va defecta și vei fi electrocutat pentru un scurt timp.  
-Pentru a regla siguranțele trebuie să apeși `CLICK STÂNGA` pe siguranțele dereglate (poziția de jos).  
+După ce ai început tura de munca, trebuie să urmezi ruta de pe hartă până ajungi la panoul electric care trebuie menținut.
+Odată deschis, ai aproximativ _**20 de secunde**_, timp în care trebuie să reglezi siguranțele altfel panoul electric se va defecta și vei fi electrocutat pentru un scurt timp.  
+Pentru a regla siguranțele, trebuie să apeși `CLICK STÂNGA` pe siguranțele dereglate (aflate în poziția de jos).
+
 ::: details Reglare siguranțe  
   <Image src="https://i.imgur.com/JJzrJyB.gif" alt="Reglare siguranțe" />  
 :::  
