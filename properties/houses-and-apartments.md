@@ -26,7 +26,7 @@ Un beneficiu îl reprezintă faptul că nu trebuie să plătești pentru cazare 
  <Image src="https://i.imgur.com/v1Gw166.png" alt="Optiuni" />  
 ::: 
 
-::: warning Atenție
+::: warning Atenție!
 Alți jucători care locuiesc în casa ta nu o să plătească nimic, prin urmare proprietarul nu face bani de pe urma lor.
 :::
 
