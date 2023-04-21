@@ -13,13 +13,13 @@ title: Miner
 
 ## Desfășurarea jobului  
 
-Desfășurarea jobului Miner constă în extragerea pietrei de construcții din cariera de piatră și transportul acestora la punctul de procesare.  
+Jobul Miner constă în extragerea pietrei de construcții din cariera de piatră și transportul acesteia la punctul de procesare.  
 
 ## Întrebări frecvente
 
 ### Cum încep munca?
 
-Odată ajuns la locația NPC-ului Miner, interacționează cu el folosind butonul `E` și selectează "**Începe munca**", ți se va da un vehicul special în care trebuie să încarci piatra extrasă cu ajutorul târnăcopului, iar mai apoi să descarci mașina la punctul de procesare.
+Odată ajuns la locația NPC-ului Miner, interacționează cu el folosind butonul `E` și selectează "**Începe munca**". Ți se va da un vehicul special în care trebuie să încarci piatra extrasă cu ajutorul târnăcopului, apoi va trebui să descarci mașina la punctul de procesare.
 
 
 ::: details Începe munca  
@@ -34,7 +34,7 @@ Odată ajuns la locația NPC-ului Miner, interacționează cu el folosind butonu
 
 ### Cum extrag piatra?  
 
-După ce ai început tura de job, trebuie să urmezi ruta de pe hartă până când ajungi în cariera de piatra. Pentru a mina piatra, coboară din mașină și apropie-te de punctul indicat de lângă rocă. Vei începe să minezi, când minatul este gata, încarcă piatra în spatele mașinii. Când mașina este plină, trebuie descărcată la punctul de procesare, urmează ruta de pe hartă pentru a face asta.  
+După ce ai început tura de job, trebuie să urmezi ruta de pe hartă până când ajungi în cariera de piatră. Pentru a mina piatra, coboară din mașină și apropie-te de punctul indicat de lângă rocă. Vei începe să minezi, iar când minatul este gata, încarcă piatra în spatele mașinii. Când mașina este plină, trebuie descărcată la punctul de procesare, urmează ruta de pe hartă pentru a face asta.  
 
 ::: details Minarea rocilor și încărcarea în vehicul  
   <Image src="https://i.imgur.com/yScPR41.gif" alt="Minarea rocilor & încărcare vehicul" />  
@@ -42,7 +42,7 @@ După ce ai început tura de job, trebuie să urmezi ruta de pe hartă până c�
 
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
-Pe lângă suma de bani primită după descărcare, mai ai o șansă la a găsi **obiecte speciale** care te ajută la **alte activități** sau **în crafting**.  
+Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 ::: tip Detalii șanse drop  
 La **descărcarea mașinii** la punctul de procesare ai o șansă de **10%** să găsești un item de crafting, dintre care, in mod egal - **Metal Bar** sau **Gunpowder**.
 

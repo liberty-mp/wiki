@@ -13,7 +13,7 @@ title: Garbageman
 
 ## Desfășurarea jobului  
 
-Desfășurarea jobului Garbageman constă în păstrarea curată a orașului Los Santos prin colectarea sacilor de gunoi de la diferite puncte de colectare și livrarea acestora la groapa de gunoi.  
+Jobul de Garbageman constă în păstrarea curată a orașului Los Santos prin colectarea sacilor de gunoi de la diferite puncte de colectare și livrarea acestora la groapa de gunoi.  
 
 ## Întrebări frecvente
 
@@ -21,7 +21,9 @@ Desfășurarea jobului Garbageman constă în păstrarea curată a orașului Los
 
 Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind butonul `E` și selectează "**Începe munca**", ți se va da un vehicul în care trebuie să depozitezi sacii de gunoi. Urmează ruta de pe hartă până la prima pubelă.
 
-- Dacă mori sau te deconectezi, tura de job este salvată automat și poți continua umplerea vehiculului Trashmaster. 
+::: tip
+Dacă mori sau te deconectezi, tura de job este salvată automat și poți continua umplerea vehiculului Trashmaster. 
+:::
 
 ::: details Începe munca  
   <Image src="https://i.imgur.com/lIPqxgm.gif" alt="Start Job" />
