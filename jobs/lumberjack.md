@@ -13,7 +13,7 @@ title: Lumberjack
 
 ## Desfășurarea jobului  
 
-Jobul Lumberjack constă în tăierea copacilor marcați și transportul acestora la fabrică pentru procesare.  
+Jobul de Lumberjack constă în tăierea copacilor marcați și transportul acestora la fabrică pentru procesare.  
 
 ## Întrebări frecvente
 

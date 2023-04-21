@@ -4,13 +4,13 @@ title: Case & apartamente
 
 ### Informații generale despre proprietăți
 
-**Casele** prezente pe server sunt obținute prin licitații ce au loc la **News Agency**. Ele reprezintă un *spawn point* pentru jucători, un loc unde să îți parchezi mașina și să-ți inviți prietenii să locuiască cu tine. De asemenea, acestea pot fi mobilate!
+**Casele** prezente pe server sunt obținute prin licitațiile ce au loc la **News Agency**. Acestea au rolul de *spawn point*, oferind posibilitatea jucatorului de a le mobila, de a își invita prietenii să stea împreună cu el și de a-și parca mașina în jurul casei.
 
 ## Cum obțin o casă?
 
-Proprietățile se vând prin intermediul licitațiilor, acestea pot dura pentru o mică sau mare durată de timp. Pentru mai multe informații în legătură cu procedeul prin care licitezi: [**News Agency - Marketplace**](../economy/businesses.md#news-agency). După ce ai câștigat licitația o să îți primești automat casa pe cont. Poți să vezi ce proprietăți ai și pe [**UCP**](https://ucp.liberty.mp) pe profilul tău la categoria **Vehicles & Properties**!
+Proprietățile se vând prin intermediul licitațiilor, acestea pot dura diferite durate de timp. Pentru mai multe informații în legătură cu procedeul prin care licitezi: [**News Agency - Marketplace**](../economy/businesses.md#news-agency). După ce ai câștigat licitația, vei primi automat casa pe cont. Poți vedea ce proprietăți ai și pe [**UCP**](https://ucp.liberty.mp), pe profilul tău la categoria **Vehicles & Properties**!
 
-De asemenea, există și **apartamente**, nu doar case propriu-zise. Acestea au aceleași beneficii și prezintă aceleași opțiuni!
+De asemenea, există și **apartamente**. Acestea au aceleași beneficii și prezintă aceleași opțiuni!
 
 ::: details Apartament
 <Image src="http://i.imgur.com/y6Z7q2a.gif" alt="apart" />
@@ -18,7 +18,7 @@ De asemenea, există și **apartamente**, nu doar case propriu-zise. Acestea au 
 
 ## Ce pot face dacă dețin o casă/apartament?
 
-Un beneficiu îl reprezintă faptul că nu trebuie să plătești pentru cazare ca la hotel sau motel, îți poți **decora** casa, să îi oferi personalitate cumpărând mobilă de la **IKEA**. De asemenea, poți invita jucători să locuiască cu tine și ai și loc de parcare. Există și opțiunea de a încuia casa pentru a evita musafirii nedoriți, iar daca aceștia vor să intre, pot să bată la ușă urmând ca proprietarul casei să decidă dacă îi acceptă sau nu înăuntru. 
+Un beneficiu îl reprezintă faptul că nu trebuie să plătești pentru cazare (ca la hotel sau motel), îți poți **decora** casa, să îi oferi personalitate cumpărând mobilă de la **IKEA**. De asemenea, poți invita jucători să locuiască cu tine și ai și loc de parcare. Există și opțiunea de a încuia casa pentru a evita musafirii nedoriți, iar daca aceștia vor să intre, pot să bată la ușă, urmând ca proprietarul casei să decidă dacă îi acceptă sau nu înăuntru. 
 
 În opțiunile casei mai găsim și: un **seif** sau **Safebox**, abilitatea de a accesa meniul de **furniture** (mobilă) despre care găsiți informații puțin mai jos și meniul **Roommates** (Colegi de cameră) ce presupune adăugarea unor jucători ce o să locuiască la tine, dar și ștergerea lor de pe lista de invitați. 
 
@@ -32,7 +32,7 @@ Alți jucători care locuiesc în casa ta nu o să plătească nimic, prin urmar
 
 ## Cum îmi pot mobila casa/apartamentul?
 
-Pentru a face acest lucru mai întâi trebuie să vă achiziționați mobilă din **IKEA**, unde aveți o gamă largă, de la paturi, canapele și scaune, până la obiecte de uz casnic, de bucătărie si baie. Plasarea mobilei se face prin folosirea axei care apare odată cu începerea procesului, prin urmare poți amplasa mobila exact cum îți dorești și o poți muta ulterior când vrei. De asemenea, dacă o să vinzi casa după ce ai mobilat-o, toată mobila o să îți revină ție!
+Pentru a face acest lucru mai întâi trebuie să vă achiziționați mobilă din **IKEA**, unde aveți o gamă largă, de la paturi, canapele și scaune, până la obiecte de uz casnic, de bucătărie si baie. Plasarea mobilei se face prin folosirea axei care apare odată cu începerea procesului, oferind libertate totală jucătorului de a plasa mobila așa cum își dorește, dar și de a muta-o pe viitor. În cazul unei viitoare vânzări, mobila va reveni înapoi jucătorului care a cumpărat-o.
 
 ::: warning Atenție!
 Poți mobila o casă doar dacă o deții.

@@ -20,7 +20,7 @@ Jobul de Electrician constă în menținerea în funcțiune a echipamentelor ele
 
 ### Cum încep munca?
 
-Odată ajuns la locația NPC-ului Electrician, interacționează cu el folosind butonul `E` și selectează "**Începe munca**", vei avea de ales dacă dorești să începi munca folosind vehiculul oferit de server sau unul personal. 
+Odată ajuns la locația NPC-ului Electrician, interacționează cu el folosind butonul `E` și selectează "**Începe munca**". Vei avea de ales dacă dorești să începi munca folosind vehiculul oferit de server sau unul personal. 
 
 ::: tip
 Selectând vehiculul oferit de el, se va asigura că vei avea rezervorul de combustibil mereu plin, deci nu va trebui ca tu să acoperi costurile combustibilului.

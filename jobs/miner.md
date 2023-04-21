@@ -13,7 +13,7 @@ title: Miner
 
 ## Desfășurarea jobului  
 
-Jobul Miner constă în extragerea pietrei de construcții din cariera de piatră și transportul acesteia la punctul de procesare.  
+Jobul de Miner constă în extragerea pietrei de construcții din cariera de piatră și transportul acesteia la punctul de procesare.  
 
 ## Întrebări frecvente
 

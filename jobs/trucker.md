@@ -13,7 +13,7 @@ title: Trucker
 
 ## Desfășurarea jobului  
 
-Jobul Trucker constă în transportul diferitelor tipuri de marfă de la un punct la altul folosind camionul oferit.
+Jobul de Trucker constă în transportul diferitelor tipuri de marfă de la un punct la altul folosind camionul oferit.
 
 ## Întrebări frecvente
 
