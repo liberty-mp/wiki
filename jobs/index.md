@@ -1,4 +1,3 @@
-
 ---
 title: Informații generale joburi
 ---
