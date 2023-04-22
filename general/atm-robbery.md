@@ -61,6 +61,14 @@ Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce 
 
 De fiecare dată când vei jefui un ATM, vei primi 100% Heat Level, care va scădea complet în 5 ore (1% per 3 minute).
 
+| Heat Level | Cât durează să dispară? |
+| :-----------: | :-----------: |
+| 100% | 5 ore |
+| 75% | 3 ore și 45 minute |
+| 50% | 2 ore și 30 minute |
+| 25% | 1 oră și 15 minute |
+| 10% | 30 minute |
+
 ### Cum jefuiesc un ATM?
 
 Pentru jefuirea unui ATM, va trebui să **nu aveți Heat Level** și **să nu fiți căutați de poliție** (Heat Level 0 & fără wanted).
