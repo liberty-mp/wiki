@@ -9,7 +9,7 @@ title: Downtown Taxi Company
 
 ## Vehicule
 
-**Downtown Taxi Company** dispune momentan de un sigur model de vehicul.
+**Downtown Taxi Company** dispune momentan de un singur model de vehicul.
 
 | Marcă | Model | Tip | Locuri | Disponibile | Poză |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
