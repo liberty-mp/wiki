@@ -5,7 +5,7 @@ title: Hitman Agency
 ### Informații generale despre Hitman Agency
 <br>
 <br>
-<Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="25" label="Hitman Agency" /> este o grupare de asasini profesioniști plătiți pentru anumite servicii primite de la alți oameni prin intermediul aplicației _**Hitman**_ din telefonul mobil. Aceștia acționează cu finețe și strategie pentru a realiza cu succes misiunea primită.
+<Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="25" label="" /> **Hitman Agency** este o grupare de asasini profesioniști plătiți pentru anumite servicii primite de la alți oameni prin intermediul aplicației _**Hitman**_ din telefonul mobil. Aceștia acționează cu finețe și strategie pentru a realiza cu succes misiunea primită.
 
 
 ## Locația HQ (Headquarters)
