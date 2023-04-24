@@ -6,20 +6,21 @@ Cerințele raportului diferă de la facțiune la facțiune, mai jos sunt prezent
 Liderii facțiunilor sunt nevoiți să facă doar numărul de ore jucate. Co-liderii sunt nevoiți să facă atât orele cât și un număr mai mic de activity points.
 
 ::: danger Atenție!  
-Raportul de activitate este obligatoriu pentru membrii unei facțiuni.
+Raportul de activitate este obligatoriu pentru membrii unei facțiuni.  
 Activity points (puncte de activitate) reprezintă un număr total de puncte ce trebuiesc atinse pentru ca raportul să fie considerat complet, pe lângă orele jucate necesare.
 :::
 
 ::: tip
-Raportul de activitate este contorizat de **Luni** ora _00:15_ până **Duminica** ora _~23:59_.
-La necompletarea unui raport de activitate duce la sancționarea automată cu **99 warning points** (maximul este 100 - ești scos din facțiune). **Sancțiunea expiră în 14 zile**.
+Raportul de activitate este contorizat de **Luni** ora _00:15_ până **Duminica** ora _~23:59_.  
+La necompletarea unui raport de activitate duce la sancționarea automată cu **99 warning points** (maximul este 100 - ești scos din facțiune).  
+**Sancțiunea expiră în 14 zile**.
 :::
 
 ### Raport <Color hex="#64A1D5">Los Santos Police Department</Color>
 
 ::: details Tabel raport  
 
-a.p - activity points
+a.p - activity points  
 p - puncte
 
 | Rank | Activity points necesare | Puncte a.p oferite per acțiune | Ore activitate |
@@ -35,7 +36,7 @@ Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabe
 ### Raport <Color hex="#8C8C5C">Downtown Taxi Company</Color>
 
 ::: details Tabel raport  
-a.p - activity points
+a.p - activity points  
 p - puncte
 
 | Rank | Activity points necesare | Puncte a.p oferite per acțiune | Ore activitate |
@@ -51,7 +52,7 @@ Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la
 ### Raport <Color hex="#E34343">Hitman Agency</Color>
 
 ::: details Tabel raport  
-a.p - activity points
+a.p - activity points  
 p - puncte
 
 | Rank | Activity points necesare | Puncte a.p oferite per acțiune | Ore activitate |
