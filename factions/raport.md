@@ -2,6 +2,8 @@
 title: Rapoarte de activitate
 ---
 
+### Informații generale
+
 Cerințele raportului diferă de la facțiune la facțiune, mai jos sunt prezentate toate rapoartele.
 Liderii facțiunilor sunt nevoiți să facă doar numărul de ore jucate. Co-liderii sunt nevoiți să facă atât orele cât și un număr mai mic de activity points.
 
@@ -15,6 +17,20 @@ Raportul de activitate este contorizat de **Luni** ora _00:15_ până **Duminica
 La necompletarea unui raport de activitate duce la sancționarea automată cu **99 warning points** (maximul este 100 - ești scos din facțiune).  
 **Sancțiunea expiră în 14 zile**.
 :::
+
+### Rank-up în cadrul facțiunii
+
+Rank up-ul în facțiune se acordă automat atunci când îndeplinești un număr prestabilit de zile ca membru.
+
+| Rank | Obținere |
+| :-----------: | :-----------: |
+| **1** | primit la intrarea în facțiune | 
+| **2** | la **25 de zile** împlinite<br>de la intrarea în facțiune | 
+| **3** | la **50 de zile** împlinite<br>de la promovarea la rank 2 în facțiune | 
+| **4** (co-leader) | mâna dreaptă a liderului,<br> promovat de către lider | 
+| **5** (leader) | ales de staff-ul serverului,<br> după anumite criterii | 
+
+* Comanda [/fvr] (faction vehicle respawn) este valabilă decât la rank-ul de Co-Leader/Leader.
 
 ### Raport <Color hex="#64A1D5">Los Santos Police Department</Color>
 
@@ -33,7 +49,7 @@ p - puncte
 Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 100 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
 :::
 
-### Raport <Color hex="#8C8C5C">Downtown Taxi Company</Color>
+### Raport <Color hex="#EBF481">Downtown Taxi Company</Color>
 
 ::: details Tabel raport  
 a.p - activity points  
