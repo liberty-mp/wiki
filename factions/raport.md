@@ -32,8 +32,6 @@ p - puncte
 Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 100 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
 :::
 
-:::
-
 ### Raport <Color hex="#8C8C5C">Downtown Taxi Company</Color>
 
 ::: details Tabel raport  
@@ -50,8 +48,6 @@ p - puncte
 Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la destinație (5 puncte x 20 jucători transportați = 100 activity points) și să joci 5 ore pe server.
 :::
 
-:::
-
 ### Raport <Color hex="#E34343">Hitman Agency</Color>
 
 ::: details Tabel raport  
@@ -66,8 +62,6 @@ p - puncte
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să completezi cu succes 20 de contracte (5 puncte x 20 contracte = 100 activity points) și să joci 5 ore pe server.
-:::
-
 :::
 
 <!--
