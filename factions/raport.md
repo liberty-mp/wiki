@@ -15,7 +15,7 @@ Raportul de activitate este contorizat de **Luni** ora _00:15_ până **Duminica
 La necompletarea unui raport de activitate duce la sancționarea automată cu **99 warning points** (maximul este 100 - ești scos din facțiune). **Sancțiunea expiră în 14 zile**.
 :::
 
-### Raport <Color hex="##64A1D5">Los Santos Police Department</Color>
+### Raport <Color hex="#64A1D5">Los Santos Police Department</Color>
 
 ::: details Tabel raport  
 a.p - activity points
