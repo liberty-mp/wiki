@@ -48,5 +48,5 @@ Mai multe detalii despre IKEA - [Magazin de mobilă](../economy/businesses.md#fu
 :::
 
 ::: tip
-Dacă cumpărați un obiect din IKEA și observați că acesta nu se potrivește cu decorul sau nu vă place, îl puteți returna, dar primești doar 35% din prețul obiectului respectiv.
+Dacă cumpărați un obiect din IKEA și observați că acesta nu se potrivește cu decorul sau nu vă place, îl puteți returna, dar primiți doar 35% din prețul obiectului respectiv.
 :::
