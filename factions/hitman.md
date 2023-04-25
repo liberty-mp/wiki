@@ -49,18 +49,18 @@ Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsar
 Să nu uiți să verifici ce fel de contract este inainte să-l duci la capăt!
 :::
 
-::: tip Conditiile in care un contract este considerat silent
-Contractul silent trebuie executat fara martori. Ca martor este definit orice jucator, intr-un range de 30 metri, care are line of sight direct catre hitman. Ca martori nu se iau in considerare alti hitmani, fie ei on sau off duty, sau tinta contractului.
+::: tip Condițiile în care un contract este considerat silent
+Contractul silent trebuie executat fără martori. Ca martor este definit orice jucător, într-un range de 30 metri, care are line of sight direct către hitman. Ca martori nu se iau în considerare alți hitmani, fie ei on sau off duty, sau ținta contractului.
 :::
 
 ::: danger Motive de fail al contractului 
-Un contract se considera  failed in urmatoarele situatii:
+Un contract se consideră failed in următoarele situații:
 
 - hitmanul moare
-- contractul a avut martori (in cazul contractelor silent)
-- contractul a fost finalizat nefolosind armele factiunii (hitmanul a omorat tinta cu pumnii / masina)
+- contractul a avut martori (în cazul contractelor silent)
+- contractul a fost finalizat nefolosind armele facțiunii (hitmanul a omorât ținta cu pumnii / mașina)
 
-Ultimele 2 motive de fail sunt cele in urma carora hitmanul este sanctionat in cadrul factiunii cu 15 warning points pe o durata de 7 zile.
+Ultimele 2 motive de fail sunt cele în urma cărora hitmanul este sancționat în cadrul facțiunii cu 15 warning points pe o durată de 7 zile.
 :::
 
 ::: details Interfață & Tracking
