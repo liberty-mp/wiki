@@ -5,7 +5,7 @@ title: LSPD
 ### Informații generale despre Los Santos Police Department
 <br>
 <br>
-<Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="25" label="Los Santos Police Department" /> are un obiectiv unic, acela fiind să aplice legea în orașul **Los Santos**, statul **San Andreas**. Poliția are de-a face atât cu oameni din lumea mafiotă, dar și cu civili care încalcă anumite legi sau nu se supun ordinelor aduse. Deși există un număr mare de polițiști, cei din lumea frauduloasă și imorală continuă să întreprindă activități ilegale și periculoase.
+<Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="25" label="Los Santos Police Department" />  are un obiectiv unic, acela fiind să aplice legea în orașul Los Santos, statul San Andreas. Poliția are de-a face atât cu oameni din lumea mafiotă, dar și cu civili care încalcă anumite legi sau nu se supun ordinelor aduse. Deși există un număr mare de polițiști, cei din lumea frauduloasă și imorală continuă să întreprindă activități ilegale și periculoase.
 
 ## Locația HQ (Headquarters)
 

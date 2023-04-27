@@ -29,6 +29,10 @@ De altfel, poți scrie comanda `/jobs` și să selectezi de acolo jobul dorit.
 
 Pentru a avansa în skill ai nevoie să câștigi o anumită sumă de bani din prestarea serviciilor jobului, fiecare avansare crește procentual câștigul per serviciu prestat.  
 
+::: warning Atenție!
+Procentele de mai jos sunt adăugate la suma de bază pe care o primiți la skill-ul Bronze. **Procentele nu se acumulează!**  
+Exemplu: La sfârșitul unei ture de Lumberjack cu skill-ul Bronze (de început), primești în jur de ~<Dinero :amount='185' />. Dacă ai skill-ul Gold, primești cu 23% mai mult, adică - ~<Dinero :amount='43' /> pentru un total de ~<Dinero :amount='228' />.
+:::
 | **Skill** | **Bani câștigați pt. avansare** | **Beneficii**
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/NbQyTpk.png" alt="Bronze" width="48" label="Bronze" /> | <Color hex="#47D2A5">$</Color>0 | venitul de baza al jobului |
