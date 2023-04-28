@@ -24,7 +24,7 @@ Scurt dicționar:
 | **Dolari / $ / Bani**| Principala monedă/valută folosită la majoritatea sistemelor de pe server, exemplu: <Dinero :amount='10000' />.|
 | **Gold / PP / Premium Points**| Moneda/valuta cumpărata cu bani reali, folosită în [Shop](https://ucp.liberty.mp/shop), exemplu: <Gold :amount='5000' />.|
 
-Cel mai important aspect pe care trebuie să-l cunoști când vine vorba de server, este acela că modul de joc aplicat face parte din categoria **Role Playing Game** (RPG). Diferența dintre acest tip de joc aplicat și **Roleplay** (RP) este explicată la întrebarea [Ce mod de joc se aplică pe server?](./faq#ce-mod-de-joc-se-aplica-pe-server), din secțiunea **[Întrebări frecvente](./faq)**.
+Cel mai important aspect pe care trebuie să-l cunoști când vine vorba de server, este acela că modul de joc aplicat face parte din categoria **Role Playing Game** (RPG). Diferența dintre acest tip de joc aplicat și **Roleplay** (RP) este explicată la întrebarea **[Ce mod de joc se aplică pe server?](./faq#ce-mod-de-joc-se-aplica-pe-server)**, din secțiunea **[Întrebări frecvente](./faq)**.
 
 ::: warning
 Nu sunteți obligați să urmați în detaliu acești pași, sunt doar niște îndrumări. Vă creați singuri *gameplay-ul* cum doriți! Orice e scris mai jos are și o secțiune separată, tot aici pe Wiki, deci dacă doriți mai multe informații despre un anumit lucru, îl puteți căuta separat folosind funcția de Search din bara de sus sau apasând tastele CTRL și K.
