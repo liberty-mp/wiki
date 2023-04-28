@@ -2,9 +2,9 @@
 title: Businesses
 ---
 
-### Informații despre businesses-uri
+### Informații despre businessesuri
 
-**Businesses-urile** prezente pe [**liberty.mp**](https://ucp.liberty.mp) sunt următoarele: **Clothing store**, **Car wash**, **Gun shop**, **Electric chargers**, **Vehicle mod shop**, **Gas station**, **24/7 market**, **News Agency** și **Furniture store**. Toate acestea ajută la formarea unui *gameplay* distractiv, interactiv și simplu, ce imită realitatea.
+**Businessesurile** prezente pe [**liberty.mp**](https://ucp.liberty.mp) sunt următoarele: **Clothing store**, **Car wash**, **Gun shop**, **Electric chargers**, **Vehicle mod shop**, **Gas station**, **24/7 market**, **News Agency** și **Furniture store**. Toate acestea ajută la formarea unui *gameplay* distractiv, interactiv și simplu, ce imită realitatea.
 
 ## Unde le găsesc și cum le accesez?
 
