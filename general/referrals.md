@@ -38,8 +38,8 @@ Poți introduce un referral după ce _termini tutorialul de început_ sau în **
 
 | Cerințe   | Recompense |
 | :-----------: | :-----------: |
-| 10 ore jucate | <Dinero :amount='1000' /> |
-| 20 ore jucate | <Dinero :amount='1500' /> |
+| 10 ore jucate | <Dinero :amount='1500' /> |
+| 20 ore jucate | <Dinero :amount='2000' /> |
 | 40 ore jucate | <Gold :amount='200' /> |
 | 80 ore jucate | [**clothing crate**](#clothing-crate) |
 | 150 ore jucate | <Gold :amount='700' /> |
