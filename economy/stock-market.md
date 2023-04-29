@@ -7,7 +7,7 @@ title: Stock market
 Stock marketul reprezintă sistemul prin care jucătorii pot deveni beneficiari reali ai afacerilor de pe server. Sistemul implementat dorește să mimeze conceptul real al acțiunilor, cu anumite detalii adaptate jocului.
 
 ::: tip
-Comercializarea de acțiuni se face prin intermediul aplicației **Bank** din telefon, din ultima categorie din meniu și este disponibilă doar în intervalul orar **08:00 - 23:00**.<br>
+Comercializarea de acțiuni se face prin intermediul aplicației **Bank** din telefon, din ultima categorie din meniu și este disponibilă doar în intervalul orar **08:00 - 00:00**.<br>
 **Vânzarea și cumpărarea de stock-uri este deblocată începând cu nivel 7.**
 :::
 
