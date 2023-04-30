@@ -230,7 +230,7 @@ Drogul **Marijuana Joint** se poate utiliza de către orice jucător, celelalte 
 
 | Efecte după consum | Durată |
 | :-----------: | :-----------: | 
-| 10% job boost | 15 minute |
+| 15% job boost | 30 minute |
 
 ### Obținere
 
