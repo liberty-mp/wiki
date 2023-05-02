@@ -29,7 +29,7 @@ Sistemul include un număr total de **15 aplicații**, după cum urmează:
 - [**Phone** & **Contacts**](#phone-contacts): se pot apela numerele de telefon ale altor jucători, se pot vizualiza apelurile recente și pot adăuga jucători în lista de contacte
 - [**Camera**](#camera): se pot realiza fotografii centrale sau frontale
 - [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și inclusiv locația curentă către alți jucători
-- [**Emails**](#emails): se pot vizualiza e-mail-urile primite
+- [**Emails**](#emails): se pot vizualiza e-mailurile primite
 - [**Bank**](#bank): se pot vizualiza banii din bancă, realiza transferuri între jucători sau se pot achiziționa cryptomonede sau acțiuni în cadrul unor companii
 - [**Vehicles**](#vehicles): se pot vizualiza vehiculele personale ale jucătorului și meniul de comandă al acestora
 - [**Maps**](#maps): se pot vizualiza rutele către cele mai importante locații de pe server 
