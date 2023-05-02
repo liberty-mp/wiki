@@ -51,6 +51,15 @@ Drept urmare, $85.000 ne revin înapoi în cont datorită faptului că a fost g�
 
 <Image src="https://i.imgur.com/mcOpQMi.png" alt="purchase email"/>
 
+Ordinele de vânzare/cumpărare se vor completa și jucătorul va primi banii doar după ce toate acțiunile puse la vânzare se vor cumpăra, până atunci va fi prezentă o bară de progres arătând cate acțiuni au fost vândute/cumpărate, spre exemplu: 
+
+<Image src="https://i.imgur.com/IEckDeh.png" alt="shares on hold"/>
+
+<Image src="https://i.imgur.com/2OKQYml.png" alt="shares on hold"/>
+
+Dacă jucătorul decide că nu mai dorește să vândă în continuare acțiunile, poate anula ordinul de vânzare primind înapoi acțiunile nevândute respectiv banii pe cele vândute, la ordinul de cumpărare, după anularea acestuia jucătorul rămâne cu acțiunile cumpărate și restul de bani i se vor transfera înapoi în cont.
+
+
 ## Distribuirea profitului din afaceri
 
 ::: tip
