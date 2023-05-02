@@ -62,6 +62,7 @@ Acestea se pot obține din teritoriile (turfs) tip [**Port**](#teritorii-de-tip-
 <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" />  
 <Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" /> 
 <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> 
+<Image src="https://i.imgur.com/05reY4P.png" alt="Sawnoff Shotgun" width="100" label="Sawnoff Shotgun" /> 
 <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="100" label="SMG" />  
 <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> 
 
@@ -98,7 +99,6 @@ Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrâ
 | <Image src="https://i.imgur.com/But86WW.png" alt="Sawnoff Shotgun" width="50" label="Sawnoff Shotgun" /> | <Image src="https://i.imgur.com/05reY4P.png" alt="Pump Shotgun" width="50" label="Pump Shotgun Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="9x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="6x Plastic Bag" /> | 
 | <Image src="https://i.imgur.com/pwlMOGy.png" alt="SMG" width="50" label="SMG" /> | <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="50" label="SMG Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="6x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="5x Plastic Bag" /> |
 | <Image src="https://i.imgur.com/Xy5s7Ov.png" alt="SMG Mk II" width="50" label="SMG Mk II" /> | <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="50" label="SMG Mk II Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="7x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="5x Plastic Bag" /> |
-
 | <Image src="https://i.imgur.com/AIjHUAg.png" alt="Supressor" width="50" label="Supressor" /> |  <Image src="https://i.imgur.com/5vJw2dQ.png" alt="Supressor Blueprint" width="50" label="Supressor" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="Plastic Bag" /> |
 | <Image src="https://i.imgur.com/ovNcLFE.png" alt="Scope" width="50" label="Scope" /> |  <Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" width="50" label="Scope Blueprint" /> | <Image src="https://i.imgur.com/B9JRqac.png" alt="Glass Fragment" width="50" label="Glass Fragment" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="Plastic Bag" /> |
 | <Image src="https://i.imgur.com/aGQh9xy.png" alt="Extended Clip" width="50" label="Extended Clip" /> |  <Image src="https://i.imgur.com/acTcj0a.png" alt="Extended Clip" width="50" label="Extended Clip Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="Plastic Bag" /> |
@@ -109,14 +109,14 @@ Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrâ
 
 ## Armele folosesc următoarele calibre de gloanțe:
 
-Pistol (Gunshop) - .45 ACP (Gunshop)
-Pistol MK 2 (crafted by gang members, trade with them) - 9mm (same as the gun)
-Pistol 50 (crafted by gang members, trade with them) - 9mm (same as the gun)
-Carbine Rifle (crafted by gang members, trade with them) - 5.56mm (same as the gun)
-Special Carbine (crafted by gang members, trade with them) - 5.56mm (same as the gun)
-SMG (crafted by gang members, trade with them) - 9mm (same as the gun)
-SMG MK 2 (crafted by gang members, trade with them) - 9mm (same as the gun)
-Pump Shotgun (crafted by gang members, trade with them) - 12-gauge (same as the gun)
-Sawnoff Shotgun (crafted by gang members, trade with them) - 12-gauge (same as the gun)
+Pistol (Gunshop) - .45 ACP (Gunshop)<br>
+Pistol MK 2 (crafted by gang members, trade with them) - 9mm (same as the gun)<br>
+Pistol 50 (crafted by gang members, trade with them) - 9mm (same as the gun)<br>
+Carbine Rifle (crafted by gang members, trade with them) - 5.56mm (same as the gun)<br>
+Special Carbine (crafted by gang members, trade with them) - 5.56mm (same as the gun)<br>
+SMG (crafted by gang members, trade with them) - 9mm (same as the gun)<br>
+SMG MK 2 (crafted by gang members, trade with them) - 9mm (same as the gun)<br>
+Pump Shotgun (crafted by gang members, trade with them) - 12-gauge (same as the gun)<br>
+Sawnoff Shotgun (crafted by gang members, trade with them) - 12-gauge (same as the gun)<br>
 
-Pentru o listă cu arme și alte obiecte ce pot fi confiscate de către LSPD: [Obiecte confisabile](../factions/lspd.md#obiecte-confiscabile)
+_Pentru o listă cu arme și alte obiecte ce pot fi confiscate de către LSPD: [Obiecte confisabile](../factions/lspd.md#obiecte-confiscabile)_

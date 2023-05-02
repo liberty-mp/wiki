@@ -17,7 +17,7 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 
 ### De unde fac rost de obiectele necesare pentru jefuire?
 
-**Obiectele speciale** necesare jefuirii pot fi găsite [la sfârșitul unei ture de job la Garbageman ♻️.](../jobs/garbageman#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire)
+**Obiectele speciale** necesare jefuirii pot fi găsite [la sfârșitul unei ture de job la Garbageman ♻️](../jobs/garbageman#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire) ***sau*** [la sfârșitul unei ture de job la Lumberjack.](../jobs/lumberjack.md#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire)
 
 ### Cât pot câștiga dacă jefuiesc un ATM?
 
@@ -27,7 +27,7 @@ Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul
 
 ### Care sunt skill-urile la Robbing (Street Reputation)?
 
-| Numele skill-ului | Puncte necesare pentru avansare | Bonus |
+| Numele skill-ului | Puncte necesare pentru avansare | Bonus $ |
 | :-----------: | :-----------: | :-----------: |
 | Prospect | **0** |  _**0%**_ |
 | Snitch | **100** |  _**5%**_ |
