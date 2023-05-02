@@ -53,7 +53,7 @@ Secțiunea **Account**:
 Secțiunea **Shop**:  
 - **Account Type** - afișează tipul contului: *Standard* sau _*Premium*_; 
 - **Gold** - afișează totalul de monede Gold din contul jucătorului; 
-- **Vehicle Slots** - afișează numărul total de slot-uri (locuri) pentru vehicule pe caracterul jucătorului.
+- **Vehicle Slots** - afișează numărul total de sloturi (locuri) pentru vehicule pe caracterul jucătorului.
 
 ![General2](https://i.imgur.com/SpyPCBj.png)
 
