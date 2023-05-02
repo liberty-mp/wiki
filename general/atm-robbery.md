@@ -31,7 +31,7 @@ Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul
 | :-----------: | :-----------: | :-----------: |
 | Prospect | **0** |  _**0%**_ |
 | Snitch | **100** |  _**5%**_ |
-| Shoplifer | **250** |  _**15%**_ |
+| Shoplifter | **250** |  _**15%**_ |
 | Crook | **750** |  _**20%**_ |
 | Burglar | **1500** |  _**25%**_ |
 | Thug | **3000** |  _**30%**_ |
@@ -49,7 +49,7 @@ La livrarea consolei ATM furată de la un alt jucător, primești între (inclus
 
 Culoarea ATM-ului de pe hartă va indica statusul acestuia.
 
-| Status   | Semnificație |
+| Status   | Semnificație | 
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/t2ZYapF.png" width="32" alt="Disponibil" label="Disponibil" />  | Îndeplinește condițiile pentru a fi jefuit |
 | <Image src="https://i.imgur.com/LNnW3DH.png" width="32" alt="Indisponibil" label="Indisponibil" /> | Nu poate fi jefuit (delay 3 minute) |
@@ -61,13 +61,14 @@ Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce 
 
 De fiecare dată când vei jefui un ATM, vei primi 100% Heat Level, care va scădea complet în 5 ore (1% per 3 minute).
 
-| Heat Level | Cât durează să dispară? |
-| :-----------: | :-----------: |
-| 100% | 5 ore |
-| 75% | 3 ore și 45 minute |
-| 50% | 2 ore și 30 minute |
-| 25% | 1 oră și 15 minute |
-| 10% | 30 minute |
+| Heat Level | Cât durează să dispară? | Bonus, mai rapid cu 15%<br>**<Color hex="#FFD700">Gold Subscription</Color>** | Bonus, mai rapid cu 30%<br>**<Color hex="#100C84">Platinum Subscription</Color>** |
+| :-----------: | :-----------: | :-----------: | :-----------: | 
+| 100% | 5 ore | 4 ore și 15 minute | 3 ore și 30 minute |
+| 75% | 3 ore și 45 minute | 3 ore, 11 minute și 15 secunde | 2 ore și 45 minute |
+| 50% | 2 ore și 30 minute | 2 ore, 7 minute și 30 secunde | 1 oră și 45 minute | 
+| 25% | 1 oră și 15 minute | 1 oră, 3 minute și 45 secunde | 52 minute și 30 secunde |
+| 10% | 30 minute | 25 minute și 30 secunde | 21 minute |
+| 1% | 3 minute | 2 minute și 33 secunde | 2 minute și 6 secunde |
 
 ### Cum jefuiesc un ATM?
 

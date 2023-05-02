@@ -106,3 +106,24 @@ Pentru a acorda somații jucătorilor, polițistul o să folosească comanda `/s
 ::: details Exemplu percheziție
 <Image src="http://i.imgur.com/Em2TXka.gif" alt="frisk" />
 :::
+
+## Obiecte confiscabile
+
+Un tabel cu obiecte ilegale și cele ce par ilegale dar nu sunt. Dacă obiectul **nu apare** aici înseamnă că **nu este confiscabil** de poliție în urma unei percheziții.
+
+| Obiect | Confiscabil? |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/EakMdzd.png" width="50" label="Pistol Mk 2" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/b7N6yYi.png" width="50" label="Pistol 50" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/GKtbxvN.png" width="50" label="Carbine Rifle" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/W5foGq1.png" width="50" label="Special Carbine" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/8n4YIyl.png" width="50" label="Pump Shotgun" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/But86WW.png" width="50" label="Sawnoff Shotgun" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/pwlMOGy.png" width="50" label="SMG" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/Xy5s7Ov.png" width="50" label="SMG Mk 2" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/onADx1v.png" width="50" label="9mm Ammo" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/Gjadnlz.png" width="50" label="5.56 Ammo" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/kzF7YP1.png" width="50" label="12-gauge Ammo" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/nbaIUiG.png" width="50" label="Crystal Meth " /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/Kn658hi.png" width="50" label="Adderall Pills" /> | **<Color hex="#38761D">Da</Color>** |
+| <Image src="https://i.imgur.com/o5XphUl.png" width="50" label="Marijuana Joint" /> | **<Color hex="#FF0000">Nu</Color>** |
