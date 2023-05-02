@@ -20,7 +20,7 @@ title: Cryptomonede
 
    <Image src="https://i.imgur.com/dm8cs5n.png" alt="buycrypto" />
 
-  Trimiterea cryptomonedelor unui alt jucator se efectuează apăsând pe butonul Send. Pentru a transfera altui jucător un număr de **cryptomonede** căutați numele acestuia în bara `Search User`. După ce ați selectat persoana căreia doriți să îi trimiteți **cryptomonedele** trebuie să introduceți suma dorită (acest lucru poate fi realizat și mișcând slider-ul).
+  Trimiterea cryptomonedelor unui alt jucator se efectuează apăsând pe butonul Send. Pentru a transfera altui jucător un număr de **cryptomonede** căutați numele acestuia în bara `Search user`. După ce ați selectat persoana căreia doriți să îi trimiteți **cryptomonedele** trebuie să introduceți suma dorită (acest lucru poate fi realizat și mișcând slider-ul).
 
   ## La ce putem folosi cryptomonedele?
 
