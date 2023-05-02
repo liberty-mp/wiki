@@ -93,9 +93,9 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 | <Image src="https://i.imgur.com/uAC9Dqk.png" alt="Port" width="30" label="Iconiță turf port" /> | 4 teritorii |  [**Elysian Island**](https://i.imgur.com/wL8s2vU.png), [**Terminal**](https://i.imgur.com/ElkPiyb.png) | 
 
 Teritoriile din categoria **Port** permit aprovizionarea cu arme, muniție și diverse substanțe interzise.<br>
-Aprovizionarea are loc zilnic la aproximativ 15 minute după terminarea războaielor (war-uri).<br>
+Aprovizionarea are loc zilnic la ora **22:45 PM** după terminarea războaielor (war-uri).<br>
 Toți jucătorii aparținători gang-ului deținător al unui turf de tip port vor primi câte un item.<br>
-Jucătorii au timp 24 de ore pentru a extrage itemele. În caz contrar acestea vor fi șterse.
+**Jucătorii au timp 24 de ore pentru a extrage itemele. În caz contrar acestea vor fi șterse**.
 
 ### Warehouse
 
@@ -134,7 +134,7 @@ Războaiele se desfășoară conform următorului program:
 
 | Zile | Ore | 
 | :-----------: | :-----------: | 
-| Luni - Vineri | 20:00 - 22:00 | 
+| Luni & Miercuri & Vineri | 20:00 - 22:00 | 
 
 ::: warning Atenție!
 Nu există posibilitatea de a ataca teritoriile grupărilor mafiote inamice aflate deja într-un alt war, în afara programului stabilit sau la un timp prea scurt de la ultimul atac. 

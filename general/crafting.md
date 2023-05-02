@@ -22,9 +22,11 @@ Obiectele speciale sunt:
 | <Image src="https://i.imgur.com/PBET64W.png" alt="Metal" width="100" label="Metal Bar" /> | șansă de găsire la job-ul [Miner](../jobs/miner.md#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire) | [Crafting](#informații-generale-despre-crafting) |
 | <Image src="https://i.imgur.com/TW4AI6Z.png" alt="GunPowder" width="100" label="Gunpowder" /> | șansă de găsire la job-ul [Miner](../jobs/miner.md#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire) | [Crafting](#informații-generale-despre-crafting) |
 
+<br>
+
 # Sistemul de Crafting
 
-### Informații generale despre crafting
+## Informații generale despre crafting
 
 **Sistemul de Crafting** reprezintă procesul de obținere de armament, componente (atașamente) pentru arme sau muniție.
 
@@ -35,7 +37,7 @@ Obiectele speciale sunt:
 > Vezi care sunt teritoriile de tip [**Warehouse**](#warehouse). 
 
 ::: warning Atenție!
-Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote. Obținerea lucrurilor rezultate din crafting se poate face prin [Trade](./trade.md) cu mafioții.
+Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote. Obținerea lucrurilor rezultate din crafting se poate face prin [Trade](./trade.md) cu mafioții sau cumpărarea lor de pe [Marketplace](./marketplace.md).
 :::  
 
 În interiorul **Warehouse-ului** se regăsesc următoarele:
@@ -49,22 +51,21 @@ Acest sistem poate fi utilizat doar de către membrii grupărilor mafiote. Obți
 
 ## Blueprint-uri 
 
-**Blueprint-urile** reprezintă instrucțiunile pentru proiectarea obiectelor (armelor, componentelor și muniției).
+**Blueprint-urile** reprezintă instrucțiunile pentru proiectarea și construirea obiectelor (armelor, componentelor și muniției).
 Acestea se pot obține din teritoriile (turfs) tip [**Port**](#teritorii-de-tip-port) sau prin analizarea unui obiect ([**Research Table**](https://i.imgur.com/dnzRdZ5.png)).
 
-**Pe server există următoarele blueprint-uri:** 
 
 ### **Arme**
 
-<Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" /> 
+<Image src="https://i.imgur.com/rGHEdEJ.png" alt="Pistol 50" width="100" label="Pistol 50" />
+<Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="100" label="Pistol Mk II" />
+<Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" />  
+<Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" /> 
 <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> 
 <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="100" label="SMG" />  
 <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="100" label="SMG Mk II" /> 
-<Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="100" label="Carbine Rifle" />  
-<Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="100" label="Special Carbine" /> 
 
-
-### **Componente (Atașamente arme)**
+### **Atașamente arme**
 
 <Image src="https://i.imgur.com/5vJw2dQ.png" alt="Supressor" width="100" label="Supressor" /> 
 <Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" width="100" label="Scope" /> 
@@ -73,34 +74,49 @@ Acestea se pot obține din teritoriile (turfs) tip [**Port**](#teritorii-de-tip-
 
 ### **Muniție**
 
-<Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" /> 
-<Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="100" label="12-gauge" /> 
-<Image src="https://i.imgur.com/a9rvCFP.png" alt="45acp" width="100" label=".45 ACP" /> 
-<Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm" width="100" label="5.56mm" /> 
+<Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="100" label="9mm" />
+<Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm" width="100" label="5.56mm" />
+<Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="100" label="12-gauge" />
 
 ## Materiale 
 
-**Materialele** reprezintă obiectele necesare în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) pentru realizarea armelor, componentelor și muniției din blueprint-uri.
+**Materialele** reprezintă obiectele necesare în [**Crafting Table**](https://i.imgur.com/nGbKRZg.png) pentru realizarea armelor, atașamentelor și muniției din blueprint-uri.
 
 ::: tip
-Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrând la jobul [**Miner**](../jobs/miner) și [**Garbageman**](../jobs/garbageman).
+Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrând la joburile [**Miner**](../jobs/miner) și [**Garbageman**](../jobs/garbageman).
 :::
 
-**Pe server se pot crafta următoarele iteme:** 
+**Se pot crafta următoarele iteme:** 
 
 | Item | Blueprint necesar | Materiale necesare | 
 | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/EakMdzd.png" alt="Pistol Mk II" width="50" label="Pistol Mk II" /> | <Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="50" label="Pistol Mk II Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="50" label="3x Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="2x Plastic Bag" /> |
-| <Image src="https://i.imgur.com/8n4YIyl.png" alt="Pump Shotgun" width="50" label="Pump Shotgun" /> | <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="50" label="Pump Shotgun Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="50" label="9x Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="6x Plastic Bag" /> | 
-| <Image src="https://i.imgur.com/pwlMOGy.png" alt="SMG" width="50" label="SMG" /> | <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="50" label="SMG Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="50" label="6x Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="5x Plastic Bag" /> |
-| <Image src="https://i.imgur.com/Xy5s7Ov.png" alt="SMG Mk II" width="50" label="SMG Mk II" /> | <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="50" label="SMG Mk II Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="50" label="7x Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="5x Plastic Bag" /> |
-| <Image src="https://i.imgur.com/GKtbxvN.png" alt="Carbine Rifle" width="50" label="Carbine Rifle" /> | <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="50" label="Carbine Rifle Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="50" label="10x Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="7x Plastic Bag" /> |
-| <Image src="https://i.imgur.com/W5foGq1.png" alt="Special Carabine" width="50" label="Special Carbine" /> | <Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="50" label="Special Carbine Blueprint" />  | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="50" label="12x Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="9x Plastic Bag" /> |
-| <Image src="https://i.imgur.com/AIjHUAg.png" alt="Supressor" width="50" label="Supressor" /> |  <Image src="https://i.imgur.com/5vJw2dQ.png" alt="Supressor Blueprint" width="50" label="Supressor" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="50" label="Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="Plastic Bag" /> |
+| <Image src="https://i.imgur.com/EakMdzd.png" alt="Pistol Mk II" width="50" label="Pistol Mk II" /> | <Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="50" label="Pistol Mk II Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="3x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="4x Plastic Bag" /> |
+| <Image src="https://i.imgur.com/b7N6yYi.png" alt="Pistol 50" width="50" label="Pistol 50" /> | <Image src="https://i.imgur.com/rGHEdEJ.png" alt="Pistol Mk II" width="50" label="Pistol Mk II Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="5x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="4x Plastic Bag" /> |
+| <Image src="https://i.imgur.com/GKtbxvN.png" alt="Carbine Rifle" width="50" label="Carbine Rifle" /> | <Image src="https://i.imgur.com/TDPMXuJ.png" alt="Carbine Rifle" width="50" label="Carbine Rifle Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="10x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="7x Plastic Bag" /> |
+| <Image src="https://i.imgur.com/W5foGq1.png" alt="Special Car bine" width="50" label="Special Carbine" /> | <Image src="https://i.imgur.com/sxW7GkU.png" alt="Special Carabine" width="50" label="Special Carbine Blueprint" />  | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="12x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="9x Plastic Bag" /> |
+| <Image src="https://i.imgur.com/8n4YIyl.png" alt="Pump Shotgun" width="50" label="Pump Shotgun" /> | <Image src="https://i.imgur.com/oYYvTpc.png" alt="Pump Shotgun" width="50" label="Pump Shotgun Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="9x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="6x Plastic Bag" /> | 
+| <Image src="https://i.imgur.com/But86WW.png" alt="Sawnoff Shotgun" width="50" label="Sawnoff Shotgun" /> | <Image src="https://i.imgur.com/05reY4P.png" alt="Pump Shotgun" width="50" label="Pump Shotgun Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="9x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="6x Plastic Bag" /> | 
+| <Image src="https://i.imgur.com/pwlMOGy.png" alt="SMG" width="50" label="SMG" /> | <Image src="https://i.imgur.com/domhlum.png" alt="SMG" width="50" label="SMG Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="6x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="5x Plastic Bag" /> |
+| <Image src="https://i.imgur.com/Xy5s7Ov.png" alt="SMG Mk II" width="50" label="SMG Mk II" /> | <Image src="https://i.imgur.com/hvrO4Oi.png" alt="SMG Mk II" width="50" label="SMG Mk II Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="7x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="5x Plastic Bag" /> |
+
+| <Image src="https://i.imgur.com/AIjHUAg.png" alt="Supressor" width="50" label="Supressor" /> |  <Image src="https://i.imgur.com/5vJw2dQ.png" alt="Supressor Blueprint" width="50" label="Supressor" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="Plastic Bag" /> |
 | <Image src="https://i.imgur.com/ovNcLFE.png" alt="Scope" width="50" label="Scope" /> |  <Image src="https://i.imgur.com/sxaPEgD.png" alt="Scope" width="50" label="Scope Blueprint" /> | <Image src="https://i.imgur.com/B9JRqac.png" alt="Glass Fragment" width="50" label="Glass Fragment" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="Plastic Bag" /> |
-| <Image src="https://i.imgur.com/aGQh9xy.png" alt="Extended Clip" width="50" label="Extended Clip" /> |  <Image src="https://i.imgur.com/acTcj0a.png" alt="Extended Clip" width="50" label="Extended Clip Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="50" label="Metal Bare" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="Plastic Bag" /> |
-| <Image src="https://i.imgur.com/HqINYTx.png" alt="Flashlight" width="50" label="Flashlight Blueprint" /> |  <Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="50" label="Flashlight" /> | <Image src="https://i.imgur.com/B9JRqac.png" alt="Glass Fragment" width="50" label="2x Glass Fragment" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bare" width="50" label="Metal Bare" /> |
-| <Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="50" label="30x 9mm Ammo" /> | <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="50" label="9mm Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="50" label="2x Metal Bare" /> |
-| <Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="50" label="30x 12-gauge Ammo" /> | <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="50" label="12-gauge Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="50" label="2x Metal Bare" /> |
-| <Image src="https://i.imgur.com/ivgAp7g.png" alt="45acp" width="50" label="30x .45 ACP Ammo" /> | <Image src="https://i.imgur.com/a9rvCFP.png" alt="45acp" width="50" label=".45 ACP Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="50" label="2x Metal Bare" /> |
-| <Image src="https://i.imgur.com/Gjadnlz.png" alt="5.56mm" width="50" label="30x 5.56mm Ammo" /> | <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm Ammo Blueprint" width="50" label="5.56mm Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bare" width="50" label="2x Metal Bare" /> |
+| <Image src="https://i.imgur.com/aGQh9xy.png" alt="Extended Clip" width="50" label="Extended Clip" /> |  <Image src="https://i.imgur.com/acTcj0a.png" alt="Extended Clip" width="50" label="Extended Clip Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Plastic Bag" width="50" label="Plastic Bag" /> |
+| <Image src="https://i.imgur.com/HqINYTx.png" alt="Flashlight" width="50" label="Flashlight Blueprint" /> |  <Image src="https://i.imgur.com/uwqKbUR.png" alt="Flashlight" width="50" label="Flashlight" /> | <Image src="https://i.imgur.com/B9JRqac.png" alt="Glass Fragment" width="50" label="2x Glass Fragment" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="Metal Bar" /> |
+| <Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="50" label="aleatoriu între 150-250" /> | <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="50" label="9mm Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="4x Gunpoweder" width="50" label="4x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bar" width="50" label="2x Metal Bar" /> |
+| <Image src="https://i.imgur.com/Gjadnlz.png" alt="5.56mm" width="50" label="aleatoriu între 150 și 250" /> | <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm Ammo Blueprint" width="50" label="5.56mm Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bar" width="50" label="2x Metal Bar" /> |
+| <Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="50" label="aleatoriu între 30 și 70 12-gauge Ammo" /> | <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="50" label="12-gauge Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="6x Gunpoweder" width="50" label="6x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bar" width="50" label="2x Metal Bar" /> |
+
+## Armele folosesc următoarele calibre de gloanțe:
+
+Pistol (Gunshop) - .45 ACP (Gunshop)
+Pistol MK 2 (crafted by gang members, trade with them) - 9mm (same as the gun)
+Pistol 50 (crafted by gang members, trade with them) - 9mm (same as the gun)
+Carbine Rifle (crafted by gang members, trade with them) - 5.56mm (same as the gun)
+Special Carbine (crafted by gang members, trade with them) - 5.56mm (same as the gun)
+SMG (crafted by gang members, trade with them) - 9mm (same as the gun)
+SMG MK 2 (crafted by gang members, trade with them) - 9mm (same as the gun)
+Pump Shotgun (crafted by gang members, trade with them) - 12-gauge (same as the gun)
+Sawnoff Shotgun (crafted by gang members, trade with them) - 12-gauge (same as the gun)
+
+Pentru o listă cu arme și alte obiecte ce pot fi confiscate de către LSPD: [Obiecte confisabile](../factions/lspd.md#obiecte-confiscabile)
