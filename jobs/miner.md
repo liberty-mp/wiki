@@ -44,7 +44,7 @@ După ce ai început tura de job, trebuie să urmezi ruta de pe hartă până c�
 
 Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 ::: tip Detalii șanse drop  
-La **descărcarea mașinii** la punctul de procesare ai o șansă de **10%** să găsești un item de crafting, dintre care, in mod egal - **Metal Bar** sau **Gunpowder**.
+La **descărcarea mașinii** la punctul de procesare ai o șansă de **10%** să găsești un item de crafting, dintre care, o șansă de 50% să primești - **Metal Bar** sau **Gunpowder**.
 
 :::  
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
