@@ -16,11 +16,11 @@ title: Cryptomonede
 
   ## Cum putem cumpăra / vinde / transfera?
 
-  Din aplicația Bank selectăm cryptomoneda pe care vrem să o cumpărăm. O să se deschidă un nou meniu de unde putem cumpăra apăsând pe butonul Buy, urmând a introduce numărul de monede pe care o să le achiziționăm. Apăsând pe butonul Sell putem vinde monedele deținute. Această acțiune este identică cu cea de cumpărare.
+  Din aplicația Bank selectăm cryptomoneda pe care vrem să o cumpărăm. O să se deschidă un nou meniu de unde putem cumpăra apăsând pe butonul **Buy**, urmând a introduce numărul de monede pe care o să le achiziționăm. Apăsând pe butonul **Sell** putem vinde monedele deținute. Această acțiune este identică cu cea de cumpărare.
 
    <Image src="https://i.imgur.com/dm8cs5n.png" alt="buycrypto" />
 
-  Trimiterea cryptomonedelor unui alt jucator se efectuează apăsând pe butonul Send. Pentru a transfera altui jucător un număr de cryptomonede căutați numele acestuia în bara Search user. După ce ați selectat persoana căreia doriți să îi trimiteți cryptomonedele trebuie să introduceți suma dorită (acest lucru poate fi realizat și mișcând slider-ul).
+  Trimiterea cryptomonedelor unui alt jucator se efectuează apăsând pe butonul Send. Pentru a transfera altui jucător un număr de **cryptomonede** căutați numele acestuia în bara `Search user`. După ce ați selectat persoana căreia doriți să îi trimiteți **cryptomonedele** trebuie să introduceți suma dorită (acest lucru poate fi realizat și mișcând slider-ul).
 
   ## La ce putem folosi cryptomonedele?
 
