@@ -234,6 +234,7 @@ Locația folderului specificată mai sus poate să nu corespundă cu locația un
 ::: tip
 Un VPN pe care-l recomand și funcționează pentru această eroare este: [**WINDSCRIBE**](https://windscribe.com/download)
 :::
+
 ### Framedrop-uri inexplicabile
 
 Aceste probleme sunt des întâlnite cand sunt 175+ cadre pe secunda (FPS)
