@@ -243,3 +243,16 @@ Aceste probleme sunt des întâlnite cand sunt 175+ cadre pe secunda (FPS)
 
 1. Să vă limitați FPS-urile din joc activând opțiunea **VSync**.
 2. Să vă limitați FPS-urile din **NVIDIA Control Panel**, tutorial in acest [videoclip](https://www.youtube.com/watch?v=dUXBpsiDbco) sau din **AMD Software Adrenaline Edition**, tutorial in acest [videoclip](https://youtu.be/lM0D7asIjpg)
+
+### Blackscreen sau loading screen infinit
+
+Aceste probleme apar de nicăieri și pot fi destul de enervante.
+
+**Soluții:**
+
+1. Pentru o rezolvare a soluției de moment, apasă tasta **F1** și incearcă din nou conectarea pe server.
+2. Dezactivează opțiunea **Accelerated CEF rendering** a launcher-ului **RAGE Multiplayer**.
+
+::: tip
+Intră în setările launcher-ului și debifează opțiunea. În cazul în care nu știi cum să accesezi setările launcher-ului, citește [**Utilizarea launcher-ului RAGE Multiplayer**](./how-to-play#utilizarea-launcher-ului-rage-multiplayer).
+:::
