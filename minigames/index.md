@@ -1,0 +1,5 @@
+---
+title: minigames
+---
+
+minigames
