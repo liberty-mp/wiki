@@ -26,7 +26,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 | :-----------: | :-----------: |
 | **1** | primit la intrarea în facțiune | 
 | **2** | la **25 de zile** împlinite<br>de la intrarea în facțiune | 
-| **3** | la **50 de zile** împlinite<br>de la promovarea la rank 2 în facțiune | 
+| **3** | la **25 de zile** împlinite<br>de la promovarea la rank 2 în facțiune | 
 | **4** (co-leader) | mâna dreaptă a liderului,<br> promovat de către lider | 
 | **5** (leader) | ales de staff-ul serverului,<br> după anumite criterii | 
 
