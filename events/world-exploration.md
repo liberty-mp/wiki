@@ -9,7 +9,7 @@ title: World Exploration
 | Event activ? | <Color hex="#228B22">Da</Color>. |
 | Nivel minim participare? | Nu. |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate găsire obiecte speciale? | [Da](#recompensa-la-completarea-zilnică). |
+| Posibilitate găsire obiecte speciale? | [Da](#recompensa-la-completarea-zilnica). |
 | Locație statistici eveniment? | `O` **-> "Quests & Events"** |
 
 World Exploration este un eveniment zilnic în care jucătorii au ocazia de a explora statul San Andreas și de a câștiga bonusuri în cadrul diferitelor activități.  
@@ -26,7 +26,7 @@ Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie c
 
 | între | un obiect aleatoriu dintre | 25% să primiți între
 | :-----------: | :-----------: | :-----------: |
-| <Dinero :amount='1200' />**~**<Dinero :amount='1500' /> | <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="40" label="reel rod" /> <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="40" label="rod guide" /> <Image src=https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="40" label="rod grip" /> <Image src="https://i.imgur.com/fyaexmI.png" alt="Plastic" width="40" label="plastic" /> <Image src="https://i.imgur.com/TW4AI6Z.png" alt="Gunpowder" width="40" label="gunpowder" /> <Image src="https://i.imgur.com/oNhIgen.png" alt="Shattered Glass" width="40" label="shattered glass" />| <Gold :amount='10' />**~**<Gold :amount='50' />
+| <Dinero :amount='1200' />**~**<Dinero :amount='1500' /> | <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="40" label="reel rod" /> <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="40" label="rod guide" /> <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="40" label="rod grip" /> <Image src="https://i.imgur.com/fyaexmI.png" alt="Plastic" width="40" label="plastic" /> <Image src="https://i.imgur.com/TW4AI6Z.png" alt="Gunpowder" width="40" label="gunpowder" /> <Image src="https://i.imgur.com/oNhIgen.png" alt="Shattered Glass" width="40" label="shattered glass" />| <Gold :amount='10' />**~**<Gold :amount='50' />
 
 ### Recompense streak (serie) completări eveniment:  
 
