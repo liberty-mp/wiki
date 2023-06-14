@@ -8,7 +8,7 @@ World Exploration este un eveniment zilnic în care jucătorii au ocazia de a ex
 
 Statul San Andreas este un mediu vast, care cuprinde orașul Los Santos și zonele înconjurătoare, cum ar fi munți, plaje, păduri și deșerturi. În timpul evenimentului "World Exploration", jucătorii sunt încurajați să exploreze harta și să descopere tot ceea ce are de oferit, de la priveliști uimitoare la locații perfecte pentru o întâlnire a pasionaților de vehicule.  
 
-Pentru a completa acest eveniment, trebuie să vizitezi _**15**_ locații aflate pe hartă la icon-ul <Image src="https://i.imgur.com/YbL7cmt.png" alt="World Exploration" width="25" />. Poți filtra acest icon în harta din `ESC`.  
+Pentru a completa acest event, trebuie să vizitezi _**15**_ locații aflate pe hartă la icon-ul <Image src="https://i.imgur.com/YbL7cmt.png" alt="World Exploration" width="25" />. Poți filtra acest icon în harta din `ESC`.  
 
 Evenimentul se bazează pe un 'streak' (o serie) de completări zilnice consecutive.  
 
@@ -19,7 +19,7 @@ Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie c
 
 | între | un obiect aleatoriu dintre | 25% să primiți între
 | :-----------: | :-----------: | :-----------: |
-| <Dinero :amount='1200' />**~**<Dinero :amount='1500' /> | <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="40" label="reel rod" />      <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="40" label="rod guide" />        <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="40" label="rod grip" /> <br> <Image src="https://i.imgur.com/fyaexmI.png" alt="Plastic" width="40" label="plastic" />     <Image src="https://i.imgur.com/TW4AI6Z.png" alt="Gunpowder" width="40" label="gunpowder" />        <Image src="https://i.imgur.com/oNhIgen.png" alt="Shattered Glass" width="40" label="shattered glass" />| <Gold :amount='10' />    **~**   <Gold :amount='50' />
+| <Dinero :amount='1200' />**~**<Dinero :amount='1500' /> | <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="40" label="reel rod   " /> <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="40" label="rod guide   " /> <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="40" label="rod grip   " /> <br> <Image src="https://i.imgur.com/fyaexmI.png" alt="Plastic" width="40" label="plastic   " /> <Image src="https://i.imgur.com/TW4AI6Z.png" alt="Gunpowder" width="40" label="gunpowder   " /> <Image src="https://i.imgur.com/oNhIgen.png" alt="Shattered Glass" width="40" label="shattered glass   " />| <Gold :amount='10' /> **și** <Gold :amount='50' />
 
 
 ### Recompense streak (serie) completări eveniment:  
