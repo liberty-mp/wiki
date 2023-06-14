@@ -33,9 +33,9 @@ Un Treasure Map conține 4 comori ascunse ->  <Image src="https://i.imgur.com/XX
 
 Un Fisherman's Bounty Crate conține unul dintre următoarele premii:
 
-::: details
+:::details
 | General | Obiecte speciale (crafting) | Shop Items | Shop Items |
-| :-: | :-: | :-: |
+| :-: | :-: | :-: | :-: |
 | <Image src="https://i.imgur.com/RoA7lEI.png" alt="Cash" width="50" label="$ Cash" /> | <Image src="https://i.imgur.com/Nts90lm.png" alt="2x Hook" width="50" label="2x Hook" /> | <Image src="https://i.imgur.com/5lCArfs.png" alt="Vehicle Slot" width="50" label="Vehicle Slot" /> | <Image src="https://i.imgur.com/agE3E2g.png" alt="Name Change Ticket" width="50" label="Name Change Ticket" /> |
 | <Image src="https://i.imgur.com/HW4RdUd.png" alt="Gold" width="50" label="Gold" /> | <Image src="https://i.imgur.com/sADBSSH.png" alt="5x Rope" width="50" label="5x Rope" /> | <Image src="https://i.imgur.com/UV4bXUr.png" alt="Vehicle Plate Ticket" width="50" label="Vehicle Plate Ticket" /> | <Image src="https://i.imgur.com/5lCArfs.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> |
 | | <Image src="https://i.imgur.com/6maDBiv.png" alt="Reel Rod" width="50" label="Reel Rod" /> | <Image src="https://i.imgur.com/HDc8Xiu.png" alt="Vehicle Custom Color Ticket" width="50" label="Vehicle Custom Color Ticket" /> | <Image src="https://i.imgur.com/xu36tbx.png" alt="25 Inventory Slots Ticket" width="50" label="25 Inventory Slots Ticket" /> |
