@@ -10,7 +10,7 @@ Lângă fiecare [pescar de pe hartă](../jobs/fisherman.md), acum este prezent a
 
 În momentul achiziției, jucătorii vor primi 4 X-uri (puncte) aleatorii, afișate pe Treasure Map, puncte pe care trebuie să le găsească și în care să sape în speranța găsirii unui cufăr de comori. Fiecare comoară dezgropată cu succes te va recompensa cu un Treasure Chest.
 
-::: tip Informații:
+:::tip Informații:
 Evenimentul **NU** are o limită de repetări pe zi. Poți rezolva câte Treasure Maps dorești.
 Poți avea maxim un Treasure Map în inventar. Nu este tradable.
 Shovel-ul trebuie cumpărat doar o dată, nu se uzează.

@@ -1,5 +1,5 @@
 ---
-title: Server Events
+title: Informații evenimente
 ---
 
 Evenimentele adaugă o dimensiune suplimentară experienței de joc, facilitând colaborarea și competiția între jucători și oferind o diversitate mai mare de activități (explorarea) și interacțiuni (trade-ul) în cadrul statului Los Santos.

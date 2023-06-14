@@ -51,7 +51,7 @@ Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie c
 Evenimentul dispune și de un obiectiv de completări consecutive.  
 La fiecare _**10**_ completări jucătorii sunt răsplătiți cu <Gold :amount='50' />.  
 
-::: danger Atenție!
+:::danger Atenție!
 Dacă nu completați evenimentul într-o zi, streak-ul (seria) suferă o pierdere de 3 completări (și bonusurile câștigate deja, scad la nr. respectiv de completări).
 ex.: Dacă ai 15 completări și astăzi nu completezi quest-ul minim o dată, pierzi 3 completări (la 07:00 vei avea 12 completări).
 Streak-ul (seria) cât și bonusurile câștigate deja se vor pierde dacă nu completați evenimentul pentru o zi.  
