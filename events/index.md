@@ -10,7 +10,7 @@ Evenimentele adaugă o dimensiune suplimentară experienței de joc, facilitând
 | :-----------: | :-----------: | :-----------: |
 | Event activ? | <Color hex="#228B22">DA</Color> | <Color hex="#9c2c22">NU</Color> |
 | Nivel minim participare? | NU | NU |
-| Posibilitate găsire obiecte speciale (crafting)? | [DA](./world-exploration.md#recompensa-la-completarea-zilnica) | [DA](./fisherman-bounty.md#treasure-map-rewards) |
+| Posibilitate găsire<br>obiecte speciale (crafting)? | [DA](./world-exploration.md#recompensa-la-completarea-zilnica) | [DA](./fisherman-bounty.md#treasure-map-rewards) |
 | Necesită iteme specifice? | NU | [DA](./fisherman-bounty.md#fishermans-bounty-🎣🗺️🗝️) |
 | Locație statistici eveniment? | `O` **-> "Quests & Events"** | **Inventory** |
 <!-- #9c2c22">NU | (red color - NU) -->
