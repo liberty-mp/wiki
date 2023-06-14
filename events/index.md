@@ -6,14 +6,14 @@ Evenimentele adaugă o dimensiune suplimentară experienței de joc, facilitând
 
 # Evenimente
 
-| Întrebare | 🗺️ World Exploration 🧭 |  🎣 Fisherman's Bounty 🗺️🗝️ |
+| Întrebare | World Exploration 🗺️🧭 | Fisherman's Bounty 🎣🗺️🗝️ |
 | :-----------: | :-----------: | :-----------: |
-| Event activ? | <Color hex="#228B22">DA</Color> |  | <Color hex="#800020">NU</Color> |
+| Event activ? | <Color hex="#228B22">DA</Color> | <Color hex="#9c2c22">NU</Color> |
 | Nivel minim participare? | NU | NU |
 | Posibilitate găsire obiecte speciale (crafting)? | [DA](./world-exploration.md#recompensa-la-completarea-zilnica) | [DA](./fisherman-bounty.md#treasure-map-rewards) |
 | Necesită iteme specifice? | NU | [DA](./fisherman-bounty.md#fishermans-bounty-🎣🗺️🗝️) |
-| Locație statistici eveniment? | `O` **-> "Quests & Events"** | Inventory |
-<!-- #800020">NU | (red color - NU) -->
+| Locație statistici eveniment? | `O` **-> "Quests & Events"** | **Inventory** |
+<!-- #9c2c22">NU | (red color - NU) -->
 <!-- #228B22">DA | (green color - DA) -->
 
 Evenimentele de pe [🗽liberty.mp](https://liberty.mp) sunt acțiuni, situații sau întâmplări care au loc în joc într-un mod organizat și planificat. Aceste evenimente sunt create și gestionate pentru a oferi jucătorilor o experiență mai interesantă și interactivă pe server pe lângă acțiunile de bază făcute în fiecare zi.
