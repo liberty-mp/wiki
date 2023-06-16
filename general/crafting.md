@@ -109,14 +109,16 @@ Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrâ
 
 ## Armele folosesc următoarele calibre de gloanțe:
 
-Pistol (Gunshop) - .45 ACP (Gunshop)<br>
-Pistol MK 2 (crafted by gang members, trade with them) - 9mm (same as the gun)<br>
-Pistol 50 (crafted by gang members, trade with them) - 9mm (same as the gun)<br>
-Carbine Rifle (crafted by gang members, trade with them) - 5.56mm (same as the gun)<br>
-Special Carbine (crafted by gang members, trade with them) - 5.56mm (same as the gun)<br>
-SMG (crafted by gang members, trade with them) - 9mm (same as the gun)<br>
-SMG MK 2 (crafted by gang members, trade with them) - 9mm (same as the gun)<br>
-Pump Shotgun (crafted by gang members, trade with them) - 12-gauge (same as the gun)<br>
-Sawnoff Shotgun (crafted by gang members, trade with them) - 12-gauge (same as the gun)<br>
+| Arma | Muniție necesară |
+| :---: | :---:           |
+|<Image src="https://i.imgur.com/LkAOai4.png" alt="Pistol(Gun Shop)" width="25" label="Pistol(Gun Shop)" />|<Image src="https://i.imgur.com/Qd0G5IP.png" alt=".45ACP(Gun Shop)" width="50" label=".45ACP(Gun Shop)"/>|
+|<Image src="https://i.imgur.com/EakMdzd.png" alt="Pistol Mk II" width="50" label="Pistol Mk II"/>|<Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="50" label="9mm"/>|
+|<Image src="https://i.imgur.com/b7N6yYi.png" alt="Pistol 50" width="50" label="Pistol 50"/>|<Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="50" label="9mm"/>|
+|<Image src="https://i.imgur.com/GKtbxvN.png" alt="Carbine Rifle" width="50" label="Carbine Rifle"/>|<Image src="https://i.imgur.com/Gjadnlz.png" alt="5.56mm" width="50" label="5.56mm"/>|
+|<Image src="https://i.imgur.com/W5foGq1.png" alt="Special Carbine" width="50" label="Special Carbine"/>|<Image src="https://i.imgur.com/Gjadnlz.png" alt="5.56mm" width="50" label="5.56mm"/>|
+|<Image src="https://i.imgur.com/pwlMOGy.png" alt="SMG" width="50" label="SMG"/>|<Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="50" label="9mm"/>|
+|<Image src="https://i.imgur.com/Xy5s7Ov.png" alt="SMG Mk II" width="50" label="SMG Mk II"/>|<Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="50" label="9mm"/>|
+|<Image src="https://i.imgur.com/8n4YIyl.png" alt="Pump Shotgun" width="50" label="Pump Shotgun"/>|<Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="50" label="12-gauge"/>|
+|<Image src="https://i.imgur.com/But86WW.png" alt="Sawnoff Shotgun" width="50" label="Sawnoff Shotgun"/>|<Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="50" label="12-gauge"/>|
 
 _Pentru o listă cu arme și alte obiecte ce pot fi confiscate de către LSPD: [Obiecte confisabile](../factions/lspd.md#obiecte-confiscabile)_
