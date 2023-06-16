@@ -121,4 +121,18 @@ Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrâ
 |<Image src="https://i.imgur.com/8n4YIyl.png" alt="Pump Shotgun" width="50" label="Pump Shotgun"/>|<Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="50" label="12-gauge"/>|
 |<Image src="https://i.imgur.com/But86WW.png" alt="Sawnoff Shotgun" width="50" label="Sawnoff Shotgun"/>|<Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="50" label="12-gauge"/>|
 
+## Compatibilitatea atașamentelor pentru arme
+
+| Arma |<Image src="https://i.imgur.com/AIjHUAg.png" alt="Supressor" width="50" label="Supressor"/>|<Image src="https://i.imgur.com/ovNcLFE.png" alt="Scope" width="50" label="Scope"/>|<Image src="https://i.imgur.com/aGQh9xy.png" alt="Extended Clip" width="50" label="Extended Clip"/>|<Image src="https://i.imgur.com/HqINYTx.png" alt="Flashlight" width="50" label="Flashlight"/>|
+| :---: | :---: |
+|<Image src="https://i.imgur.com/EakMdzd.png" alt="Pistol Mk II" width="50" label="Pistol Mk II"/>|**<Color hex="#38761D">Da</Color>**|**<Color hex="#FF0000">Nu</Color>**|**<Color hex="#38761D">Da</Color>**|**<Color hex="#38761D">Da</Color>**|
+|<Image src="https://i.imgur.com/b7N6yYi.png" alt="Pistol 50" width="50" label="Pistol 50"/>|**<Color hex="#38761D">Da</Color>**|**<Color hex="#FF0000">Nu</Color>**|**<Color hex="#38761D">Da</Color>**|**<Color hex="#38761D">Da</Color>**|
+|<Image src="https://i.imgur.com/pwlMOGy.png" alt="SMG" width="50" label="SMG"/>|**<Color hex="#38761D">Da</Color>**|**<Color hex="#38761D">Da</Color>**|<Color hex="#38761D">Da</Color>**|<Color hex="#38761D">Da</Color>**|
+|<Image src="https://i.imgur.com/Xy5s7Ov.png" alt="SMG Mk II" width="50" label="SMG Mk II"/>|**<Color hex="#38761D">Da</Color>**|**<Color hex="#38761D">Da</Color>**|<Color hex="#38761D">Da</Color>**|<Color hex="#38761D">Da</Color>**|
+|<Image src="https://i.imgur.com/GKtbxvN.png" alt="Carbine Rifle" width="50" label="Carbine Rifle"/>|**<Color hex="#38761D">Da</Color>**|**<Color hex="#38761D">Da</Color>**|<Color hex="#38761D">Da</Color>**|<Color hex="#38761D">Da</Color>**|
+|<Image src="https://i.imgur.com/W5foGq1.png" alt="Special Carbine" width="50" label="Special Carbine"/>|**<Color hex="#38761D">Da</Color>**|**<Color hex="#38761D">Da</Color>**|<Color hex="#38761D">Da</Color>**|<Color hex="#38761D">Da</Color>**|
+|<Image src="https://i.imgur.com/8n4YIyl.png" alt="Pump Shotgun" width="50" label="Pump Shotgun"/>|**<Color hex="#38761D">Da</Color>**|**<Color hex="#FF0000">Nu</Color>**|**<Color hex="#FF0000">Nu</Color>**|**<Color hex="#38761D">Da</Color>**|
+
+
+
 _Pentru o listă cu arme și alte obiecte ce pot fi confiscate de către LSPD: [Obiecte confisabile](../factions/lspd.md#obiecte-confiscabile)_
