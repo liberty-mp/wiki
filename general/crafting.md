@@ -109,7 +109,7 @@ Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrâ
 
 ## Armele folosesc următoarele calibre de gloanțe:
 
-| Arma | Gloante necesare |
+| Arma | Muniție necesară |
 | :---: | :---:           |
 |<Image src="https://i.imgur.com/LkAOai4.png" alt="Pistol(Gun Shop)" width="25" label="Pistol(Gun Shop)" />|<Image src="https://i.imgur.com/Qd0G5IP.png" alt=".45ACP(Gun Shop)" width="50" label=".45ACP(Gun Shop)"/>|
 |<Image src="https://i.imgur.com/EakMdzd.png" alt="Pistol Mk II" width="50" label="Pistol Mk II"/>|<Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="50" label="9mm"/>|
