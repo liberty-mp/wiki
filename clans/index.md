@@ -41,19 +41,19 @@ După aprobare, clanul va apărea în lista de clanuri (poza 6).
 1. Create Clan from Shop
 <Image src="https://i.imgur.com/Pb3yG54.png" alt="Create Clan from Shop" />
 
-1. Create Clan from Clans
+2. Create Clan from Clans
 <Image src="https://i.imgur.com/pD90oc2.png" alt="Create Clan from Clans" />
 
-1. Create Clan Form
+3. Create Clan Form
 <Image src="https://i.imgur.com/lZCBaMg.png" alt="Create Clan Form" />
 
-1. Create Clan Confirmation
+4. Create Clan Confirmation
 <Image src="https://i.imgur.com/V0DdudK.png" alt="Create Clan Confirmation" />
 
-1. Create Clan Manager+ Approve
+5. Create Clan Manager+ Approve
 <Image src="https://i.imgur.com/xpivXvM.png" alt="Create Clan Manager+ Approve" />
 
-1. Clan Page List
+6. Clan Page List
 <Image src="https://i.imgur.com/zWIJZRN.png" alt="Clan Page List" />
 
 :::
