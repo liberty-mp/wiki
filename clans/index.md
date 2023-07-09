@@ -6,7 +6,7 @@ title: Clans
 | :-----------: | :-----------: | :-----------: |
 | Create clan | <Gold :amount='20000' /> | 1 clan/jucator |
 | Member Slot | <Gold :amount='500' /> per slot | 50 members (slots) |
-| Vehicle Slot | <Gold :amount='100' /> gold per slot | 15 vehicles (slots) |
+| Vehicle Slot | <Gold :amount='1000' /> gold per slot | 15 vehicles (slots) |
 | Transfer Ownership | <Gold :amount='3000' /> per transfer | 1 clan/jucator |
 | Extend Clan 1 Month | <Gold :amount='5000' /> per month | 30 days added |
 
