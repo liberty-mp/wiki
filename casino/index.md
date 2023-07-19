@@ -3,7 +3,7 @@ title: casino
 ---
 
 ### Diamond Casino & Resort
-Casino-ul momentan are doar un joc, acesta fiind [poker](../casino/poker.md).
+Casino-ul momentan are doar un joc, acesta fiind [poker](./poker.md).
 În interiorul cazinoului sunt 15 [mese de poker](#masa-de-poker) si o [casierie](#casierie), unde poți cumpără sau vinde <Image src="https://i.imgur.com/V5PL4Jz.png" alt="Casino-Token" width="14" /> token-uri.
 ::: details Mapa casino-ului
 <Image src="https://i.imgur.com/QOyVfwo.png" alt="Mapa casino-ului-1" width="340" heigt="140" /><Image src="https://i.imgur.com/lFAdrvf.png" alt="Mapa casino-ului-2" width="340" heigt="140" />
