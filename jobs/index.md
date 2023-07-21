@@ -59,6 +59,8 @@ Ai nevoie de **permis de conducere categoria B**, dacă nu vrei să riști **o v
 
 > Vezi detalierea jobului [Electrician](./electrician).  
 
+---
+
 ### Fisherman 🎣
 
 Relaxează-te pe mal, explorează oceanul sau învinge valurile și adu captura acasă!  
@@ -67,6 +69,8 @@ Ești pregătit să îți transformi abilitățile de pescuit într-un stil de v
 Ai nevoie de **echipament**, multă răbdare și de preferat, un **mijloc de transport**.  
 
 > Vezi detalierea jobului [Fisherman](./fisherman).  
+
+---
 
 ### Garbageman ♻️
 
@@ -77,6 +81,8 @@ Ai nevoie de un nas puternic și **permis de conducere categoria B**, dacă nu v
 
 > Vezi detalierea jobului [Garbageman](./garbageman).  
 
+---
+
 ### Lumberjack 🪓
 
 Vrei să descoperi farmecul vieții în sălbăticie? Călătorește în adâncurile pădurii și ia parte la o aventură plină de provocări și dealuri aducând lemnul necesar construcției orașului nostru! Explorează natura și muncește din greu pentru a tăia arborii cu pricepere și îndemânare. Când munca este gata, vei fi recompensat cu bani frumoși și simțul împlinirii de a fi contribuit la construcția orașului nostru. 
@@ -84,6 +90,8 @@ Vrei să descoperi farmecul vieții în sălbăticie? Călătorește în adâncu
 Ai nevoie de brațe puternice și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.  
 
 > Vezi detalierea jobului [Lumberjack](./lumberjack).  
+
+---
 
 ### Miner ⛏️
 
@@ -93,6 +101,8 @@ Ai nevoie de forță și **permis de conducere categoria B**, dacă nu vrei să 
 
 > Vezi detalierea jobului [Miner](./miner).  
 
+---
+
 ### Trucker 🚚
 
 Condu camioanele noastre prin cele mai periculoase și provocatoare drumuri, asigurându-te că livrarea se face în siguranță și la timp. Descoperă cele mai frumoase locații din statul San Andreas în timp ce livrezi marfa. Câștigă bani frumoși și bucură-te de libertatea pe care acest job o oferă.
@@ -100,3 +110,13 @@ Condu camioanele noastre prin cele mai periculoase și provocatoare drumuri, asi
 Ai nevoie de experiență în condus și **permis de conducere categoria C**, dacă nu vrei să riști **o vizită la închisoare**!.  
 
 > Vezi detalierea jobului [Trucker](./trucker). 
+
+---
+
+### Tow Truck Driver 🚛🚧
+
+Fii eroul drumurilor! Îmbarcă-te în camionul de tractare și adu salvarea în fiecare colț al orașului. Dacă iubești mașinile și ai abilități de conducere de top, acesta este jobul perfect pentru tine! Oferă asistență rapidă șoferilor cu probleme, salvează mașini avariate și câștigă bani pe măsură ce devii mâna de ajutor pe roți. Pune-ți centura de siguranță și pregătește-te să fii în centrul acțiunii! 🚀💪
+
+Ai nevoie de pricepere la volan și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.
+
+> Vezi detalierea jobului [Tow Truck Driver](./tow-truck-driver). 
