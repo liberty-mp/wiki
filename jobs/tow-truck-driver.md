@@ -52,6 +52,10 @@ La sosirea la locul de descărcare, adoptă o abordare precisă și meticuloasă
   <Image src="https://i.imgur.com/0M4NBWF.png" alt="Notificare plata" />
 :::  
 
+::: tip
+Dacă vehiculul a fost abordat de la spate, ține apăsat tasta `H`, și hook-ul își va schimba poziția de remorcare.
+:::
+
 ## Upgrades
 
 În calitate de Tow Truck Driver, ai posibilitatea de a îmbunătăți performanțele fiecărui Tow Truck prin intermediul upgrade-urilor. Acestea vor contribui la eficientizarea activității tale și vor spori performantele vehiculului de remorcare. 
