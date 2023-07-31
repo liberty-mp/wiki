@@ -9,7 +9,8 @@ Tow Truck Rally este evenimentul prin care dorim să readucem pofta de joacă ş
 La Tow Truck Rally, veți fi martorii unei competiții palpitante, care pun la încercare abilitățile șoferilor de camioane de tractare. Unul dintre cele mai populare evenimente din cadrul raliului este concursul de remorcare a vehiculelor grele, în care șoferii trebuie să demonstreze dexteritatea și puterea camionului lor pentru a trage vehicule din ce în ce mai masive pe distanțe impresionante.
 
 Pe parcursul evenimentului, tracatarea maşinilor îţi va aduce obţinerea a câte un Tow Truck Rally Crate care conţine multe premii atractive.
-Pentru mai multe detalii legate de acest job poţi accesa [Tow Truck Driver - informaţii](jobs\tow-truck-driver.md).
+
+Pentru mai multe detalii legate de acest job poţi accesa [Tow Truck Driver - informaţii](../jobs/tow-truck-driver).
 
 :::tip Informații:
 Când este activ evenimentul **NU** are o limită de repetări.<br>
