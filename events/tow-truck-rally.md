@@ -1,37 +1,30 @@
 ---
-title: Fisherman's Bounty 
+title: Tow Truck Rally
 ---
 
-# Fisherman's Bounty 🎣🗺️🗝️  
+# Tow Truck Rally 🚗🗺️
 
-Evenimentul cu care începem vara ne va oferi oportunitatea de a pleca în căutarea comorilor ascunse în zonele extraurbane ale hărții. Cât timp evenimentul este activ, jucătorii vor obține câte un Special Event Token pescuind, fiecare pește prins oferind un astfel de token. Event Tokens sunt tradable si vor fi folosiți și la viitoare evenimente.
+Tow Truck Rally este evenimentul prin care dorim să readucem pofta de joacă şi de a fi primul în top.
 
-Lângă fiecare [pescar de pe hartă](../jobs/fisherman.md), acum este prezent asistentul Dembe, care iți va spune pe scurt ce să faci și îți va pune la dispoziție un magazin din care vei putea achiziționa Treasure Maps si Shovel (lopată).
+La Tow Truck Rally, veți fi martorii unei competiții palpitante, care pun la încercare abilitățile șoferilor de camioane de tractare. Unul dintre cele mai populare evenimente din cadrul raliului este concursul de remorcare a vehiculelor grele, în care șoferii trebuie să demonstreze dexteritatea și puterea camionului lor pentru a trage vehicule din ce în ce mai masive pe distanțe impresionante.
 
-În momentul achiziției, jucătorii vor primi 4 X-uri (puncte) aleatorii, afișate pe Treasure Map, puncte pe care trebuie să le găsească și în care să sape în speranța găsirii unui cufăr de comori. Fiecare comoară dezgropată cu succes te va recompensa cu un Treasure Chest.
+Pe parcursul evenimentului, tracatarea maşinilor îţi va aduce obţinerea a câte un Tow Truck Rally Crate care conţine multe premii atractive.
+
+Pentru mai multe detalii legate de acest job poţi accesa [Tow Truck Driver - informaţii](../jobs/tow-truck-driver).
 
 :::tip Informații:
-Evenimentul **NU** are o limită de repetări pe zi. Poți rezolva câte Treasure Maps dorești.<br>
-Poți avea maxim un Treasure Map în inventar. Nu este tradable.<br>
-Shovel-ul trebuie cumpărat doar o dată, nu se uzează.<br>
-Event Tokens & Shovel & Fisherman's Bounty Crate **sunt tradable**.<br>
-Event Tokens & Fisherman's Bounty Crate - maxim 100 bucăți/stack.<br>
+Când este activ evenimentul **NU** are o limită de repetări.<br>
+Ai nevoie de minim level 5 pentru acest job şi pentru a participa la eveniment.<br>
+Tow Truck Rally Crate **este tradable**.<br>
 :::
 
-### Dembe's Shop
 
-Vorbind cu Dembe, poți cumpăra următoarele obiecte folosind Special Event Tokens:
 
-| Item | Tokens |
-| :-: | :-: |
-| <Image src="https://i.imgur.com/CjvfBdN.png" alt="Treasure Map" width="50" label="Treasure Map" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x100 Tokens" /> |
-| <Image src="https://i.imgur.com/c3AHcGs.png" alt="Shovel" width="50" label="Shovel" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x25 Tokens" /> |
+### Tow Truck Rally Rewards
 
-### Treasure Map Rewards  
+Pe parcursul evenimentului vei primii un Tow Truck Rally Crate ->  <Image src="https://i.imgur.com/9L806cM.png" alt="1x Tow Truck Rally Crate" width="50" label="1x Tow Truck Rally Crate" />
 
-Un Treasure Map conține 4 comori ascunse ->  <Image src="https://i.imgur.com/XXnyUwO.png" alt="4x Fisherman's Bounty Crate" width="50" label="4x Fisherman's Bounty Crate" />
-
-Un Fisherman's Bounty Crate conține unul dintre următoarele premii:
+Acest crate conține unul dintre următoarele premii:
 
 :::details
 | General | Obiecte speciale (crafting) | Shop Items | Shop Items |
