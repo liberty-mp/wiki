@@ -26,33 +26,40 @@ Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie c
 
 | nr. completări **consecutive** | recompensă |
 | :-----------: | :-----------: |
-| 3 completări | 5% job boost |
+| 3 completări | 5% active job boost |
 | 6 completări | 5% mai multă experiență la payday |
 | 10 completări | 5% mai mulți bani la rob |
 |               |                          |
-| 15 completări | 8% job boost |
+| 15 completări | 8% active job boost |
 | 20 completări | 8% mai multă experiență la payday |
 | 25 completări | 8% mai mulți bani la rob |
 |               |                          |
-| 30 completări | 12% job boost |
+| 30 completări | 12% active job boost |
 | 35 completări | 12% mai multă experiență la payday |
 | 40 completări | 12% mai mulți bani la rob |
 |               |                          |
-| 45 completări | 16% job boost |
+| 45 completări | 16% active job boost |
 | 50 completări | 16% mai multă experiență la payday |
 | 55 completări | 16% mai mulți bani la rob |
 |               |                          |
-| 60 completări | 20% job boost |
+| 60 completări | 20% active job boost |
 | 65 completări | 20% mai multă experiență la payday |
 | 70 completări | 20% mai mulți bani la rob |
 |               |                          |
-| 100 completări | 25% job boost<br>25% mai multă experiență la payday<br>25% mai mulți bani la rob |
+| 100 completări | 25% active job boost<br>25% mai multă experiență la payday<br>25% mai mulți bani la rob |
+|               |                          |
+| 105 completări | 5% passive job boost |
+| 110 completări | 10% passive job boost |
+| 115 completări | 15% passive job boost |
+| 120 completări | 20% passive job boost |
+| 125 completări | 25% passive job boost |
 
 Evenimentul dispune și de un obiectiv de completări consecutive.  
 La fiecare _**10**_ completări jucătorii sunt răsplătiți cu <Gold :amount='50' />.  
 
 :::danger Atenție!
 Dacă nu completați evenimentul într-o zi, streak-ul (seria) suferă o pierdere de 3 completări (și bonusurile câștigate deja, scad la nr. respectiv de completări).
+Dacă aveți cont premium de tip Platinum Subscription, nu suferiți pierderea streak-ului.
 ex.: Dacă ai 15 completări și astăzi nu completezi quest-ul minim o dată, pierzi 3 completări (la 07:00 vei avea 12 completări).
 Streak-ul (seria) cât și bonusurile câștigate deja se vor pierde dacă nu completați evenimentul pentru o zi.  
 Bonusurile nu se cumulează!  

@@ -16,6 +16,7 @@ Pentru mai multe detalii legate de acest job poţi accesa [Tow Truck Driver - in
 Când este activ evenimentul **NU** are o limită de repetări.<br>
 Ai nevoie de minim level 5 pentru acest job şi pentru a participa la eveniment.<br>
 Tow Truck Rally Crate **este tradable**.<br>
+Jucatorii vor dropa un crate cand vor acumula $390-$550 (de baza, venitul de la skill-ul bronze, fara niciun bonus adaugat) in urma activitatii in cadrul jobului.
 :::
 
 

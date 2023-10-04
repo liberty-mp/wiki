@@ -4,9 +4,22 @@ title: Informații generale joburi
 
 ### Informații generale joburi
  
-Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a joburilor prezente în momentul actual pe server.  
+Pe server există 8 joburi active și un job pasiv, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a joburilor prezente în momentul actual pe server.  
 
 ## Întrebări frecvente
+
+## Joburi active și pasive  
+
+Joburile active reprezintă joburile care au multiple obiective de împlinit și necesită o activitate constantă a jucătorului pentru a fi plătit.  
+
+Joburile pasive reprezintă joburile care nu necesită o activitate constantă a jucătorului la calculator (AFK), dar au necesități ridicate față de joburile active.  
+
+**Venitul generat în urma practicării unui job pasiv va fi mereu mai mic decât venitul unui job activ.**  
+**Joburile pasive dețin skill-uri proprii cu o nouă formulă de avansare.**  
+**Joburile pasive nu beneficiază de bonusurile obișnuite de job boost (Marijuana Joint, clan perk-ul "Team Work Empowerment", job boost-ul din cadrul evenimentului "World Exploration"), în schimb au fost adăugate noi perk-uri și bonusuri speciale pentru acest tip de job.**  
+
+**Clanurile beneficiază de un nou perk intitulat "Master of Passive Gains".**  
+**Completarea evenimentului World Exploration Între 100 și 125 completări aduce un nou bonus pentru joburile pasive.**  
 
 ### Ce venituri sunt la joburi?
 
@@ -46,7 +59,7 @@ Exemplu: La sfârșitul unei ture de Lumberjack cu skill-ul Bronze (de început)
  
 Pentru a termina tura de job, tastează comanda `/stopwork`. Vehiculul oferit de job își va da respawn (dacă ai primit unul) și nu vei mai primi noi task-uri de realizat în cadrul jobului.   
 
-## Listă joburi
+## Listă joburi active
 
 ### Electrician 🔌
 
@@ -66,7 +79,7 @@ Ai nevoie de **permis de conducere categoria B**, dacă nu vrei să riști **o v
 Relaxează-te pe mal, explorează oceanul sau învinge valurile și adu captura acasă!  
 Ești pregătit să îți transformi abilitățile de pescuit într-un stil de viață? Asigură orașului o sursă de hrană și în același timp, câștigă o sumă frumoasă de bani!
 
-Ai nevoie de **echipament**, multă răbdare și de preferat, un **mijloc de transport**.  
+Ai nevoie de **minim nivel 10, echipament pentru pescuit**, multă răbdare și de preferat, un **mijloc de transport**.  
 
 > Vezi detalierea jobului [Fisherman](./fisherman).  
 
@@ -115,8 +128,26 @@ Ai nevoie de experiență în condus și **permis de conducere categoria C**, da
 
 ### Tow Truck Driver 🚛🚧
 
-Fii eroul drumurilor! Îmbarcă-te în camionul de tractare și adu salvarea în fiecare colț al orașului. Dacă iubești mașinile și ai abilități de conducere de top, acesta este jobul perfect pentru tine! Oferă asistență rapidă șoferilor cu probleme, salvează mașini avariate și câștigă bani pe măsură ce devii mâna de ajutor pe roți. Pune-ți centura de siguranță și pregătește-te să fii în centrul acțiunii! 🚀💪
+Fii eroul drumurilor! Îmbarcă-te în camionul de tractare și adu salvarea în fiecare colț al orașului. Dacă iubești mașinile și ai abilități de conducere de top, acesta este jobul perfect pentru tine! Oferă asistență rapidă șoferilor cu probleme, salvează mașini avariate și câștigă bani pe măsură ce devii mâna de ajutor pe roți. Pune-ți centura de siguranță și pregătește-te să fii în centrul acțiunii!
 
-Ai nevoie de pricepere la volan și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.
+Ai nevoie de pricepere la volan, **minim level 5** și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.
 
 > Vezi detalierea jobului [Tow Truck Driver](./tow-truck-driver). 
+
+### Uber Driver 🚗👩  
+
+Ești pregătit să te alături elitei șoferilor Uber care transportă persoane de la un colț al orașului la altul? Aici, nu numai că îți poți exersa abilitățile de șofer, dar poți și să te simți ca un adevărat salvator urban pentru persoanele care depind de serviciile tale.
+
+Ai nevoie de experiență în condus, **minim level 15, o licentă Uber, un vehicul personal sau închiriat** și **permis de conducere categoria A sau B**, dacă nu vrei să riști **o vizită la închisoare**!.  
+
+> Vezi detalierea jobului [Uber Driver](./uber).
+
+## Listă joburi pasive  
+
+### Deep Sea Fishing 🛥️😴🎣  
+
+Imaginează-ți să te trezești în fiecare dimineață cu soarele răsărind peste apele calmante ale mării, pregătit să pornești într-o călătorie spre lumea captivantă a pescuitului. Cu propria ta barcă, ești stăpân pe destinație și decizi unde și cum pescuiești. Acest job aduce cu sine libertatea și independența de care ai nevoie pentru a-ți urma pasiunea și a te conecta cu natura marină într-un mod unic.  
+
+Ai nevoie de o **minim nivel 15 și o barcă personală**, atenție la capacitatea ei, poți să pescuiești incontinuu doar cât încape în lada de depozitare!.  
+
+> Vezi detalierea jobului [Uber Driver](./deep-sea-fishing).

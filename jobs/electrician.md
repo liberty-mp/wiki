@@ -8,9 +8,14 @@ title: Electrician
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate găsire obiecte speciale? | Nu. |
+| Posibilitate găsire obiecte speciale? | Da. |
 | Locație NPC Electrician | [Cypress Flats, El Rancho Blvd](https://i.imgur.com/L4CW5VF.png)
 
+## Nou
+
+- Electrician: 
+    - Wires: sansa de drop de 20% la fiecare $300 castigati la job
+    - Electronic Keyboard: sansa de drop de 20% la fiecare $900 castigati la job
 
 ## Desfășurarea jobului  
 

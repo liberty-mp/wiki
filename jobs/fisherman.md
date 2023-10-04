@@ -18,8 +18,7 @@ Jobul de Fisherman constă în pescuitul peștilor folosind o undiță și momea
 
 ## Locație pescuit  
 
-Găsește un loc de pescuit, poți pescui în aproape orice corp de apă din joc, cum ar fi lacuri, râuri sau mare.  
-O locație populară este pe plaja de lângă **Fisherman 3, Procopio Beach** datorită locației unui **magazin 24/7** in apropiere. 
+Poți să pescuiești pe pontoanele amenajate de lângă NPC-urile jobului.
 
 ## Întrebări frecvente
 

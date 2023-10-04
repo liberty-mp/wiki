@@ -71,6 +71,8 @@ Perk-urile clanului sunt beneficii ce sunt cumpărate folosind $ Money și Gold 
 | <Image src="https://i.imgur.com/L40obpG.png" alt="ADVANCED CONNECTIONS" width="100" /> | Police relations enhancement. Decreases wanted duration for clan members. |
 | <Image src="https://i.imgur.com/7g5jcL9.png" alt="HEIST MASTERY" width="100" /> | Enhance coordination among clan members for higher earnings in heists/robberies. |
 | <Image src="https://i.imgur.com/6GneoNY.png" alt="ADVANCED SKILL DEVELOPMENT" width="100" /> | Enhance concentration during heists and earn incresead # Street Reputation Points. |
+| <Image src="https://i.imgur.com/cMJE50e.png" alt="MONEY LAUNDERING" width="100" /> | Maximize the amount of money that can be laundered on Cayo Perico island. |
+| <Image src="https://i.imgur.com/ltEaZkH.png" alt="MASTER OF PASSIVE GAINS" width="100" /> | Become a true master of passive income streams. This perk supercharges your earnings, ensuring you make the most of every opportunity. |
 
 ## Perk Level-UP Table
 
@@ -88,8 +90,32 @@ Boost-urile nu se acumulează, boost-ul maxim pentru orice perk fiind 25%/membru
 
 În cazul job boost-ului, procentul este din câștigul de bază a jobului (se poate aduna cu marijuana joint, world exploration) dar nu și cu procentul de la skill-ul jobului.
 
+"Money Laundering":
+    - nivel initial 0, jucătorii nu pot schimba banii marcați pe bani normali dacă clanul din care fac parte nu deblochează acest perk;
+    - sunt necesare urmatoarele:
+        - deblocare: $250.000 & 1.000 Gold
+        - nivel 2: $450.000 & 2.000 Gold
+        - nivel 3: $1.000.000 & 3.000 Gold
+        - nivel 4: $2.000.000 & 7.000 Gold
+        - nivel 5: $5.000.000 & 15.000 Gold
+    - perk-ul ofera urmatoarea rata de conversie la spalarea banilor:
+        - nivel 1: 35% (deblocat)
+        - nivel 2: 40%
+        - nivel 3: 45% 
+        - nivel 4: 50%
+        - nivel 5: 55%
+        - > Pentru $10.000 bani marcati (1 stack in invetar) primesti $3.000 dolari (35% după deblocarea perk-ului);
+    - perk-ul ofera urmatorii timpi de asteptare la spalarea banilor:
+        - nivel 1: 60 secunde la fiecare $1.000 spalati
+        - nivel 2: 55 secunde la fiecare $1.000 spalati
+        - nivel 3: 50 secunde la fiecare $1.000 spalati
+        - nivel 4: 45 secunde la fiecare $1.000 spalati
+        - nivel 5: 40 secunde la fiecare $1.000 spalati
+        
+
 ## Logs
 
 Log-urile clanului.
 Join, leave, uninvite, invest, buy etc.
+
 to be updated

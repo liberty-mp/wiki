@@ -8,8 +8,14 @@ title: Lumberjack
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire). |
+| Posibilitate câștigare iteme extra? | [Da](#nou). |
 | Locație NPC Lumberjack | [M. Chiliad Wilderness, Great Ocean Highway](https://i.imgur.com/AiOKyO4.png)  |
+
+## Nou
+
+- Lumberjacker:
+    - Hook: sansa de drop de 20% la fiecare $600 castigati la job
+    - Rope: sansa de drop de 20% la fiecare $400 castigati la job
 
 ## Desfășurarea jobului  
 
@@ -42,6 +48,7 @@ După ce ai început tura de job, trebuie să tai toți copacii marcați pe hart
   <Image src="https://i.imgur.com/vm1Ykpr.gif" alt="Livrare vehicul încărcat" />  
 :::  
 
+<!-- 
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
 Pe lângă suma de bani primită după descărcare, mai ai o șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
@@ -54,6 +61,7 @@ La fiecare tură descarcată, ai o șansă de _**15%**_ să găsești Rope și o
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **30%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
 | <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **15%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
+-->
 
 ## Cazuri în care nu poți efectua jobul  
  

@@ -8,8 +8,14 @@ title: Miner
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire). |
+| Posibilitate câștigare iteme extra? | [Da](#nou). |
 | Locație NPC Miner | [Grand Senora Desert, Davis Quartz](https://i.imgur.com/Pk1jdQp.png)  |
+
+## Nou
+
+- Miner:
+    - Metal: sansa de drop de 20% la feicare $400 castigati la job
+    - Gunpowder: sansa de drop de 20% la fiecare $300 castigati la job
 
 ## Desfășurarea jobului  
 
@@ -40,6 +46,8 @@ După ce ai început tura de job, trebuie să urmezi ruta de pe hartă până c�
   <Image src="https://i.imgur.com/yScPR41.gif" alt="Minarea rocilor & încărcare vehicul" />  
 ::: 
 
+
+<!--
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
 Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
@@ -51,6 +59,7 @@ La **descărcarea mașinii** la punctul de procesare ai o șansă de **10%** să
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/wy3nrJG.png" alt="Metal Bar" width="48" label="Metal Bar" /> | **Da, 8 per stack** |  **50%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
 | <Image src="https://i.imgur.com/Ub9vSWq.png" alt="Gunpowder" width="48" label="Gunpowder" /> | **Da, 32 per stack** |  **50%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
+-->
 
 ## Cazuri în care nu poți efectua jobul  
  
