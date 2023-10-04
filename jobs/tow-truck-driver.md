@@ -9,8 +9,14 @@ title: Tow Truck Driver
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate găsire obiecte speciale? | Nu. |
+| Posibilitate găsire obiecte speciale? | [Da](#nou). |
 | Locație NPC Tow Truck Driver | [Elysian Island, Chupacabra St](https://i.imgur.com/ozXA6Bx.png)  |
+
+## Nou
+
+- Tow Truck Driver:
+    - Drill: sansa de drop de 20% la fiecare $400 castigati la job
+
 
 ## Desfășurarea jobului  
 

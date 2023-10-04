@@ -8,8 +8,15 @@ title: Trucker
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria C). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate găsire obiecte speciale? | Nu. |
+| Posibilitate găsire obiecte speciale? | [Da](#nou). |
 | Locație NPC Trucker | [Palmer-Taylor Power Station](https://i.imgur.com/tOFQmL1.png)  |
+
+## Nou
+
+**Jucatorii ce detin minim skill Silver pot opta pentru curse ilegale. Cursele ilegale ofera jucatorilor un boost de 10%. Exista o sansa de 5% de a primi wanted la efectuarea unei astfel de curse.**
+
+- Trucker:
+    - Explosive: sansa de drop de 20% la fiecare $300 castigati in urma efectuarii unei curse ilegale
 
 ## Desfășurarea jobului  
 

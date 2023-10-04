@@ -8,8 +8,16 @@ title: Garbageman
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire). |
+| Posibilitate câștigare iteme extra? | [Da](#nou). |
 | Locație NPC Garbageman | [La Puerta, Mutiny Road](https://i.imgur.com/gyUjAQG.png) |
+
+## Nou
+
+- Garbageman:
+    - Plastic: sansa de drop de 20% la fiecare $350 castigati la job
+    - Glass: sansa de drop de 20% la fiecare $800 castigati la job
+    - Hook: sansa de drop de 20% la fiecare $600 castigati la job
+    - Rope: sansa de drop de 20% la fiecare $400 castigati la job
 
 ## Desfășurarea jobului  
 
@@ -48,6 +56,7 @@ Vehiculul trebuie golit automat când indicatorul îți indică _**100%**_ dar p
 
 Pentru a termina tura de job instant și posibilitatea să faci altă activitate imediat, tastează comanda `/stopwork` - acest lucru îți anulează orice progres salvat în vehiculul Trashmaster.
 
+<!--
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
 Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
@@ -70,6 +79,8 @@ Dacă vehiculul are peste _**50%**_ capacitate și îl descarci, ai o șansă de
 | <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **15%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
 | <Image src="https://i.imgur.com/hUMaLGq.png" alt="Shattered Glass" width="48" label="Shattered Glass" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
 | <Image src="https://i.imgur.com/4CZcmp2.png" alt="Piece of plastic" width="48" label="Piece of plastic" /> | **Da, 16 per stack** |  **20%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
+
+-->
 
 ## Cazuri în care nu poți efectua jobul  
 

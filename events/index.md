@@ -4,8 +4,12 @@ title: Informații evenimente
 
 Evenimentele adaugă o dimensiune suplimentară experienței de joc, facilitând colaborarea și competiția între jucători și oferind o diversitate mai mare de activități (explorarea) și interacțiuni (trade-ul) în cadrul statului Los Santos.
 
+În momentul de față, pe server sunt 2 evenimente active în permanență [Bounty Hunters](./bounty-hunters) și [World Exploration](./world-exploration).
+Evenimentele din cadrul joburilor sunt activate în mod mai rar, pe o perioada scurtă de vreme (ore) de către Staff.
+
 # Evenimente
 
+<!---
 | Întrebare | World Exploration 🗺️🧭 | Fisherman's Bounty 🎣🗺️🗝️ |
 | :-----------: | :-----------: | :-----------: |
 | Event activ? | <Color hex="#228B22">DA</Color> | <Color hex="#9c2c22">NU</Color> |
@@ -16,9 +20,9 @@ Evenimentele adaugă o dimensiune suplimentară experienței de joc, facilitând
 <!-- #9c2c22">NU | (red color - NU) -->
 <!-- #228B22">DA | (green color - DA) -->
 
+
 Evenimentele de pe [🗽liberty.mp](https://liberty.mp) sunt acțiuni, situații sau întâmplări care au loc în joc într-un mod organizat și planificat. Aceste evenimente sunt create și gestionate pentru a oferi jucătorilor o experiență mai interesantă și interactivă pe server pe lângă acțiunile de bază făcute în fiecare zi.
 
 Aceste evenimente pot include o varietate de activități, cum ar fi găsirea de comori, explorarea lumii sau chiar evenimente tematice speciale pentru sărbători. Acestea pot fi programate să se desfășoare la anumite ore sau pot fi anunțate spontan în timpul jocului.
 
 De obicei, participarea la evenimente este opțională, dar acestea oferă jucătorilor șansa de a se implica în activități diferite față de gameplay-ul obișnuit al serverului și totodată pot ajuta caracterele jucătorilor în a se ridica mai rapid din punct de vedere economic dar și social.
-

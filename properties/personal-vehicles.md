@@ -4,17 +4,19 @@ title: Vehicule Personale
 
 ### Informații generale despre vehicule personale
 
-**Vehiculele Personale** reprezintă o categorie de bunuri pe care jucătorii le pot deține pe server. Se pot obține din cadrul unui magazin de mașini: **Dealership**. 
+**Vehiculele Personale** reprezintă o categorie de bunuri pe care jucătorii le pot deține pe server. Se pot obține din cadrul unui Dealership (magazin) specific tipului de vehicul.
 
 ## Achiziția unui vehicul personal
 
-Pe server există trei Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motorcycles Default) și unul cu vehicule din viața reală (Luxury Autos).
+Pe server există 5 Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motorcycles Default), unul cu vehicule din viața reală (Luxury Autos), un Dealership pentru bărci () și un Dealership pentru aeronave ().
 
-| Iconiță specifică | Tip | Nivel minim acces | Zone geografice | Monedă/Valută |
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 3 | [**Pillbox Hill**](https://i.imgur.com/LnAZ7m4.png) | Bani în joc ($) | 
-| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | [**Adams Apple's Boulevard**](https://i.imgur.com/MgrRcjk.png) | Bani în joc ($) |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) <br> + <br> Luxury Vehicle Ticket | 
+| Iconiță specifică | Tip | Nivel minim acces | Monedă/Valută |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 3 | Bani în joc ($) | 
+| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | Bani în joc ($) |
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | Bani în joc ($) <br> + <br> Luxury Vehicle Ticket | 
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Boat | 5 | Bani în joc ($) sau Gold Coins (Premium Currency) | 
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Aircraft | 5 | Bani în joc ($) sau Gold Coins (Premium Currency) | 
 
 ::: tip 
 Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
@@ -65,3 +67,36 @@ Pentru a vizualiza informații suplimentare cu privire la vehiculul deținut, ap
 ::: tip 
 Informațiile legate de modificările aduse vehiculului, numărul de kilometri, dar și altele se pot vizualiza în acest meniu. 
 :::  
+
+## Bărci personale  
+
+Pe server au fost adaugate mult asteptatele barci personale. Acestea pot fi achizitionate dintr-un dealership specializat (Boats Dealership).  
+Avand in vedere natura speciala a acestui tip de vehicule barcile pot fi spawnate doar in locatii autorizate (Boats Spawn Point - Port LS & Cayo Perico).  
+**Clanurile NU pot deține bărci.**  
+Nu este necesară o licență pentru conducerea bărcilor.  
+
+Capacitatea de stocare a bărcilor este folosită doar în scopul practicării jobului pasiv [Deep Sea Fishing](../jobs/deep-sea-fishing).  
+**Următoarele bărci sunt disponibile pentru cumpărare:**  
+- Seashark: $45.000 - spatiu stocare: 0  
+- Suntrap: $210.000 sau 8.500 Gold - spatiu stocare: 90  
+- Tropic: $260.000 sau 10.000 Gold - spatiu stocare: 100  
+- Dinghy: $290.000 - spatiu stocare: 110  
+- Squalo: $320.000 sau 12.500 Gold - spatiu stocare: 125  
+- Speeder: $630.000 - spatiu stocare: 200  
+- Toro: $690.000 sau 28.000 Gold - spatiu stocare: 220  
+- Jetmax: $890.000 sau 35.000 Gold - spatiu stocare: 275  
+- Longfin: $2.400.000 - spatiu stocare: 500  
+
+## Elicoptere personale  
+Pe server au fost adaugate și elicoptere personale. Acestea pot fi achizitionate dintr-un dealership specializat situat pe aeroportul din Los Santos (Aircraft Dealership).  
+**Clanurile POT deține elicoptere.**  
+Nu este necesară o licență pentru pilotarea elicopterelor.  
+
+**Urmatoarele elicoptere sunt disponibile pentru cumparare:**  
+- Havok: $170.000  
+- Frogger: $360.000 sau 15.000 Gold  
+- Buzzard: $380.000  
+- Sea Sparrow: $420.000  
+- Maverick: $785.000 sau 30.000 Gold  
+- Super Volito: $830.000 sau 33.000 Gold  
+- Sparrow: $1.420.000 sau 55.000   

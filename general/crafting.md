@@ -13,6 +13,7 @@ Lucrând la **unele joburi**, poți să găsești **obiecte speciale** care te v
 
 Obiectele speciale sunt:
 
+<!--
 | Obiect | Obținere | Utilizare | 
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/95QtK2W.png" alt="Hook" width="100" label="Hook" /> | șansă de găsire la job-ul [Garbageman](../jobs/garbageman#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire), [Lumberjack](../jobs/lumberjack#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire) | [ATM Robbing](atm-robbery.md) |
@@ -21,6 +22,29 @@ Obiectele speciale sunt:
 | <Image src="https://i.imgur.com/oNhIgen.png" alt="Glass" width="100" label="Shattered Glass" /> | șansă de găsire la job-ul [Garbageman](../jobs/garbageman.md#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire) | [Crafting](#informații-generale-despre-crafting) |
 | <Image src="https://i.imgur.com/PBET64W.png" alt="Metal" width="100" label="Metal Bar" /> | șansă de găsire la job-ul [Miner](../jobs/miner.md#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire) | [Crafting](#informații-generale-despre-crafting) |
 | <Image src="https://i.imgur.com/TW4AI6Z.png" alt="GunPowder" width="100" label="Gunpowder" /> | șansă de găsire la job-ul [Miner](../jobs/miner.md#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire) | [Crafting](#informații-generale-despre-crafting) |
+-->
+
+- Electrician: 
+    - Wires: sansa de drop de 20% la fiecare $300 castigati la job
+    - Electronic Keyboard: sansa de drop de 20% la fiecare $900 castigati la job
+- Garbageman:
+    - Plastic: sansa de drop de 20% la fiecare $350 castigati la job
+    - Glass: sansa de drop de 20% la fiecare $800 castigati la job
+    - Hook: sansa de drop de 20% la fiecare $600 castigati la job
+    - Rope: sansa de drop de 20% la fiecare $400 castigati la job
+- Lumberjacker:
+    - Hook: sansa de drop de 20% la fiecare $600 castigati la job
+    - Rope: sansa de drop de 20% la fiecare $400 castigati la job
+- Miner:
+    - Metal: sansa de drop de 20% la feicare $400 castigati la job
+    - Gunpowder: sansa de drop de 20% la fiecare $300 castigati la job
+- Tow Truck Driver:
+    - Drill: sansa de drop de 20% la fiecare $400 castigati la job
+- Trucker:
+    - Explosive: sansa de drop de 20% la fiecare $300 castigati in urma efectuarii unei curse ilegale
+- Uber:
+    - Pliers: sansa de drop de 20% la fiecare $400 castigati la job
+
 
 <br>
 
@@ -89,6 +113,7 @@ Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrâ
 
 **Se pot crafta următoarele iteme:** 
 
+<!--
 | Item | Blueprint necesar | Materiale necesare | 
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/EakMdzd.png" alt="Pistol Mk II" width="50" label="Pistol Mk II" /> | <Image src="https://i.imgur.com/lSjn1CA.png" alt="Pistol Mk II" width="50" label="Pistol Mk II Blueprint" /> | <Image src="https://i.imgur.com/RWhY6he.png" alt="Metal Bar" width="50" label="3x Metal Bar" /> <Image src="https://i.imgur.com/Omo6364.png" alt="Piece of Plastic" width="50" label="4x Piece of Plastic" /> |
@@ -106,6 +131,37 @@ Materialele pot fi obținute de la jucători prin [Trade](./trade.md) sau lucrâ
 | <Image src="https://i.imgur.com/onADx1v.png" alt="9mm" width="50" label="aleatoriu între 150-250" /> | <Image src="https://i.imgur.com/ArUDAbr.png" alt="9mm" width="50" label="9mm Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="4x Gunpoweder" width="50" label="4x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bar" width="50" label="2x Metal Bar" /> |
 | <Image src="https://i.imgur.com/Gjadnlz.png" alt="5.56mm" width="50" label="aleatoriu între 150 și 250" /> | <Image src="https://i.imgur.com/8OCagq8.png" alt="5.56mm Ammo Blueprint" width="50" label="5.56mm Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="5x Gunpoweder" width="50" label="5x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bar" width="50" label="2x Metal Bar" /> |
 | <Image src="https://i.imgur.com/kzF7YP1.png" alt="12guage" width="50" label="aleatoriu între 30 și 70 12-gauge Ammo" /> | <Image src="https://i.imgur.com/6Yspriw.png" alt="12guage" width="50" label="12-gauge Ammo Blueprint" /> | <Image src="https://i.imgur.com/Hp4XGOA.png" alt="6x Gunpoweder" width="50" label="6x Gunpowder" /> <Image src="https://i.imgur.com/RWhY6he.png" alt="2x Metal Bar" width="50" label="2x Metal Bar" /> |
+-->
+
+## Modificari crafting arme, munitie & atasamente
+
+Au fost reduse considerabil costurile suportate de catre jucatorii din gang-uri pentru a crafta arme, munitie si atasamente.
+Costul de craftare a fost redus la $200. Costul de research a fost redus la $200.
+Itemele necesare au fost modificate dupa cum urmeaza,
+
+**Munitie:**
+
+- .45 ACP: 1x Gunpowder, 1x Metal
+- 9mm: 1x Gunpowder, 1x Metal
+- 12-gauge: 2x Gunpowder, 1x Metal
+- 5.56mm: 3x Gunpowder, 1x Metal
+
+**Arme:**
+
+- Pistol MK2: 2x Metal, 1x Plastic
+- Pistol 50: 2x Metal, 1x Plastic
+- SMG: 2x Metal, 1x Plastic
+- SMG MK2: 2x Metal, 1x Plastic
+- Pump Shotgun: 3x Metal, 1x Plastic
+- Sawn Off Shotgun: 3x MEtal, 1x Plastic
+- Carbine Rifle: 4x Metal, 2x Plastic
+- Special Carbine: 4x Metal, 2x Plastic
+
+**Atasamente:**
+
+- Suppressor: 1x Metal, 1x Plastic
+- Flashlight: 1x Glass, 1x Metal
+- Extended Clip: 1x Metal, 1x Plastic
 
 ## Armele folosesc următoarele calibre de gloanțe:
 
