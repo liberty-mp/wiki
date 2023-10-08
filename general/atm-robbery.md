@@ -21,7 +21,7 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 
 ### Cât pot câștiga dacă jefuiesc un ATM?
 
-În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător cât timp transportai consola ATM-ului, câștigul de bază va fi intre <Dinero :amount='1300'/> și <Dinero :amount='1800'/> **+ procentul aferent skill-ului avut la Robbing (Street Rep)** la care se adaugă și un procent de _**10%**_ pentru jucătorii ce dețin **<Color hex="#FFD700">Gold Subscription</Color>** și _**20%**_ pentru jucătorii ce dețin **<Color hex="#5c60db">Platinum Subscription</Color>**.
+În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător cât timp transportai consola ATM-ului, câștigul de bază va fi intre <Dinero :amount='1300'/> și <Dinero :amount='1800'/> **+ procentul aferent skill-ului avut la Robbing (Street Rep)** la care se adaugă și un procent de _**10%**_ pentru jucătorii ce dețin <PremiumSubscription type="gold" /> și _**20%**_ pentru jucătorii ce dețin <PremiumSubscription type="platinum" />.
 
 Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul de bază va fi între <Dinero :amount='650'/> și <Dinero :amount='900'/> la care se adaugă bonusurile de mai sus.
 

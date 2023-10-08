@@ -12,7 +12,7 @@ Pentru a completa acest event, trebuie să vizitezi _**15**_ locații aflate pe 
 
 Evenimentul se bazează pe un 'streak' (o serie) de completări zilnice consecutive.  
 
-Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie completat **o dată pe zi**, excepție făcând conturile **Premium** de tip **<Color hex="#5c60db">Platinum Subscription</Color>** care pot să-l completeze de **2 ori pe zi** însă nu primesc și recompensa de 2 ori, doar **+1** la streak (ajung la 100% mai rapid).  
+Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie completat **o dată pe zi**, excepție făcând conturile **Premium** de tip <PremiumSubscription type="platinum" /> care pot să-l completeze de **2 ori pe zi** însă nu primesc și recompensa de 2 ori, doar **+1** la streak (ajung la 100% mai rapid).  
 
 ### Recompensa la completarea zilnică:  
 *primiți toate cele 3 de mai jos per completare zilnică
