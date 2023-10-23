@@ -21,7 +21,7 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**
 :::
 
 ::: warning Atenție!
-Ai nevoie de minim 40 de ore jucate și 7 ore jucate în ultima săptămână pentru a putea aplica!! 
+Ai nevoie de minim 25 de ore jucate și 7 ore jucate în ultima săptămână pentru a putea aplica!! 
 :::
 
 ## Ce fac aceste facțiuni?
