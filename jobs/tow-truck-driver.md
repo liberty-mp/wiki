@@ -28,10 +28,10 @@ Odată ajuns la locația NPC-ului Tow Truck Driver, interacționează cu el folo
 
 ::: details Vehicule oferite de NPC 
   Platform 1 | Top speed: 150 km/h | Tracțiune: spate | Viteze: 6 | Manevrabilitate: mică  
-  <Image src="https://i.imgur.com/CeAfyIF.png" alt="Tow Truck" />
+  <Image src="https://i.imgur.com/CeAfyIF.png" alt="Platform 1" />
   
   Platform 2 | Top speed: 175 km/h | Tracțiune: spate | Viteze: 6 | Manevrabilitate: mare 
-  <Image src="https://i.imgur.com/XBom2ja.png" alt="Tow Truck 2" />
+  <Image src="https://i.imgur.com/XBom2ja.png" alt="Platform 2" />
 ::: 
  
 ### Cum ridic și unde descarc vehiculul?  
@@ -44,10 +44,10 @@ La sosirea la locul de descărcare, adoptă o abordare precisă și meticuloasă
 
 ::: details Procedura de ridicare și descărcare a vehiculului
   Procedura de ridicare a vehiculului 
-  <Image src="https://i.imgur.com/xTyNw7h.gif" alt="Procedura de ridicare a vehiculului" />
+  <Image src="https://i.imgur.com/P7PLJLR.gif" alt="Procedura de ridicare a vehiculului" />
   
   Procedura de descărcare a vehiculului
-  <Image src="https://i.imgur.com/FlUbX7h.gif" alt="Procedura de descărcare a vehiculului" />
+  <Image src="https://i.imgur.com/umeK5SR.gif" alt="Procedura de descărcare a vehiculului" />
   
   Notificare plata
   <Image src="https://i.imgur.com/0M4NBWF.png" alt="Notificare plata" />
@@ -74,17 +74,12 @@ La fiecare _**$400**_ câștigați în cadrul job-ului există șansa de _**20%*
 Pentru a accesa meniul de upgrade, te rugăm să interacționezi cu NPC-ul Tow Truck Driver și să selectezi opțiunea `Upgrade Truck`. În urma acestei interacțiuni, îți va apărea un meniu în care poți alege truck-ul pe care dorești să îl upgradezi.
 
 ::: details Upgradare Truck  
-  <Image src="https://i.imgur.com/dotACrz.gif" alt="Upgradare Truck" />
+  <Image src="https://i.imgur.com/GmPrrZq.gif" alt="Upgradare Truck" />
 :::  
 
 ---
 
 Lista cu upgrade-urile disponibile și costurile în puncte de upgrade este următoarea:
-
- <!-- [TowTruckVehicleUpgrades.Engine]: [75, 150, 250, 450],
-      [TowTruckVehicleUpgrades.Transmission]: [75, 250, 450],
-      [TowTruckVehicleUpgrades.Suspension]: [75, 150, 250, 450],
-      [TowTruckVehicleUpgrades.Brakes]: [75, 150, 250] -->
 
 ### Engine Upgrade
 
