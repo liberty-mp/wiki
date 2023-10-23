@@ -23,7 +23,7 @@ Jobul de Tow Truck Driver implică responsabilitatea de a asigura că străzile 
 Odată ajuns la locația NPC-ului Tow Truck Driver, interacționează cu el folosind butonul `E` și selectează `Începe munca`. Iți va apărea un meniu în care poți alege dintre diferitele Tow Truck-uri disponibile jobului.
 
 ::: details Începe munca  
-  <Image src="https://i.imgur.com/BkqZ3d2.gif" alt="Start Job" />
+  <Image src="https://i.imgur.com/pjN4mHl.gif" alt="Start Job" />
 :::  
 
 ::: details Vehicule oferite de NPC 
