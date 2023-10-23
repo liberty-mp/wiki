@@ -41,7 +41,7 @@ p - puncte
 
 | Rank | Activity points necesare | Puncte a.p oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1, 2, 3 | 100 | frisks - 1p<br>arrests - 5p<br>driving licences - 5p<br>Speeding fines - 1p<br>Unlicenced driving wanted - 1p  | 5 ore |
+| 1, 2, 3 | 100 | frisks - 8p<br>arrests - 5p<br>driving licences - 5p<br>Speeding fines - 1p<br>Unlicenced driving wanted - 1p  | 5 ore |
 | 4 | 65 | vezi deasupra ^  | 5 ore |
 | 5 | - | -  | 5 ore |
 
