@@ -8,7 +8,7 @@ title: Electrician
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate găsire obiecte speciale? | Nu. |
+| Posibilitate găsire obiecte speciale? | Da. |
 | Locație NPC Electrician | [Cypress Flats, El Rancho Blvd](https://i.imgur.com/L4CW5VF.png)
 
 
@@ -44,6 +44,25 @@ Pentru a regla siguranțele, trebuie să apeși `CLICK STÂNGA` pe siguranțele 
 ::: details Reglare siguranțe  
   <Image src="https://i.imgur.com/JJzrJyB.gif" alt="Reglare siguranțe" />  
 :::  
+
+## Obiecte speciale pentru crafting & șanse de găsire  
+
+Pe lângă suma de bani primită după repararea tabloului electric, mai ai șansa de a găsi **obiecte speciale pentru crafting**.
+
+::: tip Detalii șanse drop
+
+La fiecare _**$300**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi _**Wires**_.
+
+La fiecare _**$900**_ câștigați există șansa de _**20%**_ de a găsi _**Electronic Keyboard**_.
+
+În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
+
+:::
+
+| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/C6Pj7yU.png" alt="Wires" width="48" label="Wires" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
+| <Image src="https://i.imgur.com/hMMK1SU.png" alt="Electronic keyboard" width="48" label="Electronic keyboard" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
 
 ## Cazuri în care nu poți efectua jobul  
  
