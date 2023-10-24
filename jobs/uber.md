@@ -33,7 +33,7 @@ Prețurile licenței în funcție de tipul de subscripție activă pe cont pot f
 
 | Subscription type   | Licence price |
 | ----------- | :-----------: |
-| No subscription | ~<Dinero :amount='60' /> |
+| No subscription | <Dinero :amount='60' /> |
 | <PremiumSubscription type='gold' /> | <Dinero :amount='30' /> (50% discount) |
 | <PremiumSubscription type='platinum' /> | <Dinero :amount='0' /> (100% discount) |
 
@@ -85,7 +85,7 @@ Pe lângă suma de bani obținută la finalul cursei, mai ai șansa de a găsi o
 
 ::: tip Detalii șanse drop
 
-La fiecare _**$400**_ munciți în cadrul job-ului există șansa de _**20$**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca. 
+La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca. 
 :::
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
