@@ -105,8 +105,8 @@ Membrii care fac parte din clanul situat pe locul 1 si care au obtinut mai mult 
 ### FAQ
 
 Cum iau servieta?
-::: detalis <Image src="https://i.imgur.com/P7ZQMqB.png" alt="Ridicare servieta"/>
-
+::: detalis 
+<Image src="https://i.imgur.com/P7ZQMqB.png" alt="Ridicare servieta" />
 :::
 
 Cum deschid servieta?
