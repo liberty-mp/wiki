@@ -60,7 +60,7 @@ Secțiunea **Shop**:
 Secțiunea **LibertyPass Boost** 
 - afișează faptul dacă jucătorul are un LibertyPass Boost activ sau nu.
 
-![General1](https://i.imgur.com/flKyMxg.png) 
+<Image src="https://i.imgur.com/flKyMxg.png" alt="General1" />
 
 
 Secțiunea **Your Rent**: 
