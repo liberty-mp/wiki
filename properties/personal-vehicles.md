@@ -4,17 +4,19 @@ title: Vehicule Personale
 
 ### Informații generale despre vehicule personale
 
-**Vehiculele Personale** reprezintă o categorie de bunuri pe care jucătorii le pot deține pe server. Se pot obține din cadrul unui magazin de mașini: **Dealership**. 
+**Vehiculele Personale** reprezintă o categorie de bunuri pe care jucătorii le pot deține pe server. Se pot obține din cadrul unui magazin: **Dealership**. 
 
 ## Achiziția unui vehicul personal
 
-Pe server există trei Dealership-uri diferite, două cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default și Motorcycles Default) și unul cu vehicule din viața reală (Luxury Autos).
+Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default, Motorcycles Default, Boats Default și Airplanes Default) și unul cu vehicule din viața reală (Luxury Autos).
 
 | Iconiță specifică | Tip | Nivel minim acces | Zone geografice | Monedă/Valută |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 3 | [**Pillbox Hill**](https://i.imgur.com/LnAZ7m4.png) | Bani în joc ($) | 
 | <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | [**Adams Apple's Boulevard**](https://i.imgur.com/MgrRcjk.png) | Bani în joc ($) |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) <br> + <br> Luxury Vehicle Ticket | 
+| <Image src="https://i.imgur.com/WBJe08I.png" alt="Dealership" width="30" label="Dealership Blip" /> | Airplanes Default | 3 | [**Los Santos International Airport**](https://i.imgur.com/b5D4nND.png) | Bani in joc ($)<br> sau <br> Gold |
+| <Image src="https://i.imgur.com/Oer7ECJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Boats Default | 3 | [**La Puerta**](https://i.imgur.com/JbkGkvk.png) | Bani in joc ($)<br> sau <br> Gold |
 
 ::: tip 
 Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
