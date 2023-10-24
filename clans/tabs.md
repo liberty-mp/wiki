@@ -67,10 +67,13 @@ Perk-urile clanului sunt beneficii ce sunt cumpărate folosind $ Money și Gold 
 
 | Perk | Perk Description |
 | :--: | :--: |
-| <Image src="https://i.imgur.com/EHNEY8x.png" alt="TEAMWORK EMPOWERMENT" width="100" /> | Maximize performance and provide better compensation for clan members. |
-| <Image src="https://i.imgur.com/L40obpG.png" alt="ADVANCED CONNECTIONS" width="100" /> | Police relations enhancement. Decreases wanted duration for clan members. |
-| <Image src="https://i.imgur.com/7g5jcL9.png" alt="HEIST MASTERY" width="100" /> | Enhance coordination among clan members for higher earnings in heists/robberies. |
-| <Image src="https://i.imgur.com/6GneoNY.png" alt="ADVANCED SKILL DEVELOPMENT" width="100" /> | Enhance concentration during heists and earn incresead # Street Reputation Points. |
+| <Image src="https://i.imgur.com/T7KRGLu.png" alt="TEAMWORK EMPOWERMENT" width="100" /> | Maximize performance and provide better compensation for clan members. |
+| <Image src="https://i.imgur.com/RI4HNO9.png" alt="ADVANCED CONNECTIONS" width="100" /> | Police relations enhancement. Decreases wanted duration for clan members. |
+| <Image src="https://i.imgur.com/vusNovl.png" alt="HEIST MASTERY" width="100" /> | Enhance coordination among clan members for higher earnings in heists/robberies. |
+| <Image src="https://i.imgur.com/wBg7vcf.png" alt="ADVANCED SKILL DEVELOPMENT" width="100" /> | Enhance concentration during heists and earn incresead # Street Reputation Points. |
+| <Image src="https://i.imgur.com/L0Mk7XI.png" alt="MONEY LAUNDERING" width="100" /> | Lowers the server tax applied during the 'Money Laundering' opperation. | 
+| <Image src="https://i.imgur.com/ceiwFmC.png" alt="MASTER OF PASSIVE GAINS" width="100" /> | Increases the amount of money received at the end of a passive shift. | 
+
 
 ## Perk Level-UP Table
 
