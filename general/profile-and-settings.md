@@ -238,7 +238,7 @@ Realizările prezentate mai sus sunt cele inițiale care se pot obține pe serve
 
 **Prezentarea secțiunilor:** 
 
-![Settings](https://i.imgur.com/As8OD9M.png) 
+<Image src="https://i.imgur.com/As8OD9M.png" alt="Settings" />
 
 Secțiunea **Account**:  
 - **Password** - rubrica din care se poate schimba parola contului; 
