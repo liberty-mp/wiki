@@ -22,7 +22,7 @@ Bara ce înconjoară poza de profil din meniul care se deschide pe tasta `O` rep
 ### Ghid interfață
 
 Interfața se împarte în **7 categorii**, fiecare categorie se poate accesa din **bara de navigare**, cu un simplu `CLICK STANGA`:
-![NavBar](https://i.imgur.com/91lgPlw.png)
+<Image src="https://i.imgur.com/91lgPlw.png" alt="NavBar" />
 
 - [**General**](#general): se pot vizualiza statisticile principale ale jucătorului
 - [**Jobs** & **Faction**](#jobs-faction): se poate vizualiza progresul în cadrul facțiunilor și al joburilor
