@@ -83,8 +83,7 @@ După finalizarea cursei, dacă se dorește continuarea job-ului, tehnica este a
 
 Pe lângă suma de bani obținută la finalul cursei, mai ai șansa de a găsi obiecte speciale, obiecte care te ajuta în Fleeca Bank Rob.
 
-::: tip
-Detalii șanse drop
+::: tip Detalii șanse drop
 
 La fiecare _**$400**_ munciți în cadrul job-ului există șansa de _**20$**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca. 
 :::
