@@ -268,7 +268,7 @@ Secțiunea **Audio**:
 - **Boombox** - se poate selecta dacă să se audă boombox-ul (boxa portabilă) pe server sau nu; 
 - **Boombox Volume** - se poate ajusta volumul boombox-ului (boxei portabile).   
 
-![Settings2](https://i.imgur.com/uqY2zAO.png)   
+<Image src="https://i.imgur.com/uqY2zAO.png" alt="Settings2" />
 
 Secțiunea **Hotkeys**:  
 
