@@ -71,7 +71,7 @@ In momentul in care jucatorii omoara un NPC sau livrezi servieta vor primi urmat
 | - | <Image src="https://i.imgur.com/hMMK1SU.png" alt="Electronic keyboard" width="40" label="Electronic keyboard" /> | 
 | - | <Image src="https://i.imgur.com/BijpevO.png" alt="Explosive" width="40" label="Explosive" /> | 
 | - | <Image src="https://i.imgur.com/oXVperm.png" alt="Drill" width="40" label="Drill" /> |
-| - | <Image src="https://i.imgur.com/OsyN0g.png" alt="Pliers" width="40" label="Pliers" /> | 
+| - | <Image src="https://i.imgur.com/pbD84wd" alt="Pliers" width="40" label="Pliers" /> | 
 
 ::: tip 
 Recompensă generală are șansă de _**100%**_ să o primesti.
