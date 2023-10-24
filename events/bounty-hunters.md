@@ -2,10 +2,7 @@
 title: Bounty Hunters
 ---
 
-# Bounty Hunters 🎯🔫
-
-
-Ce este Bounty Hunters?
+## Ce este Bounty Hunters?
 
 Bounty Hunters este un eveniment permanent activ pe server, vizibil în `[/event]` similar cu World Exploration. 
 
@@ -17,7 +14,7 @@ Localizarea NPC-urilor se poate face pe hartă cu icon-urile următoare în func
 
 Poți filtra aceste icon-uri în harta din `ESC`. 
 
-### Tip-uri de NPC
+## Tip-uri de NPC
 
 | Icon | Tip | Suitcase |
 | :-: | :-: | :---: |
@@ -29,7 +26,7 @@ Poți filtra aceste icon-uri în harta din `ESC`.
 Servieta(Suitcase) trebuie livrată la Alfred într-un interval de 10 minute.
 :::
 
-### Level Bounty Hunters
+## Level Bounty Hunters
 
 | Level | Puncte Necesare | Bonus |
 | :--: | :-: | :-----: |
@@ -54,14 +51,14 @@ Servieta(Suitcase) trebuie livrată la Alfred într-un interval de 10 minute.
 | Level 19 | 8200 points | Money Boost 36%<br> Experience Boost 36% |
 | Level 20 | 10000 points | Money Boost 40%<br> Experience Boost 40%<br> Dropable Items Chance 45% |
 
-### Recompense
+## Recompense
 
 In momentul in care jucatorii omoara un NPC sau livrezi servieta vor primi urmatoarele premii:
 
 | Recompensă generală<br> (100%) | Recompensă Bonus<br> (25%-45%) |
 | :---------: | :----------: |
 | <Image src="https://i.imgur.com/cweJ0Uz.png" alt="1-3 Street Points " width="40" label="1-3 Street Points" /> |  <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="40" label="Reel Rod" /> |
-| <Image src="https://i.imgur.com/4GSXsfY.png" alt="5 Heat Level" width="40" label="5 Heat Level" /> | <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="40" label="Rod Grip" /> |
+| - | <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="40" label="Rod Grip" /> |
 | <Image src="https://i.imgur.com/5C5TPR8.png" alt="50 Experience" width="40" label="50 Experience" /> | <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="40" label="Rod Guide" /> | 
 | <Image src="https://i.imgur.com/XdMnAdh.png" alt="$800-$1200 Marked Money" width="40" label="$800-$1200 Marked Money" /> | <Image src="https://i.imgur.com/fyaexmI.png" alt="Plastic" width="40" label="Plastic" /> |
 | - | <Image src="https://i.imgur.com/wy3nrJG.png" alt="Metal Bar" width="40" label="Metal Bar" /> |
@@ -94,9 +91,9 @@ Primii 5 jucatori la sfarsit de sezon vor primi un badge in functie de pozitia p
 | Locul 5 | <Gold :amount='5000' /> | <Dinero :amount="10000" /> |
 
 Membrii care fac parte din clanul situat pe locul 1 si care au obtinut mai mult de 1 kill vor primi un badge pe profil.
-- Clanul castigator primeste suma de $300.000 in seif.
+- Clanul castigator primeste suma de <Dinero :amount="300_000" /> in seif.
 
-### FAQ
+## Întrebări frecvente
 
 Cum iau servieta?
 <Image src="https://i.imgur.com/P7ZQMqB.png" alt="Ridicare servieta" />
