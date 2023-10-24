@@ -125,7 +125,7 @@ Ai nevoie de pricepere la volan și **permis de conducere categoria B**, dacă n
 
 ### Uber 🚕
 
-În calitate de șofer Uber, vei fi responsabil pentru furnizarea de servicii de transport sigure și de încredere pasagerilor. Obiectivul tău principal va fi să asiguri o experiență pozitivă pentru călători, oferind servicii excelente pentru aceștia 🚀💪
+Ești în căutarea unei cariere flexibile și recompensatoare care îți permite să fii propriul tău șef? Devino șofer Uber și alătură-te comunității de șoferi care oferă transport sigur și convenabil oamenilor din orașul tău. Indiferent dacă vrei să lucrezi full-time sau part-time, acest job îți oferă libertatea de a-ți stabili propriul program și de a câștiga bani după propriile reguli. 🚀💪
 
 Ai nevoie de pricepere la volan și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.
 
