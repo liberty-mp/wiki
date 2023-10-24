@@ -29,9 +29,13 @@ Dacă mori sau te deconectezi, tura de job este salvată automat și poți conti
   <Image src="https://i.imgur.com/lIPqxgm.gif" alt="Start Job" />
 :::  
 
-::: details Vehicul oferit de NPC 
+::: details Vehicule oferite de NPC 
   Trashmaster | Top speed: 130 km/h | Tracțiune: spate | Viteze: 5 | Manevrabilitate: mică  
   <Image src="https://i.imgur.com/inPyGOf.png" alt="Trashmaster" />
+
+  Trashmaster 2 | Top speed: 175 km/h | Tracțiune: spate | Viteze: 5 | Manevrabilitate: mare
+  <Image src="https://i.imgur.com/wRuGHA4.png" alt="Trashmaster 2" />
+  
 ::: 
  
 ### Cum ridic și depozitez sacii de gunoi?  
@@ -54,20 +58,22 @@ Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **o
 
 ::: tip Detalii șanse drop  
 
-La _**20%**_ capacitate, se încearcă găsirea unui obiect - ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.
-La fiecare _**20%**_ se mai adaugă o încercare, pentru un total de 5 încercări (20% x 5 = 100%).  
-_**Șansele (15% și 30%) nu se acumulează.**_  
+La fiecare <Dinero :amount="350" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Plastic, item ce ajută in craft-uri.
 
-Dacă descarci vehiculul la 20% e ca și cum l-ai descarca doar pentru o încercare, iar dacă descarci la 100% vei avea 5 încercări de a găsi obiecte cu șansele aferente, 15% pentru Rope și 30% pentru Hook.
+La fiecare <Dinero :amount="800" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Glass, item ce ajută in craft-uri.
 
-Dacă vehiculul are peste _**50%**_ capacitate și îl descarci, ai o șansă de _**20%**_ să găsești un item de crafting - Shattered Glass sau Piece of Plastic.
+La fiecare <Dinero :amount="600" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Hook, item ce ajută in craftarea Hooked Rope.
+
+La fiecare <Dinero :amount="400 " /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Rope, item ce ajută in craftarea Hooked Rope.
+
+Bonusurile provenite din diferite surse (World Exploration, joint, Liberty Pass boost, clan perk) sunt incluse.
 
 :::  
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **30%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
-| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **15%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
+| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
+| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
 | <Image src="https://i.imgur.com/hUMaLGq.png" alt="Shattered Glass" width="48" label="Shattered Glass" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
 | <Image src="https://i.imgur.com/4CZcmp2.png" alt="Piece of plastic" width="48" label="Piece of plastic" /> | **Da, 16 per stack** |  **20%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
 
