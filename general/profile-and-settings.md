@@ -131,7 +131,7 @@ Secțiunea **Active Faction Penalties**:
 Secțiunea **Daily Quests**: 
 - afișează un număr de 2 misiuni zilnice diferite pentru fiecare jucător, pe care acesta le poate realiza în decursul a 24 de ore, precum și progresul fiecărei misiuni.
   
-![Quest1](https://i.imgur.com/bVkpRMm.png) 
+<Image src="https://i.imgur.com/bVkpRMm.png" alt="Quest1" />
 
 Secțiunea **Statistics**: 
 - **Daily Quests Completed** - afișează numărul total de misiuni zilnice realizate cu succes; 
