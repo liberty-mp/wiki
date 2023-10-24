@@ -138,7 +138,7 @@ Secțiunea **Statistics**:
 - **Current Streak** - afișează numărul curent de zile consecutive în care un jucător a realizat cele două misiuni zilnice;  
 - **Longest Streak** - afișează numărul maxim de zile consecutive în care un jucător a realizat cele două misiuni zilnice.
 
-![Quest2](https://i.imgur.com/RmuK0ro.png)  
+<Image src="https://i.imgur.com/RmuK0ro.png" alt="Quest2" />
 
 
 Secțiunea **World Exploration**:
