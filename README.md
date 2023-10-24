@@ -10,7 +10,13 @@
 ```vue
 <Dinero :amount="1000" />
 ```
-![image](https://github.com/liberty-mp/wiki/assets/35312043/fa0307be-284d-4e58-b936-6223b1a5cb14)
+![image](https://github.com/liberty-mp/wiki/assets/35312043/975da9fe-8cd4-473b-b078-9c401758a298)
+
+### Marked Money
+```vue
+<MarkedMoney :amount="1000" />
+```
+![image](https://github.com/liberty-mp/wiki/assets/35312043/aaa6f3c3-4e70-4133-9833-eef8e0730c70)
 
 ### Gold
 ```vue
