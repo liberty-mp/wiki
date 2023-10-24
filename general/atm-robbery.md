@@ -6,7 +6,7 @@ title: ATM Robbery
 | ----------- | :-----------: |
 | Necesită **vehicul personal**? | Da. |
 | Necesită permis de conducere? | Nu. |
-| Necesită iteme specifice? | <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="hooked-rope" />
+| Necesită iteme specifice? | <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" />
 | Necesită un minim de level? | Da, ai nevoie de minim level 3. |
 
 
