@@ -8,9 +8,14 @@ title: Bounty Hunters
 Ce este "Bounty Hunters"?
 
 "Bounty Hunters" este un eveniment permanent activ pe server, vizibil în `[/event]` similar cu World Exploration. 
+
 In fiecare zi, serverul va spawna pentru fiecare jucator la un interval de 8 ore (**00:00**, **08:00** si **16:00**) un numar de NPC-uri ce trebuiesc ucise cu o armă. 
+
 In functie de tipul contului detinut se vor spawna 8 NPC-uri (cont standard & <PremiumSubscription type='gold' />) sau 10 NPC-uri (cont <PremiumSubscription type='platinum' />). 
-Localizarea NPC-urilor se poate face pe hartă cu icon-urile următoare în funcție de tip-ul de NPC. <Image src="https://i.imgur.com/Zth52yd.png" alt="Bounty Hunters1" width="20" /> <Image src="https://i.imgur.com/sLS8U9O.png" alt="Bounty Hunters2" width="20" /> <Image src="https://i.imgur.com/mu84IxQ.png" alt="Bounty Hunters3" width="20" />. Poți filtra aceste icon-uri în harta din `ESC`. <br>
+
+Localizarea NPC-urilor se poate face pe hartă cu icon-urile următoare în funcție de tip-ul de NPC. <Image src="https://i.imgur.com/Zth52yd.png" alt="Bounty Hunters1" width="20" /> <Image src="https://i.imgur.com/sLS8U9O.png" alt="Bounty Hunters2" width="20" /> <Image src="https://i.imgur.com/mu84IxQ.png" alt="Bounty Hunters3" width="20" />. 
+
+Poți filtra aceste icon-uri în harta din `ESC`. 
 
 ### Tip-uri de NPC
 
