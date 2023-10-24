@@ -77,7 +77,7 @@ La fiecare _**$300**_ câștigați în cadrul job-ului există șansa de _**20%*
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/BijpevO.png" alt="Wires" width="48" label="Wires" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
+| <Image src="https://i.imgur.com/BijpevO.png" alt="Explosive" width="48" label="Explosive" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
 
 ## Cazuri în care nu poți efectua jobul  
  
