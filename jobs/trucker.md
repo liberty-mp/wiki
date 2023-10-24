@@ -8,7 +8,7 @@ title: Trucker
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria C). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate găsire obiecte speciale? | Nu. |
+| Posibilitate găsire obiecte speciale? | [Da](#obiecte-speciale-pentru-crafting--șanse-de-găsire). |
 | Locație NPC Trucker | [Palmer-Taylor Power Station](https://i.imgur.com/tOFQmL1.png)  |
 
 ## Desfășurarea jobului  
@@ -31,6 +31,17 @@ Odată ajuns la locația NPC-ului Trucker, interacționează cu el folosind buto
   <Image src="https://i.imgur.com/pri7tvS.png" alt="Pounder" />
 ::: 
 
+## Tipuri de curse
+
+Există două tipuri de curse, cruse legale, unde câștigul este normal, si curse ilegale, unde câștigul este cu _**10%**_ mai mare decat câștigul curselor legale.
+
+Cursele ilegale sunt disponibile de la skill "**Silver**".
+
+Cursele ilegale iti oferă sansa de a găsi **obiecte speciale pentru crafting**.
+
+La cursele ilegale exista o sansa de _**5%**_ de a primi wanted.
+
+
 ### Ce rută să aleg?  
 
 Câștigul depinde de ruta aleasă, fiecare destinație oferă un anumit număr de dolari per km. În concluzie, rutele mai lungi oferă un câștig mai mare, dar pot să dureze și mai mult datorită traficului și a altor incidente care pot să aibă loc.
@@ -51,6 +62,22 @@ Câștigul depinde de ruta aleasă, fiecare destinație oferă un anumit număr 
 ::: tip
 Ajuns la prima destinație cu transportul, trebuie să reîncarci camionul într-o locație din apropiere, un punct pe hartă îți va marca această locație.
 :::
+
+## Obiecte speciale pentru crafting & șanse de găsire
+
+Pe lângă suma de bani primită după trasportul de marfă, mai ai șansa de a găsi **obiecte speciale pentru crafting**.
+
+::: tip Detalii șanse drop  
+
+La fiecare _**$300**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Explosive.
+
+În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
+
+:::  
+
+| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/BijpevO.png" alt="Explosive" width="48" label="Explosive" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
 
 ## Cazuri în care nu poți efectua jobul  
  
