@@ -28,7 +28,7 @@ Sistemul este împărțit în **4 secțiuni**:
 
 **Prezentarea secțiunii:** 
 
-![Clothes Items](https://i.imgur.com/5mJN7cG.png) 
+<Image src="https://i.imgur.com/5mJN7cG.png" alt="Clothes Items" />
 
 - **Slotul 1** - pot fi atașate obiecte de îmbrăcăminte precum: **șepci**, **pălării**, **căciuli** și așa mai departe; 
 - **Slotul 2** - pot fi atașate obiecte de îmbrăcăminte precum: **tricouri**, **geci**, **bluze**, **cămăși** și așa mai departe;
