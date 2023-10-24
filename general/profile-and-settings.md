@@ -104,7 +104,7 @@ Secțiunea **Jobs Statistics**:
 
 În partea stângă este afișat numele fiecărui job, împreună cu suma de bani totală obținută în cadrul jobului, iar în partea stângă este afișată [denumirea skill-ului](../jobs/index.md#cum-avansez-în-skill) în cadrul jobului respectiv și suma de bani rămasă de câștigat necesară pentru a avansa la următorul. 
 
-![Jobs](https://i.imgur.com/iajceDo.png)
+<Image src="https://i.imgur.com/iajceDo.png" alt="Jobs" />
 
 
 
