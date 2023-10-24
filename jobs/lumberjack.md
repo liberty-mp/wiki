@@ -47,13 +47,15 @@ După ce ai început tura de job, trebuie să tai toți copacii marcați pe hart
 Pe lângă suma de bani primită după descărcare, mai ai o șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 
 ::: tip Detalii șanse drop  
-La fiecare tură descarcată, ai o șansă de _**15%**_ să găsești Rope și o șansă de _**30%**_ să găsești Hook.
+La fiecare _**$400**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Rope.
+La fiecare _**$600**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Hook.
+În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 :::  
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **30%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
-| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **15%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
+| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
+| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
 
 ## Cazuri în care nu poți efectua jobul  
  
