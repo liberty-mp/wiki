@@ -45,7 +45,7 @@ Pentru a regla siguranțele, trebuie să apeși `CLICK STÂNGA` pe siguranțele 
   <Image src="https://i.imgur.com/JJzrJyB.gif" alt="Reglare siguranțe" />  
 :::  
 
-## Obiecte speciale pentru crafting & șanse de găsire  
+## Obiecte speciale pentru crafting și șanse de găsire  
 
 Pe lângă suma de bani primită după repararea tabloului electric, mai ai șansa de a găsi **obiecte speciale pentru crafting**.
 
