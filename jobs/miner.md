@@ -44,13 +44,17 @@ După ce ai început tura de job, trebuie să urmezi ruta de pe hartă până c�
 
 Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 ::: tip Detalii șanse drop  
-La **descărcarea mașinii** la punctul de procesare ai o șansă de **10%** să găsești un item de crafting, dintre care, o șansă de 50% să primești - **Metal Bar** sau **Gunpowder**.
+La fiecare $400 câștigați în cadrul job-ului există șansa de 20% de a găsi **Metal Bar**.
+
+La fiecare $300 câștigați în cadrul job-ului există șansa de 20% de a găsi **Gunpowder**.
+
+În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 
 :::  
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/wy3nrJG.png" alt="Metal Bar" width="48" label="Metal Bar" /> | **Da, 8 per stack** |  **50%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
-| <Image src="https://i.imgur.com/Ub9vSWq.png" alt="Gunpowder" width="48" label="Gunpowder" /> | **Da, 32 per stack** |  **50%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
+| <Image src="https://i.imgur.com/wy3nrJG.png" alt="Metal Bar" width="48" label="Metal Bar" /> | **Da, 8 per stack** |  **20%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
+| <Image src="https://i.imgur.com/Ub9vSWq.png" alt="Gunpowder" width="48" label="Gunpowder" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
 
 ## Cazuri în care nu poți efectua jobul  
  
