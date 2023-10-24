@@ -6,8 +6,9 @@ title: ATM Robbery
 | ----------- | :-----------: |
 | Necesită **vehicul personal**? | Da. |
 | Necesită permis de conducere? | Nu. |
-| Necesită iteme specifice? | <Image src="https://i.imgur.com/u8nsUCN.png" alt="Hook" width="48" label="hook" /> <Image src="https://i.imgur.com/u8nsUCN.png" alt="Hook" width="48" label="hook" /> <Image src="https://i.imgur.com/rJVKhFd.png" alt="Rope" width="48" label="rope" /> |
+| Necesită iteme specifice? | <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" />
 | Necesită un minim de level? | Da, ai nevoie de minim level 3. |
+
 
 ## Desfășurarea unui **ATM Robbery**
 
@@ -18,6 +19,10 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 ### De unde fac rost de obiectele necesare pentru jefuire?
 
 **Obiectele speciale** necesare jefuirii pot fi găsite [la sfârșitul unei ture de job la Garbageman ♻️](../jobs/garbageman#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire) ***sau*** [la sfârșitul unei ture de job la Lumberjack.](../jobs/lumberjack.md#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire)
+
+::: tip
+Pentru a putea jefui cu succes un ATM aveți nevoie de 'Hooked Rope' aceasta se poate crafta pe insula 'Cayo Perico' cu 3 Rope si 2 Hook.
+:::
 
 ### Cât pot câștiga dacă jefuiesc un ATM?
 
