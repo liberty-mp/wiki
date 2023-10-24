@@ -15,7 +15,7 @@ Evenimentul se bazează pe un 'streak' (o serie) de completări zilnice consecut
 Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie completat **o dată pe zi**, excepție făcând conturile **Premium** de tip <PremiumSubscription type="platinum" /> care pot să-l completeze de **2 ori pe zi** însă nu primesc și recompensa de 2 ori, doar **+1** la streak (ajung la 100% mai rapid).  
 
 ### Recompensa la completarea zilnică:  
-*primiți toate cele 3 de mai jos per completare zilnică
+
 
 | între | un obiect aleatoriu dintre | 25% să primiți între
 | :-----------: | :-----------: | :-----------: |
@@ -57,6 +57,10 @@ ex.: Dacă ai 15 completări și astăzi nu completezi quest-ul minim o dată, p
 Streak-ul (seria) cât și bonusurile câștigate deja se vor pierde dacă nu completați evenimentul pentru o zi.  
 Bonusurile nu se cumulează!  
 ex.: La 15 completări jucătorul va avea 8% Job Boost, bonusul de 5% anterior câștigat fiind înlocuit.  
+:::
+
+::: tip
+Cumpărarea unui cont de tip <PremiumSubscription type="platinum" /> vă oferă opțiunea de a păstra progresul acumulat, chiar dacă nu a fost completat una sau mai multe zile la rand.
 :::
 
 În cazul în care ai nevoie de alte informații pe care nu le găsești pe această pagină, îți sugerăm să folosești sistemul de ajutor din joc (tastează `/helpme`), să accesezi serverul nostru de [**Discord**](https://liberty.mp/discord) sau să comunici cu alți jucători în joc și să îi intrebi pe aceștia.
