@@ -85,7 +85,7 @@ Pe lângă suma de bani obținută la finalul cursei, mai ai șansa de a găsi o
 
 ::: tip Detalii șanse drop
 
-La fiecare _**$400**_ munciți în cadrul job-ului există șansa de _**20$**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca. 
+La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca. 
 :::
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
