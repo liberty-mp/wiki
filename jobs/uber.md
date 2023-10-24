@@ -27,6 +27,7 @@ Fiecare jucător ce dorește să lucreze în cadrul job-ului Uber trebuie să de
 
 ::: tip
 Licența poate fi cumpărată pe o perioadă de minim o oră și de maximum 24 ore.
+
 Prețurile licenței în funcție de tipul de subscripție activă pe cont pot fi regăsite în tabelul de mai jos.
 :::
 
@@ -41,6 +42,7 @@ Prețurile licenței în funcție de tipul de subscripție activă pe cont pot f
 :::  
 
 Odată achiziționată licența, jucătorul va putea selecta din aplicație opțiunea de Work. Îndată ce a apăsat pe butonul respectiv îi va fi afișată o comandă de la un NPC ce îi va arăta locul pentru pick-up, locul pentru drop-off și suma de bani pe care o va primi.
+
 În momentul în care accepți comanda din aplicație, un waypoint îți va fi aplicat pe mini-map iar tu va trebui să ajungi acolo pentru a prelua clientul, după care îți va fi arătată locația unde NPC-ul dorește să ajungă.
 
 ::: details Acceptarea unei comenzi
