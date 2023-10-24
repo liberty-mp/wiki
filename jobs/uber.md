@@ -33,8 +33,8 @@ Prețurile licenței în funcție de tipul de subscripție activă pe cont pot f
 | Subscription type   | Licence price |
 | ----------- | :-----------: |
 | No subscription | ~<Dinero :amount='60' /> |
-| Gold subscription | ~<Dinero :amount='30' /> (50% discount) |
-| Platinum subscription | ~<Dinero :amount='0' /> (100% discount) |
+| <PremiumSubscription type='gold' /> | ~<Dinero :amount='30' /> (50% discount) |
+| <PremiumSubscription type='platinum' /> | ~<Dinero :amount='0' /> (100% discount) |
 
 ::: details Achiziția licenței
   <Image src="https://i.imgur.com/hNPwoer.gif" alt="Achiziția licenței" />  
