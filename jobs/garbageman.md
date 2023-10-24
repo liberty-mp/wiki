@@ -66,7 +66,7 @@ La fiecare <Dinero :amount="600" /> câștigați în cadrul job-ului există șa
 
 La fiecare <Dinero :amount="400 " /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Rope, item ce ajută in craftarea Hooked Rope.
 
-Bonusurile provenite din diferite surse ([World Exploration](../events/world-exploration.md), [marijuana joint](../factions/gangs#marijuana-joint), Liberty Pass boost, [Clan Perk](../clans/tabs#perks)) sunt incluse.
+Bonusurile provenite din diferite surse ([World Exploration](../events/world-exploration.md), [Marijuana Joint](../factions/gangs.md#marijuana-joint), Liberty Pass boost, [Clan Perk](../clans/tabs.md#perks)) sunt incluse.
 
 :::  
 
