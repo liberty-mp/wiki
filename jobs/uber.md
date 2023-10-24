@@ -8,7 +8,7 @@ title: Uber
 | Necesită vehicul personal? | Da |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate găsire obiecte speciale? | Da. |
+| Posibilitate găsire obiecte speciale? | [Da.](#obiecte-speciale-pentru-activitati-si-sanse-de-gasire) |
 
 
 ## Desfășurarea jobului 
