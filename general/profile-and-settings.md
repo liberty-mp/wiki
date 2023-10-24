@@ -158,6 +158,7 @@ Secțiunea **Statistics**:
 
 ::: tip
 Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [World Exploration](./world-exploration)
+:::
 
 ### Referrals 
 
