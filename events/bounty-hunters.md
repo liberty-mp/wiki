@@ -110,6 +110,6 @@ Cum iau servieta?
 :::
 
 Cum deschid servieta?
-::: detalis <Image src="https://i.imgur.com/4nB2hAl.png" alt="Alfred" />
-
+::: detalis 
+<Image src="https://i.imgur.com/4nB2hAl.png" alt="Alfred" />
 :::
