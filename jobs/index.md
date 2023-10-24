@@ -119,4 +119,14 @@ Fii eroul drumurilor! Îmbarcă-te în camionul de tractare și adu salvarea în
 
 Ai nevoie de pricepere la volan și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.
 
-> Vezi detalierea jobului [Tow Truck Driver](./tow-truck-driver). 
+> Vezi detalierea jobului [Tow Truck Driver](./tow-truck-driver).
+
+---
+
+### Uber 🚕
+
+În calitate de șofer Uber, vei fi responsabil pentru furnizarea de servicii de transport sigure și de încredere pasagerilor. Obiectivul tău principal va fi să asiguri o experiență pozitivă pentru călători, oferind servicii excelente pentru aceștia 🚀💪
+
+Ai nevoie de pricepere la volan și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.
+
+> Vezi detalierea jobului [Uber](./uber). 
