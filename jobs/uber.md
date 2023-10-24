@@ -88,7 +88,7 @@ Pe lângă suma de bani obținută la finalul cursei, mai ai șansa de a găsi o
 La fiecare _**$400**_ munciți în cadrul job-ului există șansa de _**20$**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca. 
 :::
 
-| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
+| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/TGIAVQa.png" alt="Pliers" width="48" label="Pliers" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | Fleeca bank rob |
 
