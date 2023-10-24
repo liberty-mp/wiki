@@ -119,4 +119,14 @@ Fii eroul drumurilor! Îmbarcă-te în camionul de tractare și adu salvarea în
 
 Ai nevoie de pricepere la volan și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.
 
-> Vezi detalierea jobului [Tow Truck Driver](./tow-truck-driver). 
+> Vezi detalierea jobului [Tow Truck Driver](./tow-truck-driver).
+
+---
+
+### Uber 🚕
+
+Ești în căutarea unei cariere flexibile și recompensatoare care îți permite să fii propriul tău șef? Devino șofer Uber și alătură-te comunității de șoferi care oferă transport sigur și convenabil oamenilor din orașul tău. Indiferent dacă vrei să lucrezi full-time sau part-time, acest job îți oferă libertatea de a-ți stabili propriul program și de a câștiga bani după propriile reguli. 🚀💪
+
+Ai nevoie de pricepere la volan și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.
+
+> Vezi detalierea jobului [Uber](./uber). 
