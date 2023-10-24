@@ -5,9 +5,9 @@ title: Bounty Hunters
 # Bounty Hunters 🎯🔫
 
 
-Ce este "Bounty Hunters"?
+Ce este Bounty Hunters?
 
-"Bounty Hunters" este un eveniment permanent activ pe server, vizibil în `[/event]` similar cu World Exploration. 
+Bounty Hunters este un eveniment permanent activ pe server, vizibil în `[/event]` similar cu World Exploration. 
 
 In fiecare zi, serverul va spawna pentru fiecare jucator la un interval de 8 ore (**00:00**, **08:00** si **16:00**) un numar de NPC-uri ce trebuiesc ucise cu o armă. 
 
@@ -31,7 +31,6 @@ Servieta(Suitcase) trebuie livrată la Alfred într-un interval de 10 minute.
 
 ### Level Bounty Hunters
 
-::: detalis
 | Level | Puncte Necesare | Bonus |
 | :--: | :-: | :-----: |
 | Level 1 | 0 points | Dropable Items Chance 25% |
@@ -55,13 +54,10 @@ Servieta(Suitcase) trebuie livrată la Alfred într-un interval de 10 minute.
 | Level 19 | 8200 points | Money Boost 36%<br> Experience Boost 36% |
 | Level 20 | 10000 points | Money Boost 40%<br> Experience Boost 40% |<br> Dropable Items Chance 45% |
 
-:::
-
 ### Recompense
 
 In momentul in care jucatorii omoara un NPC sau livrezi servieta vor primi urmatoarele premii:
 
-::: detalis 
 | Recompensă generală<br> (100%) | Recompensă Bonus<br> (25%-45%) |
 | :---------: | :----------: |
 | <Image src="https://i.imgur.com/cweJ0Uz.png" alt="1-3 Street Points " width="40" label="1-3 Street Points" /> |  <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="40" label="Reel Rod" /> |
@@ -76,8 +72,6 @@ In momentul in care jucatorii omoara un NPC sau livrezi servieta vor primi urmat
 | - | <Image src="https://i.imgur.com/BijpevO.png" alt="Explosive" width="40" label="Explosive" /> | 
 | - | <Image src="https://i.imgur.com/oXVperm.png" alt="Drill" width="40" label="Drill" /> |
 | - | <Image src="https://i.imgur.com/OsyN0g.png" alt="Pliers" width="40" label="Pliers" /> | 
-
-:::
 
 ::: tips 
 Recompensă generală are șansă de _**100%**_ să o primesti.
@@ -105,11 +99,7 @@ Membrii care fac parte din clanul situat pe locul 1 si care au obtinut mai mult 
 ### FAQ
 
 Cum iau servieta?
-::: detalis 
 <Image src="https://i.imgur.com/P7ZQMqB.png" alt="Ridicare servieta" />
-:::
 
 Cum deschid servieta?
-::: detalis 
 <Image src="https://i.imgur.com/4nB2hAl.png" alt="Alfred" />
-:::
