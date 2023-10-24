@@ -154,7 +154,7 @@ Secțiunea **Statistics**:
 - **Experience Boost** - afișează boost-ul de experiență acumulat pe baza completărilor
 - **Next Reward** - afișează următoarea recompensă pentru completarea quest-ului de 10 ori.
 
-![Quest4](https://i.imgur.com/WeaK4zD.png)
+<Image src="https://i.imgur.com/WeaK4zD.png" alt="Quest4" />
 
 ::: tip
 Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [World Exploration](./world-exploration)
