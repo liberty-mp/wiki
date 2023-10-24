@@ -90,7 +90,7 @@ Secțiunea **Licences**:
 ::: warning Atenție!
 În cazul în care aveți licența de condus suspendată în partea din dreapta veți avea un timer reprezentând timpul rămas până la redobândirea licenței.
 :::
-![General2](https://i.imgur.com/ZSlQa8Q.png)
+<Image src="https://i.imgur.com/ZSlQa8Q.png" alt="General2" />
 
 ### Jobs & Faction 
 
