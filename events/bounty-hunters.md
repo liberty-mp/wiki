@@ -79,9 +79,12 @@ In momentul in care jucatorii omoara un NPC sau livrezi servieta vor primi urmat
 
 :::
 
-::: tips Recompensă generală are șansă de _**100%**_ să o primesti. <br>
-Recompensă Bonus are șansă de _**25%**_-_**45%**_ să o primesti. Șansă crescând odată cu înaintarea în levelul Bounty Hunters. <br>
-Experienta are un bonus în functie de levelul Bounty Hunters.<br>
+::: tips 
+Recompensă generală are șansă de _**100%**_ să o primesti.
+
+Recompensă Bonus are șansă de _**25%**_-_**45%**_ să o primesti. Șansă crescând odată cu înaintarea în levelul Bounty Hunters.
+
+Experienta are un bonus în functie de levelul Bounty Hunters.
 :::
 
 Evenimentul este gandit pe sezoane, exista un top 5 jucatori si top 5 clan-uri in functie de numarul de NPC-uri ucise.
