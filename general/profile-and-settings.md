@@ -144,7 +144,7 @@ Secțiunea **Statistics**:
 Secțiunea **World Exploration**:
 - Afișează numărul de obiecte vizitate pe hartă in acea zi.
 
-![Quest3](https://i.imgur.com/4Iq8J4C.png)
+<Image src="https://i.imgur.com/4Iq8J4C.png" alt="Quest3" />
 
 Secțiunea **Statistics**:
 - **Completion** - afișează numarul total de completări.
