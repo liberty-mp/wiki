@@ -28,7 +28,7 @@ Sistemul este împărțit în **4 secțiuni**:
 
 **Prezentarea secțiunii:** 
 
-![Clothes Items](https://i.imgur.com/HzZDpBj.png) 
+<Image src="https://i.imgur.com/5mJN7cG.png" alt="Clothes Items" />
 
 - **Slotul 1** - pot fi atașate obiecte de îmbrăcăminte precum: **șepci**, **pălării**, **căciuli** și așa mai departe; 
 - **Slotul 2** - pot fi atașate obiecte de îmbrăcăminte precum: **tricouri**, **geci**, **bluze**, **cămăși** și așa mai departe;
@@ -37,7 +37,10 @@ Sistemul este împărțit în **4 secțiuni**:
 - **Slotul 5** - pot fi atașate accesorii precum: **măști**, **cagule**, **bandane** și așa mai departe;
 - **Slotul 6** - pot fi atașate accesorii precum: **ochelari** și **diverse obiecte** pentru ochi (bandaj de pirat);
 - **Slotul 7** - pot fi atașate accesorii precum: **brățări**, **lanțuri** și așa mai departe;
-- **Slotul 8** - pot fi atașate obiecte de îmbrăcăminte precum: **adidași**, **pantofi**, **ghete** și așa mai departe. 
+- **Slotul 8** - pot fi atașate obiecte de îmbrăcăminte precum: **adidași**, **pantofi**, **ghete** și așa mai departe.
+- **Slotul 9** - pot fi atașate accesorii precum: **cercei**;
+- **Slotul 10** - pot fi atașate accesorii precum: **lanțuri**;
+- **Slotul 11** - pot fi atașate accesorii precum: **ghiozdane** si **borsete**;
 
 ::: tip
 Pentru a ocupa un **slot** trebuie să tragi din inventar (**Inventory Items**) **obiectul de îmbrăcăminte** sau **accesoriu** în cadrul **slotului** corespunzător. Pentru a detașa un **obiect de îmbrăcăminte** sau un **accesoriu** de pe un **slot**, apasă *click-dreapta* pe **obiectul de îmbrăcăminte** sau pe **accesoriu**. 
