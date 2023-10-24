@@ -25,7 +25,7 @@ Poți filtra aceste icon-uri în harta din `ESC`.
 | <Image src="https://i.imgur.com/sLS8U9O.png" alt="Bounty Hunters2" width="25" /> | Aggressive | Nu |
 | <Image src="https://i.imgur.com/mu84IxQ.png" alt="Bounty Hunters3" width="25" /> | Aggressive | Da |
 
-::: tips
+::: tip
 Servieta(Suitcase) trebuie livrată la Alfred într-un interval de 10 minute.
 :::
 
@@ -73,7 +73,7 @@ In momentul in care jucatorii omoara un NPC sau livrezi servieta vor primi urmat
 | - | <Image src="https://i.imgur.com/oXVperm.png" alt="Drill" width="40" label="Drill" /> |
 | - | <Image src="https://i.imgur.com/OsyN0g.png" alt="Pliers" width="40" label="Pliers" /> | 
 
-::: tips 
+::: tip 
 Recompensă generală are șansă de _**100%**_ să o primesti.
 
 Recompensă Bonus are șansă de _**25%**_-_**45%**_ să o primesti. Șansă crescând odată cu înaintarea în levelul Bounty Hunters.
