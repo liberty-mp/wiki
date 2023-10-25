@@ -25,8 +25,6 @@ title: Informații generale activitati ilegale
 
 Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce te împiedica din practicarea acestora deoarece atragi prea multă atenție.
 
-De fiecare dată când vei jefui un ATM, vei primi 60 Heat Level, care va scădea complet în 3 ore (1% per 3 minute).
-
 | Heat Level | Cât durează să dispară? | Bonus, mai rapid cu 15%<br><PremiumSubscription type="gold" /> | Bonus, mai rapid cu 30%<br><PremiumSubscription type="platinum" /> |
 | :-----------: | :-----------: | :-----------: | :-----------: | 
 | 100% | 5 ore | 4 ore și 15 minute | 3 ore și 30 minute |
