@@ -100,6 +100,6 @@ Pentru jefuirea unui ATM, va trebui să **nu aveți un Heat Level ridicat** și 
 :::
 
 ::: tip   
-- După jefuirea consolei ATM din perete, vei primi **wanted Robbery fără drept de predare** și **60 procente (%) de Heat Level**. 
+- După jefuirea consolei ATM din perete, vei primi **wanted Robbery fără drept de predare** și **60 Heat Level**. 
 - Consola ATM rămâne în inventar pentru **20 de minute**, după acest timp **Alfred** nu mai dorește să aibă de a face cu tine deoarece atrage prea multă atenție asupra ta.  
 :::
