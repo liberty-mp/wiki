@@ -54,7 +54,7 @@ Este esențial ca, la nivele mai mici, să ai o bază financiară bună pentru a
 
 ### Între level 3 și 5
 
-Acum că ai crescut în nivel, poți efectua **rob-uri (jefuiri)**, despre care ai mai multe informații [**aici**](./general/atm-robbery), dar și să îți cumperi o mașină din Dealership, dacă ai banii necesari! 
+Acum că ai crescut în nivel, poți efectua **rob-uri (jefuiri)**, despre care ai mai multe informații [**aici**](./illegal-activities/), dar și să îți cumperi o mașină din Dealership, dacă ai banii necesari! 
 
 La acest stadiu, depinde de tine ce fel de *gameplay* vrei să faci. Poți continua să muncești la jobul tău favorit, ori să te axezi pe partea de jafuri, unde ai un nivel de reputație pe care îl poți crește.
 

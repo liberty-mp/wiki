@@ -14,6 +14,7 @@ title: Fleeca Bank Robbery
 Fleeca Bank Rob constă în jefuirea unităților bancare din oraș și din afara acestuia. Aceasta este o activitate ilegală care vă va plasa pe lista de wanted a polițistilor, timp de o oră.
 
 ## Întrebări frecvente
+
 ### De unde fac rost de itemele necesare pentru jefuire?
 
 Obiectele speciale necesare acestui tip de jaf pot fi obținute [la sfârșitul unei ture de Tow Truck Driver](../../jobs/tow-truck-driver#obiecte-speciale-pentru-activitati-sanse-de-gasire), [la sfârșitul unei curse din cadrul job-ului Uber](../../jobs/uber#obiecte-speciale-pentru-activitati-si-sanse-de-gasire) și prin craftarea unui C4 pe insula Cayo Perico.
@@ -45,7 +46,7 @@ Dacă se întâmplă sa prinzi un jucător în fapt, îl poți omorâ însă nu 
 
 ## Cum jefuiesc o bancă?
 
-Pentru jefuirea unei bănci, este necesar să ai 9 [Heat Level](../index.md#ce-este-heat-level) pe cont și să nu fi urmărit de către poliție.
+Pentru jefuirea unei bănci, nu trebuie să aveți [Heat Level](../index.md#ce-este-heat-level) mai mare de 9 pe cont și să nu fi urmărit de către poliție.
 
 În urma unui jaf la bancă, vei primi 90 [Heat Level](../index.md#ce-este-heat-level). 
 

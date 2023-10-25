@@ -91,7 +91,7 @@ La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa 
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/TGIAVQa.png" alt="Pliers" width="48" label="Pliers" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | Fleeca bank rob |
+| <Image src="https://i.imgur.com/TGIAVQa.png" alt="Pliers" width="48" label="Pliers" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
 
 ## Cazuri în care nu poți efectua job-ul
 ### Părăsirea vehiculului

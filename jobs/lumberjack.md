@@ -54,8 +54,8 @@ La fiecare _**$600**_ câștigați în cadrul job-ului există șansa de _**20%*
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
-| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../general/atm-robbery) |
+| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../illegal-activities/robberies/atm-robbery) |
+| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../illegal-activities/robberies/atm-robbery) |
 
 ## Cazuri în care nu poți efectua jobul  
  
