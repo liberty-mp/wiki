@@ -6,7 +6,7 @@ title: Hotdog Stand Robbery
 | ----------- | :-----------: |
 | Necesită **vehicul personal**? | Nu. |
 | Necesită permis de conducere? | Nu. |
-| Necesită iteme specifice? | Da. |
+| Necesită iteme specifice? | Orice tip de armă. |
 
 ## Desfășurarea unui Hotdog Stand Robbery
 
