@@ -2,6 +2,9 @@
 title: Informații generale activitati ilegale
 ---
 
+## Informații generale activități ilegale
+Pe serverul nostru, jucătorii au oportunitatea de a se implica într-o varietate de activități ilegale, aducând o doză de provocare și excitare jocului. Aceste activități ilegale sunt concepute pentru a oferi jucătorilor o experiență interactivă captivantă și pentru a testa abilitățile lor într-un mediu virtual. Iată o scurtă descriere a câtorva dintre activitățile ilegale disponibile:
+
 ## Întrebări frecvente
 
 ### Care sunt skill-urile la Robbing (Street Reputation)?
@@ -33,3 +36,23 @@ Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce 
 | 25% | 1 oră și 15 minute | 1 oră, 3 minute și 45 secunde | 52 minute și 30 secunde |
 | 10% | 30 minute | 25 minute și 30 secunde | 21 minute |
 | 1% | 3 minute | 2 minute și 33 secunde | 2 minute și 6 secunde |
+
+## Listă cu activitățile ilegale disponibile:
+
+### ATM Robbery 💸
+
+În cadrul acestei activități ilegale, jucătorii pot să planifice și să execute jafuri la bancomatele virtuale pentru a obține bani rapid. Cu toate acestea, trebuie să fie extrem de vigilenți, deoarece forțele de ordine monitorizează cu atenție astfel de activități și există riscul de a fi prinși.
+
+> Vezi detalierea [ATM Robbery](./robberies/atm-robbery.md).
+
+### Fleeca Bank Robbery 🏦
+
+În cadrul acestei acțiuni ilegale, jucătorii au oportunitatea să organizeze jafuri la băncile Fleeca. Este o activitate extrem de riscantă, care necesită planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal. Cu toate acestea, trebuie să fie conștienți că consecințele unui eșec pot fi serioase și pot implica urmărirea penală.
+
+> Vezi detalierea [Fleeca Bank Robbery](./robberies/fleeca-bank-robbery.md).
+
+### Hotdog Stand Robbery 🌭
+
+În cadrul acestei activități ilegale, jucătorii pot alege să jefuiască standurile de hotdoguri virtuale pentru a fura bani în mod ilegal. Acest job ilegal este mai puțin grav decât jafurile bancare, dar tot necesită pricepere și planificare pentru a evita detecția și capturarea de către autorități.
+
+> Vezi detalierea [Hotdog Stand Robbery](./robberies/hotdog-stand-robbery.md).
