@@ -18,7 +18,7 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 
 ### De unde fac rost de obiectele necesare pentru jefuire?
 
-**Obiectele speciale** necesare jefuirii pot fi găsite [la sfârșitul unei ture de job la Garbageman ♻️](../jobs/garbageman#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire) ***sau*** [la sfârșitul unei ture de job la Lumberjack.](../jobs/lumberjack.md#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire)
+**Obiectele speciale** necesare jefuirii pot fi obținute [la sfârșitul unei ture de job la Garbageman ♻️](../../jobs/garbageman#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire) ***sau*** [la sfârșitul unei ture de job la Lumberjack.](../../jobs/lumberjack#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire)
 
 ::: tip
 Pentru a putea jefui cu succes un ATM aveți nevoie de 'Hooked Rope', acesta se poate crafta pe insula 'Cayo Perico' cu 3 Rope si 2 Hook.
