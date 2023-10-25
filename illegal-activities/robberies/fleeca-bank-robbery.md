@@ -7,7 +7,7 @@ title: Fleeca Bank Robbery
 | Necesită **vehicul personal**? | Nu. |
 | Necesită permis de conducere? | Nu. |
 | Necesită iteme specifice? | <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> <Image src="https://i.imgur.com/7yoaS4e.png" alt="Pliers" width="48" label="Pliers" /> <Image src="https://i.imgur.com/Z2ORyVw.png" alt="Drill" width="48" label="Drill" />
-| Necesită un anumit skill? | Da, ai nevoie de skill Shoplifter |
+| Necesită un anumit skill? | Da, ai nevoie de skill [Shoplifter](../index.md#care-sunt-skill-urile-la-robbing-street-reputation) |
 
 ## Desfășurarea unui Bank Rob
 
@@ -16,7 +16,7 @@ Fleeca Bank Rob constă în jefuirea unităților bancare din oraș și din afar
 ## Întrebări frecvente
 ### De unde fac rost de itemele necesare pentru jefuire?
 
-Obiectele speciale necesare acestui tip de jaf pot fi obținute [la sfârșitul unei ture de Tow Truck Driver](../jobs/tow-truck-driver#obiecte-speciale-pentru-activitati-sanse-de-gasire), [la sfârșitul unei curse din cadrul job-ului Uber](../jobs/uber#obiecte-speciale-pentru-activitati-si-sanse-de-gasire) și prin craftarea unui C4 pe insula Cayo Perico.
+Obiectele speciale necesare acestui tip de jaf pot fi obținute [la sfârșitul unei ture de Tow Truck Driver](../../jobs/tow-truck-driver#obiecte-speciale-pentru-activitati-sanse-de-gasire), [la sfârșitul unei curse din cadrul job-ului Uber](../../jobs/uber#obiecte-speciale-pentru-activitati-si-sanse-de-gasire) și prin craftarea unui C4 pe insula Cayo Perico.
 
 ::: tip
 Pentru acest tip de jaf ai nevoie de un C4 bomb, de Pliers și de Drill. C4 bomb se poate crafta pe insula Cayo Perico în urma obținerii itemelor necesare sau achizitionata de la alti playeri.
