@@ -20,22 +20,22 @@ Fleeca Bank Rob constă în jefuirea unităților bancare din oraș și din afar
 Obiectele speciale necesare acestui tip de jaf pot fi obținute [la sfârșitul unei ture de Tow Truck Driver](../../jobs/tow-truck-driver#obiecte-speciale-pentru-activitati-sanse-de-gasire), [la sfârșitul unei curse din cadrul job-ului Uber](../../jobs/uber#obiecte-speciale-pentru-activitati-si-sanse-de-gasire) și prin craftarea unui C4 pe insula Cayo Perico.
 
 ::: tip
-Pentru acest tip de jaf ai nevoie de un C4 bomb, de Pliers și de Drill. C4 bomb se poate crafta pe insula Cayo Perico în urma obținerii itemelor necesare sau achizitionata de la alti playeri.
+Pentru acest tip de jaf ai nevoie de un C4 bomb, Pliers și Drill. C4 bomb se poate crafta pe insula Cayo Perico în urma obținerii itemelor necesare sau achiziționată de la alți playeri.
 :::
 
 ### Cât pot câștiga dacă jefuiesc o bancă?
 
-În cazul în care nu ai întâmpinat probleme sau nu ai fost ucis de alt player în timp de jefuiai banca, câștigul de bază al acestui jaf este între <MarkedMoney :amount="8000" /> și <MarkedMoney :amount="10000" />, între 2 și 7 gold bars și între 2 și 7 silver bars. 
+În cazul în care nu ai întâmpinat probleme sau nu ai fost ucis de alt player în timp ce jefuiai banca, câștigul de bază al acestui jaf este între <MarkedMoney :amount="8000" /> și <MarkedMoney :amount="10000" />, între 2 și 7 gold bars și între 2 și 7 silver bars. 
 
 La finalul rob-ului, vei mai primi pe lângă cele enumerate și între 7 și 15 Street Reputation Points.
 
 ::: tip
-Banii marcați obținuți in urma jafului pot varia în funcție de skill-ul avut la Robbing (street rep.)
+Banii marcați obținuți în urma jafului pot varia în funcție de skill-ul avut la Robbing (street rep.)
 
-Acesti bani pot fi spalati pe insula Cayo Perico
+Acești bani pot fi spălați pe insula Cayo Perico.
 :::
 
-Dacă se întâmplă sa prinzi un jucător în fapt, îl poți omorâ însă nu vei primi nimic.
+Dacă se întâmplă să prinzi un jucător în fapt, îl poți omorî dar nu vei primi nimic.
 
 ### Cum aflu dacă o bancă poate fi jefuită?
 
@@ -46,11 +46,11 @@ Dacă se întâmplă sa prinzi un jucător în fapt, îl poți omorâ însă nu 
 
 ## Cum jefuiesc o bancă?
 
-Pentru jefuirea unei bănci, nu trebuie să aveți [Heat Level](../index.md#ce-este-heat-level) mai mare de 9 pe cont și să nu fi urmărit de către poliție.
+Pentru jefuirea unei bănci, nu trebuie să aveți [Heat Level](../index.md#ce-este-heat-level) mai mare de 9 pe cont și să nu fiți urmăriți de către poliție.
 
 În urma unui jaf la bancă, vei primi 90 [Heat Level](../index.md#ce-este-heat-level). 
 
-Localizează o bancă pe harta din `ESC` și mergi la ea. Odată ajuns acolo, echipează arma aflată în 'Fast Slots', localizează panoul de electricitate al băncii si apasă tasta `E`în fața acestuia pentru a opri sigurantele si tăia curentul băncii.
+Localizează o bancă pe harta din `ESC` și mergi la ea. Odată ajuns acolo, echipează arma aflată în 'Fast Slots', localizează panoul de electricitate al băncii si apasă tasta `E` în fața acestuia pentru a opri siguranțele și tăia curentul băncii.
 
 ::: details Începerea rob-ului  
  <Image src="https://i.imgur.com/SCk2LrZ.jpg" alt="rob1" />  
@@ -62,13 +62,13 @@ Localizează o bancă pe harta din `ESC` și mergi la ea. Odată ajuns acolo, ec
 
 În momentul în care ai oprit siguranțele băncii și ai început jaful, ai la dispoziție 2 minute pentru a îl finaliza.
 
-Următorul pas în jefuirea cu succes a băncii este de a omorâ paznicul aflat în interiorul acesteia.
+Următorul pas în jefuirea cu succes a băncii este de a omorî paznicul aflat în interiorul acesteia.
 
 ::: danger Atenție! 
 Gardianul din interiorul băncii este înarmat și va riposta pentru protejarea seifului. 
 :::
 
-::: details Paznicul bancii
+::: details Paznicul băncii
  <Image src="https://i.imgur.com/IiJYajT.gif" alt="rob4" />  
 :::
 
@@ -78,7 +78,7 @@ După ce ai lichidat paznicul aflat în interior, va trebui să plantezi bomba C
 După plantarea bombei, va trebui să te îndepărtezi de ușă pentru că, în urma exploziei, persoanele apropriate de aceasta pot suferi răni sau chiar pot muri.
 :::
 
-::: details Explozia usii
+::: details Explozia ușii
  <Image src="https://i.imgur.com/RUV6jP8.gif" alt="rob5" />  
 :::
 
@@ -88,13 +88,13 @@ Odată ce ușa a fost deschisă, începe jaful propriu zis. Există 2 camere, un
  În momentul în care te atingi de cele 2 seifuri sau de masa cu bani, vei primi wanted și va trebui să fi precaut în cazul în care polițistii își vor face apariția.
 :::
 
-Pentru a fura banii de pe masă, trebuie să mergi in checkpoint-ul mov aflat în fața mesei și să ții apasată tasta `E` până când bar-ul de sub banii furați se va umple. 
+Pentru a fura banii de pe masă, trebuie să mergi în checkpoint-ul mov aflat în fața mesei și să ții apasată tasta `E` până când bar-ul de sub banii furați se va umple. 
 
 ::: details Furatul banilor
  <Image src="https://i.imgur.com/Z9wGyxi.gif" alt="rob6" />  
 :::
 
-::: details Suma de bani furata
+::: details Suma de bani furată
  <Image src="https://i.imgur.com/riZWSxs.jpg" alt="rob7" />  
 :::
 
@@ -104,10 +104,10 @@ Procesul acesta se va repeta și la cele 2 seifuri cu lingouri, va trebui să me
  <Image src="https://i.imgur.com/uYbw2VC.gif" alt="rob8" />  
 :::
 
-::: details Suma de lingouri primita + street rep.
+::: details Suma de lingouri primită + street rep.
  <Image src="https://i.imgur.com/lmnEWEN.jpg" alt="rob9" />  
 :::
 
-::: details Rezumatul jafului dupa cele 2 sertare de lingouri
+::: details Rezumatul jafului după cele 2 sertare de lingouri
  <Image src="https://i.imgur.com/G5Qdrci.jpg" alt="rob10" />  
 :::
