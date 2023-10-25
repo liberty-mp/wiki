@@ -6,7 +6,7 @@ title: Hotdog Stand Robbery
 | ----------- | :-----------: |
 | Necesită **vehicul personal**? | Nu. |
 | Necesită permis de conducere? | Nu. |
-| Necesită iteme specifice? | Orice tip de armă. |
+| Necesită iteme specifice? | Da. Orice tip de armă. |
 
 ## Desfășurarea unui Hotdog Stand Robbery
 
@@ -22,14 +22,16 @@ Jafurile de acest gen se pot executa la tarabele de hotdog de pe mapa din `ESC`,
  <Image src="https://i.imgur.com/H8j8Om6.png" alt="stand2" />  
 :::
 
-## Cum pot jefui un stand de hotdogi?
+## Întrebări frecvente
 
-Pentru jefuirea standurilor de hotdogi, ai nevoie de o armă și de heat level suficient de mic.
+### Cum pot jefui un stand de hotdogi?
+
+Pentru jefuirea standurilor de hotdogi, ai nevoie de o armă și de [Heat Level](../index.md#ce-este-heat-level) suficient de mic.
 
 ::: tip
 Orice armă este disponibilă pentru jefuirea unui stand, inclusiv cele din Gunshop-uri. 
 
-La fiecare jaf executat cu succes, vei primi 20 Heat Level iar la fiecare jaf eșuat, vei primi doar 10 heat level.
+La fiecare jaf executat cu succes, vei primi 20 [Heat Level](../index.md#ce-este-heat-level) iar la fiecare jaf eșuat, vei primi doar 10 [Heat Level](../index.md#ce-este-heat-level).
 :::
 
 Odată ce ți-ai procurat o armă și o ai echipată pe un fast slot, trebuie să te afli în fața standului pe care dorești să îl jefuiești și să apeși tasta `R` pentru a începe jaful.
@@ -62,6 +64,6 @@ Odată mișcată ținta de pe NPC, jaful va fi unul eșuat deoarece acesta va ri
 <Image src="https://i.imgur.com/OsZqtt0.gif" alt="esuat" /> 
 :::
 
-Dacă jaful este unul cu succes, vei primi o sumă de bani cuprinsă între <Dinero :amount="220" /> și <Dinero :amount="440" /> câștig de bază, fără adăugarea de bonus de la [Street Reputation](../general/atm-robbery.md#care-sunt-skill-urile-la-robbing-street-reputation) sau orice alt boost și intre 2 - 4 Street Reputations Points.
+Dacă jaful este unul cu succes, vei primi o sumă de bani cuprinsă între <Dinero :amount="220" /> și <Dinero :amount="440" /> câștig de bază, fără adăugarea de bonus de la [Street Reputation](../index.md#care-sunt-skill-urile-la-robbing-street-reputation) sau orice alt boost și intre 2 - 4 Street Reputations Points.
 
 Nu uita, există o șansă de 15% de a primi wanted în urma acestui jaf.

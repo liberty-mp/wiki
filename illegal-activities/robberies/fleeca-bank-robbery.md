@@ -43,28 +43,11 @@ Dacă se întâmplă sa prinzi un jucător în fapt, îl poți omorâ însă nu 
 | <Image src="https://i.imgur.com/wAw4nBI.png" width="32" alt="Disponibil" label="Disponibil" />  | Poate fi jefuită |
 | <Image src="https://i.imgur.com/yASiq4N.png" width="32" alt="Indisponibil" label="Indisponibil" /> | Nu poate fi jefuită (delay 5 minute) |
 
-### Ce este Heat Level?
-
-Heat Level-ul este un sistem de delay (amânare) a activităților ilegale ce te va împiedica să jefuiești o altă bancă/ATM/hotdog stand.
-
-În urma unui jaf la bancă, vei primi 90 Heat.
-
-::: tip
-Pentru a putea da un rob la bancă, ai nevoie de maximum 9 Heat Level activ pe cont.
-:::
-
-| Heat Level | Cât durează să dispară? | Bonus, mai rapid cu 15%<br>**<Color hex="#FFD700">Gold Subscription</Color>** | Bonus, mai rapid cu 30%<br>**<Color hex="#100C84">Platinum Subscription</Color>** |
-| :-----------: | :-----------: | :-----------: | :-----------: | 
-| 100% | 5 ore | 4 ore și 15 minute | 3 ore și 30 minute |
-| 75% | 3 ore și 45 minute | 3 ore, 11 minute și 15 secunde | 2 ore și 45 minute |
-| 50% | 2 ore și 30 minute | 2 ore, 7 minute și 30 secunde | 1 oră și 45 minute | 
-| 25% | 1 oră și 15 minute | 1 oră, 3 minute și 45 secunde | 52 minute și 30 secunde |
-| 10% | 30 minute | 25 minute și 30 secunde | 21 minute |
-| 1% | 3 minute | 2 minute și 33 secunde | 2 minute și 6 secunde |
-
 ## Cum jefuiesc o bancă?
 
-Pentru jefuirea unei bănci, este necesar să ai 9 Heat Level pe cont și să nu fi urmărit de către poliție. (Heat Level 9 și fără wanted)
+Pentru jefuirea unei bănci, este necesar să ai 9 [Heat Level](../index.md#ce-este-heat-level) pe cont și să nu fi urmărit de către poliție.
+
+În urma unui jaf la bancă, vei primi 90 [Heat Level](../index.md#ce-este-heat-level). 
 
 Localizează o bancă pe harta din `ESC` și mergi la ea. Odată ajuns acolo, echipează arma aflată în 'Fast Slots', localizează panoul de electricitate al băncii si apasă tasta `E`în fața acestuia pentru a opri sigurantele si tăia curentul băncii.
 
