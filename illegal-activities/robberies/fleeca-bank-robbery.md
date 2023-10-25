@@ -127,20 +127,3 @@ Procesul acesta se va repeta și la cele 2 seifuri cu lingouri, va trebui să me
 ::: details Rezumatul jafului dupa cele 2 sertare de lingouri
  <Image src="https://i.imgur.com/G5Qdrci.jpg" alt="rob10" />  
 :::
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
