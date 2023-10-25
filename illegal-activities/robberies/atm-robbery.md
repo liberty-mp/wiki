@@ -21,14 +21,14 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 **Obiectele speciale** necesare jefuirii pot fi găsite [la sfârșitul unei ture de job la Garbageman ♻️](../jobs/garbageman#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire) ***sau*** [la sfârșitul unei ture de job la Lumberjack.](../jobs/lumberjack.md#obiecte-speciale-pentru-crafting-și-alte-activități--șanse-de-găsire)
 
 ::: tip
-Pentru a putea jefui cu succes un ATM aveți nevoie de 'Hooked Rope' aceasta se poate crafta pe insula 'Cayo Perico' cu 3 Rope si 2 Hook.
+Pentru a putea jefui cu succes un ATM aveți nevoie de 'Hooked Rope', acesta se poate crafta pe insula 'Cayo Perico' cu 3 Rope si 2 Hook.
 :::
 
 ### Cât pot câștiga dacă jefuiesc un ATM?
 
-În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător cât timp transportai consola ATM-ului, câștigul de bază va fi intre <Dinero :amount='1300'/> și <Dinero :amount='1800'/> **+ procentul aferent skill-ului avut la Robbing (Street Rep)** la care se adaugă și un procent de _**10%**_ pentru jucătorii ce dețin <PremiumSubscription type="gold" /> și _**20%**_ pentru jucătorii ce dețin <PremiumSubscription type="platinum" />.
+În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător cât timp transportai consola ATM-ului, câștigul de bază va fi intre <MarkedMoney :amount="4300" /> și <MarkedMoney :amount="6000" /> **+ procentul aferent skill-ului avut la Robbing (Street Rep)** la care se adaugă și un procent de _**10%**_ pentru jucătorii ce dețin <PremiumSubscription type="gold" /> și _**20%**_ pentru jucătorii ce dețin <PremiumSubscription type="platinum" />.
 
-Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul de bază va fi între <Dinero :amount='650'/> și <Dinero :amount='900'/> la care se adaugă bonusurile de mai sus.
+Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul de bază va fi între <MarkedMoney :amount="1850" /> și <Dinero :amount='2250'/> la care se adaugă bonusurile de mai sus.
 
 ### Care sunt skill-urile la Robbing (Street Reputation)?
 
@@ -64,7 +64,7 @@ Culoarea ATM-ului de pe hartă va indica statusul acestuia.
 
 Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce te împiedica din practicarea acestora deoarece atragi prea multă atenție.
 
-De fiecare dată când vei jefui un ATM, vei primi 100% Heat Level, care va scădea complet în 5 ore (1% per 3 minute).
+De fiecare dată când vei jefui un ATM, vei primi 60 Heat Level, care va scădea complet în 3 ore (1% per 3 minute).
 
 | Heat Level | Cât durează să dispară? | Bonus, mai rapid cu 15%<br>**<Color hex="#FFD700">Gold Subscription</Color>** | Bonus, mai rapid cu 30%<br>**<Color hex="#100C84">Platinum Subscription</Color>** |
 | :-----------: | :-----------: | :-----------: | :-----------: | 
@@ -77,7 +77,7 @@ De fiecare dată când vei jefui un ATM, vei primi 100% Heat Level, care va scă
 
 ### Cum jefuiesc un ATM?
 
-Pentru jefuirea unui ATM, va trebui să **nu aveți Heat Level** și **să nu fiți căutați de poliție** (Heat Level 0 & fără wanted).
+Pentru jefuirea unui ATM, va trebui să **nu aveți un Heat Level ridicat** și **să nu fiți căutați de poliție** (Heat Level 39 & fără wanted).
 
 - Apasă tasta `R` când ești lângă un ATM jefuibil și ai obiectele speciale în inventar.
 
@@ -100,6 +100,6 @@ Pentru jefuirea unui ATM, va trebui să **nu aveți Heat Level** și **să nu fi
 :::
 
 ::: tip   
-- După jefuirea consolei ATM din perete, vei primi **wanted Robbery fără drept de predare** și **100 procente (%) de Heat Level**. 
+- După jefuirea consolei ATM din perete, vei primi **wanted Robbery fără drept de predare** și **60 Heat Level**. 
 - Consola ATM rămâne în inventar pentru **20 de minute**, după acest timp **Alfred** nu mai dorește să aibă de a face cu tine deoarece atrage prea multă atenție asupra ta.  
 :::
