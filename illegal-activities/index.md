@@ -39,6 +39,12 @@ Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce 
 
 ## Listă cu activitățile ilegale disponibile:
 
+### Hotdog Stand Robbery 🌭
+
+În cadrul acestei activități ilegale, jucătorii pot alege să jefuiască standurile de hotdoguri virtuale pentru a fura bani în mod ilegal. Acest job ilegal este mai puțin grav decât jafurile bancare, dar tot necesită pricepere și planificare pentru a evita detecția și capturarea de către autorități.
+
+> Vezi detalierea [Hotdog Stand Robbery](./robberies/hotdog-stand-robbery.md).
+
 ### ATM Robbery 💸
 
 În cadrul acestei activități ilegale, jucătorii pot să planifice și să execute jafuri la bancomatele virtuale pentru a obține bani rapid. Cu toate acestea, trebuie să fie extrem de vigilenți, deoarece forțele de ordine monitorizează cu atenție astfel de activități și există riscul de a fi prinși.
@@ -50,9 +56,3 @@ Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce 
 În cadrul acestei acțiuni ilegale, jucătorii au oportunitatea să organizeze jafuri la băncile Fleeca. Este o activitate extrem de riscantă, care necesită planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal. Cu toate acestea, trebuie să fie conștienți că consecințele unui eșec pot fi serioase și pot implica urmărirea penală.
 
 > Vezi detalierea [Fleeca Bank Robbery](./robberies/fleeca-bank-robbery.md).
-
-### Hotdog Stand Robbery 🌭
-
-În cadrul acestei activități ilegale, jucătorii pot alege să jefuiască standurile de hotdoguri virtuale pentru a fura bani în mod ilegal. Acest job ilegal este mai puțin grav decât jafurile bancare, dar tot necesită pricepere și planificare pentru a evita detecția și capturarea de către autorități.
-
-> Vezi detalierea [Hotdog Stand Robbery](./robberies/hotdog-stand-robbery.md).
