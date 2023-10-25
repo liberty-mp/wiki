@@ -33,6 +33,8 @@ Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul
 La livrarea consolei ATM la NPC-ul Alfred pentru extragerea banilor, primești între (inclusiv) _**5 și 7**_ *# Street Rep Points*.
 La livrarea consolei ATM furată de la un alt jucător, primești între (inclusiv) _**2 și 4**_ *# Street Rep Points*.
 
+De fiecare dată când vei jefui un ATM, vei primi 60 [Heat Level](../index.md#ce-este-heat-level), care va scădea complet în 3 ore (1 Heat Level per 3 minute).
+
 ### Cum aflu daca un ATM este disponibil pentru jefuire?
 
 Culoarea ATM-ului de pe hartă va indica statusul acestuia.
