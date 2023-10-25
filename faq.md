@@ -22,8 +22,8 @@ Pentru a evita sancțiunile referitoare la informațiile de mai sus, îți recom
 
 Economia joburilor a fost realizată cu scopul ca profitabilitatea fiecaruia dintre cele **6 joburi** enumerate mai jos să devină egală după un număr de ore de muncă.
 
-Serverul [🗽liberty.mp](https://ucp.liberty.mp/) dispune în momentul de față de **6 joburi**:  
-[Electrician 🔌](./jobs/electrician) | [Fisherman 🎣](./jobs/fisherman) | [Garbageman ♻️](./jobs/garbageman) | [Lumberjack 🪓](./jobs/lumberjack) | [Miner ⛏️](./jobs/miner) | [Trucker 🚚](./jobs/trucker).  
+Serverul [🗽liberty.mp](https://ucp.liberty.mp/) dispune în momentul de față de **8 joburi**:  
+[Electrician 🔌](./jobs/electrician) | [Fisherman 🎣](./jobs/fisherman) | [Garbageman ♻️](./jobs/garbageman) | [Lumberjack 🪓](./jobs/lumberjack) | [Miner ⛏️](./jobs/miner) | [Trucker 🚚](./jobs/trucker) | [Tow Truck Driver 🚛](./jobs/tow-truck-driver) | [Uber 🚕](./jobs/uber).
 
  Într-o **oră** de muncă la job poți câștiga între <Dinero :amount="1500" /> și <Dinero :amount="2000" /> sau chiar mai mult, depinzând de anumiți factori: [skill-ul la jobul respectiv](./jobs/#cum-avansez-in-skill), [dacă se vând obiectele de crafting și alte activități găsite în urma jobului](./general/crafting), [dacă ai job boost activ cât timp practici jobul](./factions/gangs#sistemul-de-droguri).
 
