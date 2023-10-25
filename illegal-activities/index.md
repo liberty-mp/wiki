@@ -2,7 +2,7 @@
 title: Informații generale activitati ilegale
 ---
 
-## Informații generale activități ilegale
+### Informații generale activități ilegale
 Pe serverul nostru, jucătorii au oportunitatea de a se implica într-o varietate de activități ilegale, aducând o doză de provocare și excitare jocului. Aceste activități ilegale sunt concepute pentru a oferi jucătorilor o experiență interactivă captivantă și pentru a testa abilitățile lor într-un mediu virtual. Iată o scurtă descriere a câtorva dintre activitățile ilegale disponibile:
 
 ## Întrebări frecvente
