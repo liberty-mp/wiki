@@ -1,5 +1,5 @@
 ---
-title: Truckers Hauling Challange
+title: Truckers Hauling Challenge
 ---
 # Trucker's Hauling Challenge 🚚
 
