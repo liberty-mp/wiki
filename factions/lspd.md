@@ -61,8 +61,25 @@ Pentru a porni girofarul, apasă tasta `E`.
 | Interceptor      | [**Police Car**](https://static.wikia.nocookie.net/gtawiki/images/6/6b/PoliceCruiser3-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20230216161148) | 
 | Buffalo      |   [**Police Buffalo**](https://static.wikia.nocookie.net/gtawiki/images/b/b1/PoliceCruiser2-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20230216161144)    |   
 | Cruiser |  [**Police Cruiser**](https://static.wikia.nocookie.net/gtawiki/images/b/bd/PoliceCruiser-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20160311203102)    |   
-| Coil | [**Raiden**](https://static.wikia.nocookie.net/gtawiki/images/b/b5/Raiden-GTAO-front.png/revision/latest/scale-to-width-down/1000?cb=20171218192549)  |
-| Invetero | [**Coquette**](https://static.wikia.nocookie.net/gtawiki/images/0/08/Coquette-GTAV-front.png/revision/latest/scale-to-width-down/1000?cb=20190818142055) | 
+| Maverick | [**Police Maverick**](https://static.wikia.nocookie.net/gtawiki/images/5/50/PoliceMaverick-GTAV-front.png/revision/latest?cb=20161111195820) |
+| Predator | [**Police Predator**](https://static.wikia.nocookie.net/gtawiki/images/c/cb/PolicePredator-GTAV-front.png/revision/latest?cb=20180529134458) |
+
+- Locatie cars
+
+<Image src="http://i.imgur.com/4hXKdCp.png" alt="Spawn Cars" />
+<Image src="http://i.imgur.com/TYya4bR.png" alt="Spawn Cars" />
+<Image src="http://i.imgur.com/Hw3qEDQ.png" alt="Spawn Cars" />
+
+- Locatie airplanes
+
+<Image src="http://i.imgur.com/Prkli0P.png" alt="Spawn Airplanes" />
+<Image src="http://i.imgur.com/tRzTaLR.png" alt="Spawn Airplanes" />
+
+- Locatie boat
+
+<Image src="http://i.imgur.com/x8USkKC.png" alt="Spawn Boat" />
+<Image src="http://i.imgur.com/3ym7zgv.png" alt="Spawn Boat" />
+
 
 ## Wanted
 Oamenii care sunt urmăriți de poliție au un anumit grad de gravitate raportat la **crima** sau *ilegalitatea* lor. Acesta prezintă două tipuri, mai exact infractori cu **drept de predare** și infractori **fără drept de predare**. Mai multe informații în detaliu despre acestea sunt [**aici**](https://ucp.liberty.mp/forums/post/33).
