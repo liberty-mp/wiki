@@ -13,7 +13,8 @@ Cat timp evenimentul este activ pe server, primesti urmatorul bonus in cadrul jo
 - Sansa de a primi o cursa speciala ce ofera castiguri majorate cu **25%**. <br>
 - Jucatorii vor dropa un crate cand vor acumula <Dinero :amount="390" /> - <Dinero :amount="550" /> in urma activitatii in cadrul jobului.
 
-::: tip Crate-ul se dropeaza la suma acumulata din venitul de baza(fara bonusuri).
+::: tip 
+Crate-ul se dropeaza la suma acumulata din venitul de baza (fara bonusuri).
 :::
 
 ### Reward
