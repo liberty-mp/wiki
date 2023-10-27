@@ -95,7 +95,6 @@ Money Laundering Level-UP Table
 
 | Perk Level | $ Money Required | Gold Required | Time to Upgrade | % of Marked Money |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | 
-| 0 | BASIC | BASIC | BASIC | 0% |
 | 1 | <Dinero :amount='250000'/> | <Gold :amount='1000'/> | 1h30m | 35% |
 | 2 | <Dinero :amount='450000'/> | <Gold :amount='2000'/> | 1h30m | 40% |
 | 3 | <Dinero :amount='1000000'/> | <Gold :amount='3000'/> | 1h30m | 45% |
