@@ -21,7 +21,7 @@ Tow Truck Rally Crate **este tradable**.<br>
 
 ### Tow Truck Rally Rewards
 
-Pe parcursul evenimentului vei primii un Tow Truck Rally Crate ->  <Image src="https://i.imgur.com/9L806cM.png" alt="1x Tow Truck Rally Crate" width="50" label="1x Tow Truck Rally Crate" />
+Pe parcursul evenimentului vei primi un Tow Truck Rally Crate ->  <Image src="https://i.imgur.com/9L806cM.png" alt="1x Tow Truck Rally Crate" width="50" label="1x Tow Truck Rally Crate" />
 
 Acest crate conține unul dintre următoarele premii:
 
