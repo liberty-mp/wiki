@@ -19,7 +19,7 @@ Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie c
 
 | între | un obiect aleatoriu dintre | 25% să primiți între
 | :-----------: | :-----------: | :-----------: |
-| <Dinero :amount='1200' />**~**<Dinero :amount='1500' /> | <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="40" label="reel rod   " /> <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="40" label="rod guide   " /> <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="40" label="rod grip   " /> <br> <Image src="https://i.imgur.com/fyaexmI.png" alt="Plastic" width="40" label="plastic   " /> <Image src="https://i.imgur.com/TW4AI6Z.png" alt="Gunpowder" width="40" label="gunpowder   " /> <Image src="https://i.imgur.com/oNhIgen.png" alt="Shattered Glass" width="40" label="shattered glass   " />| <Gold :amount='10' /> **și** <Gold :amount='50' />
+| <Dinero :amount='1200' />**~**<Dinero :amount='1500' /> | <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="40" label="Reel Rod   " /> <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="40" label="Rod Guide   " /> <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="40" label="Rod Grip   " /> <Image src="https://i.imgur.com/fyaexmI.png" alt="Plastic" width="40" label="Plastic   " /> <Image src="https://i.imgur.com/TW4AI6Z.png" alt="Gunpowder" width="40" label="Gunpowder   " /> <br> <Image src="https://i.imgur.com/oNhIgen.png" alt="Shattered Glass" width="40" label="Shattered Glass   " />  <Image src="https://i.imgur.com/C6Pj7yU.png" alt="Wires" width="40" label="Wires" /> <Image src="https://i.imgur.com/hMMK1SU.png" alt="Electronic keyboard" width="40" label="Electronic keyboard" /> <Image src="https://i.imgur.com/BijpevO.png" alt="Explosive" width="40" label="Explosive" /> <Image src="https://i.imgur.com/oXVperm.png" alt="Drill" width="40" label="Drill" /> <Image src="https://i.imgur.com/TGIAVQa.png" alt="Pliers" width="40" label="Pliers" /> | <Gold :amount='10' /> **și** <Gold :amount='50' />
 
 
 ### Recompense streak (serie) completări eveniment:  
@@ -47,6 +47,16 @@ Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie c
 | 70 completări | 20% mai mulți bani la rob |
 |               |                          |
 | 100 completări | 25% job boost<br>25% mai multă experiență la payday<br>25% mai mulți bani la rob |
+|                |                         |
+| 105 completări | 5% pasiv job boost |
+|                |                         |
+| 110 completări | 10% pasiv job boost |
+|                |                         |
+| 115 completări | 15% pasiv job boost | 
+|                |                         |
+| 120 completări | 20% pasiv job boost |
+|                |                         |
+| 125 completări | 25% pasiv job boost |
 
 Evenimentul dispune și de un obiectiv de completări consecutive.  
 La fiecare _**10**_ completări jucătorii sunt răsplătiți cu <Gold :amount='50' />.  
