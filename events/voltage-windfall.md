@@ -2,7 +2,7 @@
 title: Voltage Windfall
 ---
 
-# Voltage Windfall 
+# Voltage Windfall ⚡👨‍🔧🔌
 
 Voltage Windfall este un eveniment special conceput pentru electricieni, ce reprezintă o ocazie unică de a testa abilitățile, cunoștințele și creativitatea acestor profesioniști în domeniul electric.
 
