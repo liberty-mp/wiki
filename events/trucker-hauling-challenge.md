@@ -1,7 +1,7 @@
 ---
-title: Trucker's Hauling
+title: Trucker's Hauling Challenge
 ---
-# Trucker's Hauling 🚚
+# Trucker's Hauling Challenge 🚚
 
 Acest eveniment reprezintă o ocazie unică de a explora și de a experimenta lumea fascinantă a transportului rutier și a meseriei de șofer de camion. 
 Indiferent dacă sunteți un șofer experimentat sau sunteți la început de drum în această industrie, aceast eveniment vă va oferi o perspectivă detaliată asupra carierei de camionagiu.
