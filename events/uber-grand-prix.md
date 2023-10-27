@@ -12,7 +12,7 @@ Jucatorii vor dropa un crate când vor acumula <Dinero :amount="390" /> - <Diner
 
 Pentru mai multe detalii legate de acest job poţi accesa [Uber - informaţii](../jobs/uber.md).
 
-:::tip Informații:
+::: tip Informații:
 
 Când este activ evenimentul **NU** are o limită de repetări.
 
