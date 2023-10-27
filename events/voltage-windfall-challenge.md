@@ -28,7 +28,6 @@ Pe parcursul evenimentului vei primii un Voltage Windfall Crate ->  <Image src="
 
 Un Voltage Windfall Crate conține unul dintre următoarele premii:
 
-:::
 | General | Obiecte speciale (crafting) | Shop Items |
 | :-: | :-: | :-: |
 | <Dinero :amount="1500" /> - <Dinero :amount="3200" /> | <Image src="https://i.imgur.com/Nts90lm.png" alt="3x Hook" width="50" label="3x Hook" /> | <Image src="https://i.imgur.com/5lCArfs.png" alt="Vehicle Slot" width="50" label="Vehicle Slot" /> |
@@ -46,5 +45,3 @@ Un Voltage Windfall Crate conține unul dintre următoarele premii:
 | - | <Image src="https://i.imgur.com/TGIAVQa.png" alt="3x Pliers" width="50" label="3x Pliers" /> | <Image src="https://i.imgur.com/AoMGcL9.png" alt="Platinum Subscription Ticket 1 Month" width="50" label="Gold Subscription Ticket 1 Month" /> |
 | - | - | <Image src="https://i.imgur.com/DYpCVQX.png" alt="Vehicle Traction Control Ticket" width="50" label="Vehicle Traction Control Ticket" /> | <Image src="https://i.imgur.com/DYpCVQX.png" alt="Vehicle Traction Control Ticket" width="50" label="Vehicle Traction Control Ticket"
 | - | - | <Image src="https://i.imgur.com/6Dl1QjM.png" alt="Boombox" width="50" label="Boombox" /> |<br>
-
-:::
