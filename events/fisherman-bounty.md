@@ -34,7 +34,6 @@ Un Treasure Map conține 4 comori ascunse ->  <Image src="https://i.imgur.com/XX
 
 Un Fisherman's Bounty Crate conține unul dintre următoarele premii:
 
-:::details
 | General | Obiecte speciale (crafting) | Shop Items | Shop Items |
 | :-: | :-: | :-: | :-: |
 | <Image src="https://i.imgur.com/RoA7lEI.png" alt="Cash" width="50" label="$ Cash" /> | <Image src="https://i.imgur.com/Nts90lm.png" alt="2x Hook" width="50" label="2x Hook" /> | <Image src="https://i.imgur.com/5lCArfs.png" alt="Vehicle Slot" width="50" label="Vehicle Slot" /> | <Image src="https://i.imgur.com/agE3E2g.png" alt="Name Change Ticket" width="50" label="Name Change Ticket" /> |
@@ -45,7 +44,6 @@ Un Fisherman's Bounty Crate conține unul dintre următoarele premii:
 | | <Image src="https://i.imgur.com/5BvJkhB.png" alt="10x Marijuana Joint" width="50" label="10x Marijuana Joint" /> | <Image src="https://i.imgur.com/ouDnrjG.png" alt="Vehicle Tyre Smoke Ticket" width="50" label="Vehicle Tyre Smoke Ticket" /> |  <Image src="https://i.imgur.com/6Dl1QjM.png" alt="Boombox" width="50" label="Boombox" /> |
 | | <Image src="https://i.imgur.com/vPxrMab.png" alt="GunShop Pistol" width="50" label="GunShop Pistol" /> | <Image src="https://i.imgur.com/OmDEdB1.png" alt="Vehicle Neon Ticket" width="50" label="Vehicle Neon Ticket" /> | <Image src="https://i.imgur.com/DYpCVQX.png" alt="Vehicle Traction Control Ticket" width="50" label="Vehicle Traction Control Ticket" /> |
 | | | <Image src="https://i.imgur.com/aKap4HO.png" alt="Vehicle Camber Ticket" width="50" label="Vehicle Camber Ticket" /> | |
-:::
 
 În cazul în care ai nevoie de alte informații pe care nu le găsești pe această pagină, îți sugerăm să folosești sistemul de ajutor din joc (tastează `/helpme`), să accesezi serverul nostru de [**Discord**](https://liberty.mp/discord) sau să comunici cu alți jucători și să îi intrebi pe aceștia.
 
