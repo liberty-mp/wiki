@@ -4,17 +4,17 @@ title: Trucker's Hauling Challenge
 # Trucker's Hauling Challenge 🚚
 
 Acest eveniment reprezintă o ocazie unică de a explora și de a experimenta lumea fascinantă a transportului rutier și a meseriei de șofer de camion. 
-Indiferent dacă sunteți un șofer experimentat sau sunteți la început de drum în această industrie, aceast eveniment vă va oferi o perspectivă detaliată asupra carierei de camionagiu.
+Indiferent dacă sunteți un șofer experimentat sau sunteți la început de drum în această industrie, acest eveniment vă va oferi o perspectivă detaliată asupra carierei de camionagiu.
 
-Toate detaliile despre job-ul **Trucker** le gasiti [aici](../jobs/trucker.md).
+Toate detaliile despre job-ul **Trucker** le găsiţi [aici](../jobs/trucker.md).
 
-Cat timp evenimentul este activ pe server, primesti urmatorul bonus in cadrul jobului Trucker:
+Cât timp evenimentul este activ pe server, primeşti următorul bonus în cadrul jobului Trucker:
 
-- Sansa de a primi o cursa speciala ce ofera castiguri majorate cu **25%**. <br>
-- Jucatorii vor dropa un crate cand vor acumula <Dinero :amount="390" /> - <Dinero :amount="550" /> in urma activitatii in cadrul jobului.
+- Şansa de a primi o cursă specială ce oferă câştiguri majorate cu **25%**. <br>
+- Jucătorii vor dropa un crate când vor acumula <Dinero :amount="390" /> - <Dinero :amount="550" /> în urma activităţii în cadrul jobului.
 
 ::: tip 
-Crate-ul se dropeaza la suma acumulata din venitul de baza (fara bonusuri).
+Crate-ul se dropează la suma acumulată din venitul de bază (fără bonusuri).
 :::
 
 ### Reward
@@ -36,7 +36,7 @@ Un Truckers Hauling Crate conține unul dintre următoarele premii:
 | | <Image src="https://i.imgur.com/JNbL1OR.png" alt="3-4x Gold Bar" width="50" label="3-4x Gold Bar" /> | <Image src="https://i.imgur.com/5lCArfs.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | |
 | | <Image src="https://i.imgur.com/C6Pj7yU.png" alt="2x Wires" width="50" label="2x Wires" /> | <Image src="https://i.imgur.com/xu36tbx.png" alt="25 Inventory Slots Ticket" width="50" label="25 Inventory Slots Ticket" /> | |
 | | <Image src="https://i.imgur.com/BijpevO.png" alt="5x Explosive" width="50" label="5x Explosive" /> | <Image src="https://i.imgur.com/mJQezl6.png" alt="Gold Subscription Ticket 1 Month" width="50" label="Gold Subscription Ticket 1 Month" /> | |
-| | | <Image src="https://i.imgur.com/AoMGcL9.png" alt="Platinum Subscription Ticket 1 Month" width="50" label="Gold Subscription Ticket 1 Month" /> |
+| | | <Image src="https://i.imgur.com/AoMGcL9.png" alt="Platinum Subscription Ticket 1 Month" width="50" label="Platinum Subscription Ticket 1 Month" /> |
 | | | <Image src="https://i.imgur.com/6Dl1QjM.png" alt="Boombox" width="50" label="Boombox" /> | 
 | | | <Image src="https://i.imgur.com/DYpCVQX.png" alt="Vehicle Traction Control Ticket" width="50" label="Vehicle Traction Control Ticket" /> | 
 
