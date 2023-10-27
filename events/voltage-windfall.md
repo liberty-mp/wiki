@@ -13,9 +13,13 @@ Jucatorii vor dropa un crate când vor acumula <Dinero :amount="390" /> - <Diner
 Pentru mai multe detalii legate de acest job poţi accesa [Electrician - informaţii](../jobs/electrician.md).
 
 :::tip Informații:
-Când este activ evenimentul **NU** are o limită de repetări.<br>
-Participarea la eveniment nu necesita un level minim.<br>
-Voltage Windfall Crate **este tradable**.<br>
+
+Când este activ evenimentul **NU** are o limită de repetări.
+
+Participarea la eveniment nu necesita un level minim.
+
+Voltage Windfall Crate **este tradable**.
+
 :::
 
 ### Voltage Windfall Reward
