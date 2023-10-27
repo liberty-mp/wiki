@@ -77,7 +77,7 @@ Perk-urile clanului sunt beneficii ce sunt cumpărate folosind $ Money și Gold 
 
 ## Perk Level-UP Table
 
-Tabelul de mai jos se aplică la toate perk-urile.
+Tabelul de mai jos se aplică la toate perk-urile, exceptie fiind la perk-ul Money Laundering. Informatiile se vor regăsi mai jos.
 Boost-urile nu se acumulează, boost-ul maxim pentru orice perk fiind 25%/membru.
 
 | Perk Level | $ Money Required | Gold Required | Time to Upgrade | % Boost |
@@ -90,6 +90,18 @@ Boost-urile nu se acumulează, boost-ul maxim pentru orice perk fiind 25%/membru
 | 5 | <Dinero :amount='2500000'/> | <Gold :amount='5000'/> | 12 hours| 25% |
 
 În cazul job boost-ului, procentul este din câștigul de bază a jobului (se poate aduna cu marijuana joint, world exploration) dar nu și cu procentul de la skill-ul jobului.
+
+Money Laundering Level-UP Table
+
+| Perk Level | $ Money Required | Gold Required | Time to Upgrade | % of Marked Money |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | 
+| 1 | <Dinero :amount='250000'/> | <Gold :amount='1000'/> | 1h30m | 35% |
+| 2 | <Dinero :amount='450000'/> | <Gold :amount='2000'/> | 1h30m | 40% |
+| 3 | <Dinero :amount='1000000'/> | <Gold :amount='3000'/> | 1h30m | 45% |
+| 4 | <Dinero :amount='2000000'/> | <Gold :amount='7000'/> | 1h30m | 50% |
+| 5 | <Dinero :amount='5000000'/> | <Gold :amount='15000'/> | 1h30m | 55% |
+
+`% of Marked Money` reprezintă suma de bani pe care player-ul o va primi in urma procesului de Laundering. De exemplu, dacă player-ul face parte dintr-un clan ce are level 1 la perk-ul Money Laundering, din <MarkedMoney :amount="10000" /> 35%, adică <Dinero :amount='3500'/>.
 
 ## Logs
 
