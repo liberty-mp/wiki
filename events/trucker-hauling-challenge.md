@@ -11,10 +11,15 @@ Toate detaliile despre job-ul **Trucker** le gasiti [aici](../jobs/trucker.md).
 Cat timp evenimentul este activ pe server, primesti urmatorul bonus in cadrul jobului Trucker:
 
 ::: tip Informații:
-Când este activ evenimentul **NU** are o limită de repetări.<br>
-Participarea la eveniment nu necesita un level minim.<br>
-Sansa de a primi o cursa speciala ce ofera castiguri majorate cu **25%**. <br>
-Crate-ul se dropeaza la suma acumulata din venitul de baza (fara bonusuri).<br>
+
+Când este activ evenimentul **NU** are o limită de repetări.
+
+Participarea la eveniment nu necesita un level minim.
+
+Sansa de a primi o cursa speciala ce ofera castiguri majorate cu **25%**.
+
+Crate-ul se dropeaza la suma acumulata din venitul de baza (fara bonusuri).
+
 :::
 
 - Jucatorii vor dropa un crate cand vor acumula <Dinero :amount="390" /> - <Dinero :amount="550" /> in urma activitatii in cadrul jobului.
