@@ -134,23 +134,21 @@ Un anumit item poate fi achiziționat contra unui număr de dovleci, unui număr
 
 Mai jos, veți avea un tabel ce vă va prezenta toate opțiunile disponibile din Halloween Shop.
 
-| ITEM   | Metode achizitie | Limită de achiziții
-| ----------- | :-----------: | :-----------: |
-| Halloween Special Mask Temporary |  <Image src="https://i.imgur.com/LKbauOH.png" alt="Masca" /> | 1 time |
-| 10.000 Marked Money |  <Image src="https://i.imgur.com/RJZaCFr.png" alt="Marked Money" /> | unlimited |
-| Hooked Rope |  <Image src="https://i.imgur.com/DS7XHBE.png" alt="Hooked Rope" /> | unlimited |
-| C4 Bomb | <Image src="https://i.imgur.com/3WtCDCV.png" alt="C4" /> | unlimited |
-| Pistol .50 | <Image src="https://i.imgur.com/M1lPFiW.png" alt="Pistol" /> | unlimited |
-| 250 9mm AMMO | <Image src="https://i.imgur.com/0dZUl6l.png" alt="Ammo" /> | unlimited |
-| Vehicle Tyre Smoke Ticket | <Image src="https://i.imgur.com/iQZ9E48.png" alt="Tyre smoke" /> | 1 time |
-| Vehicle Neon Ticket | <Image src="https://i.imgur.com/cts1492.png" alt="Neon" /> | 3 times |
-| Vehicle Plate Ticket | <Image src="https://i.imgur.com/x5mNC3A.png" alt="Plate" /> | 3 times |
-| Vehicle Colored Headlights Ticket | <Image src="https://i.imgur.com/8znLAjc.png" alt="Headlights" /> | 3 times |
-| Luxury Vehicle Ticket | <Image src="https://i.imgur.com/5KoqcrM.png" alt="Luxury" /> | 1 time |
-| 25 Inventory Slots Ticket | <Image src="https://i.imgur.com/K5ZjEhd.png" alt="Inventory" /> | 2 times |
-| Name Change Ticket | <Image src="https://i.imgur.com/AeyKC78.png" alt="Name change" /> | unlimited |
-| Halloween Mask Permanent | <Image src="https://i.imgur.com/hk69VDD.png" alt="Masca perm" /> | 1 time |
-| Sanctus | <Image src="https://i.imgur.com/ngSyjdF.png" alt="Sanctus" /> | 1 time |
-| Weevil Custom | <Image src="https://i.imgur.com/VUUu6X5.png" alt="Weevil" /> | 1 time | 
-
-
+| Item   | Metode achizitie | Limită de achiziții |
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/D57aqYm.png" alt="Halloween Temporary Mask" width="48" label="Halloween Temporary Mask" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="5x Pumpkin" label="5x Pumpkin" /> | 1 time |
+| <Image src="https://i.imgur.com/VN6hRhp.png" alt="$10.000 Marked Money" width="48" label="$10.000 Marked Money" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="15x Pumpkin" label="15x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="20x Candy" label="20x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="20x Ghost Picture" label="20x Ghost Picture" /> | unlimited |
+| <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="8x Pumpkin" label="8x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="10x Candy" label="10x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="10x Ghost Picture" label="10x Ghost Picture" /> | unlimited |
+| <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="10x Pumpkin" label="10x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="12x Candy" label="12x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="12x Ghost Picture" label="12x Ghost Picture" /> | unlimited |
+| <Image src="https://i.imgur.com/WR12L1k.png" alt="Pistol .50" width="60" label="Pistol .50" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="15x Pumpkin" label="15x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="20x Candy" label="20x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="20x Ghost Picture" label="20x Ghost Picture" /> | unlimited |
+| <Image src="https://i.imgur.com/onADx1v.png" width="50" label="250x 9mm Ammo" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="10x Pumpkin" label="10x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="15x Candy" label="15x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="15x Ghost Picture" label="15x Ghost Picture" /> | unlimited |
+| <Image src="https://i.imgur.com/ouDnrjG.png" alt="Vehicle Tyre Smoke Ticket" width="50" label="Vehicle Tyre Smoke Ticket" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="60x Pumpkin" label="60x Pumpkin" /> | 1 time |
+| <Image src="https://i.imgur.com/OmDEdB1.png" alt="Vehicle Neon Ticket" width="50" label="Vehicle Neon Ticket" /> | <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="85x Ghost Picture" label="85x Ghost Picture" /> | 3 times |
+| <Image src="https://i.imgur.com/UV4bXUr.png" alt="Vehicle Plate Ticket" width="50" label="Vehicle Plate Ticket" /> | <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="75x Candy" label="75x Candy" /> | 3 times |
+| <Image src="https://i.imgur.com/9UMVP5j.png" alt="Vehicle Headlights Ticket" width="50" label="Vehicle Headlights Ticket" /> | <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="60x Candy" label="60x Candy" /> | 3 times |
+| <Image src="https://i.imgur.com/5lCArfs.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="125x Ghost Picture" label="125x Ghost Picture" /> | 1 time |
+| <Image src="https://i.imgur.com/xu36tbx.png" alt="25x Inventory Slots Ticket" width="50" label="25x Inventory Slots Ticket" /> | <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="225x Candy" label="225x Candy" /> | 2 times |
+| <Image src="https://i.imgur.com/agE3E2g.png" alt="Name Change Ticket" width="50" label="Name Change Ticket" /> | <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="80x Ghost Picture" label="80x Ghost Picture" /> | unlimited |
+| <Image src="https://i.imgur.com/D57aqYm.png" alt="Halloween Permanent Mask" width="48" label="Halloween Permanent Mask" /> | Complete [Jack O' Lanterns](#jack-o-lanterns-quest) quest <Color hex="#fb923c">10</Color> times to unlock | 1 time |
+| <Image src="https://i.imgur.com/8aR9vXT.png" alt="Sanctus" width="50" label="Sanctus" /> | Complete [Ghost Busters](#ghost-busters-quest) quest <Color hex="#fb923c">10</Color> times to unlock | 1 time |
+| <Image src="https://i.imgur.com/eivHCyM.png" alt="Weevil Custom" width="50" label="Weevil Custom" /> | Complete [Trick or Treat](#trick-or-treat-quest) quest <Color hex="#fb923c">10</Color> times to unlock | 1 time | 
