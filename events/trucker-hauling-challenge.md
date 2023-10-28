@@ -1,6 +1,15 @@
 ---
 title: Trucker's Hauling Challenge
 ---
+
+| Întrebare | Răspuns |
+| :-----------: | :-----------: |
+| Event permanent? | Nu, [temporar.](./index.md#evenimentele-se-impart-in-3-categorii) |
+| Nivel minim participare? | Nu. |
+| Posibilitate găsire obiecte speciale? | [Da.](#reward) |
+| Necesită iteme specifice? | Nu. |
+| Locație statistici eveniment? | `O` -> `Quests & Events` |
+
 # Trucker's Hauling Challenge 🚚
 
 Acest eveniment reprezintă o ocazie unică de a explora și de a experimenta lumea fascinantă a transportului rutier și a meseriei de șofer de camion. 
@@ -13,8 +22,6 @@ Cât timp evenimentul este activ pe server, primeşti următorul bonus în cadru
 ::: tip Informații:
 
 Când este activ evenimentul **NU** are o limită de repetări.
-
-Participarea la eveniment nu necesită un level minim.
 
 Şansa de a primi o cursă specială ce oferă câştiguri majorate cu **25%**.
 
