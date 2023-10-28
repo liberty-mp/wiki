@@ -136,21 +136,21 @@ Mai jos, veți avea un tabel ce vă va prezenta toate opțiunile disponibile din
 
 | ITEM   | Metode achizitie | Limită de achiziții
 | ----------- | :-----------: | :-----------: |
-| Halloween Special Mask Temporary |  <Image src="https://i.imgur.com/LKbauOH.png" alt="Masca" /> | 1 time |
-| 10.000 Marked Money |  <Image src="https://i.imgur.com/RJZaCFr.png" alt="Marked Money" /> | unlimited |
-| Hooked Rope |  <Image src="https://i.imgur.com/DS7XHBE.png" alt="Hooked Rope" /> | unlimited |
-| C4 Bomb | <Image src="https://i.imgur.com/3WtCDCV.png" alt="C4" /> | unlimited |
-| Pistol .50 | <Image src="https://i.imgur.com/M1lPFiW.png" alt="Pistol" /> | unlimited |
-| 250 9mm AMMO | <Image src="https://i.imgur.com/0dZUl6l.png" alt="Ammo" /> | unlimited |
-| Vehicle Tyre Smoke Ticket | <Image src="https://i.imgur.com/iQZ9E48.png" alt="Tyre smoke" /> | 1 time |
-| Vehicle Neon Ticket | <Image src="https://i.imgur.com/cts1492.png" alt="Neon" /> | 3 times |
-| Vehicle Plate Ticket | <Image src="https://i.imgur.com/x5mNC3A.png" alt="Plate" /> | 3 times |
-| Vehicle Colored Headlights Ticket | <Image src="https://i.imgur.com/8znLAjc.png" alt="Headlights" /> | 3 times |
-| Luxury Vehicle Ticket | <Image src="https://i.imgur.com/5KoqcrM.png" alt="Luxury" /> | 1 time |
-| 25 Inventory Slots Ticket | <Image src="https://i.imgur.com/K5ZjEhd.png" alt="Inventory" /> | 2 times |
-| Name Change Ticket | <Image src="https://i.imgur.com/AeyKC78.png" alt="Name change" /> | unlimited |
-| Halloween Mask Permanent | <Image src="https://i.imgur.com/hk69VDD.png" alt="Masca perm" /> | 1 time |
-| Sanctus | <Image src="https://i.imgur.com/ngSyjdF.png" alt="Sanctus" /> | 1 time |
-| Weevil Custom | <Image src="https://i.imgur.com/VUUu6X5.png" alt="Weevil" /> | 1 time | 
+| Halloween Special Mask Temporary |  <Image src="https://i.imgur.com/LKbauOH.png" alt="Masca" /> | o singură dată |
+| 10.000 Marked Money |  <Image src="https://i.imgur.com/RJZaCFr.png" alt="Marked Money" /> | nelimitată |
+| Hooked Rope |  <Image src="https://i.imgur.com/DS7XHBE.png" alt="Hooked Rope" /> | nelimitată |
+| C4 Bomb | <Image src="https://i.imgur.com/3WtCDCV.png" alt="C4" /> | nelimitată |
+| Pistol .50 | <Image src="https://i.imgur.com/M1lPFiW.png" alt="Pistol" /> | nelimitată |
+| 250 9mm AMMO | <Image src="https://i.imgur.com/0dZUl6l.png" alt="Ammo" /> | nelimitată |
+| Vehicle Tyre Smoke Ticket | <Image src="https://i.imgur.com/iQZ9E48.png" alt="Tyre smoke" /> | o singură dată |
+| Vehicle Neon Ticket | <Image src="https://i.imgur.com/cts1492.png" alt="Neon" /> | de 3 ori |
+| Vehicle Plate Ticket | <Image src="https://i.imgur.com/x5mNC3A.png" alt="Plate" /> | de 3 ori |
+| Vehicle Colored Headlights Ticket | <Image src="https://i.imgur.com/8znLAjc.png" alt="Headlights" /> | de 3 ori |
+| Luxury Vehicle Ticket | <Image src="https://i.imgur.com/5KoqcrM.png" alt="Luxury" /> | o singură dată |
+| 25 Inventory Slots Ticket | <Image src="https://i.imgur.com/K5ZjEhd.png" alt="Inventory" /> | de 2 ori |
+| Name Change Ticket | <Image src="https://i.imgur.com/AeyKC78.png" alt="Name change" /> | nelimitată |
+| Halloween Mask Permanent | <Image src="https://i.imgur.com/hk69VDD.png" alt="Masca perm" /> | o singură dată |
+| Sanctus | <Image src="https://i.imgur.com/ngSyjdF.png" alt="Sanctus" /> | o singură dată |
+| Weevil Custom | <Image src="https://i.imgur.com/VUUu6X5.png" alt="Weevil" /> | o singură dată | 
 
 
