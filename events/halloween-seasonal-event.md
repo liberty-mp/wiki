@@ -5,10 +5,13 @@ title: Halloween Seasonal Event
 Cea mai înfricoșătoare perioada a anului a sosit și pe serverul nostru! De la tradiționalul 'trick or treat' și până la căutatul de fantome, mult așteptatul eveniment și-a făcut apariția.
 
 ## Întrebari frecvente
+
 ### Am nevoie de un nivel minim pentru a participa?
 Nu există un nivel minim pentru a lua parte la acest eveniment.
+
 ### Care este durata acestui eveniment?
 Evenimentul de Halloween va fi disponibil timp de 17 de zile pe server (28.10.2023 - 14.11.2023).
+
 ### De câte ori pot face misiunile pe zi?
 Quest-urile sunt disponibile o singură dată pe zi. Dacă l-ai completat astăzi, spre exemplu, vei putea lua parte la eveniment din nou mâine, începând cu ora 07:00.
 
