@@ -59,6 +59,10 @@ Odată echipată, pe mapa din ESC vă vor apărea 20 de locații ale fantomelor 
 
 Fiecare fantomă fotografiată va va răsplăti cu o fotografie ce va va fi acordata in inventar. Acestea pot fi folosite in shop-ul special ce poate fi deschis prin `/halloween`.
 
+::: details Fotografie primită
+<Image src="https://i.imgur.com/JzWOOEH.png" alt="Fotografie primită" />  
+:::
+
 ### Trick or Treat Quest
 După cum spune și numele, nimic nu este mai ușor ca, colindatul caselor din orașul Los Santos. 
 
