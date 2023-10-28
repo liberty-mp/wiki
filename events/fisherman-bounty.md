@@ -2,6 +2,14 @@
 title: Fisherman's Bounty 
 ---
 
+| Întrebare | Răspuns |
+| :-----------: | :-----------: |
+| Event permanent? | Nu, [temporar.](./index.md#evenimentele-se-impart-in-3-categorii) |
+| Nivel minim participare? | Nu. |
+| Posibilitate găsire obiecte speciale? | [Da.](#treasure-map-rewards) |
+| Necesită iteme specifice? | [Da.](#fisherman-s-bounty-🎣🗺%EF%B8%8F🗝%EF%B8%8F) |
+| Locație statistici eveniment? | `Inventory` |
+
 # Fisherman's Bounty 🎣🗺️🗝️  
 
 Evenimentul cu care începem vara ne va oferi oportunitatea de a pleca în căutarea comorilor ascunse în zonele extraurbane ale hărții. Cât timp evenimentul este activ, jucătorii vor obține câte un Special Event Token pescuind, fiecare pește prins oferind un astfel de token. Event Tokens sunt tradable si vor fi folosiți și la viitoare evenimente.

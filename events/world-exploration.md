@@ -2,6 +2,14 @@
 title: World Exploration
 ---
 
+| Întrebare | Răspuns |
+| :-----------: | :-----------: |
+| Event permanent? | Da. |
+| Nivel minim participare? | Nu. |
+| Posibilitate găsire obiecte speciale? | [Da.](#recompensa-la-completarea-zilnica) |
+| Necesită iteme specifice? | Nu. |
+| Locație statistici eveniment? | `O` -> `Quests & Events` |
+
 # World Exploration 🗺️🧭
 
 World Exploration este un eveniment zilnic în care jucătorii au ocazia de a explora statul San Andreas și de a câștiga bonusuri în cadrul diferitelor activități.  

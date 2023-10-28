@@ -2,6 +2,14 @@
 title: Uber Grand Prix
 ---
 
+| Întrebare | Răspuns |
+| :-----------: | :-----------: |
+| Event permanent? | Nu, [temporar.](./index.md#evenimentele-se-impart-in-3-categorii) |
+| Nivel minim participare? | Da, nivel 15. |
+| Posibilitate găsire obiecte speciale? | [Da.](#uber-grand-prix-reward) |
+| Necesită iteme specifice? | Nu. |
+| Locație statistici eveniment? | `O` -> `Quests & Events` |
+
 # Uber Grand Prix 🚘💸
 
 **Uber Grand Prix** este evenimentul de viteză și aventură pe patru roți, care aduce la un loc pasionații de curse și șoferii parteneri Uber pentru o experiență de neuitat. Această competiție epică transformă orașul într-o arenă de curse urbană unde șoferii Uber demonstrează abilitățile lor de conducere într-un mod spectaculos.
@@ -15,8 +23,6 @@ Pentru mai multe detalii legate de acest job poţi accesa [Uber - informaţii](.
 ::: tip Informații:
 
 Când este activ evenimentul **NU** are o limită de repetări.
-
-Ai nevoie de minim level 15 pentru acest job şi pentru a participa la eveniment.
 
 Uber Grand Prix Crate **este tradable**.
 

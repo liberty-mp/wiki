@@ -2,12 +2,19 @@
 title: Halloween Seasonal Event
 ---
 
+| Întrebare | Răspuns |
+| :-----------: | :-----------: |
+| Event permanent? | Nu, [sezonier.](./index.md#evenimentele-se-impart-in-3-categorii) |
+| Nivel minim participare? | Nu. |
+| Posibilitate găsire obiecte speciale? | Nu. |
+| Necesită iteme specifice? | Nu. |
+| Locație statistici eveniment? | `/halloween` |
+
+# Halloween Seasonal Event 🎃
+
 Cea mai înfricoșătoare perioada a anului a sosit și pe serverul nostru! De la tradiționalul 'trick or treat' și până la căutatul de fantome, mult așteptatul eveniment și-a făcut apariția.
 
 ## Întrebari frecvente
-
-### Am nevoie de un nivel minim pentru a participa?
-Nu există un nivel minim pentru a lua parte la acest eveniment.
 
 ### Care este durata acestui eveniment?
 Evenimentul de Halloween va fi disponibil timp de 17 de zile pe server (28.10.2023 - 14.11.2023).
