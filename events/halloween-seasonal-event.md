@@ -16,6 +16,7 @@ Evenimentul de Halloween va fi disponibil timp de 17 de zile pe server (28.10.20
 Quest-urile sunt disponibile o singură dată pe zi. Dacă l-ai completat astăzi, spre exemplu, vei putea lua parte la eveniment din nou mâine, începând cu ora 07:00.
 
 ## Misiuni disponibile
+
 ### Jack O' Lanterns Quest
 Acest eveniment este unul cu o dificultate ușoara. Pe harta din 'ESC' vă vor fi afișate 15 locații ale dovlecilor pe care va trebui să îi colectați. Acești dovleci pot fi folosiți în 'Halloween Shop', meniu ce este accesibil prin apăsarea tastei `E`.
 
