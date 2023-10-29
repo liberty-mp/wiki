@@ -103,23 +103,3 @@ Pentru a facilita părăsirea insulei de jucători, a fost adăugat un NPC ce î
 ### Deep Sea Fishing
 
 Odată obținut skill 'GOLD' la acest job, jucătorii pot veni pe insulă pentru a își vinde peștii obținuți în urma activității de pescuit contra sumei de 10$ (la skill-urile Bronze și Silver, playerii își puteau vinde peștii obținuți contra sumei de 8$ în oraș).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
