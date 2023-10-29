@@ -79,7 +79,7 @@ La aceste NPC-uri poți crafta 'Hooked Rope' și 'C4 Bomb'.
 | <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> | <Image src="https://i.imgur.com/BijpevO.png" alt="2x Explosive" width="48" label="2x Explosive" /> <Image src="https://i.imgur.com/hMMK1SU.png" alt="Electronic keyboard" width="48" label="1x Electronic keyboard" /> <Image src="https://i.imgur.com/C6Pj7yU.png" alt="3x Wires" width="48" label="Wires" /> | 
 
 ::: tip
-`Hooked Rope` pot fi folosite la [ATM Robbing](./robberies/atm-robbery.md) iar C4 Bomb poate fi folosit pentru [Fleeca Bank Rob](./robberies/fleeca-bank-robbery.md).
+<Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" /> pot fi folosite la [ATM Robbing](./robberies/atm-robbery.md) iar C4 Bomb poate fi folosit pentru [Fleeca Bank Rob](./robberies/fleeca-bank-robbery.md).
 :::
 
 #### Crafting accesories
