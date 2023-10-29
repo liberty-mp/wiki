@@ -43,9 +43,12 @@ Exemplu: La sfârșitul unei ture de Lumberjack cu skill-ul Bronze (de început)
 | <Image src="https://i.imgur.com/IF7wZwY.png" alt="Master" width="48" label="Master" /> | <Dinero :amount='1500000' /> | venit **triplu** la job |
 
 ::: warning Atenție!
+
 Job-ul `Deep Sea Fishing` are alte criterii de skill-up față job-urile normale, criterii ce se vor regăsi mai jos.
+
 :::
-| **Skill** | **Bani câștigați pt. avansare** | **Beneficii**
+
+| **Skill** | **Bani câștigați pt. avansare** | **Beneficii** |
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/NbQyTpk.png" alt="Bronze" width="48" label="Bronze" /> | <Color hex="#47D2A5">$</Color>0 | venitul de baza al jobului |
 | <Image src="https://i.imgur.com/RjMVsJ4.png" alt="Silver" width="48" label="Silver" /> | <Dinero :amount='30000' /> | venit majorat cu **7%** |
