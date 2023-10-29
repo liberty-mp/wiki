@@ -75,8 +75,8 @@ La aceste NPC-uri poți crafta 'Hooked Rope' și 'C4 Bomb'.
 
 | ITEM   | Necesar craft | 
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" />  |  <Image src="https://i.imgur.com/UXt9NNT.png" alt="2x" width="48" label="Hook" /> <Image src="https://i.imgur.com/GarEQ1P.png" alt="3x" width="48" label="Rope" /> |
-| <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> | <Image src="https://i.imgur.com/BijpevO.png" alt="2x" width="48" label="2x Explosive" /> <Image src="https://i.imgur.com/hMMK1SU.png" alt="1x" width="48" label="1x Electronic keyboard" /> <Image src="https://i.imgur.com/C6Pj7yU.png" alt="3x" width="48" label="Wires" /> | 
+| <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" />  |  <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> |
+| <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> | <Image src="https://i.imgur.com/BijpevO.png" alt="2x Explosive" width="48" label="2x Explosive" /> <Image src="https://i.imgur.com/hMMK1SU.png" alt="1x Electronic keyboard" width="48" label="1x Electronic keyboard" /> <Image src="https://i.imgur.com/C6Pj7yU.png" alt="Wires" width="48" label="Wires" /> | 
 
 ::: tip
 <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" /> pot fi folosite la [ATM Robbing](./robberies/atm-robbery.md).
