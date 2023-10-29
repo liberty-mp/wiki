@@ -42,6 +42,21 @@ Exemplu: La sfârșitul unei ture de Lumberjack cu skill-ul Bronze (de început)
 | <Image src="https://i.imgur.com/T75C1py.png" alt="Diamond" width="48" label="Diamond" /> | <Dinero :amount='750000' /> | venit **dublu** la job |
 | <Image src="https://i.imgur.com/IF7wZwY.png" alt="Master" width="48" label="Master" /> | <Dinero :amount='1500000' /> | venit **triplu** la job |
 
+::: warning Atenție!
+
+Job-ul `Deep Sea Fishing` are alte criterii de skill-up față job-urile normale, criterii ce se vor regăsi mai jos.
+
+:::
+
+| **Skill** | **Bani câștigați pt. avansare** | **Beneficii** |
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/NbQyTpk.png" alt="Bronze" width="48" label="Bronze" /> | <Color hex="#47D2A5">$</Color>0 | venitul de baza al jobului |
+| <Image src="https://i.imgur.com/RjMVsJ4.png" alt="Silver" width="48" label="Silver" /> | <Dinero :amount='30000' /> | venit majorat cu **7%** |
+| <Image src="https://i.imgur.com/AcZaBTu.png" alt="Gold" width="48" label="Gold" /> | <Dinero :amount='150000' /> | venit majorat cu **23%** |
+| <Image src="https://i.imgur.com/cKJ7qOm.png" alt="Platinum" width="48" label="Platinum" /> | <Dinero :amount='500000' /> | venit majorat cu **53%** |
+| <Image src="https://i.imgur.com/T75C1py.png" alt="Diamond" width="48" label="Diamond" /> | <Dinero :amount='1500000' /> | venit **dublu** la job |
+| <Image src="https://i.imgur.com/IF7wZwY.png" alt="Master" width="48" label="Master" /> | <Dinero :amount='3000000' /> | venit **triplu** la job |
+
 ### Cum mă opresc din muncă?
  
 Pentru a termina tura de job, tastează comanda `/stopwork`. Vehiculul oferit de job își va da respawn (dacă ai primit unul) și nu vei mai primi noi task-uri de realizat în cadrul jobului.   
