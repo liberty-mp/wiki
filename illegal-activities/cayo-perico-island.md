@@ -28,7 +28,7 @@ Nu, în momentul de față pe insulă nu există nici o activitate disponibilă 
 
 ### Money Laundering
 
-Pe insulă sunt disponibile 14 mașini de spălat pentru jucători. Aceștia, transforma sumele de Marked Money obținute în urma [ATM Robbing](./robberies/atm-robbery.md), [Fleeca Bank Rob](./robberies/fleeca-bank-robbery.md) și [Bounty Hunters]. Spălatul acestor bani realizează convertirea lor în sume de bani ce ulterior vor fi adăugați în contul bancar al jucătorului.
+Pe insulă sunt disponibile 14 mașini de spălat pentru jucători. Aceștia, transforma sumele de Marked Money obținute în urma [ATM Robbing](./robberies/atm-robbery.md), [Fleeca Bank Rob](./robberies/fleeca-bank-robbery.md) și [Bounty Hunters](../events/bounty-hunters.md). Spălatul acestor bani realizează convertirea lor în sume de bani ce ulterior vor fi adăugați în contul bancar al jucătorului.
 
 ::: details Localizare
 <Image src="https://i.imgur.com/HIaELoY.png" alt="Localizare" />  
