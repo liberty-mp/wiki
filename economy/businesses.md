@@ -43,6 +43,31 @@ Prețurile variază în funcție de haină. Un tabel cu acestea aveți mai jos.
 Hainele nu oferă niciun avantaj! Sunt doar estetice.
 :::
 
+### **Tattoo Shop** <Image src="https://i.imgur.com/AmHpGEo.png" alt="tattoo" />
+Este un salon destinat tatuajelor. Sunt 5 locații de-a lungul hărții și toate conțin aceleași tatuaje. Aici puteți găsi tatuaje pentru tot corpul.
+
+Prețurile variază în funcție de tatuaj. Un tabel cu acestea aveți mai jos.
+
+| **Tip** | | **Număr de tatuaje** | **Preț cuprins între** |
+| :-----------: | :-----------: | 
+| Head | | 72 | <Dinero :amount='800' /> - <Dinero :amount='1200' />| 
+| Torso | | 312 | <Dinero :amount='1000' /> - <Dinero :amount='1500' /> | 
+| Right arm | | 117 | <Dinero :amount='400' /> - <Dinero :amount='600' /> | 
+| Left arm | | 102 | <Dinero :amount='400' /> - <Dinero :amount='600' /> |
+| Right leg | | 48 | <Dinero :amount='500' /> - <Dinero :amount='500' /> | 
+| Left leg | | 61 | <Dinero :amount='500' /> - <Dinero :amount='500' />| 
+
+::: details Tattoo Shop 
+
+<Image src="https://i.imgur.com/fpeZcXZ.png" alt="exemplutattoo" />
+<Image src="https://i.imgur.com/gH5lgPX.jpg" alt="exterior" />
+<Image src="https://i.imgur.com/iKxbtU9.jpg" alt="interior" />
+::: 
+
+::: tip
+Tatuajele nu oferă niciun avantaj! Sunt doar estetice.
+:::
+
 ### **Barber Shop** <Image src="https://i.imgur.com/T3Ka1zr.png" alt="barber" />
 Este un magazin destinat frizurilor. Sunt 7 locații de-a lungul hărții și toate conțin aceleași frizuri. Aici puteţi găsi peste 140 de frizuri pe placul dumneavoastră, cu peste 50 culori disponibile, sprâncene, păr facial, pistrui şi multe altele. Indiferent de modificările aduse caracterului tău, preţul va fi de <Dinero :amount='1000' />
 
@@ -53,6 +78,7 @@ Este un magazin destinat frizurilor. Sunt 7 locații de-a lungul hărții și to
 
 ::: details Barber Shop 
 
+<Image src="https://i.imgur.com/vhBKTWP.png" alt="exemplubarber" />
 <Image src="https://i.imgur.com/A3QWK2K.jpg" alt="exterior" />
 <Image src="https://i.imgur.com/XldGkBn.jpg" alt="interior" />
 ::: 
