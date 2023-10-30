@@ -52,7 +52,7 @@ Numărul de zile rămase până la expirarea clanului. Liderul clanului are opț
 
 Numărul de membri din clan/numărul total de slot-uri. Liderul clanului are opțiunea de a cumpăra un member slot (plusul verde). Maxim 50.
 
-::: details Cumpara 1 member slot
+::: details Cumpără 1 member slot
 <Image src="https://i.imgur.com/z7yvPUa.png" alt="Buy 1 member slot" />
 :::
 
