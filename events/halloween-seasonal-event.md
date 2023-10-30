@@ -12,9 +12,9 @@ title: Halloween Seasonal Event
 
 # Halloween Seasonal Event 🎃
 
-Cea mai înfricoșătoare perioada a anului a sosit și pe serverul nostru! De la tradiționalul 'trick or treat' și până la căutatul de fantome, mult așteptatul eveniment și-a făcut apariția.
+Cea mai înfricoșătoare perioadă a anului a sosit și pe serverul nostru! De la tradiționalul 'trick or treat' și până la căutatul de fantome, mult așteptatul eveniment și-a făcut apariția.
 
-## Întrebari frecvente
+## Întrebări frecvente
 
 ### Care este durata acestui eveniment?
 Evenimentul de Halloween va fi disponibil timp de 17 de zile pe server (28.10.2023 - 14.11.2023).
@@ -25,9 +25,9 @@ Quest-urile sunt disponibile o singură dată pe zi. Dacă l-ai completat astăz
 ## Misiuni disponibile
 
 ### Jack O' Lanterns Quest
-Acest eveniment este unul cu o dificultate ușoara. Pe harta din 'ESC' vă vor fi afișate 15 locații ale dovlecilor pe care va trebui să îi colectați. Acești dovleci pot fi folosiți în 'Halloween Shop', meniu ce este accesibil prin apăsarea tastei `E`.
+Acest eveniment este unul cu o dificultate ușoară. Pe harta din 'ESC' vă vor fi afișate 15 locații ale dovlecilor pe care va trebui să îi colectați. Acești dovleci pot fi folosiți în 'Halloween Shop', meniu ce este accesibil prin apăsarea tastei `E`.
 
-::: details Dovlecii pe mapa si colectarea acestora
+::: details Dovlecii pe mapa şi colectarea acestora
 <Image src="https://i.imgur.com/yjyG0jt.png" alt="Dovleac pe minimap" />  
 <Image src="https://i.imgur.com/WprP0aX.png" alt="Colectare dovleac" /> 
 :::
@@ -40,10 +40,10 @@ Fiecare dovleac colectat vă va fi adaugat in `Inventar`.
 
 ### Ghost Busters Quest
 
-Acest eveniment este unul cu o dificultate medie.  Pentru a îl începe, aveți nevoie de un 'Temporary Halloween Mask' ce poate fi achizitionat din 'Halloween Shop' contra sumei de 5 dovleci. Odată achiziționat item-ul, îl veți primi in inventar. Prin apăsarea tastei `I` veți deschide inventarul și, pentru a începe quest-ul, va trebui să echipați item-ul pe slot-ul dedicat măștilor.
+Acest eveniment este unul cu o dificultate medie.  Pentru a îl începe, aveți nevoie de un 'Temporary Halloween Mask' ce poate fi achiziţionat din 'Halloween Shop' contra sumei de 5 dovleci. Odată achiziționat item-ul, îl veți primi în inventar. Prin apăsarea tastei `I` veți deschide inventarul și, pentru a începe quest-ul, va trebui să echipați item-ul pe slot-ul dedicat măștilor.
 
 ::: warning
-Pentru inceperea acestui quest, este necesar sa terminati quest-ul Jack O' Lanters prima data!
+Pentru începerea acestui quest, este necesar să terminaţi quest-ul Jack O' Lanters prima dată!
 :::
 
 ::: details Item necesar
@@ -57,18 +57,18 @@ Pentru inceperea acestui quest, este necesar sa terminati quest-ul Jack O' Lante
 ::: tip
 Masca specială pentru acest quest vă va schimba vremea de pe server, aceasta devenind una posomorâtă, cu ploaie, fulgere și multe alte efecte speciale.
 
-Odată echipată, pe mapa din ESC vă vor apărea 20 de locații ale fantomelor ce trebuie fotografiate. Pentru a fotografia o fantomă, va trebui sa deschideți telefonul prin tasta `KEY UP` și să selectați iconița special dedicată camerei, odată deschisă, va trebui îndreptată spre fantomă și apăsat `MOUSE LEFT BUTTON` pentru a o fotografia.
+Odată echipată, pe mapa din ESC vă vor apărea 20 de locații ale fantomelor ce trebuie fotografiate. Pentru a fotografia o fantomă, va trebui să deschideți telefonul prin tasta `KEY UP` și să selectați iconița special dedicată camerei, odată deschisă, va trebui îndreptată spre fantomă și apăsat `MOUSE LEFT BUTTON` pentru a o fotografia.
 :::
 
-::: details Aplicatia camera din telefon
-<Image src="https://i.imgur.com/wTfbfj8.png" alt="Aplicatia camera din telefon" />  
+::: details Aplicaţia camera din telefon
+<Image src="https://i.imgur.com/wTfbfj8.png" alt="Aplicaţia camera din telefon" />  
 :::
 
 ::: details Fantoma
 <Image src="https://i.imgur.com/CMhsrVr.png" alt="Fantoma" />  
 :::
 
-Fiecare fantomă fotografiată va va răsplăti cu o fotografie ce va va fi acordata in inventar. Acestea pot fi folosite in shop-ul special ce poate fi deschis prin `/halloween`.
+Fiecare fantomă fotografiată vă va răsplăti cu o fotografie ce vă va fi acordată în inventar. Acestea pot fi folosite în shop-ul special ce poate fi deschis prin `/halloween`.
 
 ::: details Fotografie primită
 <Image src="https://i.imgur.com/JzWOOEH.png" alt="Fotografie primită" />  
@@ -77,17 +77,17 @@ Fiecare fantomă fotografiată va va răsplăti cu o fotografie ce va va fi acor
 ### Trick or Treat Quest
 După cum spune și numele, nimic nu este mai ușor ca, colindatul caselor din orașul Los Santos. 
 
-Acest quest nu are nevoie de un item necesar ca cel de deasupra, pur și simplu va trebui să o mergeți la o casă de pe server, la intrarea acesteia și să apăsați tasta `K` pentru a vă primi răsplata exprimata prin candies.
+Acest quest nu are nevoie de un item necesar ca cel de deasupra, pur și simplu va trebui să mergeți la o casă de pe server, la intrarea acesteia și să apăsați tasta `K` pentru a vă primi răsplata exprimată prin candies.
 
 ::: warning
-Pentru inceperea acestui quest, este necesar sa terminati quest-ul Ghost Busters prima data!
+Pentru începerea acestui quest, este necesar să terminaţi quest-ul Ghost Busters prima dată!
 :::
 
-::: details Tasta in fata casei
-<Image src="https://i.imgur.com/nrUkccT.png" alt="Fata casei" />  
+::: details Tasta în faţa casei
+<Image src="https://i.imgur.com/nrUkccT.png" alt="Faţa casei" />  
 :::
 
-Odata apasata tasta `K`, veti colinda casa si veti auzi un sunet specific colindului.
+Odată apasată tasta `K`, veţi colinda casa şi veţi auzi un sunet specific colindului.
 
 ## Completion Streak Bonus
 
@@ -97,8 +97,8 @@ De asemenea, la un anumit număr de completări ale fiecărui quest, veți primi
 
 La 10 completări ale quest-ului Jack O' Lanterns, veți putea achiziționa din shop permanent Haloween Mask.
 
-::: details Masca permanenta shop
-<Image src="https://i.imgur.com/0C1TpRi.png" alt="Masca permanenta" />  
+::: details Masca permanentă shop
+<Image src="https://i.imgur.com/0C1TpRi.png" alt="Masca permanentă" />  
 :::
 
 ### Ghost Busters Completion Streak
