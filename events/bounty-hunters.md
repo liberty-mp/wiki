@@ -2,6 +2,14 @@
 title: Bounty Hunters
 ---
 
+| Întrebare | Răspuns |
+| :-----------: | :-----------: |
+| Event permanent? | Da. |
+| Nivel minim participare? | Nu. |
+| Posibilitate găsire obiecte speciale? | [Da.](#recompense) |
+| Necesită iteme specifice? | Da, o armă. |
+| Locație statistici eveniment? | `O` -> `Quests & Events` |
+
 ## Ce este Bounty Hunters?
 
 Bounty Hunters este un eveniment permanent activ pe server, vizibil în `[/event]` similar cu World Exploration. 

@@ -2,6 +2,14 @@
 title: Voltage Windfall Challenge
 ---
 
+| Întrebare | Răspuns |
+| :-----------: | :-----------: |
+| Event permanent? | Nu, [temporar.](./index.md#evenimentele-se-impart-in-3-categorii) |
+| Nivel minim participare? | Nu. |
+| Posibilitate găsire obiecte speciale? | [Da.](#voltage-windfall-reward) |
+| Necesită iteme specifice? | Nu. |
+| Locație statistici eveniment? | `O` -> `Quests & Events` |
+
 # Voltage Windfall Challenge ⚡👨‍🔧🔌
 
 Voltage Windfall Challenge este un eveniment special conceput pentru electricieni, ce reprezintă o ocazie unică de a testa abilitățile, cunoștințele și creativitatea acestor profesioniști în domeniul electric.
@@ -15,8 +23,6 @@ Pentru mai multe detalii legate de acest job poţi accesa [Electrician - informa
 :::tip Informații:
 
 Când este activ evenimentul **NU** are o limită de repetări.
-
-Participarea la eveniment nu necesita un level minim.
 
 Voltage Windfall Crate **este tradable**.
 
