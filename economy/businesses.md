@@ -70,7 +70,7 @@ Alte tipuri de arme se cumpără de la grupările mafiote. Pentru mai multe info
 :::
 
 ### **Electric chargers** <Image src="https://i.imgur.com/qVc3zVl.png" alt="ecc" />
-Sunt destinate **doar** mașinilor electrice. O mașină ce folosește combustibil nu poate să alimenteze aici! Sunt doar 6 astfel de locații.
+Sunt destinate **doar** mașinilor electrice. O mașină ce folosește combustibil nu poate să alimenteze aici! Sunt doar 30 astfel de locații.
 
 ::: details Electric chargers
 <Image src="https://i.imgur.com/9aW6PBi.png" alt="elec2" />
@@ -108,7 +108,7 @@ Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger
 :::
 
 ::: tip
-Poți cumpăra hotdogi și apă și de la standurile destinate acestora, denumite `Hotdog Stand`. Acestea costă <Dinero :amount='20' />.
+Poți cumpăra hotdogi și apă și de la standurile destinate acestora, denumite `Hotdog Stand`. Hotdog-ul costă <Dinero :amount='35' /> şi o sticlă de apă costă <Dinero :amount='20' />
 :::
 
 ### **News Agency** <Image src="https://i.imgur.com/kcAML0H.png" alt="newsg" />
