@@ -43,6 +43,24 @@ Prețurile variază în funcție de haină. Un tabel cu acestea aveți mai jos.
 Hainele nu oferă niciun avantaj! Sunt doar estetice.
 :::
 
+### **Barber Shop** <Image src="https://i.imgur.com/T3Ka1zr.png" alt="barber" />
+Este un magazin destinat frizurilor. Sunt 7 locații de-a lungul hărții și toate conțin aceleași frizuri. Aici puteţi găsi peste 140 de frizuri pe placul dumneavoastră, cu peste 50 culori disponibile, sprâncene, păr facial, pistrui şi multe altele. Indiferent de modificările aduse caracterului tău, preţul va fi de <Dinero :amount='1000' />
+
+| **Tip** | **Preț cuprins între** |
+| :-----------: | :-----------: | 
+| Frizură | <Dinero :amount='0' /> - <Dinero :amount='1000' />| 
+
+
+::: details Barber Shop 
+
+<Image src="https://i.imgur.com/A3QWK2K.jpg" alt="exterior" />
+<Image src="https://i.imgur.com/XldGkBn.jpg" alt="interior" />
+::: 
+
+::: tip
+Frizurile nu oferă niciun avantaj! Sunt doar estetice.
+:::
+
 ### **Car Wash** <Image src="https://i.imgur.com/w3ePWZY.png" alt="cwh" />
 Este o afacere destinată spălării unei mașini murdare, după o zi de lucru doar cu aceasta. Desigur, acest business presupune si o taxă de <Dinero :amount='50' />/60 secunde. Există 14 astfel de locații.
 
