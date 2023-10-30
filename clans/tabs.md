@@ -43,7 +43,7 @@ Transfer Clan Ownership
 
 Vehiculele clanului, cumpărate din Dealership-ul respectiv folosind $ Money/Gold (Gold-ul este folosit în loc de tickete) din seiful clanului!
 
-::: warning ATENTIE!
+::: warning ATENŢIE!
 Tunning-ul nu este încă implementat pentru vehiculele clanului!
 :::
 
@@ -77,7 +77,7 @@ Perk-urile clanului sunt beneficii ce sunt cumpărate folosind $ Money și Gold 
 
 ## Perk Level-UP Table
 
-Tabelul de mai jos se aplică la toate perk-urile, exceptie fiind la perk-ul Money Laundering. Informatiile se vor regăsi mai jos.
+Tabelul de mai jos se aplică la toate perk-urile, excepţie fiind la perk-ul Money Laundering. Informaţiile se vor regăsi mai jos.
 Boost-urile nu se acumulează, boost-ul maxim pentru orice perk fiind 25%/membru.
 
 | Perk Level | $ Money Required | Gold Required | Time to Upgrade | % Boost |
@@ -101,7 +101,7 @@ Money Laundering Level-UP Table
 | 4 | <Dinero :amount='2000000'/> | <Gold :amount='7000'/> | 1h30m | 50% |
 | 5 | <Dinero :amount='5000000'/> | <Gold :amount='15000'/> | 1h30m | 55% |
 
-`% of Marked Money` reprezintă suma de bani pe care player-ul o va primi in urma procesului de Laundering. De exemplu, dacă player-ul face parte dintr-un clan ce are level 1 la perk-ul Money Laundering, din <MarkedMoney :amount="10000" /> 35%, adică <Dinero :amount='3500'/>.
+`% of Marked Money` reprezintă suma de bani pe care player-ul o va primi în urma procesului de Laundering. De exemplu, dacă player-ul face parte dintr-un clan ce are level 1 la perk-ul Money Laundering, din <MarkedMoney :amount="10000" /> 35%, adică <Dinero :amount='3500'/>.
 
 ## Logs
 
