@@ -48,14 +48,14 @@ Este un salon destinat tatuajelor. Sunt 5 locații de-a lungul hărții și toat
 
 Prețurile variază în funcție de tatuaj. Un tabel cu acestea aveți mai jos.
 
-| **Tip** | | **Număr de tatuaje** | **Preț cuprins între** |
+| **Tip** | **Preț cuprins între** |
 | :-----------: | :-----------: | 
-| Head | | 72 | <Dinero :amount='800' /> - <Dinero :amount='1200' />| 
-| Torso | | 312 | <Dinero :amount='1000' /> - <Dinero :amount='1500' /> | 
-| Right arm | | 117 | <Dinero :amount='400' /> - <Dinero :amount='600' /> | 
-| Left arm | | 102 | <Dinero :amount='400' /> - <Dinero :amount='600' /> |
-| Right leg | | 48 | <Dinero :amount='500' /> - <Dinero :amount='500' /> | 
-| Left leg | | 61 | <Dinero :amount='500' /> - <Dinero :amount='500' />| 
+| Head | <Dinero :amount='800' /> - <Dinero :amount='1200' />| 
+| Torso | <Dinero :amount='1000' /> - <Dinero :amount='1500' /> | 
+| Right arm | <Dinero :amount='400' /> - <Dinero :amount='600' /> | 
+| Left arm | <Dinero :amount='400' /> - <Dinero :amount='600' /> |
+| Right leg | <Dinero :amount='500' /> - <Dinero :amount='500' /> | 
+| Left leg | <Dinero :amount='500' /> - <Dinero :amount='500' />| 
 
 ::: details Tattoo Shop 
 
