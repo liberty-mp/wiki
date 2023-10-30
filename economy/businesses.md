@@ -124,7 +124,7 @@ Anunțurile puse o să apară pe *chat* și o să fie vizibile pentru toți juc�
 :::
 
 ### **Furniture Store** <Image src="https://i.imgur.com/hU7JlHj.png" alt="fstore" />
-Ai o casă și vrei mobilă nouă? La IKEA găsiți orice fel de model, fiind o gamă întinsă și vastă, de la paturi, canapele și scaune, până la obiecte de uz casnic, de bucătărie si baie. Toate la un preț avantajos! De asemenea, dacă ți-ai achiziționat mobilier de la IKEA, îl poți returna dacă ți-ai dat seama că nu este chiar pe placul tău. Există un singur magazin de genul.
+Ai o casă și vrei mobilă nouă? La IKEA găsiți orice fel de model, fiind o gamă întinsă și vastă, de la paturi, canapele și scaune, până la obiecte de uz casnic, de bucătărie şi baie. Toate la un preț avantajos! De asemenea, dacă ți-ai achiziționat mobilier de la IKEA, îl poți returna dacă ți-ai dat seama că nu este chiar pe placul tău. Există un singur magazin de genul.
 
 ::: details IKEA
 <Image src="https://i.imgur.com/QhAipTC.png" alt="ikea1" />
