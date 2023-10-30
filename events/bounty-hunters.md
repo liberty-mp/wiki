@@ -14,9 +14,9 @@ title: Bounty Hunters
 
 Bounty Hunters este un eveniment permanent activ pe server, vizibil în `[/event]` similar cu World Exploration. 
 
-In fiecare zi, serverul va spawna pentru fiecare jucator la un interval de 8 ore (**00:00**, **08:00** si **16:00**) un numar de NPC-uri ce trebuiesc ucise cu o armă. 
+În fiecare zi, serverul va spawna pentru fiecare jucător la un interval de 8 ore (**00:00**, **08:00** si **16:00**) un număr de NPC-uri ce trebuiesc ucise cu o armă. 
 
-In functie de tipul contului detinut se vor spawna 8 NPC-uri (cont standard & <PremiumSubscription type='gold' />) sau 10 NPC-uri (cont <PremiumSubscription type='platinum' />). 
+În funcţie de tipul contului deţinut se vor spawna 8 NPC-uri (cont standard & <PremiumSubscription type='gold' />) sau 10 NPC-uri (cont <PremiumSubscription type='platinum' />). 
 
 Localizarea NPC-urilor se poate face pe hartă cu icon-urile următoare în funcție de tip-ul de NPC. <Image src="https://i.imgur.com/Zth52yd.png" alt="Bounty Hunters1" width="20" /> <Image src="https://i.imgur.com/sLS8U9O.png" alt="Bounty Hunters2" width="20" /> <Image src="https://i.imgur.com/mu84IxQ.png" alt="Bounty Hunters3" width="20" />. 
 
@@ -61,7 +61,7 @@ Servieta(Suitcase) trebuie livrată la Alfred într-un interval de 10 minute.
 
 ## Recompense
 
-In momentul in care jucatorii omoara un NPC sau livrezi servieta vor primi urmatoarele premii:
+În momentul în care jucătorii omoară un NPC sau livrezi servieta vor primi următoarele premii:
 
 | Recompensă generală<br> (100%) | Recompensă Bonus<br> (25%-45%) |
 | :---------: | :----------: |
@@ -81,14 +81,14 @@ In momentul in care jucatorii omoara un NPC sau livrezi servieta vor primi urmat
 ::: tip 
 Recompensă generală are șansă de _**100%**_ să o primesti.
 
-Recompensă Bonus are șansă de _**25%**_-_**45%**_ să o primesti, sansa crescând odată cu înaintarea în levelul Bounty Hunters.
+Recompensă Bonus are șansă de _**25%**_-_**45%**_ să o primesti, şansa crescând odată cu înaintarea în levelul Bounty Hunters.
 
-Experienta are un bonus în functie de levelul Bounty Hunters.
+Experienţa are un bonus în functie de levelul Bounty Hunters.
 :::
 
-Evenimentul este gandit pe sezoane, exista un top 5 jucatori si top 5 clan-uri in functie de numarul de NPC-uri ucise.
+Evenimentul este gândit pe sezoane, există un top 5 jucători şi top 5 clan-uri în funcţie de numărul de NPC-uri ucise.
 
-Primii 5 jucatori la sfarsit de sezon vor primi un badge in functie de pozitia pe care au ocupat-o curent si urmatoarele premii:
+Primii 5 jucatori la sfârşit de sezon vor primi un badge în funcţie de poziţia pe care au ocupat-o curent şi următoarele premii:
 
 | **Locul** | **Gold** | **Cash** |
 | :-----: | :---------: | :-----------: |
@@ -98,8 +98,8 @@ Primii 5 jucatori la sfarsit de sezon vor primi un badge in functie de pozitia p
 | Locul 4 | <Gold :amount='10000' /> | <Dinero :amount="20000" /> |
 | Locul 5 | <Gold :amount='5000' /> | <Dinero :amount="10000" /> |
 
-Membrii care fac parte din clanul situat pe locul 1 si care au obtinut mai mult de 1 kill vor primi un badge pe profil.
-- Clanul castigator primeste suma de <Dinero :amount="300_000" /> in seif.
+Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mult de 1 kill vor primi un badge pe profil.
+- Clanul câştigător primeşte suma de <Dinero :amount="300_000" /> în seif.
 
 ## Întrebări frecvente
 

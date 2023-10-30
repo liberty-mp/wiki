@@ -18,7 +18,7 @@ Tagul clanului
 
 ### Display Name
 
-Opțiunea de a alege cum va arata numele tău în chaturi. 3 opțiuni:
+Opțiunea de a alege cum va arăta numele tău în chaturi. 3 opțiuni:
 
 ::: details Opțiuni Display Name Clan
 
@@ -41,7 +41,7 @@ Părăsești clanul actual (dialog de confirmare).
 
 ### Expires In
 
-Numărul de zile rămase până la expirarea clanului. Liderul clanului are opțiunea de a extinde perioada (plusul verde). Atuci când clanul expiră, **timp de 15 zile clanul este încă activ** dar orice opțiune în afară de extindere, este blocată. După cele 15 zile, clanul este șterg definitiv și orice progres este șters.
+Numărul de zile rămase până la expirarea clanului. Liderul clanului are opțiunea de a extinde perioada (plusul verde). Atunci când clanul expiră, **timp de 15 zile clanul este încă activ** dar orice opțiune în afară de extindere, este blocată. După cele 15 zile, clanul este șters definitiv și orice progres este șters.
 
 ::: details Opțiuni extindere nr. zile clan
 <Image src="https://i.imgur.com/EMtDudO.png" alt="Clan Days Extend Options 1 Month" />
@@ -52,7 +52,7 @@ Numărul de zile rămase până la expirarea clanului. Liderul clanului are opț
 
 Numărul de membri din clan/numărul total de slot-uri. Liderul clanului are opțiunea de a cumpăra un member slot (plusul verde). Maxim 50.
 
-::: details Cumpara 1 member slot
+::: details Cumpără 1 member slot
 <Image src="https://i.imgur.com/z7yvPUa.png" alt="Buy 1 member slot" />
 :::
 
@@ -60,7 +60,7 @@ Numărul de membri din clan/numărul total de slot-uri. Liderul clanului are op�
 
 Numărul de membri din clan/numărul total de slot-uri. Liderul clanului are opțiunea de a cumpăra un vehicle slot. Maxim 15.
 
-::: details Cumpara 1 vehicle slot
+::: details Cumpără 1 vehicle slot
 <Image src="https://i.imgur.com/IEkIjVb.png" alt="Buy 1 vehicle slot" />
 :::
 
@@ -104,7 +104,7 @@ _**+ Deposit**_ - Folosind acest buton poți depozita Gold/$ Money (from Bank) �
 
 ## Manage Ranks
 
-Tabelul 'MANAGE RANKS' prezintă informații liderului despre rank-urile clanului și ii permite editarea acestora.
+Tabelul 'MANAGE RANKS' prezintă informații liderului despre rank-urile clanului și îi permite editarea acestora.
 
 ::: details Manage ranks, tutorial schimbare culoare rank, text clan:
 <Image src="https://i.imgur.com/UMVEPxU.png" alt="Change Rank Menu" />

@@ -47,11 +47,11 @@ Ordinul plasat de noi (50 acțiuni * $25.000) însumează $1.250.000.
 
 Cost total = $1.165.000.
 
-Drept urmare, $85.000 ne revin înapoi în cont datorită faptului că a fost găsită o oferta mai benefică (cele 17 acțiuni la prețul de $20.000).
+Drept urmare, $85.000 ne revin înapoi în cont datorită faptului că a fost găsită o ofertă mai benefică (cele 17 acțiuni la prețul de $20.000).
 
 <Image src="https://i.imgur.com/mcOpQMi.png" alt="purchase email"/>
 
-Ordinele de vânzare/cumpărare se vor completa și jucătorul va primi banii doar după ce toate acțiunile puse la vânzare se vor cumpăra, până atunci va fi prezentă o bară de progres arătând cate acțiuni au fost vândute/cumpărate, spre exemplu: 
+Ordinele de vânzare/cumpărare se vor completa și jucătorul va primi banii doar după ce toate acțiunile puse la vânzare se vor cumpăra, până atunci va fi prezentă o bară de progres arătând câte acțiuni au fost vândute/cumpărate, spre exemplu: 
 
 <Image src="https://i.imgur.com/IEckDeh.png" alt="shares on hold"/>
 

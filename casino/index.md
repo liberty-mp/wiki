@@ -4,7 +4,7 @@ title: casino
 
 ### Diamond Casino & Resort
 Casino-ul momentan are doar un joc, acesta fiind [poker](./poker.md).
-În interiorul cazinoului sunt 15 [mese de poker](#masa-de-poker) si o [casierie](#casierie), unde poți cumpără sau vinde <Image src="https://i.imgur.com/V5PL4Jz.png" alt="Casino-Token" width="16" /> token-uri.
+În interiorul cazinoului sunt 15 [mese de poker](#masa-de-poker) şi o [casierie](#casierie), unde poți cumpăra sau vinde <Image src="https://i.imgur.com/V5PL4Jz.png" alt="Casino-Token" width="16" /> token-uri.
 ::: details Mapa casino-ului
 <Image src="https://i.imgur.com/QOyVfwo.png" alt="Mapa casino-ului-1" width="340" heigt="140" /><Image src="https://i.imgur.com/lFAdrvf.png" alt="Mapa casino-ului-2" width="340" heigt="140" />
 :::
@@ -21,7 +21,7 @@ Casino-ul este afișat cu <Image src="https://i.imgur.com/L1ULg07.png" alt="Casi
 <Image src="https://i.imgur.com/uSZIF9w.png" alt="Locatie-Casino" />.
 
 ### Masa de poker
-Pentru a intra la o masa de poker, asigurați-vă că aveți minimul de <Image src="https://i.imgur.com/V5PL4Jz.png" alt="Casino-Token" width="16" /> 100 si apăsați tasta `E` cand sunteti in checkpoint-ul de langa masa. Numarul minim de jucatori pentru a incepe jocul este 2, iar numărul maxim de jucători la o masa este de 5.
+Pentru a intra la o masă de poker, asigurați-vă că aveți minimul de <Image src="https://i.imgur.com/V5PL4Jz.png" alt="Casino-Token" width="16" /> 100 şi apăsați tasta `E` când sunteţi în checkpoint-ul de lângă masă. Numărul minim de jucători pentru a începe jocul este 2, iar numărul maxim de jucători la o masă este de 5.
 ::: details Alăturarea unei mese  
   <Image src="https://i.imgur.com/oxeiV2h.png" alt="Alăturarea unei mese" />
 :::  
@@ -43,7 +43,7 @@ Valoarea unui <Image src="https://i.imgur.com/V5PL4Jz.png" alt="Casino-Token" wi
 | :----------------------: | :------------------------: |
 |  <Dinero :amount="1" />  | <Dinero :amount="0.95" />  |
 
-Pentru a cumpăra sau vinde token-uri, apăsați tasta `E` când sunteți în fața casierului, apoi selectați `BUY TOKENS` sau `SELL TOKENS` în funcție de ce doriți și selectați `✔️ SELECT`, în următoarea pagina introduceți  suma, iar apoi selectați `SUMBIT`.
+Pentru a cumpăra sau vinde token-uri, apăsați tasta `E` când sunteți în fața casierului, apoi selectați `BUY TOKENS` sau `SELL TOKENS` în funcție de ce doriți și selectați `✔️ SELECT`, în următoarea pagină introduceți  suma, iar apoi selectați `SUMBIT`.
 
 ::: details Interfață și procesul
 <Image src="https://i.imgur.com/VwxGh17.png" alt="Interfață și procesul" />
