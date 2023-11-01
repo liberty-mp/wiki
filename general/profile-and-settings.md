@@ -157,7 +157,24 @@ Secțiunea **Statistics**:
 <Image src="https://i.imgur.com/WeaK4zD.png" alt="Quest4" />
 
 ::: tip
-Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [World Exploration](./world-exploration)
+Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [World Exploration](../events/world-exploration)
+:::
+
+Secțiunea **Bounty Hunters**:
+- Afișează timpul până la urmatorul spawn al NPC-urilor si numărul de kill-uri din sesiunea actuală.
+<Image src="https://i.imgur.com/fOTYV2K.png" alt="Quest5" />
+
+Secțiunea **Statistics**:
+- **Money Boost** - afișează boost-ul de bani acumulat pe baza completărilor
+- **Drop Items Chance** - afișează șansă de găsire a itemelor pe baza completărilor
+- **Experience Boost** - afișează boost-ul de experiență acumulat pe baza completărilor
+- **Total Kills** - afișează numărul total de kill-uri in sezonul respectiv
+- **Level Progress** - afișează level-ul deținut în cadrul evenimentului.
+
+<Image src="https://i.imgur.com/ZAprzhq.png" alt="Quest6" />
+
+::: tip
+Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [Bounty Hunters](../events/bounty-hunters)
 :::
 
 ### Referrals 
@@ -198,11 +215,12 @@ Secțiunea **Economy**:
 | Fishy business | Prinde 200 de pești în cadrul jobului Fisherman |
 | Loving the nature | Taie 200 de copaci în cadrul jobului Lumberjack |
 | I am GPS | Efectuează 200 de transporturi în cadrul jobului Trucker |
-| Master of Electricity | Repară 100 de panouri de siguranță în cadrul jobului Electrician |
+| Master of Electricity | Repară 200 de panouri de siguranță în cadrul jobului Electrician |
 | Keeping the city clear | Finalizează 50 de ture în cadrul jobului Garbageman |
 | Pickaxe master | Finalizează 50 de ture în cadrul jobului Miner |
 | Roadside Rescuer | Tractează 50 de mașini în cadrul jobului Tow Truck Driver | 
 | 5 Star Driver | Completează 50 de curse cu succes în cadrul jobului Uber Driver | 
+| Dollars in disguies | Spălarea a <MarkedMoney :amount="400000" /> de bani marcați  |
 
 Secțiunea **Evolution**: 
 
@@ -215,6 +233,9 @@ Secțiunea **Evolution**:
 | Stepping up | Alătură-te unei facțiuni |
 | Car collector | Cheltuiește <Dinero :amount='200000' /> cumpărând vehicule |
 | Professional driver | Obține toate licențele de condus |
+| Wurst and Furious | Jefuiește 25 de Hotdog Stands |
+| Vault Specialist | Finalizează cu succes 10 jafuri la bancă |
+| Bounty Hunters | Omoară 60 de bandiți |
 
 Secțiunea **Living in Los Santos**:  
 
