@@ -37,8 +37,8 @@ Premiile pe care un jucător le poate primi dacă completeaza cele 50 de tiere a
 
 ### Varianta PREMIUM
 Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere având varianta premium sunt:
- - aproximativ <Gold :amount='35000'/>
- - aproximativ <Dinero :amount="400000" />
+ - aproximativ <Gold :amount='35_000'/>
+ - aproximativ <Dinero :amount="400_000" />
  - vehicul unic Pantheon Supersport (comparativ cu vehiculele Luxury din categoria $600.000 - $800.000)
  - alte premii ale caror valoare nu poate fi estimata
    
