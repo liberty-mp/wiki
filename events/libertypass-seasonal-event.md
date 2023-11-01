@@ -30,7 +30,7 @@ Da, în momentul achiziționării vei primi și premiile din urmă, indiferent d
 Acestea sunt livrate automat la Post Office, loc din care le poți ridica oricând dorești.
 
 ### Cât costă varianta premium?
-Varianta premium poate fi achiziționată contra sumei de <Gold :amount='10000'/> sau de la jucători, sub formă de ticket, preți care nu poate fi estimat.
+Varianta premium poate fi achiziționată contra sumei de <Gold :amount='10000'/> sau de la jucători, sub formă de ticket, prețul care nu poate fi estimat.
 
 ## Recompensele
 
