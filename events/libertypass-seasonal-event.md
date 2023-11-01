@@ -50,6 +50,7 @@ Deblocarea unei noi săptămâni de misiuni în sezonul 1 are loc în noaptea di
 ## Liberty Pass Boost
 
 Liberty Pass Boost este un nou tip de boost temporar ce poate fi câștigat în urma completării anumitor tiere din Liberty Pass. Acesta vine sub formă de tickete ce pot fi vândute altor jucători. Un ticket durează 12 ore de la activare și oferă:
+
  - +25% mai mult drop la obiecte la joburi
  - +25% mai multi bani la joburi
  - +25% mai multi bani la joburile pasive
