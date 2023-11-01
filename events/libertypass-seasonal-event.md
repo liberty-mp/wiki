@@ -8,7 +8,7 @@ title: Liberty Pass
 | Nivel minim participare? | Nu. |
 | Posibilitate găsire obiecte speciale? | Nu. |
 | Necesită iteme specifice? | Nu. |
-| Locație statistici eveniment? | `/bp` |
+| Locație statistici eveniment? | `/bp` | `/battlepass` |
 
 # Liberty Pass 🎫
 
