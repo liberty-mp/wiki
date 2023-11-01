@@ -32,8 +32,8 @@ Varianta premium poate fi achiziționată contra sumei de <Gold :amount='10000'/
 
 ### Varianta FREE
 Premiile pe care un jucător le poate primi dacă completeaza cele 50 de tiere având varianta free sunt:
- - aproximativ <Gold :amount='7000'/>
- - aproximativ <Dinero :amount="100000" />
+ - aproximativ <Gold :amount='7_000'/>
+ - aproximativ <Dinero :amount="100_000" />
 
 ### Varianta PREMIUM
 Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere având varianta premium sunt:
