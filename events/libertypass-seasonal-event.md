@@ -44,7 +44,7 @@ Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere 
    
 
 ::: tip
-Deblocarea unei noi săptămâni de misiuni în sezonul 1 are loc în noaptea dintre ziua de mați și ziua de miercuri.
+Deblocarea unei noi săptămâni de misiuni în sezonul 1 are loc în noaptea dintre ziua de marți și ziua de miercuri.
 :::
 
 ## Liberty Pass Boost
