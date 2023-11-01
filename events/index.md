@@ -98,6 +98,6 @@ Evenimentul de Halloween este un eveniment anual care are loc în fiecare an în
 
 ### Liberty Pass Seasonal Event 🎫
 
-descriere misto
+Liberty Pass este un sistem de battlepass. Acesta constă în completarea unor seturi de misiuni ce sunt deblocate săptămânal în schimbul experienței, experiență cu care avansezi în tier, fiind 50 de tiere ce așteaptă să fie completate.
 
 > Vezi detalierea evenimentului [Liberty Pass Seasonal Event](./libertypass-seasonal-event).
