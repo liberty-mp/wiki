@@ -98,6 +98,7 @@ Evenimentul de Halloween este un eveniment anual care are loc în fiecare an în
 
 ### Liberty Pass Seasonal Event 🎫
 
-descriere misto
+Liberty Pass Battlepass este un eveniment virtual captivant. Acest eveniment special aduce împreună comunitatea pentru o experiență competitivă și distractivă. Participanții își pot alege ce misiuni doresc să completeze, angajându-se în lupte intense pentru a câștiga recompense și avantaje exclusiviste. Cu fiecare nivel înaintat în cadrul Liberty Pass, jucătorii obțin recompense ce îi scot în evidență, pentru a-și arăta stilul și abilitățile în joc. 
+Acest eveniment este o ocazie perfectă pentru a-ți demonstra abilitățile de jucător înrăit.
 
 > Vezi detalierea evenimentului [Liberty Pass Seasonal Event](./libertypass-seasonal-event).
