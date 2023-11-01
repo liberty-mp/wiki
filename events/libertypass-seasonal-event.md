@@ -8,11 +8,15 @@ title: Liberty Pass
 | Nivel minim participare? | Nu. |
 | Posibilitate găsire obiecte speciale? | Nu. |
 | Necesită iteme specifice? | Nu. |
-| Locație statistici eveniment? | `/bp` | `/battlepass` |
+| Locație statistici eveniment? | `/battlepass` sau `/bp` |
 
 # Liberty Pass 🎫
 
-Liberty Pass este un sistem de `battlepass`. Acesta constă în completarea unor seturi de misiuni ce sunt deblocate săptămânal în schimbul experienței, experiență cu care avansezi în tier, fiind 50 de tiere ce așteaptă să fie completate. Acesta poate fi completat atât în varianta `free`, variantă cu jumătate din câștigurile pe care le poți primi la completarea unui tier, și varianta `premium`, variantă care îți oferă două premii pentru fiecare tier. Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzile `/bp` și `/battlepass`, sau prin apăsarea tastei `U`, tastă ce poate fi modificată în meniul de setări.
+Liberty Pass este un sistem de battlepass. Acesta constă în completarea unor seturi de misiuni ce sunt deblocate săptămânal în schimbul experienței, experiență cu care avansezi în tier, fiind 50 de tiere ce așteaptă să fie completate. 
+
+Acesta poate fi completat atât în varianta [free](#varianta-free), variantă cu jumătate din câștigurile pe care le poți primi la completarea unui tier, și varianta [premium](#varianta-premium), variantă care îți oferă două premii pentru fiecare tier. 
+
+Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzile `/battlepass` si `/bp`, sau prin apăsarea tastei `U`, tastă ce poate fi modificată în meniul de setări.
 
 ## Întrebări frecvente
 
@@ -41,7 +45,6 @@ Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere 
  - aproximativ <Dinero :amount="400_000" />
  - vehicul unic Pantheon Supersport (comparativ cu vehiculele Luxury din categoria <Dinero :amount="600_000" /> - <Dinero :amount="800_000" />)
  - alte premii ale caror valoare nu poate fi estimata
-   
 
 ::: tip
 Deblocarea unei noi săptămâni de misiuni în sezonul 1 are loc în noaptea dintre ziua de marți și ziua de miercuri.
