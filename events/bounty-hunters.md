@@ -31,7 +31,7 @@ Poți filtra aceste icon-uri în harta din `ESC`.
 | <Image src="https://i.imgur.com/mu84IxQ.png" alt="Bounty Hunters3" width="25" /> | Aggressive | Da |
 
 ::: tip
-Servieta(Suitcase) trebuie livrată la Alfred într-un interval de 10 minute.
+Servieta (Suitcase) trebuie livrată la Alfred într-un interval de 10 minute, altfel NPC-ul se va respawna.
 :::
 
 ## Level Bounty Hunters
@@ -108,3 +108,7 @@ Cum iau servieta?
 
 Cum deschid servieta?
 <Image src="https://i.imgur.com/4nB2hAl.png" alt="Alfred" />
+
+Dacă mor / dau reconnect și am luat servieta însă nu am livrat-o, ce se întâmplă?
+
+În acest caz, respectivul NPC se va respawna într-o nouă locație și îl vei putea omorî iar.
