@@ -55,9 +55,17 @@ Poți introduce un referral după ce _termini tutorialul de început_ sau în **
 | <Image src="https://i.imgur.com/OFqUT7c.png" alt="CrateMT" width="100" label="Crate Male Top" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Top |
 | <Image src="https://i.imgur.com/MTLwxUA.png" alt="CrateML" width="100" label="Crate Male Legs" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Legs |
 | <Image src="https://i.imgur.com/iw7O1fV.png" alt="CrateMS" width="100" label="Crate Male Shoes" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Shoes |
+| <Image src="https://i.imgur.com/C01gQHM.png" alt="CrateMH" width="100" label="Crate Male Mask and Hats" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-urile Masks și Hats |
+| <Image src="https://i.imgur.com/1Zux9Qp.png" alt="CrateMBB" width="100" label="Crate Male Bags and Backpacks" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Bags |
+| <Image src="https://i.imgur.com/PwWNNhv.png" alt="CrateMJW" width="100" label="Crate Male Jewelry" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-urile Rings, Earrings și Necklaces |
+| <Image src="https://i.imgur.com/YeQx2NZ.png" alt="CrateMAC" width="100" label="Crate Male Accessories" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-urile Watches și Glasses |
 | <Image src="https://i.imgur.com/75jMgNa.png" alt="CrateFT" width="100" label="Crate Female Top" />| haine din viața reală,<br> pt. femei<br>folosite în slot-ul Top |
 | <Image src="https://i.imgur.com/883DuGw.png" alt="CrateFL" width="100" label="Crate Female Legs" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Legs |
 | <Image src="https://i.imgur.com/jV12tMI.png" alt="CrateFS" width="100" label="Crate Female Shoes" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Shoes |
+| <Image src="https://i.imgur.com/NVE4OZU.png" alt="CrateFH" width="100" label="Crate Female Mask and Hats" />| haine din viața reală,<br> pt. femei<br>folosite în slot-urile Masks și Hats |
+| <Image src="https://i.imgur.com/Qdswp3t.png" alt="CrateFBB" width="100" label="Crate Female Bags and Backpacks" />| haine din viața reală,<br> pt. femei<br>folosite în slot-ul Bags |
+| <Image src="https://i.imgur.com/SLBbTIw.png" alt="CrateFJW" width="100" label="Crate Female Jewelry" />| haine din viața reală,<br> pt. femei<br>folosite în slot-urile Rings, Earrings și Necklaces |
+| <Image src="https://i.imgur.com/Iny1iWV.png" alt="CrateFAC" width="100" label="Crate Female Accessories" />| haine din viața reală,<br> pt. femei<br>folosite în slot-urile Watches și Glasses |
 
 Mai multe informații despre [Slot-uri și inventar](./inventory.md#clothing-items).
 :::
