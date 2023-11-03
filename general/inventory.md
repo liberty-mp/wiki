@@ -15,7 +15,7 @@ Pentru a deschide sau închide **Inventarul**, apasă tasta `I`, respectiv `ESC`
 ### Câte secțiuni are inventarul?
 
 Sistemul este împărțit în **4 secțiuni**: 
-- [**Clothing Items**](#clothes-items) (obiectele de îmbrăcăminte purtate);
+- [**Clothing Items**](#clothing-items) (obiectele de îmbrăcăminte purtate);
 - [**Inventory Items**](#inventory-items) (obiectele aflate în inventar); 
 - [**Nearby & Drop Items**](#nearby-drop-items) (obiectele din afara inventarului / de pe jos); 
 - [**Fast Slots**](#fast-slots) (locurile destinate special pentru obiectele principale/purtate). 
