@@ -72,7 +72,7 @@ Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere 
  - aproximativ <Dinero :amount="400_000" />
  - vehicul unic Pantheon Supersport (comparativ cu vehiculele Luxury din categoria <Dinero :amount="600_000" /> - <Dinero :amount="800_000" />)
  - alte premii ale caror valoare nu poate fi estimata
- - badge pe profilul de  UCP  
+ - badge pe profilul de UCP  
 
  ::: details Badge
 <Image src="https://i.imgur.com/TGFt4Yd.png" alt="LPBadge" />  
