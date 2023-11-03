@@ -16,18 +16,22 @@ title: Downtown Taxi Company
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | Vapid | Taxi (Stanier) | Sedan | 4 | ~30 | <Image src = "https://i.imgur.com/Q5OQwOE.png" alt="Masina Taxi" width="130px"/>
 
+::: details Faction Car Spawner
+<Image src= "https://i.imgur.com/mvjRZUb.png" alt="spawenr" />
+:::
+
 ## Locația HQ (Headquarters)
 
 Localizarea sediului se poate face prin deschiderea aplicației [Maps](../general/phone#maps) de pe telefon, selectând categoria Factions, unde veți găsi opțiunea Taxi Company.
 ::: details Locație HQ  
-<Image src = "https://i.imgur.com/182YJzx.png" alt="hq" width="750px" />
+<Image src = "https://i.imgur.com/74cqJzi.png" alt="hq" width="750px" />
 :::
 
 ## Faction Locker
 
-**Faction Locker-ul** este locul în care te poți pune **ON-DUTY** sau **OFF-DUTY**, acest lucru se face prin apăsarea tastei `E` lângă checkpoint. Acesta se găsește în garajul sediului.
+**Faction Locker-ul** este locul în care te poți pune **ON-DUTY** sau **OFF-DUTY**,  acest lucru se face prin apăsarea tastei `E` lângă checkpoint. Totodată, aici îți poți schimba hainele pe care le vei purta atunci când ești ON-DUTY, prin intermediul tastei `P`. Acesta se află în interiorul HQ-ului facțiunii.
 ::: details Locație locker  
-<Image src = "https://i.imgur.com/p1tTdPG.png" alt="locker" width="450px" />
+<Image src = "https://i.imgur.com/QRz9wlm.png" alt="locker" />
 :::
 
 ## Informații despre comenzi
