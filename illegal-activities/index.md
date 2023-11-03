@@ -3,6 +3,7 @@ title: Informații generale activitati ilegale
 ---
 
 ### Informații generale activități ilegale
+
 Pe serverul nostru, jucătorii au oportunitatea de a se implica într-o varietate de activități ilegale, aducând o doză de provocare și excitare jocului. Aceste activități ilegale sunt concepute pentru a oferi jucătorilor o experiență interactivă captivantă și pentru a testa abilitățile lor într-un mediu virtual. Iată o scurtă descriere a câtorva dintre activitățile ilegale disponibile:
 
 ## Întrebări frecvente
@@ -56,3 +57,9 @@ Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce 
 În cadrul acestei acțiuni ilegale, jucătorii au oportunitatea să organizeze jafuri la băncile Fleeca. Este o activitate extrem de riscantă, care necesită planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal. Cu toate acestea, trebuie să fie conștienți că consecințele unui eșec pot fi serioase și pot implica urmărirea penală.
 
 > Vezi detalierea [Fleeca Bank Robbery](./robberies/fleeca-bank-robbery.md).
+
+### Cayo Perico Island 🏝️
+
+descriere misto
+
+> Vezi detalierea [Cayo Perico Island](./cayo-perico-island.md).
