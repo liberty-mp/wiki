@@ -269,13 +269,6 @@ Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau 
 - **Ignore calls** - permite blocare apelurilor din partea altor jucători;
 - **Ignore unkown sender** - permite blocarea mesajelor din partea altor jucători necunoscuți de aplicația **Contacts** (cei care nu se află pe lista de contacte);
 
-::: warning
-Momentan, funcțiile de mai jos nu sunt disponibile.
-
-- **Frame colour** - permite schimbarea ramei telefonului; 
-- **Wallpaper** - permite schimbarea imaginii de fundal a telefonului;
-- **Ringtone** - permite schimbarea sunetului de apel al telefonului. 
-::: 
 
 ### YouTube 
 
