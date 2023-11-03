@@ -77,10 +77,3 @@ Odată selectat item-ul dorit din listă, vom apăsa butonul `Pawn Item` și vom
 ::: details Info vanzare
   <Image src="https://i.imgur.com/IgcZWkk.png" alt="Info vanzare2" />
 :::  
-
-
-
-
-
-
-
