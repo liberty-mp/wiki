@@ -59,6 +59,10 @@ Servieta (Suitcase) trebuie livrată la Alfred într-un interval de 10 minute, a
 | Level 19 | 8200 points | Money Boost 36%<br> Experience Boost 36% |
 | Level 20 | 10000 points | Money Boost 40%<br> Experience Boost 40%<br> Dropable Items Chance 45% |
 
+::: danger Atenție! 
+ După fiecare level-up, progresul jucătorului va fi resetat. Adică, dacă ai făcut level 5, cele 120 puncte vor fi resetate iar progresul pentru level 6 va începe de la 0.
+:::
+
 ## Recompense
 
 În momentul în care jucătorii omoară un NPC sau livrezi servieta vor primi următoarele premii:
