@@ -22,13 +22,14 @@ Pentru a deschide **Telefonul**, apasă *click-stânga* pe **Touch to open** (î
 
 ### Câte aplicații are telefonul?
 
-Sistemul include un număr total de **15 aplicații**, după cum urmează: 
+Sistemul include un număr total de **19 aplicații**, după cum urmează: 
 
 <Image src="https://i.imgur.com/kRuOEhj.png" alt="PhoneApps" />
 
 - [**Phone** & **Contacts**](#phone-contacts): se pot apela numerele de telefon ale altor jucători, se pot vizualiza apelurile recente și pot adăuga jucători în lista de contacte
 - [**Camera**](#camera): se pot realiza fotografii centrale sau frontale
 - [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și inclusiv locația curentă către alți jucători
+- [**Safari**](#safari): se poate accesa aceasta pagina de wiki direct din joc
 - [**Emails**](#emails): se pot vizualiza e-mailurile primite
 - [**Bank**](#bank): se pot vizualiza banii din bancă, realiza transferuri între jucători sau se pot achiziționa cryptomonede sau acțiuni în cadrul unor companii
 - [**Vehicles**](#vehicles): se pot vizualiza vehiculele personale ale jucătorului și meniul de comandă al acestora
@@ -119,6 +120,11 @@ Pentru a trimite locația curentă unui jucător într-o conversație activă, a
 ::: warning
 Mesajele, fotografiile sau locațiile nu vor fi recepționate dacă jucătorul cu care dorești să conversezi nu este activ pe server.  
 :::
+
+
+### Safari
+
+**Safari** Prin intermediul acestei aplicații se poate accesa pagina de wiki in game.
 
 ### Emails 
 
