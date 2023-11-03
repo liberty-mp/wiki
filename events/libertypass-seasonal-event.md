@@ -18,6 +18,10 @@ Acesta poate fi completat atât în varianta [free](#varianta-free), variantă c
 
 Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzile `/battlepass` si `/bp`, sau prin apăsarea tastei `U`, tastă ce poate fi modificată în meniul de setări.
 
+::: details Meniul Liberty Pass
+<Image src="https://i.imgur.com/0fCLYv3.png" alt="MeniuLP" />
+:::
+
 ## Întrebări frecvente
 
 ### Care este durata acestui eveniment?
@@ -32,12 +36,35 @@ Acestea sunt livrate automat la Post Office, loc din care le poți ridica oricâ
 ### Cât costă varianta premium?
 Varianta premium poate fi achiziționată contra sumei de <Gold :amount='10000'/> sau de la jucători, sub formă de ticket, prețul care nu poate fi estimat.
 
+### Unde văd progresul și câștigul pe care le am la o anumită misiune? 
+
+Acestea apar în dreapta fiecărei misiuni. Progresul este detaliat sub formă de procentaj, acesta schimbându-se o dată cu o modificare a progresului respectivei misiuni. Câștigul unei misiuni variază între 8,000 EXP, 12,000 EXP sau 16,000 EXP, în funcție de dificultatea misiunii respective.
+
+::: details Informații despre progres & câștig
+<Image src="https://i.imgur.com/xsccp7t.png" alt="Detalii misiune" /> 
+:::
+
+### Cum văd cât tier XP am și cât mai am nevoie pentru următorul tier?
+Aceste informații apar în partea de sus a meniului dedicat battlepass-ului, sub formă de bară de progres. Totodată, aici poate fi aflat numărul de XP necesar pentru avansarea la următorul tier.
+
+::: details Informații despre tier
+<Image src="https://i.imgur.com/80xzB2E.png" alt="Tierxp"/>
+:::
+
+### Cum văd misiunile din week-urile anterioare?
+Poți selecta ce misiuni dorești să vezi prin intermediul butonului aflat în partea stângă a meniului, meniu unde apar toate week-urile disponibile la acel moment.
+
+::: details Schimbarea week-ului
+<Image src="https://i.imgur.com/7ei6ijM.gif" alt="WeekChange"/>
+:::
+
 ## Recompensele
 
 ### Varianta FREE
 Premiile pe care un jucător le poate primi dacă completeaza cele 50 de tiere având varianta free sunt:
  - aproximativ <Gold :amount='7_000'/>
  - aproximativ <Dinero :amount="100_000" />
+ - badge pe profilul de UCP 
 
 ### Varianta PREMIUM
 Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere având varianta premium sunt:
@@ -45,6 +72,11 @@ Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere 
  - aproximativ <Dinero :amount="400_000" />
  - vehicul unic Pantheon Supersport (comparativ cu vehiculele Luxury din categoria <Dinero :amount="600_000" /> - <Dinero :amount="800_000" />)
  - alte premii ale caror valoare nu poate fi estimata
+ - badge pe profilul de UCP  
+
+ ::: details Badge
+<Image src="https://i.imgur.com/TGFt4Yd.png" alt="LPBadge" />  
+:::
 
 ::: tip
 Deblocarea unei noi săptămâni de misiuni în sezonul 1 are loc în noaptea dintre ziua de marți și ziua de miercuri.
