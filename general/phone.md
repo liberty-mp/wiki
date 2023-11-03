@@ -42,7 +42,7 @@ Sistemul include un număr total de **15 aplicații**, după cum urmează:
 - [**Phonebook**](#phonebook): se pot identifica numerele de telefon ale jucătorilor după numele acestora
 - [**Market**](#market): se poate accesa marketul in-game în cazul în care jucătorul beneficiaza de un cont de tip Platinum.
 - [**Uber**](#uber): se poate accesa interfața noului job 'Uber' prin care se pot accepta comenzi dupa achiziționarea unei licențe.
-- [**Rent A Car**](#RentACar): se acceseaza interfața noului sistem de 'Car Rent' prin care jucătorii își pot pune propriile mașini spre închiriere.
+- [**Rent A Car**](#rent-a-car): se acceseaza interfața noului sistem de 'Car Rent' prin care jucătorii își pot pune propriile mașini spre închiriere.
 
 ::: tip
 Pentru a închide o aplicație, respectiv a reveni pe ecranul principal fără a fi necesar să închizi **Telefonul**, apasă *click-stânga* pe bara de culoare albă/gri (în funcție de aplicație) aflată în partea de jos. 
