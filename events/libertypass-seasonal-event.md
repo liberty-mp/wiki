@@ -64,7 +64,7 @@ Poți selecta ce misiuni dorești să vezi prin intermediul butonului aflat în 
 Premiile pe care un jucător le poate primi dacă completeaza cele 50 de tiere având varianta free sunt:
  - aproximativ <Gold :amount='7_000'/>
  - aproximativ <Dinero :amount="100_000" />
- - badge pe profilul de  UCP 
+ - badge pe profilul de UCP 
 
 ### Varianta PREMIUM
 Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere având varianta premium sunt:
