@@ -129,7 +129,7 @@ Vehiculul de pe cont va expira doar atunci când este condus. Dacă nu sunteți 
 ## Halloween Special Shop
 Toate activitățile enumerate mai sus trebuiesc cumva și răsplătite, nu-i așa?
 
-Prin deschiderea Halloween Shop-ului (apăsând tasta X), îți poți selecta premiul dorit contra itemelor primite din completarea task-urilor. 
+Prin deschiderea Halloween Shop-ului, îți poți selecta premiul dorit contra itemelor primite din completarea task-urilor. 
 
 ::: tip
 Anumite iteme pot fi cumpărate de nenumărate ori, altele pot fi cumpărate într-un număr limitat.
