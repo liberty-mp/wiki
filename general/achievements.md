@@ -40,7 +40,7 @@ Secțiunea **Evolution**:
 | Car collector | Cheltuiește bani cumpărând vehicule | <Dinero :amount='200000' /> / <Dinero :amount='1000000' /> / <Dinero :amount='5000000' /> | - / <Image src="https://i.imgur.com/HDc8Xiu.png" alt="Vehicle Custom Color Ticket" width="30" label="Vehicle Custom Color Ticket" /> / <Image src="https://i.imgur.com/5lCArfs.png" alt="Luxury Vehicle Ticket" width="30" label="Luxury Vehicle Ticket" /> |
 | Professional driver | Obține toate licențele de condus | - | - |
 | Wurst and Furious | Jefuiește Hotdog Stands | 25 / 75 / 125 | - / <gold :amount='200' /> / [Random Clothing Crate](./referrals#clothing-crate) | 
-| Vault Specialist | Finalizează cu succes 10 jafuri la bancă | 10 / 50 / 125 | - / <gold :amount='200' /> / [Random Clothing Crate](../general/referrals#clothing-crate) |
+| Vault Specialist | Finalizează cu succes 10 jafuri la bancă | 10 / 50 / 125 | - / <gold :amount='200' /> / [Random Clothing Crate](./referrals#clothing-crate) |
 | Bounty Hunters | Omoară 60 de bandiți | - | - |
 
 Secțiunea **Living in Los Santos**:  
