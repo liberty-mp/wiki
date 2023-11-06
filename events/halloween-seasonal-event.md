@@ -25,7 +25,7 @@ Quest-urile sunt disponibile o singură dată pe zi. Dacă l-ai completat astăz
 ## Misiuni disponibile
 
 ### Jack O' Lanterns Quest
-Acest eveniment este unul cu o dificultate ușoară. Pe harta din 'ESC' vă vor fi afișate 15 locații ale dovlecilor pe care va trebui să îi colectați. Acești dovleci pot fi folosiți în 'Halloween Shop', meniu ce este accesibil prin apăsarea tastei `E`.
+Acest eveniment este unul cu o dificultate ușoară. Pe harta din 'ESC' vă vor fi afișate 15 locații ale dovlecilor pe care va trebui să îi colectați. Acești dovleci pot fi folosiți în 'Halloween Shop', meniu ce poate fi deschis prin `/halloween`.
 
 ::: details Dovlecii pe mapa şi colectarea acestora
 <Image src="https://i.imgur.com/yjyG0jt.png" alt="Dovleac pe minimap" />  
@@ -95,7 +95,7 @@ De asemenea, la un anumit număr de completări ale fiecărui quest, veți primi
 
 ### Jack O' Lanterns Completion Streak
 
-La 10 completări ale quest-ului Jack O' Lanterns, veți putea achiziționa din shop permanent Haloween Mask.
+La 10 completări ale quest-ului Jack O' Lanterns, veți putea achiziționa din shop permanent Halloween Mask.
 
 ::: details Masca permanentă shop
 <Image src="https://i.imgur.com/0C1TpRi.png" alt="Masca permanentă" />  
@@ -118,7 +118,7 @@ Vehiculul de pe cont va expira doar atunci când este condus. Dacă nu sunteți 
 La 10 completări ale quest-ului Ghost Busters, veți putea achiziționa din shop vehiculul Weevil Custom. Această mașina va fi disponibilă pe contul vostru timp de 20 de zile, tunning-ul pentru aceasta putând fi schimbat complet gratuit.
 
 ::: tip
-Vehiculul de pe cont va expira doar atunci când este condus. Dacă nu sunteți la volanul vehiculului, timpul limitat nu va scădea
+Vehiculul de pe cont va expira doar atunci când este condus. Dacă nu sunteți la volanul vehiculului, timpul limitat nu va scădea.
 :::
 
 ::: details Weevil
