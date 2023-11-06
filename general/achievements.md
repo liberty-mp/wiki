@@ -18,7 +18,7 @@ Secțiunea **Economy**:
 | Numele realizarii | Mod de obținere | Progres (1/2/3) | Reward (1/2/3) |
 | --- | --- | --- | ------- |
 | Employee of the month | Câștigă bani muncind la orice job | <Dinero :amount='50000' /> / <Dinero :amount='150000' /> / <Dinero :amount='500000' /> | - / - / <gold :amount='200' /> |
-| Fishy business | Prinde pești în cadrul jobului Fisherman | 200 / 500 / 1000 | - / <gold :amount='200' /> / [Random Clothing Crate](../general/referrals#clothing-crate) |
+| Fishy business | Prinde pești în cadrul jobului Fisherman | 200 / 500 / 1000 | - / <gold :amount='200' /> / [Random Clothing Crate](./referrals#clothing-crate) |
 | Loving the nature | Taie copaci în cadrul jobului Lumberjack | 200 / 500 / 1000 | - / <gold :amount='200' /> / <gold :amount='500' /> |
 | I am GPS | Efectuează transporturi în cadrul jobului Trucker | 100 / 500 / 1000 | - / <gold :amount='200' /> / [Random Clothing Crate](../general/referrals#clothing-crate) | 
 | Master of Electricity | Repară panouri de siguranță în cadrul jobului Electrician | 100 / 500 / 750 | - / <gold :amount='200' /> / <gold :amount='500' /> |
