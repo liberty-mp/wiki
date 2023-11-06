@@ -26,7 +26,7 @@ Secțiunea **Economy**:
 | Pickaxe master | Finalizează ture în cadrul jobului Miner | 50 / 150 / 300 | - / - / <gold :amount='200' /> |
 | Roadside Rescuer | Tractează mașini în cadrul jobului Tow Truck Driver | 50 / 200 / 500 | - / <gold :amount='250' /> / <gold :amount='500' /> |
 | 5 Star Driver | Completează curse cu succes în cadrul jobului Uber Driver | 50 / 200 / 500 | - / <gold :amount='250' /> / <gold :amount='500' /> |
-| Dollars in disguies | Spălarea banilor marcați | <MarkedMoney :amount="400000" /> / <MarkedMoney :amount="800000" /> / <MarkedMoney :amount="1600000" /> | - / <gold :amount='500' /> / [Random Clothing Crate](../general/referrals#clothing-crate) |
+| Dollars in disguies | Spălarea banilor marcați | <MarkedMoney :amount="400000" /> / <MarkedMoney :amount="800000" /> / <MarkedMoney :amount="1600000" /> | - / <gold :amount='500' /> / [Random Clothing Crate](./referrals#clothing-crate) |
 
 Secțiunea **Evolution**: 
 
