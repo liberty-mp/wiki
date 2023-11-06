@@ -10,7 +10,7 @@ title: Fisherman
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Da, undiță și momeală. |
 | Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-prindere). |
-| Locație NPC-uri Fisherman | [Locație 1: Paleto Cove](https://i.imgur.com/5mGr5NE.png) <br> [Locație 2: Alamo Sea](https://i.imgur.com/AoslGiy.png) <br> [Locație 3: Procopio Beach](https://i.imgur.com/0Ur4iDk.png) | --->
+| Locație NPC-uri Fisherman | [Locație 1: Paleto Cove](https://i.imgur.com/yulA4MR.png) <br> [Locație 2: Galilee](https://i.imgur.com/X0R0TcL.png) <br> [Locație 3: Chumash Barbareno Road](https://i.imgur.com/G3jsp6P.png) | --->
 
 ## Desfășurarea jobului
 
@@ -18,8 +18,8 @@ Jobul de Fisherman constă în pescuitul peștilor folosind o undiță și momea
 
 ## Locație pescuit  
 
-Găsește un loc de pescuit, poți pescui în aproape orice corp de apă din joc, cum ar fi lacuri, râuri sau mare.  
-O locație populară este pe plaja de lângă **Fisherman 3, Procopio Beach** datorită locației unui **magazin 24/7** in apropiere. 
+Găsește un loc de pescuit, poți pescui doar în una dintre cele 3 locații Fisherman.  
+O locație populară este pe plaja de lângă **Fisherman 3, Chumash** datorită locației unui **magazin 24/7** în apropiere. 
 
 ## Întrebări frecvente
 
@@ -71,11 +71,11 @@ Ca să pescuiești trebuie să echipezi undița în unul din cele 5 fast slot-ur
   <Image src="https://i.imgur.com/XpaQb63.gif" />
 :::  
 
-După ce am echipat undița într-un fast slot din inventar, apăsăm tasta respectivă (1-5) pentru a pune undița în mâini, apăsăm tasta `SPACE` cu privirea îndreptată la un corp de apă pentru a arunca cârligul cu momeala. Culoarea turcoaz indică faptul că așteptăm până când un pește va mușca momeala.  
+După ce am echipat undița într-un fast slot din inventar, apăsăm tasta respectivă (1-5) pentru a pune undița în mâini, apăsăm tasta `SPACE` în checkpoint-ul mov apărut pe hartă. Culoarea roșie indică faptul că așteptăm până când un pește va mușca momeala.  
 
 ::: details Exemplu pescuit  
-  <Image src="https://i.imgur.com/nHG4OBI.gif" alt="Exemplu fish" />
-  <Image src="https://i.imgur.com/ZeBO0rZ.png" alt="Exemplu minigame" />
+  <Image src="https://i.imgur.com/lOzA7b6.gif" alt="Exemplu fish" />
+  <Image src="https://i.imgur.com/iEIXiwt.png" alt="Exemplu minigame" />
 :::  
 
 Vom apăsa din nou tasta `SPACE` atunci când indicatorul devine culoarea verde, însemnând că peștele a mușcat momeala. Pe această săgeata vor aparea cifrele 3, 2, 1, 0, care indică câte secunde mai avem până când peștele va scăpa din cârlig (ducând la **pierderea peștelui**). Dacă am reușit să apăsăm la momentul potrivit, va apărea un mini-game în partea din mijloc-jos a ecranului, unde trebuie ca jucatorul să apese tasta `SPACE` când indicatorul sub formă de pește se află în pătratul verde.
@@ -83,20 +83,24 @@ Vom apăsa din nou tasta `SPACE` atunci când indicatorul devine culoarea verde,
 Pentru a putea vedea dacă peștele a fost prins sau nu, vei putea verifica notificarea plasată deasupra hărții, care va indica și ce fel de peste ai prins, dacă ai prins un obiect special sau dacă nu îndeplinești o cerință pentru a pescui.
 Fiecare pește prins ocupă un slot din inventarul jucătorului, alături de prețul acestuia dacă ținem cursorul mouse-ului pe el.
 
+::: warning
+După un anumit număr de pești prinși, serverul iți va cere să schimbi zona de pescuit, urmărind punctul mov de pe hartă.
+:::
+
 ### Unde se vinde peștele?
 
 Peștii prinși se pot vinde la oricare dintre cei 3 NPC Fisherman aflați pe insulă la iconița <Image src="https://i.imgur.com/W89GtyV.png" alt="Fisherman Icon" width="32" />.
 
 ::: details Locație 1: Paleto Cove
-  <Image src="https://i.imgur.com/5mGr5NE.png" alt="Paleto Cove, Fisherman 1" />
+  <Image src="https://i.imgur.com/yulA4MR.png" alt="Paleto Cove, Fisherman 1" />
 :::  
 
-::: details Locație 2: Alamo Sea
-  <Image src="https://i.imgur.com/AoslGiy.png" alt="Alamo Sea, Fisherman 2" />
+::: details Locație 2: Galilee
+  <Image src="https://i.imgur.com/X0R0TcL.png" alt="Galilee, Fisherman 2" />
 :::  
 
-::: details Locație 3: Procopio Beach 
-  <Image src="https://i.imgur.com/0Ur4iDk.png" alt="Procopio Beach, Fisherman 3" />
+::: details Locație 3: Chumash 
+  <Image src="https://i.imgur.com/G3jsp6P.png" alt="Chumash, Fisherman 3" />
 :::  
 
 ## Enciclopedie pești
@@ -134,9 +138,9 @@ Pe lângă peștele prins, mai ai o șansă la a prinde **obiecte speciale** car
 
 ## Cazuri în care nu poți efectua jobul   
  
-- Dacă nivelul apei este scăzut sau are valuri, nu poți să pescuiești în locația aceea, vei fi înștiințat printr-o notificare deasupra hărții dacă este cazul.  
+- Dacă nu sunteti aflați în checkpoint-ul mov care vă apare după ce echipați undița, veți fi înștiințati printr-o notificare deasupra hărții.  
 ::: details Nu poți să pescuiești aici  
- <Image src="https://i.imgur.com/z0OnAOM.png" alt="Eroare loc/valuri" />  
+ <Image src="https://i.imgur.com/Lo3lPzj.png" alt="Eroare loc" />  
 :::  
 
 - Dacă nu ai spațiu în inventar pentru peștele prins, nu poți să pescuiești.  
