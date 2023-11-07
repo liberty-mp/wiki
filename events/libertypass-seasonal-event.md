@@ -25,7 +25,7 @@ Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzi
 ## Întrebări frecvente
 
 ### Care este durata acestui eveniment?
-Sezonul 1 a început pe data de 4 octombrie 2023 și se va termina pe data de 22 noiembrie 2023, având o durată de 6 săptămâni.
+Sezonul 1 a început pe data de 4 octombrie 2023 și se va termina pe data de 22 noiembrie 2023, având o durată de 7 săptămâni.
 
 ### Dacă achiziționez varianta premium după ce completez niște tiere, primesc premiile din urmă?
 Da, în momentul achiziționării vei primi și premiile din urmă, indiferent de tier-ul la care ai ajuns.
@@ -71,7 +71,7 @@ Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere 
  - aproximativ <Gold :amount='35_000'/>
  - aproximativ <Dinero :amount="400_000" />
  - vehicul unic Pantheon Supersport (comparativ cu vehiculele Luxury din categoria <Dinero :amount="600_000" /> - <Dinero :amount="800_000" />)
- - alte premii ale caror valoare nu poate fi estimata
+ - alte premii ale căror valoare nu poate fi estimată
  - badge pe profilul de UCP  
 
  ::: details Badge
@@ -87,8 +87,8 @@ Deblocarea unei noi săptămâni de misiuni în sezonul 1 are loc în noaptea di
 Liberty Pass Boost este un nou tip de boost temporar ce poate fi câștigat în urma completării anumitor tiere din Liberty Pass. Acesta vine sub formă de tickete ce pot fi vândute altor jucători. Un ticket durează 12 ore de la activare și oferă:
 
  - +25% mai mult drop la obiecte la joburi
- - +25% mai multi bani la joburi
- - +25% mai multi bani la joburile pasive
- - +25% mai multi bani la rob
- - dublu streep rep in cadrul roburilor
+ - +25% mai mulţi bani la joburi
+ - +25% mai mulţi bani la joburile pasive
+ - +25% mai mulţi bani la rob
+ - dublu streep rep în cadrul roburilor
  - +100% tier experience la payday-uri

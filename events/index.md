@@ -14,13 +14,13 @@ De obicei, participarea la evenimente este opțională, dar acestea oferă jucă
 
 Pe server există 9 evenimente momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a evenimentelor prezente în momentul actual pe server.
 
-#### Evenimentele se impart in 3 categorii:
+#### Evenimentele se impart în 3 categorii:
 
 | **Categorie** | **Descriere** |
 | :-----------: | :-----------: |
 | Permanente | evenimente care sunt active permanent pe server |
-| Temporare | evenimente care sunt activate de staff, pe o perioada limitata de timp, acestea sunt anuntate pe server-ul de [Discord](https://liberty.mp/discord)
-| Sezoniere | evenimente care sunt activate de staff in anumite perioade ale anului |
+| Temporare | evenimente care sunt activate de staff, pe o perioadă limitată de timp, acestea sunt anunţate pe server-ul de [Discord](https://liberty.mp/discord)
+| Sezoniere | evenimente care sunt activate de staff în anumite perioade ale anului |
 
 ## Listă evenimente
 
@@ -35,9 +35,9 @@ Statul San Andreas este un mediu vast, care cuprinde orașul Los Santos și zone
 
 ### Bounty Hunters 🎯
 
-Vrei sa-ti folosesti abilitatile de vanator pentru a prinde cei mai cautati criminali din San Andreas?
-Esti in cautarea unei cariere care sa-ti ofere atat provocari cat si recompense financiare?
-Devino un vanator de recompense si ajuta la mentinerea orasului in siguranta.
+Vrei să-ţi foloseşti abilităţile de vânător pentru a prinde cei mai căutaţi criminali din San Andreas?
+Eşti în căutarea unei cariere care să-ţi ofere atât provocări cât şi recompense financiare?
+Devino un vânător de recompense şi ajută la menţinerea oraşului în siguranţă.
 
 > Vezi detalierea evenimentului [Bounty Hunters](./bounty-hunters).
 
@@ -45,7 +45,7 @@ Devino un vanator de recompense si ajuta la mentinerea orasului in siguranta.
 
 ### Fisherman Bounty 🎣🗺️🗝️
 
-Evenimentul cu care începem vara ne va oferi oportunitatea de a pleca în căutarea comorilor ascunse în zonele extraurbane ale hărții. Cât timp evenimentul este activ, jucătorii vor obține câte un Special Event Token pescuind, fiecare pește prins oferind un astfel de token. Event Tokens sunt tradable si vor fi folosiți și la viitoare evenimente.
+Evenimentul cu care începem vara ne va oferi oportunitatea de a pleca în căutarea comorilor ascunse în zonele extraurbane ale hărții. Cât timp evenimentul este activ, jucătorii vor obține câte un Special Event Token pescuind, fiecare pește prins oferind un astfel de token. Event Tokens sunt tradable şi vor fi folosiți și la viitoare evenimente.
 
 > Vezi detalierea evenimentului [Fisherman Bounty](./fisherman-bounty).
 
@@ -90,9 +90,11 @@ Acest eveniment inovator și competitiv care aduce împreună electricieni talen
 
 ### Halloween Seasonal Event 🎃
 
-Cea mai înfricoșătoare perioada a anului a sosit și pe serverul nostru! De la tradiționalul 'trick or treat' și până la căutatul de fantome, mult așteptatul eveniment și-a făcut apariția. Acest eveniment este o ocazie unică de a sărbători Halloween-ul într-un mod distractiv și de a câștiga recompense speciale. 
+Cea mai înfricoșătoare perioadă a anului a sosit și pe serverul nostru! De la tradiționalul 'trick or treat' și până la căutatul de fantome, mult așteptatul eveniment și-a făcut apariția. Acest eveniment este o ocazie unică de a sărbători Halloween-ul într-un mod distractiv și de a câștiga recompense speciale. 
 
 Evenimentul de Halloween este un eveniment anual care are loc în fiecare an în luna octombrie.
+
+> Vezi detalierea evenimentului [Halloween Seasonal Event](./halloween-seasonal-event).
 
 ---
 
