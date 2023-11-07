@@ -78,7 +78,7 @@ ex.: La 15 completări jucătorul va avea 8% Job Boost, bonusul de 5% anterior c
 :::
 
 ::: tip
-Cumpărarea unui cont de tip <PremiumSubscription type="platinum" /> vă oferă opțiunea de a păstra progresul acumulat, chiar dacă nu a fost completat una sau mai multe zile la rand.
+Cumpărarea unui cont de tip <PremiumSubscription type="platinum" /> vă oferă opțiunea de a păstra progresul acumulat, chiar dacă nu a fost completat una sau mai multe zile la rând.
 :::
 
 În cazul în care ai nevoie de alte informații pe care nu le găsești pe această pagină, îți sugerăm să folosești sistemul de ajutor din joc (tastează `/helpme`), să accesezi serverul nostru de [**Discord**](https://liberty.mp/discord) sau să comunici cu alți jucători în joc și să îi intrebi pe aceștia.
