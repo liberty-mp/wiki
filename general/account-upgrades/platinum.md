@@ -38,11 +38,11 @@ Acces la chat premium (/pc).
 
 ### 20% more Street Rep gained every robbery
 
-După savrasirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **20%** mai multe Street Points.
+După săvârșirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **20%** mai multe Street Points.
 
 ### 20% extra cash every robbery
 
-După savrasirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **20%** mai multi Marked Money.
+După săvârșirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **20%** mai multi Marked Money.
 
 ### 30% faster heat reduction
 
@@ -50,11 +50,11 @@ Heat Level scade cu **30%** mai repede.
 
 ### Unlimited car spawn slots
 
-Posibilitatea de a spwana un număr **nelimitat** de mașini personale.
+Posibilitatea de a spawna un număr **nelimitat** de mașini personale.
 
 ### Seatbelt always on
 
-**Centrua de siguranță** se pune automat în urarea într-un vehicul.
+**Centura de siguranță** se pune automat în urcarea într-un vehicul.
 
 ### Flat experience each payday increased by 100%
 
@@ -72,23 +72,23 @@ Pe profilul de pe [site-ul serverului](https://ucp.liberty.mp/) primesti un badg
 
 ### Phone customisation
 
-Posibilitatea de a-ți modifica aspectul telefonul.
+Posibilitatea de a-ți modifica aspectul telefonului.
 
 <Image src="https://i.imgur.com/QzjWRW3.png" />
 
 ### 100 phone contacts
 
-Posibilitatea de a avea **100** de numere salvate în agenda.
+Posibilitatea de a avea **100** de numere salvate în agendă.
 
 ### Premium advertisements
 
-Acces la anunturi premium. 
+Acces la anunțuri premium. 
 
 <Image src="https://i.imgur.com/AyQFMkU.png" />
 
 ###  Place ad from any location (/ad)
 
-Acces la anunturi din orice locatie.
+Acces la anunțuri din orice locatie.
 
 ###  30 property safebox slots
 
@@ -108,7 +108,7 @@ La completarea unei misiuni zilnice primești cu **20%** mai mulți bani.
 
 ### Triple chance to receive Gold on daily quests
 
-Șansă tripa de a primi **gold** la completarea unei misiuni zilnice.
+Șansă triplă de a primi **gold** la completarea unei misiuni zilnice.
 
 ###  30% lower fuel consumption
 
@@ -116,15 +116,15 @@ Consumarea combustibilului din mașină este micșorat cu **30%**.
 
 ### 10 minutes vehicle despawn time
 
-Vehiculul personal se despawneaza automat după 10 minute de când nu mai este utilizat.
+Vehiculul personal se despawnează automat după 10 minute de când nu mai este utilizat.
 
 ### 0.03% bank interest
 
-Dobândă la banca este **0.03%**. Aceasta se aplică doar până la suma de <Dinero :amount="2_000_000" />.
+Dobânda la bancă este **0.03%**. Aceasta se aplică doar până la suma de <Dinero :amount="2_000_000" />.
 
 ::: tip
 
-Dobândă se calculează astfel: (banii din bancă) x 0.03.
+Dobânda se calculează astfel: (banii din bancă) x 0.03.
 
 :::
 
@@ -158,4 +158,4 @@ Posibilitatea de a completa evenimentul [World Exploration](../../events/world-e
 
 ### Keep World Exploration progress
 
-Progresul evenimentului [World Exploration](../../events/world-exploration.md) salvat dacă nu completezi evenimentul în ziua respectivă.
+Progresul evenimentului [World Exploration](../../events/world-exploration.md) rămâne salvat dacă nu completezi evenimentul în ziua respectivă.
