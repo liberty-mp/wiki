@@ -83,16 +83,16 @@ Servieta (Suitcase) trebuie livrată la Alfred într-un interval de 10 minute, a
 | - | <Image src="https://i.imgur.com/pbD84wd.png" alt="Pliers" width="40" label="Pliers" /> | 
 
 ::: tip 
-Recompensă generală are șansă de _**100%**_ să o primesti.
+Recompensă generală are șansă de _**100%**_ să o primeşti.
 
-Recompensă Bonus are șansă de _**25%**_-_**45%**_ să o primesti, şansa crescând odată cu înaintarea în levelul Bounty Hunters.
+Recompensă Bonus are șansă de _**25%**_-_**45%**_ să o primeşti, şansa crescând odată cu înaintarea în levelul Bounty Hunters.
 
 Experienţa are un bonus în functie de levelul Bounty Hunters.
 :::
 
 Evenimentul este gândit pe sezoane, există un top 5 jucători şi top 5 clan-uri în funcţie de numărul de NPC-uri ucise.
 
-Primii 5 jucatori la sfârşit de sezon vor primi un badge în funcţie de poziţia pe care au ocupat-o curent şi următoarele premii:
+Primii 5 jucători la sfârşit de sezon vor primi un badge în funcţie de poziţia pe care au ocupat-o curent şi următoarele premii:
 
 | **Locul** | **Gold** | **Cash** |
 | :-----: | :---------: | :-----------: |
