@@ -12,7 +12,7 @@ Aceste evenimente pot include o varietate de activități, cum ar fi găsirea de
 
 De obicei, participarea la evenimente este opțională, dar acestea oferă jucătorilor șansa de a se implica în activități diferite față de gameplay-ul obișnuit al serverului și totodată pot ajuta caracterele jucătorilor în a se ridica mai rapid din punct de vedere economic dar și social.
 
-Pe server există 8 evenimente momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a evenimentelor prezente în momentul actual pe server.
+Pe server există 9 evenimente momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a evenimentelor prezente în momentul actual pe server.
 
 #### Evenimentele se impart in 3 categorii:
 
@@ -94,4 +94,11 @@ Cea mai înfricoșătoare perioada a anului a sosit și pe serverul nostru! De l
 
 Evenimentul de Halloween este un eveniment anual care are loc în fiecare an în luna octombrie.
 
-> Vezi detalierea evenimentului [Halloween Seasonal Event](./halloween-seasonal-event).
+---
+
+### Liberty Pass Seasonal Event 🎫
+
+Liberty Pass Battlepass este un eveniment virtual captivant. Acest eveniment special aduce împreună comunitatea pentru o experiență competitivă și distractivă. Participanții își pot alege ce misiuni doresc să completeze, angajându-se în lupte intense pentru a câștiga recompense și avantaje exclusiviste. Cu fiecare nivel înaintat în cadrul Liberty Pass, jucătorii obțin recompense ce îi scot în evidență, pentru a-și arăta stilul și abilitățile în joc. 
+Acest eveniment este o ocazie perfectă pentru a-ți demonstra abilitățile de jucător înrăit.
+
+> Vezi detalierea evenimentului [Liberty Pass Seasonal Event](./libertypass-seasonal-event).

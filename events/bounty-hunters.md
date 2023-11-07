@@ -31,7 +31,7 @@ Poți filtra aceste icon-uri în harta din `ESC`.
 | <Image src="https://i.imgur.com/mu84IxQ.png" alt="Bounty Hunters3" width="25" /> | Aggressive | Da |
 
 ::: tip
-Servieta(Suitcase) trebuie livrată la Alfred într-un interval de 10 minute.
+Servieta (Suitcase) trebuie livrată la Alfred într-un interval de 10 minute, altfel NPC-ul se va respawna.
 :::
 
 ## Level Bounty Hunters
@@ -58,6 +58,10 @@ Servieta(Suitcase) trebuie livrată la Alfred într-un interval de 10 minute.
 | Level 18 | 7000 points | Money Boost 34%<br> Experience Boost 34% |
 | Level 19 | 8200 points | Money Boost 36%<br> Experience Boost 36% |
 | Level 20 | 10000 points | Money Boost 40%<br> Experience Boost 40%<br> Dropable Items Chance 45% |
+
+::: danger Atenție! 
+ După fiecare level-up, progresul jucătorului va fi resetat. Adică, dacă ai făcut level 5, cele 120 puncte vor fi resetate iar progresul pentru level 6 va începe de la 0.
+:::
 
 ## Recompense
 
@@ -108,3 +112,7 @@ Cum iau servieta?
 
 Cum deschid servieta?
 <Image src="https://i.imgur.com/4nB2hAl.png" alt="Alfred" />
+
+Dacă mor / dau reconnect și am luat servieta însă nu am livrat-o, ce se întâmplă?
+
+În acest caz, respectivul NPC se va respawna într-o nouă locație și îl vei putea omorî iar.

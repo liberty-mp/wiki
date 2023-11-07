@@ -157,7 +157,24 @@ Secțiunea **Statistics**:
 <Image src="https://i.imgur.com/WeaK4zD.png" alt="Quest4" />
 
 ::: tip
-Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [World Exploration](./world-exploration)
+Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [World Exploration](../events/world-exploration)
+:::
+
+Secțiunea **Bounty Hunters**:
+- Afișează timpul până la urmatorul spawn al NPC-urilor si numărul de kill-uri din sesiunea actuală.
+<Image src="https://i.imgur.com/fOTYV2K.png" alt="Quest5" />
+
+Secțiunea **Statistics**:
+- **Money Boost** - afișează boost-ul de bani acumulat pe baza completărilor
+- **Drop Items Chance** - afișează șansă de găsire a itemelor pe baza completărilor
+- **Experience Boost** - afișează boost-ul de experiență acumulat pe baza completărilor
+- **Total Kills** - afișează numărul total de kill-uri in sezonul respectiv
+- **Level Progress** - afișează level-ul deținut în cadrul evenimentului.
+
+<Image src="https://i.imgur.com/ZAprzhq.png" alt="Quest6" />
+
+::: tip
+Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [Bounty Hunters](../events/bounty-hunters)
 :::
 
 ### Referrals 
@@ -178,55 +195,7 @@ Secțiunea **Rewards**:
 ### Achievements 
 
 **Achievements** (realizări) reprezintă categoria unde fiecare jucător își poate vizualiza realizările obținute pe server, precum și progresul până la deblocarea următoarelor. 
-
-**Prezentarea secțiunilor și a realizărilor:** 
-
-Secțiunea **Newbie**: 
-
-| Realizare inițială | Mod de obținere |
-| --- | --- |
-| Welcome to Los Santos | Finalizează tutorialul introductiv |
-| Employed Citizen | Ia-ți primul job |
-| New driver in town | Obține licența de condus |
-| Home sweet home | Ia-ți prima chirie |
-
-Secțiunea **Economy**: 
-
-| Realizare inițială | Mod de obținere |
-| --- | --- |
-| Employee of the month | Câștigă suma de <Dinero :amount='50000' /> muncind la orice job |
-| Fishy business | Prinde 200 de pești în cadrul jobului Fisherman |
-| Loving the nature | Taie 200 de copaci în cadrul jobului Lumberjack |
-| I am GPS | Efectuează 200 de transporturi în cadrul jobului Trucker |
-| Master of Electricity | Repară 100 de panouri de siguranță în cadrul jobului Electrician |
-| Keeping the city clear | Finalizează 50 de ture în cadrul jobului Garbageman |
-| Pickaxe master | Finalizează 50 de ture în cadrul jobului Miner |
-| Roadside Rescuer | Tractează 50 de mașini în cadrul jobului Tow Truck Driver | 
-| 5 Star Driver | Completează 50 de curse cu succes în cadrul jobului Uber Driver | 
-
-Secțiunea **Evolution**: 
-
-| Realizare inițială | Mod de obținere |
-| --- | --- |
-| Dedicated player | Acumulează 100 de ore jucate pe server |
-| Landlord | Achiziționează-ți prima casă sau primul apartament |
-| Car enthusiast | Tunează-ți vehiculul personal |
-| Magic touch | Jefuiește 50 de ATM-uri |
-| Stepping up | Alătură-te unei facțiuni |
-| Car collector | Cheltuiește <Dinero :amount='200000' /> cumpărând vehicule |
-| Professional driver | Obține toate licențele de condus |
-
-Secțiunea **Living in Los Santos**:  
-
-| Realizare inițială | Mod de obținere |
-| --- | --- |
-| To be or not to be | Achiziționează orice obiect din Ammu-Nation |
-| Behind bars | Intră la închisoare |
-| Witness | Raportează un jucător care a comis o crimă | 
-
-::: tip
-Realizările prezentate mai sus sunt cele inițiale care se pot obține pe server la început. Ulterior completării acestora, fiecare jucător obține o altă realizare care are legătură cu precedenta.  
-::: 
+Mai multe informatii despre **Achievements** (realizări). [**AICI**](../general/achievements.md)
 
 ### Blocked Players
 

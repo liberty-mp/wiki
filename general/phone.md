@@ -22,13 +22,14 @@ Pentru a deschide **Telefonul**, apasă *click-stânga* pe **Touch to open** (î
 
 ### Câte aplicații are telefonul?
 
-Sistemul include un număr total de **15 aplicații**, după cum urmează: 
+Sistemul include un număr total de **19 aplicații**, după cum urmează: 
 
-<Image src="https://i.imgur.com/MJdFFN4.png" alt="PhoneApps" />
+<Image src="https://i.imgur.com/kRuOEhj.png" alt="PhoneApps" />
 
 - [**Phone** & **Contacts**](#phone-contacts): se pot apela numerele de telefon ale altor jucători, se pot vizualiza apelurile recente și pot adăuga jucători în lista de contacte
 - [**Camera**](#camera): se pot realiza fotografii centrale sau frontale
 - [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și inclusiv locația curentă către alți jucători
+- [**Safari**](#safari): se poate accesa aceasta pagina de wiki direct din joc
 - [**Emails**](#emails): se pot vizualiza e-mailurile primite
 - [**Bank**](#bank): se pot vizualiza banii din bancă, realiza transferuri între jucători sau se pot achiziționa cryptomonede sau acțiuni în cadrul unor companii
 - [**Vehicles**](#vehicles): se pot vizualiza vehiculele personale ale jucătorului și meniul de comandă al acestora
@@ -40,6 +41,9 @@ Sistemul include un număr total de **15 aplicații**, după cum urmează:
 - [**Settings**](#settings): se pot accesa setările de funcționabilitate și aspect ale telefonului
 - [**YouTube**](#youtube): se poate asculta muzică de pe **YouTube** direct în interfață
 - [**Phonebook**](#phonebook): se pot identifica numerele de telefon ale jucătorilor după numele acestora
+- [**Market**](#market): se poate accesa marketul in-game în cazul în care jucătorul beneficiaza de un cont de tip Platinum.
+- [**Uber**](#uber): se poate accesa interfața noului job 'Uber' prin care se pot accepta comenzi dupa achiziționarea unei licențe.
+- [**Rent A Car**](#rent-a-car): se acceseaza interfața noului sistem de 'Car Rent' prin care jucătorii își pot pune propriile mașini spre închiriere.
 
 ::: tip
 Pentru a închide o aplicație, respectiv a reveni pe ecranul principal fără a fi necesar să închizi **Telefonul**, apasă *click-stânga* pe bara de culoare albă/gri (în funcție de aplicație) aflată în partea de jos. 
@@ -116,6 +120,11 @@ Pentru a trimite locația curentă unui jucător într-o conversație activă, a
 ::: warning
 Mesajele, fotografiile sau locațiile nu vor fi recepționate dacă jucătorul cu care dorești să conversezi nu este activ pe server.  
 :::
+
+
+### Safari
+
+**Safari** Prin intermediul acestei aplicații se poate accesa pagina de wiki in game.
 
 ### Emails 
 
@@ -260,13 +269,6 @@ Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau 
 - **Ignore calls** - permite blocare apelurilor din partea altor jucători;
 - **Ignore unkown sender** - permite blocarea mesajelor din partea altor jucători necunoscuți de aplicația **Contacts** (cei care nu se află pe lista de contacte);
 
-::: warning
-Momentan, funcțiile de mai jos nu sunt disponibile.
-
-- **Frame colour** - permite schimbarea ramei telefonului; 
-- **Wallpaper** - permite schimbarea imaginii de fundal a telefonului;
-- **Ringtone** - permite schimbarea sunetului de apel al telefonului. 
-::: 
 
 ### YouTube 
 
@@ -305,3 +307,54 @@ Pentru a căuta, scrie denumirea jucătorului căruia dorești să îi afli num�
 
 Dacă dorești să apelezi jucătorul, apasă *click-stânga* pe iconița în formă de telefon (prima), dacă dorești să îi trimiți un mesaj jucătorului, apasă *click-stânga* pe iconița în formă de plic (cea din mijloc), iar dacă dorești să adaugi jucătorul în lista de contacte, apasă *click-stânga* pe iconița în formă de omuleț (ultima). 
 :::  
+
+
+### Market
+
+**Market** Reprezintă sistemul de market activ pe server prin care jucătorii își pot pune propriile bunuri spre vânzare dar și să cumpere bunurile altor jucători de pe server.
+
+**Prezentarea interfaței**
+
+<Image src="https://i.imgur.com/JFzxSxs.png" alt="Market" /> 
+
+
+
+### Uber
+
+**Uber** Reprezintă sistemul noului job pe server, prin intermediul acestei aplicații jucatorii își pot achiziționa o licență cu care vor putea practica jobul 'Uber'
+
+**Prezentarea aplicației**
+
+- **Achiziționarea Licenței** - din acest meniu jucătorii își pot achiziționa licența pentru practicarea jobului.
+
+<Image src="https://i.imgur.com/hNPwoer.gif" alt="Achiziția licenței" /> 
+
+- **Interfața alegerii clientului** - din acest meniu jucătorii vor putea accepta o comandă plasată de catre un NPC de pe server.
+
+<Image src="https://i.imgur.com/hnKNpbt.png" alt="ClientUber" />
+
+::: tip
+Achiziționarea unui cont de tip <PremiumSubscription type='platinum' /> scade prețul licenței la 0$/ora.
+:::
+
+### Rent A Car
+
+**Rent A Car** Reprezintă sistemul de închiriere a mașinilor personale altor jucători de pe server.
+
+**Prezentarea aplicației**
+
+**Meniul Principal** în acest meniu jucătorul are două opțiuni, una de a închiria o mașina de pe server și una de a-și închiria propria mașina unui alt jucător de pe server.
+
+<Image src="https://i.imgur.com/THosDE9.png" alt="CarRent" />
+
+**Meniurile de rent**  În stânga se află meniul în care jucătorul poate închiria o mașina de la un alt jucător, iar în dreapta meniul în care jucătorul își poate da propria mașină spre închiriere
+
+<Image src="https://i.imgur.com/sIIyf1c.png" alt="CarRent2" /> <Image src="https://i.imgur.com/NoWO4pA.png" alt="CarRent3" />
+
+**Procesul de a închiria o masina**
+
+<Image src="https://i.imgur.com/vWv8uN0.gif" alt="CarRent4" />
+
+**Procesul de a da o mașină spre închiriere** 
+
+<Image src="https://i.imgur.com/ejqA6fh.gif" alt="CarRent5" />
