@@ -14,13 +14,13 @@ title: Fisherman's Bounty
 
 Evenimentul cu care începem vara ne va oferi oportunitatea de a pleca în căutarea comorilor ascunse în zonele extraurbane ale hărții. Cât timp evenimentul este activ, jucătorii vor obține câte un Special Event Token pescuind, fiecare pește prins oferind un astfel de token. Event Tokens sunt tradable şi vor fi folosiți și la viitoare evenimente.
 
-Lângă fiecare [pescar de pe hartă](../jobs/fisherman.md), acum este prezent asistentul Dembe, care iți va spune pe scurt ce să faci și îți va pune la dispoziție un magazin din care vei putea achiziționa Treasure Maps şi Shovel (lopată).
+Lângă fiecare [pescar de pe hartă](../jobs/fisherman.md), acum este prezent asistentul Dembe, care îți va spune pe scurt ce să faci și îți va pune la dispoziție un magazin din care vei putea achiziționa Treasure Maps şi Shovel (lopată).
 
 În momentul achiziției, jucătorii vor primi 4 X-uri (puncte) aleatorii, afișate pe Treasure Map, puncte pe care trebuie să le găsească și în care să sape în speranța găsirii unui cufăr de comori. Fiecare comoară dezgropată cu succes te va recompensa cu un Treasure Chest.
 
 :::tip Informații:
 Evenimentul **NU** are o limită de repetări pe zi. Poți rezolva câte Treasure Maps dorești.<br>
-Poți avea maxim un Treasure Map în inventar. Nu este tradable.<br>
+Poți avea maxim o hartă în inventar. Nu este tradable.<br>
 Shovel-ul trebuie cumpărat doar o dată, nu se uzează.<br>
 Event Tokens & Shovel & Fisherman's Bounty Crate **sunt tradable**.<br>
 Event Tokens & Fisherman's Bounty Crate - maxim 100 bucăți/stack.<br>
