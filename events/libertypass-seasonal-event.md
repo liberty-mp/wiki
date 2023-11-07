@@ -25,7 +25,7 @@ Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzi
 ## Întrebări frecvente
 
 ### Care este durata acestui eveniment?
-Sezonul 1 a început pe data de 4 octombrie 2023 și se va termina pe data de 22 noiembrie 2023, având o durată de 8 săptămâni.
+Sezonul 1 a început pe data de 4 octombrie 2023 și se va termina pe data de 22 noiembrie 2023, având o durată de 7 săptămâni.
 
 ### Dacă achiziționez varianta premium după ce completez niște tiere, primesc premiile din urmă?
 Da, în momentul achiziționării vei primi și premiile din urmă, indiferent de tier-ul la care ai ajuns.
