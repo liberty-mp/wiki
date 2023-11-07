@@ -38,11 +38,11 @@ Acces la chat premium (/pc).
 
 ### 10% more Street Rep gained every robbery
 
-După savrasirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai multe Street Points.
+După săvârșirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai multe Street Points.
 
 ### 10% extra cash every robbery
 
-După savrasirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai multi Marked Money.
+După săvârșirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai multi Marked Money.
 
 ### 15% faster heat reduction
 
@@ -50,11 +50,11 @@ Heat Level scade cu **15%** mai repede.
 
 ###  5 car spawn slots
 
-Posibilitatea de a spwana **5** mașini personale.
+Posibilitatea de a spawna **5** mașini personale.
 
 ### Seatbelt always on
 
-**Centrua de siguranță** se pune automat în urarea într-un vehicul.
+**Centura de siguranță** se pune automat în urcarea într-un vehicul.
 
 ### Flat experience each payday increased by 50%
 
@@ -72,13 +72,13 @@ Pe profilul de pe [site-ul serverului](https://ucp.liberty.mp/) primesti un badg
 
 ### Phone customisation
 
-Posibilitatea de a-ți modifica aspectul telefonul.
+Posibilitatea de a-ți modifica aspectul telefonului.
 
 <Image src="https://i.imgur.com/QzjWRW3.png" />
 
 ### 50 phone contacts
 
-Posibilitatea de a avea **50** de numere salvate în agenda..
+Posibilitatea de a avea **50** de numere salvate în agendă.
 
 ### Premium advertisements
 
@@ -120,10 +120,10 @@ Vehiculul personal se despawneaza automat după **5 minute** de când nu mai est
 
 ### 0.02% bank interest
 
-Dobândă la banca este **0.02%**. Aceasta se aplică doar până la suma de <Dinero :amount="2_000_000" />.
+Dobânda la bancă este **0.02%**. Aceasta se aplică doar până la suma de <Dinero :amount="2_000_000" />.
 
 ::: tip 
 
-Dobândă se calculează astfel: (banii din bancă) x 0.02.
+Dobânda se calculează astfel: (banii din bancă) x 0.02.
 
 :::
