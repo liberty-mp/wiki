@@ -49,5 +49,7 @@ Un Voltage Windfall Crate conține unul dintre următoarele premii:
 | - | <Image src="https://i.imgur.com/C6Pj7yU.png" alt="2x Wires" width="50" label="2x Wires" /> | <Image src="https://i.imgur.com/xu36tbx.png" alt="25 Inventory Slots Ticket" width="50" label="25 Inventory Slots Ticket" /> | |
 | - | <Image src="https://i.imgur.com/BijpevO.png" alt="5x Explosive" width="50" label="5x Explosive" /> | <Image src="https://i.imgur.com/mJQezl6.png" alt="Gold Subscription Ticket 1 Month" width="50" label="Gold Subscription Ticket 1 Month" /> | |
 | - | <Image src="https://i.imgur.com/TGIAVQa.png" alt="3x Pliers" width="50" label="3x Pliers" /> | <Image src="https://i.imgur.com/AoMGcL9.png" alt="Platinum Subscription Ticket 1 Month" width="50" label="Platinum Subscription Ticket 1 Month" /> |
-| - | - | <Image src="https://i.imgur.com/DYpCVQX.png" alt="Vehicle Traction Control Ticket" width="50" label="Vehicle Traction Control Ticket" /> | <Image src="https://i.imgur.com/DYpCVQX.png" alt="Vehicle Traction Control Ticket" width="50" label="Vehicle Traction Control Ticket"
+| - | - | <Image src="https://i.imgur.com/DYpCVQX.png" alt="Vehicle Traction Control Ticket" width="50" label="Vehicle Traction Control Ticket" /> | 
 | - | - | <Image src="https://i.imgur.com/6Dl1QjM.png" alt="Boombox" width="50" label="Boombox" /> |<br>
+
+În cazul în care ai nevoie de alte informații pe care nu le găsești pe această pagină, îți sugerăm să folosești sistemul de ajutor din joc (tastează `/helpme`), să accesezi serverul nostru de [**Discord**](https://liberty.mp/discord) sau să comunici cu alți jucători și să îi intrebi pe aceștia.
