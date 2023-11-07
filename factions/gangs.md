@@ -1,5 +1,5 @@
 ---
-title: Grupari Mafiote
+title: Grupări Mafiote
 ---
 
 ## Informații generale despre grupările mafiote
@@ -17,7 +17,7 @@ title: Grupari Mafiote
 
 **Istoric**: 
 
-**Varrios Los Aztecas** există de la începutul anilor 1980 și este una dintre cele mai recente grupări formate în Los Santos. O mare parte din originile ei sunt neștiute, în special trecutul rivalității lor cu celelalte grupări din oraș. Este foarte probabil ca aceasta să fi evoluat din cartierul **El Burroo** și prezența lor a crescut odată cu creșterea imigrației mexicane și hispanice/latino în zonă, corelând cu privarea relativă a zonei în comparație cu restul orașului. 
+**Varrios Los Aztecas** există de la începutul anilor 1980 și este una dintre cele mai recente grupări formate în Los Santos. O mare parte din originile ei sunt neștiute, în special trecutul rivalității lor cu celelalte grupări din oraș. Este foarte probabil ca aceasta să fi evoluat din cartierul **El Burro** și prezența lor a crescut odată cu creșterea imigrației mexicane și hispanice/latino în zonă, corelând cu privarea relativă a zonei în comparație cu restul orașului. 
 
 **Culoare reprezentativă**: <Color hex="#65B9E7">Albastru</Color>
 ::: details HQ Los Aztecas  
@@ -82,13 +82,13 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 
 ## Teritorii (turfs)
 
-**Teritoriul** sau turf-ul reprezintă un spațiul bine delimitat pe harta statului **San Andreas** cu o culoare specifică care deservește ca zonă de desfășurare a activităților specifice grupărilor mafiote.
+**Teritoriul** sau turf-ul reprezintă un spațiu bine delimitat pe harta statului **San Andreas** cu o culoare specifică care deservește ca zonă de desfășurare a activităților specifice grupărilor mafiote.
 
 În momentul de față, există un număr total de **10 teritorii**, incluse în mai multe categorii, după cum urmează: 
 
 ### Teritorii de tip port
 
-| Iconiță specifică | Numar teritorii | Zone geografice | 
+| Iconiță specifică | Număr teritorii | Zone geografice | 
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/uAC9Dqk.png" alt="Port" width="30" label="Iconiță turf port" /> | 4 teritorii |  [**Elysian Island**](https://i.imgur.com/wL8s2vU.png), [**Terminal**](https://i.imgur.com/ElkPiyb.png) | 
 
@@ -193,7 +193,7 @@ Statisticile personale pot fi vizualizate și în timpul war-ului, în partea di
 
 ### Scorul personal 
 
-**Scorul personal** este calculat automat la sfârșitul fiecărui război in functie de performanțele individuale.
+**Scorul personal** este calculat automat la sfârșitul fiecărui război în funcţie de performanțele individuale.
 
 | Număr puncte | Activitate |
 | :-----------: | :-----------: |
@@ -204,7 +204,7 @@ Statisticile personale pot fi vizualizate și în timpul war-ului, în partea di
 ## Sistemul de crafting
 
 ::: warning Atenție!  
-Mafioții folosesc in foarte mare proporție acest sistem, este recomandat să citiți pagina principala de [Crafting](../general/crafting.md).
+Mafioții folosesc în foarte mare proporție acest sistem, este recomandat să citiți pagina principală de [Crafting](../general/crafting.md).
 :::
 
 ## Sistemul de Droguri
