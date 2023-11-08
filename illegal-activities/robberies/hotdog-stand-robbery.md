@@ -49,7 +49,10 @@ Pentru a avea un jaf cu succes, încearcă să păstrezi o oarecare distanță f
 :::
 
 ::: danger
-Odată mișcată ținta de pe NPC, jaful va fi unul eșuat deoarece acesta va riposta și te va omorâ indiferent dacă încerci să fugi sau nu.
+Sunt 2 tipuri de fail, şi acelea sunt:
+
+1. Odată mișcată ținta de pe NPC, jaful va fi unul eșuat deoarece acesta va riposta și te va omorâ indiferent dacă încerci să fugi sau nu.
+2. După cum se observă şi în imaginea de tip .gif mai jos la "Rob eşuat", când bara de progres ajunge la 50% ai o şansă random ca NPC-ul să riposteze.
 :::
 
 ::: details Rob finisat cu succes
