@@ -16,7 +16,7 @@ title: Hitman Agency
 
 ## Aplicația Hitman
 
-Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim 200 USDT și pot fi de **două tipuri**, mai exact fară martori și cât se poate de **discret** sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe.
+Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim 200 USDT și pot fi de **două tipuri**, mai exact fără martori și cât se poate de **discret** sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe.
 
 <Image src="https://i.imgur.com/3oHqd3o.png" alt="Hitman" /> 
 
@@ -43,10 +43,10 @@ Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta 
 
 ## Contractul
 
-Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsarea tastei `E` pe *checkpoint-ul* mov de lângă harta orașului după ce te-ai echipat. Toate contractele valabile o să fie afișate, împreună cu suma pe care asasinul o să o încaseze **după** finalizarea serviciului, numele țintei, ce tip de contract este și totodată când a fost pus contractul. 
+Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsarea tastei `E` pe *checkpoint-ul* mov de lângă harta orașului după ce te-ai echipat. Toate contractele valabile o să fie afișate, împreună cu suma pe care asasinul o să o încaseze **după** finalizarea contractului, numele țintei, ce tip de contract este și totodată când a fost pus contractul. 
 
 ::: warning
-Să nu uiți să verifici ce fel de contract este inainte să-l duci la capăt!
+Să nu uiți să verifici ce fel de contract este înainte să-l duci la capăt!
 :::
 
 ::: tip Condițiile în care un contract este considerat silent
@@ -54,7 +54,7 @@ Contractul silent trebuie executat fără martori. Ca martor este definit orice 
 :::
 
 ::: danger Motive de fail al contractului 
-Un contract se consideră failed in următoarele situații:
+Un contract se consideră failed în următoarele situații:
 
 - hitmanul moare
 - contractul a avut martori (în cazul contractelor silent)
@@ -79,9 +79,9 @@ Odată cu acceptarea unui contract, asasinul are responsabilitatea să-l execute
 3. Assassinate the target
 4. Hide the covert car
 
-Imediat cum membrul Hitman ajunge la *covert car* și urcă în ea la volan, acesta o să primească **locația exactă** a țintei, trecând de sistemul de securitate a telefonului acestuia, reușind sa primească **informații în detaliu despre poziționarea sa**. De asemenea, ținta are deasupra capului o săgeată **roșie**.
+Imediat cum membrul Hitman ajunge la *covert car* și urcă în ea la volan, acesta o să primească **locația exactă** a țintei, trecând de sistemul de securitate a telefonului acestuia, reușind să primească **informații în detaliu despre poziționarea sa**. De asemenea, ținta are deasupra capului o săgeată **roșie**.
 
-După ce victima este asasinată, este datoria agentului Hitman să ascundă *covert car-ul* și să se facă nevăzut. **Transferul sumei de bani** pusă pe acest serviciu o să fie virat imediat cu **terminarea celor patru pași**. 
+După ce victima este asasinată, este datoria agentului Hitman să ascundă *covert car-ul* și să se facă nevăzut. **Transferul sumei de bani** pusă pe acest contract o să fie virat imediat cu **terminarea celor patru pași**. 
 
 Contractul nu este dus la capăt și se consideră *eșuat* dacă membrul Hitman moare sau părăsește jocul.
 

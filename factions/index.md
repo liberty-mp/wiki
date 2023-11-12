@@ -32,7 +32,7 @@ Fiecare dintre cele enumerate **anterior** au *scopuri* și *organizare diferit�
 Grupările mafiote sunt împărțite pe teritorii. 
 :::
 
-Agenții precum **Hitman** desfășoară servicii de asasinare printr-un contract trimis de jucători prin intermediul telefonului. Membrii acestei agenții sunt **profesioniști** ce lucrează cu mare atenție, iar suma pe care ei o încasează în urma contractului este doar in **cryptomonede**, mai exact **USDT**. Mai multe detalii [**aici**](./hitman).
+Agenții precum **Hitman** desfășoară servicii de asasinare printr-un contract trimis de jucători prin intermediul telefonului. Membrii acestei agenții sunt **profesioniști** ce lucrează cu mare atenție, iar suma pe care ei o încasează în urma contractului este doar în **cryptomonede**, mai exact **USDT**. Mai multe detalii [**aici**](./hitman).
 
 ::: tip
 Apelarea la serviciile **Hitman** este anonimă. Victima nu o să afle cine i-a pus gând rău.
@@ -70,7 +70,7 @@ Fiecare facțiune are un **număr maxim** de membri, un lider, un **nivel minim*
 O aplicație conține anumite întrebări alese de liderul respectiv! Este recomandat să-ți alegi cât se poate de bine cuvintele și felul în care te exprimi pentru a avea șanse mai mari să fii acceptat!
 :::
 
-Pentru a vedea membrii unei facțiuni trebuie să apeși pe **numele** facțiunii, urmând sa îți apară o listă cu toți jucătorii ce aparțin grupării respective, rank-ul lor, raportul lor și câte puncte de penalizare au. Mai multe informații despre raport și rank-uri aveți [**aici**](./raport).
+Pentru a vedea membrii unei facțiuni trebuie să apeși pe **numele** facțiunii, urmând să îți apară o listă cu toți jucătorii ce aparțin grupării respective, rank-ul lor, raportul lor și câte puncte de penalizare au. Mai multe informații despre raport și rank-uri aveți [**aici**](./raport).
 
 ::: details Detalii facțiune
 <Image src="https://i.imgur.com/Uto19Jy.gif" alt="detaliiF" />
@@ -102,7 +102,7 @@ Aplicația **completată și trimisă** pe UCP este revizuită de conducerea fac
 <Image src="https://i.imgur.com/80SIfVv.png" alt="proof" label="Dovezile acestea sunt niște poze aleatorii, nu testul propriu-zis."/>
 :::
 
-Există și un *clopoțel* pe UCP care te informează în privința aplicațiilor tale și alte evenimente ce au un impact asupra contului tău. În momentul în care *clopoțelul* are un cerc **mov** lângă el înseamnă ca aveți o notificare nouă sau necitită. 
+Există și un *clopoțel* pe UCP care te informează în privința aplicațiilor tale și alte evenimente ce au un impact asupra contului tău. În momentul în care *clopoțelul* are un cerc **mov** lângă el înseamnă că aveți o notificare nouă sau necitită. 
 
 ::: details Notificări
 <Image src="https://i.imgur.com/jjbUzAO.png" alt="info" />
@@ -121,7 +121,7 @@ Ai nevoie și de dovezi, altfel reclamația o să fie închisă!
 <Image src="https://i.imgur.com/9eBvd27.gif" alt="complaint" />
 :::
 
-În cazul în care nu îți poți completa raportul, despre care puteți citi mai multe [**aici**](./raport), există opțiunea de *învoire*, mai exact o **cerere de inactivitate**. Aceasta presupune o săptămână în care membrul facțiunii nu este nevoit să-și îndeplinească datoriile. Pentru a face acest lucru, trebuie să accesați [**UCP-ul**](https://ucp.liberty.mp), să intrați pe profil la secțiunea `Faction & Jobs` și să apăsați pe butonul portocaliu denumit `Request inactivity`! 
+În cazul în care nu îți poți completa raportul, despre care puteți citi mai multe [**aici**](./raport), există opțiunea de *învoire*, mai exact o **cerere de inactivitate**. Aceasta presupune o săptămână în care membrul facțiunii nu este nevoit să-și îndeplinească raportul. Pentru a face acest lucru, trebuie să accesați [**UCP-ul**](https://ucp.liberty.mp), să intrați pe profil la secțiunea `Faction & Jobs` și să apăsați pe butonul portocaliu denumit `Request inactivity`! 
 
 ::: details Cerere de inactivitate
 <Image src="https://i.imgur.com/X3d4uDL.gif" alt="inact" />
