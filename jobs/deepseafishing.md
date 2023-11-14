@@ -43,7 +43,9 @@ Odată ajuns la locația NPC-ului Deep Sea Fishing, interacționează cu el folo
 | Jetmax | 275 Slots | <Dinero :amount='890000' /> <br> <Gold :amount='35000' /> |
 | Longfin | 500 Slots | <Dinero :amount='2400000' /> |
 
-::: tip Seashark-ul nu este o barca, deci nu poti face Deep Sea Fishing cu el. :::
+::: tip 
+Seashark-ul nu este o barca, deci nu poti face Deep Sea Fishing cu el. 
+:::
 
 #### Timpul necesar pentru umplerea inventarului
 
