@@ -84,6 +84,8 @@ Notificare intrare în zona de pescuit
 
 <Image src="https://i.imgur.com/pw7yONu.png" alt="Notificare zona pescuit" /> 
 
+:::
+
 ### Cum vând peștii?
 
 Pentru a vinde peștii pescuiți în inventarul de la barcă trebuie să apeși tasta `P`, să selectezi locația unde dorești să vinzi pestii, și să urmărești checkpoint-ul mov.
