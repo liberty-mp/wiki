@@ -27,7 +27,7 @@ Deep Sea Fishing introduce o noua mecanica de pescuit. Tot ce ai nevoie este să
 Odată ajuns la locația NPC-ului Deep Sea Fishing, interacționează cu el folosind butonul `E` și selectează `Începe munca`. Iți va apărea un meniu în care poți alege barca cu care doresti sa faci job.
 
 ::: details Începe munca  
-  <Image src="https://i.imgur.com/SmZnXCh.gif" alt="Start Job" width="800" height="600" />
+  <Image src="https://i.imgur.com/WwKbrhV.gif" alt="Start Job" width="800" height="600" />
 :::  
 
 #### Barcile cu care poti practica Deep Sea Fishing
@@ -78,7 +78,7 @@ Locația zonei pe hartă
 <Image src="https://i.imgur.com/2C7KA50.png" alt="Locatie pe harta" />
 
 Ajungerea în zona și început de pescuit
-<Image src="https://i.imgur.com/FNybdgz.gif" alt="Incepere job" width="800" height="600" />
+<Image src="https://i.imgur.com/zJKIplO.gif" alt="Incepere job" width="800" height="600" />
 
 Notificare intrare în zona de pescuit
 
@@ -98,7 +98,7 @@ Prețul peștilor este <Dinero :amount="8" /> / peste in **Los Santos**.
 
 ::: details Procesul vanzare
 
-<Image src="https://i.imgur.com/PFtBnDx.gif" alt="Procesul de vanzare" width="800" height="600" />
+<Image src="https://i.imgur.com/wHR5cCv.gif" alt="Procesul de vanzare" width="800" height="600" />
 
 :::
 
