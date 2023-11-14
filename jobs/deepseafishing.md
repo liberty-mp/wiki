@@ -18,7 +18,7 @@ Lucrul la un job de pescuit în adâncime (Deep Sea Fishing) poate fi o experien
 
 ## Desfășurarea jobului
 
-Deep Sea Fishing introduce o noua mecanica de pescuit. Tot ce ai nevoie este sa detii o barca personala. Jucatorii nu au nevoie de undita sau alte consumabile. Jobul poate fi practicat de catre toti jucatorii cu minim level 10.
+Deep Sea Fishing introduce o noua mecanica de pescuit. Tot ce ai nevoie este să deții o barcă personala. Jucătorii nu au nevoie de undita sau alte consumabile. Jobul poate fi practicat de către toți jucătorii cu minim level 10.
 
 ## Întrebări frecvente
 
@@ -60,34 +60,33 @@ Odată ajuns la locația NPC-ului Deep Sea Fishing, interacționează cu el folo
 
 ::: tip Standard Subscription / <PremiumSubscription type='gold' /> prinde 144 de pesti pe ora.
 
-<PremiumSubscription type='platinum' /> prinde 180 de pesti pe ora.
+<PremiumSubscription type='platinum' /> prinde 180 de pești pe oră.
 
-In tabelul de mai sus **secundele**(sec) sunt aproximative, **orele**(h) si **minutele**(min) sunt exacte. :::
+În tabelul de mai sus **secundele**(sec) sunt aproximative, **orele**(h) și **minutele**(min) sunt exacte. :::
 
 
-### Unde trebuie sa pescuiesc?
+### Unde trebuie să pescuiesc?
 
-Pentru a incepe sa pescuiesti, trebuie sa mergi in zoan portocalie de pe harta, semnalata cu un cert portocaliu si un blip <Image src="https://i.imgur.com/D03M0jB.png" alt="Locatie" /> portocaliu. În momentul intrarii in zona vei primi o notificare ca te aflii in zona de pescuit. Odata aflat in aceasta zona, poti incepe sa pescuiesti folosind tasta 'E'.
-
+Pentru a începe să pescuiești, trebuie să mergi în zona portocalie de pe hartă, semnalată cu un cert portocaliu și un blip <Image src="https://i.imgur.com/D03M0jB.png" alt="Locatie" /> portocaliu. În momentul intrării în zonă vei primi o notificare că te aflii în zona de pescuit. Odată aflat în această zonă, poți începe să pescuiești folosind tasta 'E'.
 ::: details Procesul de incepere
 
-Locatia zonei pe harta
+Locația zonei pe hartă
 <Image src="https://i.imgur.com/2C7KA50.png" alt="Locatie pe harta" />
 
-Ajungerea in zona si inceput de pescuit
+Ajungerea în zona și început de pescuit
 <Image src="https://i.imgur.com/FNybdgz.gif" alt="Incepere job" width="800" height="600" />
 
-Notificare intrare in zona de pescuit
+Notificare intrare în zona de pescuit
 
 <Image src="https://i.imgur.com/pw7yONu.png" alt="Notificare zona pescuit" /> 
 
-### Cum vand pestii?
+### Cum vând peștii?
 
-Pentru a vinde pestii pescuiti in inventarul de la barca trebuie sa apesi tasta `P`, sa selectezi locatia unde doresti sa vinzi pestii, si sa urmaresti checkpoint-ul mov.
+Pentru a vinde peștii pescuiți în inventarul de la barcă trebuie să apeși tasta `P`, să selectezi locația unde dorești să vinzi pestii, și să urmărești checkpoint-ul mov.
 
-::: tip Pretul pestilor este  <Dinero :amount="8" /> / peste in **Los Santos**.
+::: tip Prețul peștilor este <Dinero :amount="8" /> / peste in **Los Santos**.
 
-Incepand cu skill 'Gold' in cadrul jobului vei putea vinde pestii pe insula [**Cayo Perico**](../illegal-activities/cayo-perico-island#deep-sea-fishing) pentru <Dinero :amount="10" /> / peste. :::
+Începând cu skill 'Gold' în cadrul jobului vei putea vinde peștii pe insula [**Cayo Perico**](../illegal-activities/cayo-perico-island#deep-sea-fishing) pentru <Dinero :amount="10" /> / peste. :::
 
 ::: details Procesul vanzare
 
