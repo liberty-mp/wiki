@@ -72,6 +72,7 @@ Standard Subscription / <PremiumSubscription type='gold' /> prinde 144 de pesti 
 ### Unde trebuie să pescuiesc?
 
 Pentru a începe să pescuiești, trebuie să mergi în zona portocalie de pe hartă, semnalată cu un cert portocaliu și un blip <Image src="https://i.imgur.com/D03M0jB.png" alt="Locatie" /> portocaliu. În momentul intrării în zonă vei primi o notificare că te aflii în zona de pescuit. Odată aflat în această zonă, poți începe să pescuiești folosind tasta 'E'.
+
 ::: details Procesul de incepere
 
 Locația zonei pe hartă
@@ -102,5 +103,8 @@ Prețul peștilor este <Dinero :amount="8" /> / peste in **Los Santos**.
 
 :::
 
+### Boost
 
-
+- Jobul pasiv **<Color hex="#FF0000">Nu</Color>** beneficiaza de bonusurile obisnuite ([Marijuana Joint](../factions/gangs#marijuana-joint), "[Team Work Empowerment](../clans/tabs#perk-level-up-table)", "[World Exploration Job Boost](../events/world-exploration#recompense-streak-serie-completari-eveniment)").
+- Jobul pasiv beneficiaza de perk intitulat "[Master of Passive Gains](../clans/tabs#perk-level-up-table)" al clanurilor ce ofera intre **5%** si **25%** mai multi bani in cadrul jobului.
+- Jobul pasiv beneficiaza in cadrul evenimentului "[World Exploration](../events/world-exploration#recompense-streak-serie-completari-eveniment)" de bonusul "Passive Job Boost" ce ofera intre **5%** si **25%** mai multi bani in cadrul jobului.
