@@ -51,14 +51,14 @@ Seashark-ul nu este o barca, deci nu poti face Deep Sea Fishing cu el.
 
 | Numele | Timp Standard / Gold | Timp Platinum |
 | :----: | :---------: | :--: |
-| **Suntrap** | 37min30sec | 30min |
-| **Tropic** | 41min40sec | 33min25sec |
-| **Dinghy** | 45min50sec | 36min30sec |
-| **Squalo** | 52min10sec | 41min40sec |
-| **Speeder** | 1h23min25sec | 1h6min40sec |
-| **Toro** | 1h31min40sec | 1h13min25sec |
-| **Jetmax** | 1h54min35sec | 1h31min40sec |
-| **Longfin** | 3h28min25sec | 2h46min40sec |
+| **Suntrap** | 37min 30sec | 30min |
+| **Tropic** | 41min 40sec | 33min 25sec |
+| **Dinghy** | 45min 50sec | 36min 30sec |
+| **Squalo** | 52min 10sec | 41min 40sec |
+| **Speeder** | 1h 23min 25sec | 1h 6min 40sec |
+| **Toro** | 1h 31min 40sec | 1h 13min 25sec |
+| **Jetmax** | 1h 54min 35sec | 1h 31min 40sec |
+| **Longfin** | 3h 28min 25sec | 2h 46min 40sec |
 
 ::: tip 
 Standard Subscription / <PremiumSubscription type='gold' /> prinde 144 de pesti pe ora.
