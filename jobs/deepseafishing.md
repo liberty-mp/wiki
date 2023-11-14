@@ -60,11 +60,13 @@ Seashark-ul nu este o barca, deci nu poti face Deep Sea Fishing cu el.
 | **Jetmax** | 1h54min35sec | 1h31min40sec |
 | **Longfin** | 3h28min25sec | 2h46min40sec |
 
-::: tip Standard Subscription / <PremiumSubscription type='gold' /> prinde 144 de pesti pe ora.
+::: tip 
+Standard Subscription / <PremiumSubscription type='gold' /> prinde 144 de pesti pe ora.
 
 <PremiumSubscription type='platinum' /> prinde 180 de pești pe oră.
 
-În tabelul de mai sus **secundele**(sec) sunt aproximative, **orele**(h) și **minutele**(min) sunt exacte. :::
+În tabelul de mai sus **secundele**(sec) sunt aproximative, **orele**(h) și **minutele**(min) sunt exacte. 
+:::
 
 
 ### Unde trebuie să pescuiesc?
