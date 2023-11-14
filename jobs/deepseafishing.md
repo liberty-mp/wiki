@@ -90,9 +90,11 @@ Notificare intrare în zona de pescuit
 
 Pentru a vinde peștii pescuiți în inventarul de la barcă trebuie să apeși tasta `P`, să selectezi locația unde dorești să vinzi pestii, și să urmărești checkpoint-ul mov.
 
-::: tip Prețul peștilor este <Dinero :amount="8" /> / peste in **Los Santos**.
+::: tip 
+Prețul peștilor este <Dinero :amount="8" /> / peste in **Los Santos**.
 
-Începând cu skill 'Gold' în cadrul jobului vei putea vinde peștii pe insula [**Cayo Perico**](../illegal-activities/cayo-perico-island#deep-sea-fishing) pentru <Dinero :amount="10" /> / peste. :::
+Începând cu skill 'Gold' în cadrul jobului vei putea vinde peștii pe insula [**Cayo Perico**](../illegal-activities/cayo-perico-island#deep-sea-fishing) pentru <Dinero :amount="10" /> / peste. 
+:::
 
 ::: details Procesul vanzare
 
