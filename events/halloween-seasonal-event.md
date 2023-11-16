@@ -17,7 +17,7 @@ Cea mai înfricoșătoare perioadă a anului a sosit și pe serverul nostru! De 
 ## Întrebări frecvente
 
 ### Care este durata acestui eveniment?
-Evenimentul de Halloween va fi disponibil timp de 17 de zile pe server (28.10.2023 - 17.11.2023).
+Evenimentul de Halloween va fi disponibil timp de 17 de zile pe server (28.10.2023 - 17.11.2023, ora 23:59).
 
 ### De câte ori pot face misiunile pe zi?
 Quest-urile sunt disponibile o singură dată pe zi. Dacă l-ai completat astăzi, spre exemplu, vei putea lua parte la eveniment din nou mâine, începând cu ora 07:00.
