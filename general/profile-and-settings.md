@@ -208,7 +208,7 @@ Mai multe informatii despre **Achievements** (realizări). [**AICI**](../general
 
 **Prezentarea secțiunilor:** 
 
-<Image src="https://i.imgur.com/As8OD9M.png" alt="Settings" />
+<Image src="https://i.imgur.com/Fy51XT7.png" alt="Settings" />
 
 Secțiunea **Account**:  
 - **Password** - rubrica din care se poate schimba parola contului; 
@@ -218,6 +218,7 @@ Secțiunea **Hud & Chat**:
 - **Display HUD** - se poate oprii hudul intern al serverului pentru o imagine mai curată. (nu oprește minimap-ul din joc);
 - **Display Hotkeys** - se poate selecta dacă să apară butoanele cu scurtături în partea dreaptă a ecranului sau nu; 
 - **Display FPS** - se poate selecta dacă doriți să aveți FPS-urile afișate pe ecran sau nu;
+- **Display Own Nametag** - se poate selecta dacă doriți să aveți nametag-ul propriu deasupra capului;
 - **Speedometer Overspeed Color Change** - se poate selecta daca doriți ca viteza de pe 'Speedometer' să iși schimbe culoarea in 'Roșu' atunci când depașiți limita de viteză legală;
 - **Profanity Filter** - se poate selecta daca doriți ca unele cuvinte vulgare să fie cenzurate pe chat sau nu;
 - **Show Advertisements** - se poate selecta dacă să apară anunțurile jucătorilor pe chat sau nu;
