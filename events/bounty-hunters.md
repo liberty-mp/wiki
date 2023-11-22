@@ -107,12 +107,16 @@ Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mul
 
 ## Întrebări frecvente
 
-Cum iau servieta?
-<Image src="https://i.imgur.com/P7ZQMqB.png" alt="Ridicare servieta" />
+::: details Cum iau servieta?
+<Image src="https://i.imgur.com/nfUYKSY.gif" alt="Ridicare servieta" />
 
-Cum deschid servieta?
-<Image src="https://i.imgur.com/4nB2hAl.png" alt="Alfred" />
+:::
 
-Dacă mor / dau reconnect și am luat servieta însă nu am livrat-o, ce se întâmplă?
+::: details Cum deschid servieta?
+<Image src="https://i.imgur.com/BPShVcP.gif" alt="Alfred" />
+
+:::
+
+**Dacă mor / dau reconnect și am luat servieta însă nu am livrat-o, ce se întâmplă?**
 
 În acest caz, respectivul NPC se va respawna într-o nouă locație și îl vei putea omorî iar.
