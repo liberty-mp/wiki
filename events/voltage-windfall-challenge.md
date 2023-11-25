@@ -22,6 +22,8 @@ Pentru mai multe detalii legate de acest job poţi accesa [Electrician - informa
 
 :::tip Informații:
 
+Sansa **20%** de a primi un panou special ce ofera castiguri majorate cu **25%**.
+
 Când este activ evenimentul **NU** are o limită de repetări.
 
 Voltage Windfall Crate **este tradable**.
