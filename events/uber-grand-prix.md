@@ -22,6 +22,8 @@ Pentru mai multe detalii legate de acest job poţi accesa [Uber - informaţii](.
 
 ::: tip Informații:
 
+Sansa **20%** de a primi o cursa speciala ce ofera castiguri majorate cu **20%**.
+
 Când este activ evenimentul **NU** are o limită de repetări.
 
 Uber Grand Prix Crate **este tradable**.
