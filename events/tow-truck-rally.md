@@ -21,9 +21,15 @@ Jucătorii vor dropa un crate când vor acumula <Dinero :amount="390" /> - <Dine
 Pentru mai multe detalii legate de acest job poţi accesa [Tow Truck Driver - informaţii](../jobs/tow-truck-driver).
 
 :::tip Informații:
-Când este activ evenimentul **NU** are o limită de repetări.<br>
-Ai nevoie de minim level 5 pentru acest job şi pentru a participa la eveniment.<br>
-Tow Truck Rally Crate **este tradable**.<br>
+
+Sansa de a primi un Hypercar **20%** ce ofera castiguri majorate cu **25%**.
+
+Când este activ evenimentul **NU** are o limită de repetări.
+
+Ai nevoie de minim level 5 pentru acest job şi pentru a participa la eveniment.
+
+Tow Truck Rally Crate **este tradable**.
+
 :::
 
 
