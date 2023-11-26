@@ -99,7 +99,7 @@ La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa 
 Ca să poţi efectua job-ul trebuie să fii în zona respectivă imaginii de mai jos.
 
 ::: details Înafara zonei de job.
-  <Image src="https://i.imgur.com/MsQFfIh.png" alt="outoftown" />  
+  <Image src="https://i.imgur.com/Dqksfdf.jpg" alt="uber boundaries" />  
 ::: 
 
 ### Părăsirea vehiculului
