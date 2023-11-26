@@ -94,6 +94,14 @@ La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa 
 | <Image src="https://i.imgur.com/TGIAVQa.png" alt="Pliers" width="48" label="Pliers" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
 
 ## Cazuri în care nu poți efectua job-ul
+### Înafara zonei de job.
+
+Ca să poţi efectua job-ul trebuie să fii în zona respectivă imaginii de mai jos.
+
+::: details Înafara zonei de job.
+  <Image src="https://i.imgur.com/Dqksfdf.jpg" alt="uber boundaries" />  
+::: 
+
 ### Părăsirea vehiculului
 
 Părăsirea vehiculului din care executai munca va duce în amânarea job-ului și aplicarea unei restricții de 01:30 (un minut și jumătate).
