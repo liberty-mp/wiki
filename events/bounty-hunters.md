@@ -106,7 +106,7 @@ Primii 5 jucători la sfârşit de sezon vor primi un badge în funcţie de pozi
 
 Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mult de 1 kill vor primi un badge pe profil.
 - Clanul câştigător primeşte suma de <Dinero :amount="300_000" /> în seif.
-- 
+
 :::
 
 ::: details Premii sezonul II
@@ -126,19 +126,15 @@ Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mul
 
 ## Întrebări frecvente
 
-::: details Cum iau servieta?
+### Cum iau servieta?
 
 <Image src="https://i.imgur.com/nfUYKSY.gif" alt="Ridicare servieta" />
 
-:::
-
-::: details Cum deschid servieta?
+### Cum deschid servieta?
 
 <Image src="https://i.imgur.com/BPShVcP.gif" alt="Alfred" />
 
-:::
-
-::: Cum imi dau seama daca am terminat sesiunea de Bounty Hunters?
+### Cum imi dau seama daca am terminat sesiunea de Bounty Hunters?
 
 - Poti verifica acest lucru in `/quests`, sectiunea "Bounty Hunters".
 - Primesti o notificare deasupra hartii cand ai temrinat de ucis toate NPC-urile.
@@ -146,8 +142,6 @@ Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mul
 <Image src="https://i.imgur.com/oJBTscm.png" alt="[/quests]" label="[/quests]" />
 <Image src="https://i.imgur.com/Lq7G55m.png" alt="Notificare" label="Notificare" />
 
-:::
-
-**Dacă mor / dau reconnect și am luat servieta însă nu am livrat-o, ce se întâmplă?**
+### Dacă mor / dau reconnect și am luat servieta însă nu am livrat-o, ce se întâmplă?
 
 În acest caz, respectivul NPC se va respawna într-o nouă locație și îl vei putea omorî iar.
