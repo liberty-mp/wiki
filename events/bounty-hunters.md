@@ -143,7 +143,7 @@ Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mul
 - Poti verifica acest lucru in `/quests`, sectiunea "Bounty Hunters".
 - Primesti o notificare deasupra hartii cand ai temrinat de ucis toate NPC-urile.
 
-<Image src="https://i.imgur.com/oJBTscm.png" alt="[/quests]" label="[/quests]]" />
+<Image src="https://i.imgur.com/oJBTscm.png" alt="[/quests]" label="[/quests]" />
 <Image src="https://i.imgur.com/Lq7G55m.png" alt="Notificare" label="Notificare" />
 
 :::
