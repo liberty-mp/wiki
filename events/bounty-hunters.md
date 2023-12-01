@@ -92,6 +92,8 @@ Experienţa are un bonus în functie de levelul Bounty Hunters.
 
 Evenimentul este gândit pe sezoane, există un top 5 jucători şi top 5 clan-uri în funcţie de numărul de NPC-uri ucise.
 
+::: details Premii sezonul I
+
 Primii 5 jucători la sfârşit de sezon vor primi un badge în funcţie de poziţia pe care au ocupat-o curent şi următoarele premii:
 
 | **Locul** | **Gold** | **Cash** |
@@ -104,16 +106,45 @@ Primii 5 jucători la sfârşit de sezon vor primi un badge în funcţie de pozi
 
 Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mult de 1 kill vor primi un badge pe profil.
 - Clanul câştigător primeşte suma de <Dinero :amount="300_000" /> în seif.
+- 
+:::
+
+::: details Premii sezonul II
+
+| **Locul** | **Badge** | **Cash** | **Reward**
+| :-----: | :---------: | :-----------: | :-----------: |
+| Locul 1 | <Image src="https://i.imgur.com/sO3RZZH.png" alt="BH1" width="30" label="Bounty Hunters Master" /> | <Dinero :amount="25000" /> | Weapon & Ammo |
+| Locul 2 | <Image src="https://i.imgur.com/DVMB9Db.png" alt="BH2" width="30" label="Bounty Hunters Diamond" /> | **Nu** | **Nu** |
+| Locul 3 | <Image src="https://i.imgur.com/jCsSbYc.png" alt="BH3" width="30" label="Bounty Hunters Gold" /> | **Nu** | **Nu** |
+| Locul 4 | <Image src="https://i.imgur.com/NGwpTQ4.png" alt="BH4" width="30" label="Bounty Hunters Silver" /> | **Nu** | **Nu** |
+| Locul 5 | <Image src="https://i.imgur.com/bKpnEvf.png" alt="BH5" width="30" label="Bounty Hunters Bronze" /> | **Nu** | **Nu** |
+
+Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mult de 1 kill vor primi un badge pe profil.
+- Clanul câştigător primeşte suma de <Dinero :amount="300_000" /> în seif.
+
+:::
 
 ## Întrebări frecvente
 
 ::: details Cum iau servieta?
+
 <Image src="https://i.imgur.com/nfUYKSY.gif" alt="Ridicare servieta" />
 
 :::
 
 ::: details Cum deschid servieta?
+
 <Image src="https://i.imgur.com/BPShVcP.gif" alt="Alfred" />
+
+:::
+
+::: Cum imi dau seama daca am terminat sesiunea de Bounty Hunters?
+
+- Poti verifica acest lucru in `/quests`, sectiunea "Bounty Hunters".
+- Primesti o notificare deasupra hartii cand ai temrinat de ucis toate NPC-urile.
+
+<Image src="https://i.imgur.com/oJBTscm.png" alt="[/quests]" label="[/quests]]" />
+<Image src="https://i.imgur.com/Lq7G55m.png" alt="Notificare" label="Notificare" />
 
 :::
 
