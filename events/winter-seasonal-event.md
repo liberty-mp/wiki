@@ -195,6 +195,9 @@ Bulgării de zăpadă sunt obiecte speciale care pot fi folosite pentru a omorî
 
 Decorațiunile de Crăciun sunt obiecte speciale care pot fi folosite pentru a cumpăra obiecte din magazinul de iarnă. Acestea pot fi obținute prin completarea evenimentelor [Snowman Quest](#snowman-quest-⛄) și [Snow Plow Cleaning](#snow-plow-cleaning-🚜).
 
+::: tip
+Decorațiunile de Crăciun pot fi tradate cu alți jucători.
+:::
 
 | Sock | Ornament | Candy Cane | Gift |
 | :-----------: | :-----------: | :-----------: | :-----------: |
