@@ -74,5 +74,13 @@ Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Hall
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/vzSPRo3.png" alt="HLLW2023" width="50" label="Halloween Event" />| obținut de jucătorii ce au completat de 10 ori quest-urile de Halloween |
 
+### Winter 2023 Badges
 
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de [Crăciun](../events/winter-seasonal-event) din 2023.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/TkaQrE6.png" alt="Prezentare badge" label="Advent Calendar 2023" width="50" /> | obținut de jucătorii ce au revendicat minim 15 recompense din [Advent Calendar](../events/winter-seasonal-event#advent-calendar-📆) |
+| <Image src="https://i.imgur.com/8bsRuSh.png" alt="Prezentare badge" label="Snowman Quest 2023" width="50" /> | obținut de jucătorii ce au completat [Snowman Quest](../events/winter-seasonal-event#snowman-quest-⛄) de 15 ori |
+| <Image src="https://i.imgur.com/ZvPYU0i.png" alt="Prezentare badge" label="Snow Plow Cleaning 2023" width="50" /> | obținut de jucătorii ce au acumulat minim 100 de [decorațiuni de Crăciun](#christmas-decorations-🎄) în cadrul evenimentului [Snow Plow Cleaning](../events/winter-seasonal-event#snow-plow-cleaning-🚜) |
 

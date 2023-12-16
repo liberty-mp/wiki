@@ -12,20 +12,24 @@ title: Liberty Pass
 
 # Liberty Pass 🎫
 
-Liberty Pass este un sistem de battlepass. Acesta constă în completarea unor seturi de misiuni ce sunt deblocate săptămânal în schimbul experienței, experiență cu care avansezi în tier, fiind 50 de tiere ce așteaptă să fie completate. 
+Liberty Pass este un sistem de battlepass. Acesta constă în completarea unor seturi de misiuni ce sunt deblocate săptămânal în schimbul experienței, experiență cu care avansezi în tier, fiind 100 de tiere ce așteaptă să fie completate. 
 
 Acesta poate fi completat atât în varianta [free](#varianta-free), variantă cu jumătate din câștigurile pe care le poți primi la completarea unui tier, și varianta [premium](#varianta-premium), variantă care îți oferă două premii pentru fiecare tier. 
 
 Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzile `/battlepass` si `/bp`, sau prin apăsarea tastei `U`, tastă ce poate fi modificată în meniul de setări.
 
 ::: details Meniul Liberty Pass
-<Image src="https://i.imgur.com/0fCLYv3.png" alt="MeniuLP" />
+<Image src="https://i.imgur.com/i6VSsOQ.png" alt="MeniuLP" />
 :::
+
+Față de sezonul 1, sezonul 2 aduce o serie de schimbări, printre care:
+- 50 de tiere în plus
+- posibilitatea de a obține Tier Experience (XP) din misiuni zilnice
 
 ## Întrebări frecvente
 
 ### Care este durata acestui eveniment?
-Sezonul 1 a început pe data de 4 octombrie 2023 și se va termina pe data de 22 noiembrie 2023, având o durată de 7 săptămâni.
+Sezonul 2 a început pe data de 16 decembrie 2023 și se va termina pe data de 3 februarie 2024, având o durată de 7 săptămâni.
 
 ### Dacă achiziționez varianta premium după ce completez niște tiere, primesc premiile din urmă?
 Da, în momentul achiziționării vei primi și premiile din urmă, indiferent de tier-ul la care ai ajuns.
@@ -34,11 +38,11 @@ Da, în momentul achiziționării vei primi și premiile din urmă, indiferent d
 Acestea sunt livrate automat la Post Office, loc din care le poți ridica oricând dorești.
 
 ### Cât costă varianta premium?
-Varianta premium poate fi achiziționată contra sumei de <Gold :amount='10000'/> sau de la jucători, sub formă de ticket, prețul care nu poate fi estimat.
+Varianta premium poate fi achiziționată contra sumei de <Gold :amount='10_000'/> sau de la jucători, sub formă de ticket, prețul care nu poate fi estimat.
 
 ### Unde văd progresul și câștigul pe care le am la o anumită misiune? 
 
-Acestea apar în dreapta fiecărei misiuni. Progresul este detaliat sub formă de procentaj, acesta schimbându-se o dată cu o modificare a progresului respectivei misiuni. Câștigul unei misiuni variază între 8,000 EXP, 12,000 EXP sau 16,000 EXP, în funcție de dificultatea misiunii respective.
+Acestea apar în dreapta fiecărei misiuni. Progresul este detaliat sub formă de procentaj, acesta schimbându-se o dată cu o modificare a progresului respectivei misiuni. Câștigul unei misiuni variază între 12,000 EXP, 18,000 EXP sau 24,000 EXP, în funcție de dificultatea misiunii respective.
 
 ::: details Informații despre progres & câștig
 <Image src="https://i.imgur.com/xsccp7t.png" alt="Detalii misiune" /> 
@@ -58,28 +62,12 @@ Poți selecta ce misiuni dorești să vezi prin intermediul butonului aflat în 
 <Image src="https://i.imgur.com/7ei6ijM.gif" alt="WeekChange"/>
 :::
 
-## Recompensele
-
-### Varianta FREE
-Premiile pe care un jucător le poate primi dacă completeaza cele 50 de tiere având varianta free sunt:
- - aproximativ <Gold :amount='7_000'/>
- - aproximativ <Dinero :amount="100_000" />
- - badge pe profilul de UCP 
-
-### Varianta PREMIUM
-Premiile pe care un jucător le poate primi dacă completează cele 50 de tiere având varianta premium sunt:
- - aproximativ <Gold :amount='35_000'/>
- - aproximativ <Dinero :amount="400_000" />
- - vehicul unic Pantheon Supersport (comparativ cu vehiculele Luxury din categoria <Dinero :amount="600_000" /> - <Dinero :amount="800_000" />)
- - alte premii ale căror valoare nu poate fi estimată
- - badge pe profilul de UCP  
-
- ::: details Badge
-<Image src="https://i.imgur.com/TGFt4Yd.png" alt="LPBadge" />  
+::: details Prezentare vehicul Grotti Cheetah
+<Image src="https://i.imgur.com/sysDjq9.png" alt="Grotti Cheetah" />  
 :::
 
-::: tip
-Deblocarea unei noi săptămâni de misiuni în sezonul 1 are loc în noaptea dintre ziua de marți și ziua de miercuri.
+::: details Badge
+<Image src="https://i.imgur.com/TGFt4Yd.png" alt="LPBadge" />  
 :::
 
 ## Liberty Pass Boost
