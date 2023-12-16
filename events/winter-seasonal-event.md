@@ -160,7 +160,7 @@ Progresul tău în cadrul acestui eveniment poate fi vizualizat folosind comanda
 :::
 
 ::: tip
-La acumularea de 100 de [decorațiuni de Crăciun](#christmas-decorations-🎄), vei primi un badge special.
+La acumularea de 300 de [decorațiuni de Crăciun](#christmas-decorations-🎄) (echivalentul a 15 total drops), vei primi un badge special.
 :::
 
 ::: details Prezentare badge
