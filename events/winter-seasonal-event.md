@@ -36,7 +36,7 @@ Advent Calendar consta intr-un calendar cu recompense care pot fi revenidicate o
 
 O noua recompensa este deblocata in fiecare zi, la ora `00:00`, ora serverului.
 
-Pentru a revenidica o recompensa, trebuie sa ai minim 60 de minute jucate in ziua respectiva. Daca nu ai indeplinit aceasta conditie, recompensa nu va fi disponibila pentru tine.
+Pentru a revendica o recompensa, trebuie sa ai minim 60 de minute jucate in ziua respectiva. Daca nu ai indeplinit aceasta conditie, recompensa nu va fi disponibila pentru tine.
 
 ::: details Revendicarea recompenselor
 <Image src="https://i.imgur.com/DFYmu1F.gif" alt="Revendicarea recompenselor" />
