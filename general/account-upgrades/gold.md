@@ -14,7 +14,7 @@ Acces de a-ți pune numele colorat prestabilit în chat.
 
 ### Gold plated distinction above your in game character
 
-Deasupra capului fiecărui jucător cu <PremiumSubscription type='gold' /> apare o iconiță distinctivă.
+Deasupra capului fiecărui jucător <PremiumSubscription type='gold' /> apare o iconiță distinctivă.
 
 <Image src="https://i.imgur.com/T15bEAD.png" />
 
@@ -42,7 +42,7 @@ După săvârșirea unei [**infracțiuni**](../../illegal-activities/) pe server
 
 ### 10% extra cash every robbery
 
-După săvârșirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai multi Marked Money.
+După săvârșirea unei [**infracțiuni**](../../illegal-activities/) pe server, vei primi cu **10%** mai mulți Marked Money.
 
 ### 15% faster heat reduction
 
@@ -58,7 +58,7 @@ Posibilitatea de a spawna **5** mașini personale.
 
 ### Flat experience each payday increased by 50%
 
-Experiența primită la payday este majorata cu **50%**.
+Experiența primită la payday este majorată cu **50%**.
 
 ### Flat cash reward each payday increased by 30%
 
@@ -66,7 +66,7 @@ Primești cu **30%** mai mulți bani la payday.
 
 ### Profile distinction on our web platform
 
-Pe profilul de pe [site-ul serverului](https://ucp.liberty.mp/) primesti un badge.
+Pe profilul de pe [site-ul serverului](https://ucp.liberty.mp/) primești un badge.
 
 <Image src="https://i.imgur.com/lSYQVD9.png" />
 
@@ -82,13 +82,13 @@ Posibilitatea de a avea **50** de numere salvate în agendă.
 
 ### Premium advertisements
 
-Acces la anunturi premium. 
+Acces la anunțuri premium. 
 
 <Image src="https://i.imgur.com/AyQFMkU.png" />
 
 ###  Place ad from any location (/ad)
 
-Acces la anunturi din orice locatie.
+Acces la anunțuri din orice locație.
 
 ###  10 property safebox slots
 
@@ -98,7 +98,7 @@ Acces la **10** de locuri în seiful proprietăților.
 
 ###  5 market slots
 
-Acces la **5** de locuri în market.
+Acces la **5** locuri în market.
 
 <Image src="https://i.imgur.com/Kwtahpt.png" />
 
@@ -116,7 +116,7 @@ Consumarea combustibilului din mașină este micșorat cu **15%**.
 
 ### 5 minutes vehicle despawn time
 
-Vehiculul personal se despawneaza automat după **5 minute** de când nu mai este utilizat.
+Vehiculul personal se despawnează automat după **5 minute** de când nu mai este utilizat.
 
 ### 0.02% bank interest
 
