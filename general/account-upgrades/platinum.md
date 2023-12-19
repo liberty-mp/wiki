@@ -14,7 +14,7 @@ Acces de a-ți pune numele colorat în chat.
 
 ### Platinum plated distinction above your in game character
 
-Deasupra capului fiecărui jucător cu <PremiumSubscription type='platinum' /> apare o iconiță distinctivă.
+Deasupra capului fiecărui jucător <PremiumSubscription type='platinum' /> apare o iconiță distinctivă.
 
 <Image src="https://i.imgur.com/D1dIooX.png" />
 
@@ -88,7 +88,7 @@ Acces la anunțuri premium.
 
 ###  Place ad from any location (/ad)
 
-Acces la anunțuri din orice locatie.
+Acces la anunțuri din orice locație.
 
 ###  30 property safebox slots
 
@@ -98,7 +98,7 @@ Acces la 30 de locuri în seiful proprietăților.
 
 ###  15 market slots
 
-Accesul la 15 de locuri în market.
+Accesul la 15 locuri în market.
 
 <Image src="https://i.imgur.com/xvIikUi.png" />
 
