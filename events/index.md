@@ -104,3 +104,11 @@ Liberty Pass Battlepass este un eveniment virtual captivant. Acest eveniment spe
 Acest eveniment este o ocazie perfectă pentru a-ți demonstra abilitățile de jucător înrăit.
 
 > Vezi detalierea evenimentului [Liberty Pass Seasonal Event](./libertypass-seasonal-event).
+
+---
+
+### Winter Seasonal Event ⛄❄️
+
+Winter Event este un eveniment sezonier care se desfășoară în perioada de iarnă, în care jucătorii pot obține diferite recompense prin completarea unor misiuni și colectarea unor obiecte speciale ce pot fi ulterior schimbate cu recompense.
+
+> Vezi detalierea evenimentului [Winter Seasonal Event](./winter-seasonal-event).

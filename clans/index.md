@@ -20,6 +20,10 @@ Un membru poate avea rank 1-4 și permisiuni specifice setate de liderul clanulu
 Clanurile au propriul regulament, creatorul clanului cât și cei cu permisiunea de uninvite având puterea de a da afară un membru în orice moment.
 Limbajul pe chatul clanului nu se sancționează decât dacă este asupra staffului/comunității.
 
+::: tip 
+Pe server este valabil si un sistem prin care jucatorul poate schimba culoarea unui respectiv rank, pentru aceast lucru adaugati in fata rank-ului textul '!{#HEXCODE}, HEXCODE fiind inlocuit de o culoare HEX pe care o puteti gasii [**AICI**]((https://www.color-hex.com/))
+:::
+
 ## Crearea clanului
 
 Pentru a crea un clan ai nevoie de <Gold :amount='20000' />.
