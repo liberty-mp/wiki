@@ -2,9 +2,9 @@
 title: Account Upgrades
 ---
 
-## Informatii generale despre account upgrades
+## Informații generale despre account upgrades
 
-Account upgrades ofera utilizatorilor o serie de beneficii și caracteristici suplimentare pentru a îmbunătăți experiența lor pe server. Aceste upgrade-uri sunt, de obicei, disponibile în schimbul unei taxe suplimentare.
+Account upgrades oferă utilizatorilor o serie de beneficii și caracteristici suplimentare pentru a îmbunătăți experiența lor pe server. Aceste upgrade-uri sunt, de obicei, disponibile în schimbul unei taxe suplimentare.
 
 | Type | Price per month | Benefits |
 | :----: | :----: | :----: |

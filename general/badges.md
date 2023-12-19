@@ -32,7 +32,7 @@ Acest badge a fost înmânat jucătorilor ce au contribuit în perioada beta a s
 
 ### Premium Account Badge
 
-În momentul de față se pot obține 4 badge-uri de acest timp, fiecare fiind obținut la o anumită perioadă prestabilită achiziționând <PremiumSubscription type='gold' /> / <PremiumSubscription type='platinum' />.
+În momentul de față se pot obține 4 badge-uri de acest tip, fiecare fiind obținut la o anumită perioadă prestabilită achiziționând <PremiumSubscription type='gold' /> / <PremiumSubscription type='platinum' />.
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
@@ -43,10 +43,10 @@ Acest badge a fost înmânat jucătorilor ce au contribuit în perioada beta a s
 
 ### Bounty Hunters Badge
 
-Există 5 tipuri de badge pentru această activitate și unul pentru clan. Acestea se pot obține în funcție de plasamentul pe care-l ocupi la finalul unui sezon de [Bounty Hunters](../events/bounty-hunters).
+Există 5 tipuri de badge pentru această activitate și unul pentru clan. Acestea se pot obține în funcție de locul pe care-l ocupi la finalul unui sezon de [Bounty Hunters](../events/bounty-hunters).
 
 ::: tip
-Membrii clanului aflat pe locul 1 la final de sezon Bounty Hunters vor primi badge-ul afisat mai jos.
+Membrii clanului aflat pe locul 1 la final de sezon Bounty Hunters vor primi badge-ul afișat mai jos.
 :::
 
 | Badge   | Cerință |
