@@ -6,7 +6,7 @@ title: Achievements
 
 Secțiunea **Newbie**: 
 
-| Numele realizarii | Mod de obținere | Progres (1/2/3) | Reward (1/2/3) |
+| Numele realizării | Mod de obținere | Progres (1/2/3) | Reward (1/2/3) |
 | --- | --- | --- | ------ |
 | Welcome to Los Santos | Finalizează tutorialul introductiv | - | - |
 | Employed Citizen | Ia-ți primul job | - | - |
@@ -15,7 +15,7 @@ Secțiunea **Newbie**:
 
 Secțiunea **Economy**: 
 
-| Numele realizarii | Mod de obținere | Progres (1/2/3) | Reward (1/2/3) |
+| Numele realizării | Mod de obținere | Progres (1/2/3) | Reward (1/2/3) |
 | --- | --- | --- | ------- |
 | Employee of the month | Câștigă bani muncind la orice job | <Dinero :amount='50000' /> / <Dinero :amount='150000' /> / <Dinero :amount='500000' /> | - / - / <gold :amount='200' /> |
 | Fishy business | Prinde pești în cadrul jobului Fisherman | 200 / 500 / 1000 | - / <gold :amount='200' /> / [Random Clothing Crate](./referrals#clothing-crate) |
@@ -30,7 +30,7 @@ Secțiunea **Economy**:
 
 Secțiunea **Evolution**: 
 
-| Numele realizarii | Mod de obținere | Progres (1/2/3) | Reward (1/2/3) |
+| Numele realizării | Mod de obținere | Progres (1/2/3) | Reward (1/2/3) |
 | --- | --- | --- | --- |
 | Dedicated player | Acumulează ore jucate pe server | 100 / 500 / 1000 | - / - / <gold :amount='200' /> |
 | Landlord | Achiziționează-ți prima casă sau primul apartament | - | - |
@@ -45,7 +45,7 @@ Secțiunea **Evolution**:
 
 Secțiunea **Living in Los Santos**:  
 
-| Numele realizarii | Mod de obținere | Progres (1/2/3) | Reward (1/2/3) |
+| Numele realizării | Mod de obținere | Progres (1/2/3) | Reward (1/2/3) |
 | --- | --- | --- | --- |
 | To be or not to be | Achiziționează orice obiect din Ammu-Nation | - | - |
 | Behind bars | Intră la închisoare | - | - |
