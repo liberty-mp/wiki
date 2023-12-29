@@ -40,7 +40,7 @@ Sistemul este împărțit în **4 secțiuni**:
 - **Slotul 8** - pot fi atașate obiecte de îmbrăcăminte precum: **adidași**, **pantofi**, **ghete** și așa mai departe.
 - **Slotul 9** - pot fi atașate accesorii precum: **cercei**;
 - **Slotul 10** - pot fi atașate accesorii precum: **lanțuri**;
-- **Slotul 11** - pot fi atașate accesorii precum: **ghiozdane** si **borsete**;
+- **Slotul 11** - pot fi atașate accesorii precum: **ghiozdane** și **borsete**;
 
 ::: tip
 Pentru a ocupa un **slot** trebuie să tragi din inventar (**Inventory Items**) **obiectul de îmbrăcăminte** sau **accesoriu** în cadrul **slotului** corespunzător. Pentru a detașa un **obiect de îmbrăcăminte** sau un **accesoriu** de pe un **slot**, apasă *click-dreapta* pe **obiectul de îmbrăcăminte** sau pe **accesoriu**. 
