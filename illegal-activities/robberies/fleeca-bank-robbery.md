@@ -74,10 +74,6 @@ Gardianul din interiorul băncii este înarmat și va riposta pentru protejarea 
 
 După ce ai lichidat paznicul aflat în interior, va trebui să plantezi bomba C4 la ușa seifului pentru a îl deschide.
 
-::: danger Atenție! 
-După plantarea bombei, va trebui să te îndepărtezi de ușă pentru că, în urma exploziei, persoanele apropriate de aceasta pot suferi răni sau chiar pot muri.
-:::
-
 ::: details Explozia ușii
  <Image src="https://i.imgur.com/RUV6jP8.gif" alt="rob5" />  
 :::
