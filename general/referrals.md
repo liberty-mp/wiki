@@ -52,12 +52,12 @@ Poți introduce un referral după ce _termini tutorialul de început_ sau în **
 ::: details Posibile crate-uri  
 | Crate (cutie)   | Ce conține? |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/OFqUT7c.png" alt="CrateMT" width="100" label="Crate Male Top" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Top |
-| <Image src="https://i.imgur.com/MTLwxUA.png" alt="CrateML" width="100" label="Crate Male Legs" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Legs |
-| <Image src="https://i.imgur.com/iw7O1fV.png" alt="CrateMS" width="100" label="Crate Male Shoes" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Shoes |
-| <Image src="https://i.imgur.com/75jMgNa.png" alt="CrateFT" width="100" label="Crate Female Top" />| haine din viața reală,<br> pt. femei<br>folosite în slot-ul Top |
-| <Image src="https://i.imgur.com/883DuGw.png" alt="CrateFL" width="100" label="Crate Female Legs" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Legs |
-| <Image src="https://i.imgur.com/jV12tMI.png" alt="CrateFS" width="100" label="Crate Female Shoes" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Shoes |
+| <Image src="https://i.imgur.com/OFqUT7c.png" alt="CrateMT" width="100" label="Alpha Male Top Crate" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Top |
+| <Image src="https://i.imgur.com/MTLwxUA.png" alt="CrateML" width="100" label="Alpha Male Legs Crate" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Legs |
+| <Image src="https://i.imgur.com/iw7O1fV.png" alt="CrateMS" width="100" label="Alpha Male Shoes Crate" />| haine din viața reală,<br> pt. bărbați<br>folosite în slot-ul Shoes |
+| <Image src="https://i.imgur.com/75jMgNa.png" alt="CrateFT" width="100" label="Alpha Female Top Crate" />| haine din viața reală,<br> pt. femei<br>folosite în slot-ul Top |
+| <Image src="https://i.imgur.com/883DuGw.png" alt="CrateFL" width="100" label="Alpha Female Legs Crate" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Legs |
+| <Image src="https://i.imgur.com/jV12tMI.png" alt="CrateFS" width="100" label="Alpha Female Shoes Crate" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Shoes |
 
 Mai multe informații despre [Slot-uri și inventar](./inventory.md#clothing-items).
 :::
