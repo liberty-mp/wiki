@@ -124,7 +124,7 @@ Dobânda la bancă este **0.03%**. Aceasta se aplică doar până la suma de <Di
 
 ::: tip
 
-Dobânda se calculează astfel: (banii din bancă) x 0.03.
+Dobânda se calculează astfel: (banii din bancă) x 0.0003.
 
 :::
 
