@@ -22,6 +22,16 @@ Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale
 Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
 ::: 
 
+## Modificarea unui vehicul personal
+
+Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elicoptere și bărci).
+
+| Iconiță specifică | Tip | Zone geografice |
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Dealership" width="30" label="Dealership Blip" /> | Mașini | [**Burton**](https://imgur.com/gbLY2Wn.png), [**LS Intl. Airport**](https://imgur.com/8Q1VNhg.png), [**Grand Senora Desert**](https://imgur.com/5Gzm9tm.png) și [**Paleto Bay**](https://imgur.com/d0WFlIO.png)| 
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Dealership" width="30" label="Dealership Blip" /> | Elicoptere | [**LS Intl. Airport**](https://imgur.com/RcQJ0rN.png)|
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Dealership" width="30" label="Dealership Blip" /> | Bărci | [**Elysian Island**](https://imgur.com/bbA7Z2A.png)|
+
 ## Organizarea vehiculelor personale 
 
 Organizarea vehiculelor se realizează prin aplicația de pe [telefonul mobil](../general/phone.md#).      
