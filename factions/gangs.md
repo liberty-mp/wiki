@@ -21,7 +21,7 @@ title: Grupări Mafiote
 
 **Culoare reprezentativă**: <Color hex="#65B9E7">Albastru</Color>
 ::: details HQ Los Aztecas  
-<Image src="https://i.imgur.com/YoHPvjM.png" alt="HQ Varrios Los Aztecas" label="Locație: Fudge Lane" labelAlign="left" />
+<Image src="https://imgur.com/MT4ydyJ.png" alt="HQ Varrios Los Aztecas" label="Locație: Carson Avenue" labelAlign="left" />
 :::
 
 ### <Color hex="#71CB71">Grove Street Families</Color>
@@ -60,7 +60,7 @@ title: Grupări Mafiote
 
 **Culoare reprezentativă**: <Color hex="#EEC64E">Galben</Color>
 ::: details HQ Los Vagos  
-<Image src="https://i.imgur.com/PbN9X9y.png" alt="HQ Los Santos Vagos" label="Locație: Vitus Street" labelAlign="left" />
+<Image src="https://imgur.com/92KJhfz.png" alt="HQ Los Santos Vagos" label="Locație: Dutch London Street" labelAlign="left" />
 :::
 
 ## Vehicule 
