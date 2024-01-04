@@ -159,3 +159,27 @@ Posibilitatea de a completa evenimentul [World Exploration](../../events/world-e
 ### Keep World Exploration progress
 
 Progresul evenimentului [World Exploration](../../events/world-exploration.md) rămâne salvat dacă nu completezi evenimentul în ziua respectivă.
+
+### Deep sea fishing catch time reduced by 5 seconds
+
+Durata de prindere a peștilor din cadrul [Deep Sea Fishing](../../jobs/deep-sea-fishing.md) este scăzută cu **5** secunde.
+
+### 25% more Bounty Hunters NPCs available
+
+Cu **25%**(__două__) mai multe NPC-uri la [Bounty Hunters](../../events/bounty-hunters.md).
+
+### 20% more Bounty Hunters rewards
+
+La completarea [Bounty Hunters](../../events/bounty-hunters.md)  primești cu **20%** mai mulți bani și experiență.
+
+### 120% more battlepass playtime experience
+
+Experiența primită la **Liberty Pass** într-un payday este marită cu **120%**.
+
+###  50% more job drops
+
+Drop-ul in cadrul **Joburilor** este mărit cu **50%**.
+
+###  20% more World Exploration rewards
+
+Premiul din cadrul [World Exploration](../../events/world-exploration.md) este mărit cu **20%**.
