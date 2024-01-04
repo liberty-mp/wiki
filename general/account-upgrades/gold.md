@@ -127,3 +127,12 @@ Dobânda la bancă este **0.02%**. Aceasta se aplică doar până la suma de <Di
 Dobânda se calculează astfel: (banii din bancă) x 0.0002.
 
 :::
+
+### 45% more battlepass playtime experience
+
+Experiența primită la **Liberty Pass** într-un payday este marită cu **45%**.
+
+### 25% more job drops
+
+Drop-ul in cadrul **Joburilor** este mărit cu **25%**.
+
