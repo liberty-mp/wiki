@@ -12,7 +12,7 @@ title: Hotdog Stand Robbery
 
 Ei bine, desfășurarea unui Hotdog Stand Robbery constă în amenințarea NPC-ului vânzător cu o armă, practic este un jaf armat.
 
-Jafurile de acest gen se pot executa la tarabele de hotdog de pe mapa din `ESC`, care sunt afișate cu, culoarea galbenă. Cele afișate cu roșu au fost recent jefuite și există un delay de 3 minute pentru a putea fi din nou jefuite.
+Jafurile de acest gen se pot executa la tarabele de hotdog de pe mapa din `ESC`, care sunt afișate cu, culoarea galbenă. Cele afișate cu roșu au fost recent jefuite și există un delay de 9 minute pentru a putea fi din nou jefuite.
 
 ::: details Robbable hotdog stand 
  <Image src="https://i.imgur.com/lSqgRTr.png" alt="stand1" />  
@@ -31,12 +31,12 @@ Pentru jefuirea standurilor de hotdogi, ai nevoie de o armă și de [Heat Level]
 ::: tip
 Orice armă este disponibilă pentru jefuirea unui stand, inclusiv cele din Gunshop-uri. 
 
-La fiecare jaf executat cu succes, vei primi 20 [Heat Level](../index.md#ce-este-heat-level) iar la fiecare jaf eșuat, vei primi doar 10 [Heat Level](../index.md#ce-este-heat-level).
+La fiecare jaf executat cu succes, vei primi 20 [Heat Level](../index.md#ce-este-heat-level) 
 :::
 
 Odată ce ți-ai procurat o armă și o ai echipată pe un fast slot, trebuie să te afli în fața standului pe care dorești să îl jefuiești și să apeși tasta `R` pentru a începe jaful.
 
-::: details Locul pentru inceperea jafului
+::: details Locul pentru începerea jafului
  <Image src="https://i.imgur.com/My73IJa.png" alt="startjaf" />  
 :::
 
@@ -45,13 +45,13 @@ Odată început jaful, ținta pistolului tău va trebui să fie în permanență
 După un timp, dacă ai menținut ținta constant pe NPC, acesta va începe pregătirea banilor pentru înmânare.
 
 ::: tip
-Pentru a avea un jaf cu succes, încearcă să păstrezi o oarecare distanță față de stand, sa nu fi lipit de el.
+Pentru a avea un jaf cu succes, încearcă să păstrezi o oarecare distanță față de stand, să nu fi lipit de el.
 :::
 
 ::: danger
 Sunt 2 tipuri de fail, şi acelea sunt:
 
-1. Odată mișcată ținta de pe NPC, jaful va fi unul eșuat deoarece acesta va riposta și te va omorâ indiferent dacă încerci să fugi sau nu.
+1. Odată mișcată ținta de pe NPC, jaful va fi unul eșuat deoarece acesta va riposta și te va omorî indiferent dacă încerci să fugi sau nu.
 2. După cum se observă şi în imaginea de tip .gif mai jos la "Rob eşuat", când bara de progres ajunge la 50% ai o şansă random ca NPC-ul să riposteze.
 :::
 
