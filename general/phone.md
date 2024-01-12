@@ -22,7 +22,7 @@ Pentru a deschide **Telefonul**, apasă *click-stânga* pe **Touch to open** (î
 
 ### Câte aplicații are telefonul?
 
-Sistemul include un număr total de **19 aplicații**, după cum urmează: 
+Sistemul include un număr total de **20 aplicații**, după cum urmează: 
 
 <Image src="https://i.imgur.com/kRuOEhj.png" alt="PhoneApps" />
 
@@ -44,6 +44,7 @@ Sistemul include un număr total de **19 aplicații**, după cum urmează:
 - [**Market**](#market): se poate accesa marketul in-game în cazul în care jucătorul beneficiaza de un cont de tip Platinum.
 - [**Uber**](#uber): se poate accesa interfața noului job 'Uber' prin care se pot accepta comenzi dupa achiziționarea unei licențe.
 - [**Rent A Car**](#rent-a-car): se acceseaza interfața noului sistem de 'Car Rent' prin care jucătorii își pot pune propriile mașini spre închiriere.
+- [**Threads**](threads): se acceseaza interfața noului sistem de 'Threads' prin care jucătorii pot vizualiza platforma de social media a serverului.
 
 ::: tip
 Pentru a închide o aplicație, respectiv a reveni pe ecranul principal fără a fi necesar să închizi **Telefonul**, apasă *click-stânga* pe bara de culoare albă/gri (în funcție de aplicație) aflată în partea de jos. 
@@ -358,3 +359,77 @@ Achiziționarea unui cont de tip <PremiumSubscription type='platinum' /> scade p
 **Procesul de a da o mașină spre închiriere** 
 
 <Image src="https://i.imgur.com/ejqA6fh.gif" alt="CarRent5" />
+
+### Threads
+
+**Threads** reprezintă aplicația de social media prezentă pe server, prin intermediul căreia jucatorii pot comunica între ei(prin mesaje scrise, mesaje vocale și poze).
+
+## **Prezentarea aplicației**
+
+- **Crearea unui cont** - din acest meniu jucătorii își pot introduce numele din aplicație.
+
+<Image src="https://imgur.com/TGZNmou.png" alt="AccCreate" />
+
+**Prezentarea secțiunii**
+
+<Image src="https://imgur.com/FYiTXOV.png" alt="MenuTutorial" />
+
+- **Meniul 1** - din acest meniu jucătorii pot accesa meniul cu cele mai apreciate **Threads-uri**.
+  
+- **Meniul 2** - din acest meniu jucătorii pot accesa meniul cu **Threads-urile** jucătorilor urmariți.
+
+- **Meniul 3** - din acest meniu jucătorii pot accesa meniul cu **Threads-urile** postate recent.
+  
+- **Meniul 4** - din acest meniu jucătorii pot da refresh paginii curente.
+
+- **Meniul 5** - din acest meniu jucătorii pot accesa meniul **Search Player**.
+
+- **Meniul 6** - din acest meniu jucătorii pot accesa meniul **New Thread**.
+
+- **Meniul 7** - din acest meniu jucătorii pot accesa meniul **Activity**.
+
+- **Meniul 8** - din acest meniu jucătorii pot accesa meniul **Your Profile**.
+
+## **Prezentarea detaliată a secțiunii**
+
+- **Search Player** - permite căutarea jucătorilor din aplicatia **Threads**.
+
+<Image src="https://imgur.com/8Tao2Oc.png" alt="Search" />
+
+## **New Thread** 
+
+Permite crearea unui nou **Thread** în care puteți introduce:
+
+<Image src="https://imgur.com/0igqnio.png" alt="NewThread" />
+
+- **Meniul 1** - poți introduce un text
+
+- **Meniul 2** - poți intorduce o poza din aplicația [**Photos**](#photos)
+
+- **Meniul 3** - poți introduce un mesaj vocal
+
+## **Activity** 
+
+Permite accesarea meniului **Activity** în care puteți vizualiza:
+
+<Image src="https://imgur.com/M9CXnRB.png" alt="Activity" />
+
+- **Meniul 1** - poți vizualiza toate activitațile
+
+- **Meniul 2** - poți vizualiza doar **Follow-urile** primite
+
+- **Meniul 3** - poți vizualiza **Threads-urile** la care ai primit un răspuns
+
+## **My Profile**
+
+Permite accesarea meniului **My Profile** în care puteți vizualiza si modifica:
+
+<Image src="https://imgur.com/KDoPcNA.png" alt="MyProfile" />
+
+- **Meniul 1** - poți vizualiza toate persoanele care iți urmăresc profilul de **Threads**
+
+- **Meniul 2** - poți modifica profilul tău
+
+- **Meniul 3** - poți vizualiza **Threads-urile** postate de tine
+
+- **Meniul 4** - poți vizualiza **Threads-urile** la care ai răspuns

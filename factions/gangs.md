@@ -21,7 +21,7 @@ title: Grupări Mafiote
 
 **Culoare reprezentativă**: <Color hex="#65B9E7">Albastru</Color>
 ::: details HQ Los Aztecas  
-<Image src="https://i.imgur.com/YoHPvjM.png" alt="HQ Varrios Los Aztecas" label="Locație: Fudge Lane" labelAlign="left" />
+<Image src="https://imgur.com/MT4ydyJ.png" alt="HQ Varrios Los Aztecas" label="Locație: Carson Avenue" labelAlign="left" />
 :::
 
 ### <Color hex="#71CB71">Grove Street Families</Color>
@@ -60,7 +60,7 @@ title: Grupări Mafiote
 
 **Culoare reprezentativă**: <Color hex="#EEC64E">Galben</Color>
 ::: details HQ Los Vagos  
-<Image src="https://i.imgur.com/PbN9X9y.png" alt="HQ Los Santos Vagos" label="Locație: Vitus Street" labelAlign="left" />
+<Image src="https://imgur.com/92KJhfz.png" alt="HQ Los Santos Vagos" label="Locație: Dutch London Street" labelAlign="left" />
 :::
 
 ## Vehicule 
@@ -84,24 +84,23 @@ Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apă
 
 **Teritoriul** sau turf-ul reprezintă un spațiu bine delimitat pe harta statului **San Andreas** cu o culoare specifică care deservește ca zonă de desfășurare a activităților specifice grupărilor mafiote.
 
-În momentul de față, există un număr total de **10 teritorii**, incluse în mai multe categorii, după cum urmează: 
+În momentul de față, există un număr total de **28 teritorii**, incluse în mai multe categorii, după cum urmează: 
 
 ### Teritorii de tip port
 
 | Iconiță specifică | Număr teritorii | Zone geografice | 
 | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/uAC9Dqk.png" alt="Port" width="30" label="Iconiță turf port" /> | 4 teritorii |  [**Elysian Island**](https://i.imgur.com/wL8s2vU.png), [**Terminal**](https://i.imgur.com/ElkPiyb.png) | 
+| <Image src="https://i.imgur.com/uAC9Dqk.png" alt="Port" width="30" label="Iconiță turf port" /> | 4 teritorii |  [**Elysian Island**](https://imgur.com/2hqnNyE.png), [**Terminal**](https://imgur.com/WA7bOhR.png) | 
 
 Teritoriile din categoria **Port** permit aprovizionarea cu arme, muniție și diverse substanțe interzise.<br>
-Aprovizionarea are loc zilnic la ora **22:45 PM** după terminarea războaielor (war-uri).<br>
-Toți jucătorii aparținători gang-ului deținător al unui turf de tip port vor primi câte un item.<br>
-**Jucătorii au timp 24 de ore pentru a extrage itemele. În caz contrar acestea vor fi șterse**.
+Aprovizionarea are loc lunea, miercurea și vinerea între orele **23:15 - 23:25 PM** după terminarea războaielor (war-uri).<br>
+**Jucătorii au timp pâna la următorul razboi (war) pentru a extrage itemele. În caz contrar acestea vor fi șterse**.
 
 ### Warehouse
 
 | Iconiță specifică | Număr teritorii | Zone geografice | 
 | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/2SYFtvq.png" alt="Warehouse" width="30" label="Iconiță turf warehouse" /> | 4 teritorii | [**Rancho**](https://i.imgur.com/oIkcM8h.png), [**La Puerta**](https://i.imgur.com/pWcc1NX.png), [**Vesspuci**](https://i.imgur.com/oNQBJNv.png), [**Pacific  Bluffs**](https://i.imgur.com/FUkiDbY.png) | 
+| <Image src="https://i.imgur.com/2SYFtvq.png" alt="Warehouse" width="30" label="Iconiță turf warehouse" /> | 4 teritorii | [**Rancho**](https://imgur.com/KMs7xQT.png), [**Davis**](https://imgur.com/OrCSf8N.png) și [**Chamberlain Hills**](https://imgur.com/Uz5k1QS.png)| 
 
 Teritoriile din categoria **Warehouse** pot fi folosite de către grupările mafiote în vederea producerii de arme, atașamente pentru arme si muniție.
 
@@ -109,7 +108,7 @@ Teritoriile din categoria **Warehouse** pot fi folosite de către grupările maf
 
 | Iconiță specifică | Număr teritorii | Zone geografice | 
 | :-----------: | :-----------: | :-----------: |
-|  <Image src="https://i.imgur.com/F5xSqxB.png" alt="Drug Plantation" width="30" label="Iconiță turf drugs" /> | 2 teritorii | [**Grapeseed**](https://i.imgur.com/19CAB56.png), [**Paleto Bay**](https://i.imgur.com/J0xdlfF.png) | 
+|  <Image src="https://i.imgur.com/F5xSqxB.png" alt="Drug Plantation" width="30" label="Iconiță turf drugs" /> | 2 teritorii | [**Grapeseed**](https://imgur.com/M3jF9MO.png), [**Paleto Bay**](https://imgur.com/isCwnY5.png) | 
 
 Teritoriile din categoria **Drug Plantation** pot fi folosite de către grupările mafiote în vederea producerii drogurilor de tip **Marijuana** prin plantarea si prelucrarea semințelor de **cannabis**.
 
@@ -129,7 +128,7 @@ Grupările mafiote care dețin mai multe teritorii beneficiază de posibilităț
 
 ## Începutul war-ului 
 
-**War-urile** pot fi începute doar de către **Lider** (rank 5) sau **Co-lider** (rank 4) prin folosirea comenzii `/attack` în spațiul delimitat al unui teritoriu deținut de către o grupare inamică (war turf).<br>
+**War-urile** pot fi programate doar de către **Lider** (rank 5) sau **Co-lider** (rank 4) pe **UCP** la secțiunea [**Wars**](https://ucp.liberty.mp/wars/list) în spațiul delimitat al unui teritoriu deținut de către o grupare inamică (war turf).<br>
 Războaiele se desfășoară conform următorului program:
 
 | Zile | Ore | 
