@@ -32,17 +32,11 @@ Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elico
 | <Image src="https://i.imgur.com/LZnNZMM.png" alt="Aircraft Mod Shop" width="30" label="Mod Shop Blip" /> | Elicoptere | [**LS Intl. Airport**](https://imgur.com/RcQJ0rN.png)|
 | <Image src="https://i.imgur.com/LZnNZMM.png" alt="Boats Mod Shop" width="30" label="Mod Shop Blip" /> | Bărci | [**Elysian Island**](https://imgur.com/bbA7Z2A.png)|
 
-## Organizarea vehiculelor personale 
-
-Organizarea vehiculelor se realizează prin aplicația de pe [telefonul mobil](../general/phone.md#).      
-
-<Image src="https://i.imgur.com/luVZn5r.png" alt="VehApp"/> 
-
 ::: tip 
 Aplicația **Vehicles** din telefonul mobil se poate accesa și prin comenzile: `/vehicles` sau `/cars` în chat.
 :::    
 
-### Lista vehiculelor personale 
+## Lista vehiculelor personale 
 
 Accesând aplicația sau tastând una din comenzile specifice, ai acces la lista de vehicule deținute.   
 
@@ -52,7 +46,7 @@ Accesând aplicația sau tastând una din comenzile specifice, ai acces la lista
 Vehiculele spawnate vor apărea în listă cu bulină verde, iar cele despawnate cu bulină roșie. 
 :::  
 
-### Utilizarea aplicației Vehicles
+## Utilizarea aplicației Vehicles
 
 Panoul de comandă este folosit pentru vizualizarea stării tehnice a mașinii și mai multe funcții care pot fi utilizate pentru gestionarea vehiculelor personale, după cum urmează: 
 
@@ -68,7 +62,7 @@ Panoul de comandă este folosit pentru vizualizarea stării tehnice a mașinii �
 Dacă vindeți vehiculul către un Dealership, nu veți primi bani!  
 ::: 
 
-### Informațiile suplimentare ale vehiculului personal
+## Informațiile suplimentare ale vehiculului personal
 
 Pentru a vizualiza informații suplimentare cu privire la vehiculul deținut, apasă pe butonul mov **View info** din partea de jos a panoului de comandă. 
 
