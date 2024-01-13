@@ -16,7 +16,7 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**
 | <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| level 10* | 20** | [**Gangs**](./gangs.md)
 | <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| level 10* | 20** | [**Gangs**](./gangs.md)
 
-::: danger  
+::: danger Atenție!
 **Dacă părăsești facțiunea din orice motiv și ai sub 14 zile în aceasta, nu vei putea aplica la facțiuni timp de 14 zile de la data la care ai ieșit.**
 :::
 

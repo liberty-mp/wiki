@@ -48,7 +48,7 @@ După un timp, dacă ai menținut ținta constant pe NPC, acesta va începe preg
 Pentru a avea un jaf cu succes, încearcă să păstrezi o oarecare distanță față de stand, să nu fi lipit de el.
 :::
 
-::: danger
+::: danger Atenție!
 Sunt 2 tipuri de fail, şi acelea sunt:
 
 1. Odată mișcată ținta de pe NPC, jaful va fi unul eșuat deoarece acesta va riposta și te va omorî indiferent dacă încerci să fugi sau nu.
