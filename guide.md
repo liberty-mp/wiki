@@ -22,6 +22,7 @@ Scurt dicționar:
 | **UCP (User Control Panel)**      | Panel-ul folosit de server pentru afișarea diferitelor informații precum profilul caracterului din joc, detalii despre facțiuni și multe altele       |
 | **Wiki (Wikipedia)**   | În momentul actual ești pe o pagină de Wiki, aici sunt explicate diferite sisteme de joc de pe server.        |
 | **Dolari / $ / Bani**| Principala monedă/valută folosită la majoritatea sistemelor de pe server, exemplu: <Dinero :amount='10000' />.|
+| **Dolari / $ / Bani (Marcați)**| Valuta secundară câștigată din activități ilegale pe server, exemplu: <MarkedMoney :amount='10000' />.|
 | **Gold / PP / Premium Points**| Moneda/valuta cumpărata cu bani reali, folosită în [Shop](https://ucp.liberty.mp/shop), exemplu: <Gold :amount='5000' />.|
 
 Cel mai important aspect pe care trebuie să-l cunoști când vine vorba de server, este acela că modul de joc aplicat face parte din categoria **Role Playing Game** (RPG). Diferența dintre acest tip de joc aplicat și **Roleplay** (RP) este explicată la întrebarea **[Ce mod de joc se aplică pe server?](./faq#ce-mod-de-joc-se-aplica-pe-server)**, din secțiunea **[Întrebări frecvente](./faq)**.
@@ -38,7 +39,7 @@ Nu uita să introduci codul de referral (recomandare/afiliere) la sfârșitul tu
 
 Recomandarea noastră este să frecventați **joburile** despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, vehiculul **Panto**, primit cadou temporar pentru **50 payday-uri**, o să vă ajute extrem de mult în privința deplasării, dar și la unele joburi, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru funcția de GPS, organizarea banilor - banking (Bank) și multe alte sisteme printre care și administrarea vehiculelor personale, prin intermediul telefonului navigați pe server.
 
-Recomandarea noastră este să frecventați **joburile** oferite de server, despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește suma de bani din cont. Aceasta este una dintre multiplele surse de venit. De asemenea, vehiculul **Panto**, primit ca si cadou temporar (pentru **30 de payday-uri**),  o să vă ajute mult cu deplasarea, dar și la anumite joburi (de exemplu: **Electrician**). Este bine de știu că va fi nevoie să folosiți telefonul destul de des, atât pentru funcția de GPS sau banking (aplicația **Bank**), cât și pentru multe alte sisteme.
+Recomandarea noastră este să frecventați **joburile** oferite de server, despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește suma de bani din cont. Aceasta este una dintre multiplele surse de venit. De asemenea, vehiculul **Panto**, primit ca si cadou temporar (pentru **50 de payday-uri**),  o să vă ajute mult cu deplasarea, dar și la anumite joburi (de exemplu: **Electrician**). Este bine de știu că va fi nevoie să folosiți telefonul destul de des, atât pentru funcția de GPS sau banking (aplicația **Bank**), cât și pentru multe alte sisteme.
 
 ::: tip
 Este recomandat să ai mereu la tine mâncare și apă. Le poți cumpăra dintr-un magazin de tip Market 24/7. Dacă nu te hrănești sau hidratezi, nu o să mai poți alerga sau sări, fapt ce-ți va împiedica activitățile pe care dorești să le desfășori.
