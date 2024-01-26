@@ -104,7 +104,7 @@ Secțiunea **Jobs Statistics**:
 
 În partea stângă este afișat numele fiecărui job, împreună cu suma de bani totală obținută în cadrul jobului, iar în partea stângă este afișată [denumirea skill-ului](../jobs/index.md#cum-avansez-în-skill) în cadrul jobului respectiv și suma de bani rămasă de câștigat necesară pentru a avansa la următorul. 
 
-<Image src="https://i.imgur.com/iajceDo.png" alt="Jobs" />
+<Image src="https://i.imgur.com/7EdTV6A.png" alt="Jobs" />
 
 
 
@@ -213,12 +213,14 @@ Mai multe informatii despre **Achievements** (realizări). [**AICI**](../general
 Secțiunea **Account**:  
 - **Password** - rubrica din care se poate schimba parola contului; 
 
-Secțiunea **Hud & Chat**:  
+Secțiunea **Visuals**:  
 - **Language** - se poate selecta limba în care să ruleze sistemele serverului: *Română* sau *Engleză*;  
 - **Display HUD** - se poate oprii hudul intern al serverului pentru o imagine mai curată. (nu oprește minimap-ul din joc);
 - **Display Hotkeys** - se poate selecta dacă să apară butoanele cu scurtături în partea dreaptă a ecranului sau nu; 
 - **Display FPS** - se poate selecta dacă doriți să aveți FPS-urile afișate pe ecran sau nu;
 - **Display Own Nametag** - se poate selecta dacă doriți să aveți nametag-ul propriu deasupra capului;
+- **Show Gang Turfs** - se poate selecta dacă doriți să aveți afișată turf-urile gangurilor;
+- **Snow Enabled** - se poate selecta dacă doriți să aveți străzile zăpezite;
 - **Speedometer Overspeed Color Change** - se poate selecta daca doriți ca viteza de pe 'Speedometer' să iși schimbe culoarea in 'Roșu' atunci când depașiți limita de viteză legală;
 - **Profanity Filter** - se poate selecta daca doriți ca unele cuvinte vulgare să fie cenzurate pe chat sau nu;
 - **Show Advertisements** - se poate selecta dacă să apară anunțurile jucătorilor pe chat sau nu;
