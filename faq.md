@@ -75,13 +75,13 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**
 
 | Facțiune   | Cerințe minime |  Slot-uri (locuri) | Wiki |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | level 7* | 40** | [**Downtown Taxi Company**](./factions/taxi.md)
-| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | 7*| 40** | [**Los Santos Police Department**](./factions/lspd.md)
-| <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> | 7* | 40** | [**Hitman Agency**](./factions/hitman.md)
-| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| 7* | 30** | [**Gangs**](./factions/gangs.md)
-| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| 7* | 30** | [**Gangs**](./factions/gangs.md)
-| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| 7* | 30** | [**Gangs**](./factions/gangs.md)
-| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| 7* | 30** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | 25 ore jucate* | 50** | [**Downtown Taxi Company**](./factions/taxi.md)
+| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | 25*| 55** | [**Los Santos Police Department**](./factions/lspd.md)
+| <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> | 25* | 55** | [**Hitman Agency**](./factions/hitman.md)
+| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| 25* | 25** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| 25* | 25** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| 25* | 25** | [**Gangs**](./factions/gangs.md)
+| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| 25* | 25** | [**Gangs**](./factions/gangs.md)
 
 
 Dacă dorești să faci parte dintr-o facțiune enumerată mai sus, asigură-te că îndeplinești cerințele minime pentru facțiunea dorită și aplică dând click pe butonul **Opened**, din secțiunea [**Factions**](https://ucp.liberty.mp/factions).
@@ -98,6 +98,10 @@ Crearea unei aplicații constă în răspunderea unor întrebări atât de natur
 <Image src="https://i.imgur.com/w6JQmSb.gif" alt="Aplicare" />
 
 Dacă aplicația ta a fost acceptată de către un lider sau co-lider, va trebui să susții un test, cel care a susținut testul cu tine fiind nevoit să atașeze în aplicația ta o dovadă cu faptul că ai susținut acel test, indiferent de rezultatul obținut. Mai multe informații legate de facțiuni aveți [**aici**](./factions/)!
+
+::: warning Atenție!
+După ce ai depus o cerere într-o factiune, aceasta nu mai poate fi modificată. Dacă alegi să anulezi cererea, trebuie să știi că vei avea un timp de așteptare de **6 ore**.
+::: 
 
 ## Cum instalez moduri și unde le găsesc?
 
