@@ -53,7 +53,7 @@ Tunning-ul nu este încă implementat pentru vehiculele clanului!
 <Image src="https://i.imgur.com/4OG1oLC.png" alt="Clan Vehicles Enter" />
 :::
 
-to be updated
+Dacă conducerea clanului decide să achiziționeze vehicule pentru clan, acestea pot fi utilizate de membrii clanului, cu condiția să aibă un rang minim stabilit de lider. Jucătorii care nu fac parte din clan nu au dreptul să le utilizeze.
 
 ## Perks
 
