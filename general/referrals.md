@@ -58,6 +58,8 @@ Poți introduce un referral după ce _termini tutorialul de început_ sau în **
 | <Image src="https://i.imgur.com/75jMgNa.png" alt="CrateFT" width="100" label="Alpha Female Top Crate" />| haine din viața reală,<br> pt. femei<br>folosite în slot-ul Top |
 | <Image src="https://i.imgur.com/883DuGw.png" alt="CrateFL" width="100" label="Alpha Female Legs Crate" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Legs |
 | <Image src="https://i.imgur.com/jV12tMI.png" alt="CrateFS" width="100" label="Alpha Female Shoes Crate" />| haine din viața reală,<br>pt. femei<br>folosite în slot-ul Shoes |
+| <Image src="https://i.imgur.com/1Xv2WIv.png" alt="CrateBM" width="100" label="Gamma Male Crate" />| haine din viața reală,<br>pt. bărbați<br>conține top, legs & shoes |
+| <Image src="https://i.imgur.com/8k4oLpb.png" alt="CrateBF" width="100" label="Gamma Female Crate" />| haine din viața reală,<br>pt. femei<br>conține top, legs & shoes |
 
 Mai multe informații despre [Slot-uri și inventar](./inventory.md#clothing-items).
 :::
