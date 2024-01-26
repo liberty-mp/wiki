@@ -8,6 +8,7 @@ title: ATM Robbery
 | Necesită permis de conducere? | Nu. |
 | Necesită iteme specifice? | <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" />
 | Necesită un minim de level? | Da, ai nevoie de minim level 3. |
+| Necesită un anumit skill? | Da, ai nevoie de skill [Snitch](../index.md#care-sunt-skill-urile-la-robbing-street-reputation) |
 
 
 ## Desfășurarea unui **ATM Robbery**
@@ -28,7 +29,7 @@ Pentru a putea jefui cu succes un ATM aveți nevoie de 'Hooked Rope', acesta se 
 
 În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător cât timp transportai consola ATM-ului, câștigul de bază va fi intre <MarkedMoney :amount="4300" /> și <MarkedMoney :amount="6000" /> **+ procentul aferent skill-ului avut la Robbing (Street Rep)** la care se adaugă și un procent de _**10%**_ pentru jucătorii ce dețin <PremiumSubscription type="gold" /> și _**20%**_ pentru jucătorii ce dețin <PremiumSubscription type="platinum" />.
 
-Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul de bază va fi între <MarkedMoney :amount="1850" /> și <Dinero :amount='2250'/> la care se adaugă bonusurile de mai sus.
+Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul de bază va fi între <MarkedMoney :amount="1850" /> și <MarkedMoney :amount='2250'/> la care se adaugă bonusurile de mai sus.
 
 La livrarea consolei ATM la NPC-ul Alfred pentru extragerea banilor, primești între (inclusiv) _**5 și 7**_ *# Street Rep Points*.
 La livrarea consolei ATM furată de la un alt jucător, primești între (inclusiv) _**2 și 4**_ *# Street Rep Points*.

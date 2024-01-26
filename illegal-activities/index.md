@@ -49,12 +49,14 @@ Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce 
 ### ATM Robbery 💸
 
 În cadrul acestei activități ilegale, jucătorii pot să planifice și să execute jafuri la bancomatele virtuale pentru a obține bani rapid. Cu toate acestea, trebuie să fie extrem de vigilenți, deoarece forțele de ordine monitorizează cu atenție astfel de activități și există riscul de a fi prinși.
+*Ai nevoie de 100 puncte de **Street Reputations Points** pentru a jefui un ATM.*
 
 > Vezi detalierea [ATM Robbery](./robberies/atm-robbery.md).
 
 ### Fleeca Bank Robbery 🏦
 
 În cadrul acestei acțiuni ilegale, jucătorii au oportunitatea să organizeze jafuri la băncile Fleeca. Este o activitate extrem de riscantă, care necesită planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal. Cu toate acestea, trebuie să fie conștienți că consecințele unui eșec pot fi serioase și pot implica urmărirea penală.
+*Ai nevoie de 250 puncte de **Street Reputations Points** pentru a jefui o bancă.*
 
 > Vezi detalierea [Fleeca Bank Robbery](./robberies/fleeca-bank-robbery.md).
 
