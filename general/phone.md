@@ -4,7 +4,7 @@ title: Telefon
 
 ### Informații generale despre telefon
 
-**Telefonul** reprezintă, fără îndoială, cel mai folosit sistem de către jucători, prin care se realizează interacțiune cu alte sisteme ale serverului [**liberty.mp**](https://ucp.liberty.mp/) în momentul actual. Acest sistem beneficiază de o interfață modernă, bine structurată, realizată identic după modelul telefonului **iPhone 14 Pro Max**. Utilizarea **Telefonului** se poate realiza doar prin folosirea *mouse-ului* sau a *touchpad-ului*.
+**Telefonul** reprezintă, fără îndoială, cel mai folosit sistem de către jucători, prin care se realizează interacțiunea cu alte sisteme ale serverului [**liberty.mp**](https://ucp.liberty.mp/) în momentul actual. Acest sistem beneficiază de o interfață modernă, bine structurată, realizată identic după modelul telefonului **iPhone 14 Pro Max**. Utilizarea **Telefonului** se poate realiza doar prin folosirea *mouse-ului* sau a *touchpad-ului*.
 
 ## Întrebări frecvente
 
@@ -29,7 +29,7 @@ Sistemul include un număr total de **20 aplicații**, după cum urmează:
 - [**Phone** & **Contacts**](#phone-contacts): se pot apela numerele de telefon ale altor jucători, se pot vizualiza apelurile recente și pot adăuga jucători în lista de contacte
 - [**Camera**](#camera): se pot realiza fotografii centrale sau frontale
 - [**Messages**](#messages): se pot vizualiza și trimite mesaje text, fotografii și inclusiv locația curentă către alți jucători
-- [**Safari**](#safari): se poate accesa aceasta pagina de wiki direct din joc
+- [**Safari**](#safari): se poate accesa această pagină de wiki direct din joc
 - [**Emails**](#emails): se pot vizualiza e-mailurile primite
 - [**Bank**](#bank): se pot vizualiza banii din bancă, realiza transferuri între jucători sau se pot achiziționa cryptomonede sau acțiuni în cadrul unor companii
 - [**Vehicles**](#vehicles): se pot vizualiza vehiculele personale ale jucătorului și meniul de comandă al acestora
@@ -41,10 +41,10 @@ Sistemul include un număr total de **20 aplicații**, după cum urmează:
 - [**Settings**](#settings): se pot accesa setările de funcționabilitate și aspect ale telefonului
 - [**YouTube**](#youtube): se poate asculta muzică de pe **YouTube** direct în interfață
 - [**Phonebook**](#phonebook): se pot identifica numerele de telefon ale jucătorilor după numele acestora
-- [**Market**](#market): se poate accesa marketul in-game în cazul în care jucătorul beneficiaza de un cont de tip Platinum.
-- [**Uber**](#uber): se poate accesa interfața noului job 'Uber' prin care se pot accepta comenzi dupa achiziționarea unei licențe.
-- [**Rent A Car**](#rent-a-car): se acceseaza interfața noului sistem de 'Car Rent' prin care jucătorii își pot pune propriile mașini spre închiriere.
-- [**Threads**](threads): se acceseaza interfața noului sistem de 'Threads' prin care jucătorii pot vizualiza platforma de social media a serverului.
+- [**Market**](#market): se poate accesa marketul in-game în cazul în care jucătorul beneficiază de un cont de tip Platinum.
+- [**Uber**](#uber): se poate accesa interfața noului job 'Uber' prin care se pot accepta comenzi după achiziționarea unei licențe.
+- [**Rent A Car**](#rent-a-car): se accesează interfața noului sistem de 'Car Rent' prin care jucătorii își pot pune propriile mașini spre închiriere.
+- [**Threads**](threads): se accesează interfața noului sistem de 'Threads' prin care jucătorii pot vizualiza platforma de social media a serverului.
 
 ::: tip
 Pentru a închide o aplicație, respectiv a reveni pe ecranul principal fără a fi necesar să închizi **Telefonul**, apasă *click-stânga* pe bara de culoare albă/gri (în funcție de aplicație) aflată în partea de jos. 
@@ -192,7 +192,7 @@ Banii transferați nu vor fi recepționați dacă jucătorului căruia dorești 
 
 ### Vehicles 
 
-**Vehicles** reprezintă un sistem care funcționează ca un meniu de comandă și prin care jucătorii își pot gestiona vehiculele persoanele. 
+**Vehicles** reprezintă un sistem care funcționează ca un meniu de comandă și prin care jucătorii își pot gestiona vehiculele personale. 
 
 **Prezentarea aplicației:** 
 
@@ -267,7 +267,7 @@ Pentru a vizualiza (inclusiv ora și data când a fost realizată), șterge sau 
 <Image src="https://i.imgur.com/uCHubHe.png" alt="Settings" /> 
 
 - **Airplane Mode** - permite oprirea anumitor proprietăți ale telefonului;
-- **Ignore calls** - permite blocare apelurilor din partea altor jucători;
+- **Ignore calls** - permite blocarea apelurilor din partea altor jucători;
 - **Ignore unkown sender** - permite blocarea mesajelor din partea altor jucători necunoscuți de aplicația **Contacts** (cei care nu se află pe lista de contacte);
 
 
@@ -295,7 +295,7 @@ Pentru a rula melodia selectată în fundal (fără a mai apărea interfața mob
 
 ### Phonebook 
 
-**Phonebook** reprezintă sistemul pe care un jucător îl poate utiliza pentru căuta numerele de telefon ale jucătorilor, după numele acestora. 
+**Phonebook** reprezintă sistemul pe care un jucător îl poate utiliza pentru a căuta numerele de telefon ale jucătorilor, după numele acestora. 
 
 **Prezentarea aplicației:**
   
@@ -322,7 +322,7 @@ Dacă dorești să apelezi jucătorul, apasă *click-stânga* pe iconița în fo
 
 ### Uber
 
-**Uber** Reprezintă sistemul noului job pe server, prin intermediul acestei aplicații jucatorii își pot achiziționa o licență cu care vor putea practica jobul 'Uber'
+**Uber** Reprezintă sistemul noului job pe server, prin intermediul acestei aplicații jucătorii își pot achiziționa o licență cu care vor putea practica jobul 'Uber'
 
 **Prezentarea aplicației**
 
@@ -330,7 +330,7 @@ Dacă dorești să apelezi jucătorul, apasă *click-stânga* pe iconița în fo
 
 <Image src="https://i.imgur.com/hNPwoer.gif" alt="Achiziția licenței" /> 
 
-- **Interfața alegerii clientului** - din acest meniu jucătorii vor putea accepta o comandă plasată de catre un NPC de pe server.
+- **Interfața alegerii clientului** - din acest meniu jucătorii vor putea accepta o comandă plasată de către un NPC de pe server.
 
 <Image src="https://i.imgur.com/hnKNpbt.png" alt="ClientUber" />
 
@@ -344,15 +344,15 @@ Achiziționarea unui cont de tip <PremiumSubscription type='platinum' /> scade p
 
 **Prezentarea aplicației**
 
-**Meniul Principal** în acest meniu jucătorul are două opțiuni, una de a închiria o mașina de pe server și una de a-și închiria propria mașina unui alt jucător de pe server.
+**Meniul Principal** în acest meniu jucătorul are două opțiuni, una de a închiria o mașină de pe server și una de a-și închiria propria mașină unui alt jucător de pe server.
 
 <Image src="https://i.imgur.com/THosDE9.png" alt="CarRent" />
 
-**Meniurile de rent**  În stânga se află meniul în care jucătorul poate închiria o mașina de la un alt jucător, iar în dreapta meniul în care jucătorul își poate da propria mașină spre închiriere
+**Meniurile de rent**  În stânga se află meniul în care jucătorul poate închiria o mașină de la un alt jucător, iar în dreapta meniul în care jucătorul își poate da propria mașină spre închiriere
 
 <Image src="https://i.imgur.com/sIIyf1c.png" alt="CarRent2" /> <Image src="https://i.imgur.com/NoWO4pA.png" alt="CarRent3" />
 
-**Procesul de a închiria o masina**
+**Procesul de a închiria o mașină**
 
 <Image src="https://i.imgur.com/vWv8uN0.gif" alt="CarRent4" />
 
@@ -362,7 +362,7 @@ Achiziționarea unui cont de tip <PremiumSubscription type='platinum' /> scade p
 
 ### Threads
 
-**Threads** reprezintă aplicația de social media prezentă pe server, prin intermediul căreia jucatorii pot comunica între ei(prin mesaje scrise, mesaje vocale și poze).
+**Threads** reprezintă aplicația de social media prezentă pe server, prin intermediul căreia jucătorii pot comunica între ei(prin mesaje scrise, mesaje vocale și poze).
 
 ## **Prezentarea aplicației**
 
@@ -392,7 +392,7 @@ Achiziționarea unui cont de tip <PremiumSubscription type='platinum' /> scade p
 
 ## **Prezentarea detaliată a secțiunii**
 
-- **Search Player** - permite căutarea jucătorilor din aplicatia **Threads**.
+- **Search Player** - permite căutarea jucătorilor din aplicația **Threads**.
 
 <Image src="https://imgur.com/8Tao2Oc.png" alt="Search" />
 
@@ -404,7 +404,7 @@ Permite crearea unui nou **Thread** în care puteți introduce:
 
 - **Meniul 1** - poți introduce un text
 
-- **Meniul 2** - poți intorduce o poza din aplicația [**Photos**](#photos)
+- **Meniul 2** - poți intorduce o poză din aplicația [**Photos**](#photos)
 
 - **Meniul 3** - poți introduce un mesaj vocal
 
@@ -414,7 +414,7 @@ Permite accesarea meniului **Activity** în care puteți vizualiza:
 
 <Image src="https://imgur.com/M9CXnRB.png" alt="Activity" />
 
-- **Meniul 1** - poți vizualiza toate activitațile
+- **Meniul 1** - poți vizualiza toate activitățile
 
 - **Meniul 2** - poți vizualiza doar **Follow-urile** primite
 
@@ -422,11 +422,11 @@ Permite accesarea meniului **Activity** în care puteți vizualiza:
 
 ## **My Profile**
 
-Permite accesarea meniului **My Profile** în care puteți vizualiza si modifica:
+Permite accesarea meniului **My Profile** în care puteți vizualiza și modifica:
 
 <Image src="https://imgur.com/KDoPcNA.png" alt="MyProfile" />
 
-- **Meniul 1** - poți vizualiza toate persoanele care iți urmăresc profilul de **Threads**
+- **Meniul 1** - poți vizualiza toate persoanele care îți urmăresc profilul de **Threads**
 
 - **Meniul 2** - poți modifica profilul tău
 

@@ -26,7 +26,7 @@ Interacționarea cu marketplace-ul se face prin apăsarea tastei `G` pentru desc
 
 ### Items List
 
-În această categorie sunt afișate bunurile listate de către jucatori, puteți vedea informații precum:
+În această categorie sunt afișate bunurile listate de către jucători, puteți vedea informații precum:
   - Numele bunului
   - Prețul bunului 
   - Timpul de listare al bunului
