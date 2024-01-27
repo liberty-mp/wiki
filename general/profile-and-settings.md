@@ -21,7 +21,7 @@ Bara ce înconjoară poza de profil din meniul care se deschide pe tasta `O` rep
 
 ### Ghid interfață
 
-Interfața se împarte în **7 categorii**, fiecare categorie se poate accesa din **bara de navigare**, cu un simplu `CLICK STANGA`:
+Interfața se împarte în **7 categorii**, fiecare categorie se poate accesa din **bara de navigare**, cu un simplu `CLICK STÂNGA`:
 <Image src="https://i.imgur.com/91lgPlw.png" alt="NavBar" />
 
 - [**General**](#general): se pot vizualiza statisticile principale ale jucătorului
@@ -29,7 +29,7 @@ Interfața se împarte în **7 categorii**, fiecare categorie se poate accesa di
 - [**Quests** & **Events**](#quests-events): se pot vizualiza misiunile zilnice împreună cu statisticile acestora, dar și evenimentele active
 - [**Referrals**](#referrals): se pot vizualiza informațiile despre programul de Referral și se pot colecta bonusurile câștigate
 - [**Achievements**](#achievements): se pot vizualiza realizările obținute și progresul până la deblocarea următoarelor
-- [**Blocked Players**](#blocked-players): se pot vizualiza jucatorii blocați de dvs.
+- [**Blocked Players**](#blocked-players): se pot vizualiza jucătorii blocați de dvs.
 - [**Settings**](#settings): se pot modifica preferințele de joc
 
 ## Categorii
@@ -78,7 +78,7 @@ Secțiunea **Robbing**:
 - **Robbed Hotdog Stands** - afișează numărul total de 'Hotdog Stands' jefuite;
 - **Stolen ATMs** - afișează numărul total de ATM-uri jefuite;
 - **Robbed Banks** - afișează numărul total de Bănci jefuite;
-- **Stolen Money** - afișează numărul total bani obținuți în urma jafurilor; 
+- **Stolen Money** - afișează numărul total de bani obținuți în urma jafurilor; 
 - **Heat Level** - afișează procentul de [Heat Level](./atm-robbery#ce-este-heat-level) deținut de jucător.
 
 Secțiunea **Licences**:
@@ -142,12 +142,12 @@ Secțiunea **Statistics**:
 
 
 Secțiunea **World Exploration**:
-- Afișează numărul de obiecte vizitate pe hartă in acea zi.
+- Afișează numărul de obiecte vizitate pe hartă în acea zi.
 
 <Image src="https://i.imgur.com/4Iq8J4C.png" alt="Quest3" />
 
 Secțiunea **Statistics**:
-- **Completion** - afișează numarul total de completări.
+- **Completion** - afișează numărul total de completări.
 - **Job Boost** - afișează job boost-ul acumulat pe baza completărilor
 - **Passive Job Boost** - afișează job boost-ul la job-ul pasiv acumulat pe baza completărilor
 - **Rob Money Boost** - afișează boost-ul de bani la o jefuire acumulat pe baza completărilor
@@ -157,24 +157,24 @@ Secțiunea **Statistics**:
 <Image src="https://i.imgur.com/WeaK4zD.png" alt="Quest4" />
 
 ::: tip
-Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [World Exploration](../events/world-exploration)
+Pentru mai multe informații despre acest tip de quest puteți accesa acest link. [World Exploration](../events/world-exploration)
 :::
 
 Secțiunea **Bounty Hunters**:
-- Afișează timpul până la urmatorul spawn al NPC-urilor si numărul de kill-uri din sesiunea actuală.
+- Afișează timpul până la următorul spawn al NPC-urilor și numărul de kill-uri din sesiunea actuală.
 <Image src="https://i.imgur.com/fOTYV2K.png" alt="Quest5" />
 
 Secțiunea **Statistics**:
 - **Money Boost** - afișează boost-ul de bani acumulat pe baza completărilor
-- **Drop Items Chance** - afișează șansă de găsire a itemelor pe baza completărilor
+- **Drop Items Chance** - afișează șansa de găsire a itemelor pe baza completărilor
 - **Experience Boost** - afișează boost-ul de experiență acumulat pe baza completărilor
-- **Total Kills** - afișează numărul total de kill-uri in sezonul respectiv
+- **Total Kills** - afișează numărul total de kill-uri în sezonul respectiv
 - **Level Progress** - afișează level-ul deținut în cadrul evenimentului.
 
 <Image src="https://i.imgur.com/ZAprzhq.png" alt="Quest6" />
 
 ::: tip
-Pentru mai multe informații despre acest tip de quest puteti accesa acest link. [Bounty Hunters](../events/bounty-hunters)
+Pentru mai multe informații despre acest tip de quest puteți accesa acest link. [Bounty Hunters](../events/bounty-hunters)
 :::
 
 ### Referrals 
@@ -195,7 +195,7 @@ Secțiunea **Rewards**:
 ### Achievements 
 
 **Achievements** (realizări) reprezintă categoria unde fiecare jucător își poate vizualiza realizările obținute pe server, precum și progresul până la deblocarea următoarelor. 
-Mai multe informatii despre **Achievements** (realizări). [**AICI**](../general/achievements.md)
+Mai multe informații despre **Achievements** (realizări). [**AICI**](../general/achievements.md)
 
 ### Blocked Players
 
@@ -215,18 +215,18 @@ Secțiunea **Account**:
 
 Secțiunea **Visuals**:  
 - **Language** - se poate selecta limba în care să ruleze sistemele serverului: *Română* sau *Engleză*;  
-- **Display HUD** - se poate oprii hudul intern al serverului pentru o imagine mai curată. (nu oprește minimap-ul din joc);
+- **Display HUD** - se poate opri hudul intern al serverului pentru o imagine mai curată. (nu oprește minimap-ul din joc);
 - **Display Hotkeys** - se poate selecta dacă să apară butoanele cu scurtături în partea dreaptă a ecranului sau nu; 
 - **Display FPS** - se poate selecta dacă doriți să aveți FPS-urile afișate pe ecran sau nu;
 - **Display Own Nametag** - se poate selecta dacă doriți să aveți nametag-ul propriu deasupra capului;
-- **Show Gang Turfs** - se poate selecta dacă doriți să aveți afișată turf-urile gangurilor;
-- **Snow Enabled** - se poate selecta dacă doriți să aveți străzile zăpezite;
-- **Speedometer Overspeed Color Change** - se poate selecta daca doriți ca viteza de pe 'Speedometer' să iși schimbe culoarea in 'Roșu' atunci când depașiți limita de viteză legală;
-- **Profanity Filter** - se poate selecta daca doriți ca unele cuvinte vulgare să fie cenzurate pe chat sau nu;
+- **Show Gang Turfs** - se poate selecta dacă doriți să aveți afișate turf-urile gangurilor;
+- **Snow Enabled** - se poate selecta dacă doriți să aveți străzile înzăpezite;
+- **Speedometer Overspeed Color Change** - se poate selecta dacă doriți ca viteza de pe 'Speedometer' să își schimbe culoarea în 'Roșu' atunci când depășiți limita de viteză legală;
+- **Profanity Filter** - se poate selecta dacă doriți ca unele cuvinte vulgare să fie cenzurate pe chat sau nu;
 - **Show Advertisements** - se poate selecta dacă să apară anunțurile jucătorilor pe chat sau nu;
 - **Show Newbie Questions** - se poate selecta dacă să apară întrebările jucătorilor de la sistemul de asistență pe chat sau nu.
 - **Show Premium Chat** - se poate selecta dacă doriți să vă apară chat-ul premium daca aveți un cont de tip premium achiziționat.
-- **Show Faction Chat** - se poate selecta dacă doriți să vă apară chat-ul factiunii din care faceți parte sau nu.
+- **Show Faction Chat** - se poate selecta dacă doriți să vă apară chat-ul facțiunii din care faceți parte sau nu.
 - **Show Clan Chat** - se poate selecta dacă doriți să vă apară chat-ul clanului din care faceți parte sau nu.
 
 Sectiunea **Performance**:
