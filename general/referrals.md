@@ -6,7 +6,7 @@ title: Referrals
 
 Programul de referral are ca obiectiv răsplătirea jucătorilor ce recomandă serverul la cunoștințe și aceștia introduc un ID unic sau numele persoanei ce a făcut recomandarea.
 
-Fiecare jucător are un ID unic ce poate fi folosit ca și referral sau mai simplu, folosește numele propriu. ID-ul se poate afla în tab-ul "Referrals" din interfața de [Profil](./profile-and-settings.md#cum-vizualizez-profilul-și-setările). O explicație mai in detaliu al acestui tab - [Referrals](./profile-and-settings.md#referrals).
+Fiecare jucător are un ID unic ce poate fi folosit ca și referral sau mai simplu, folosește numele propriu. ID-ul se poate afla în tab-ul "Referrals" din interfața de [Profil](./profile-and-settings.md#cum-vizualizez-profilul-și-setările). O explicație mai în detaliu al acestui tab - [Referrals](./profile-and-settings.md#referrals).
 
 ### Introducerea referral-ului
 
