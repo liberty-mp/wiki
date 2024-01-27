@@ -10,7 +10,7 @@ Trade-ul (negoțul) reprezintă unul dintre sistemele importante integrate pe se
 
 ### Cum încep trade-ul cu un jucător?
 
-Pentru a putea efectua un trade ambii jucători trebuie să fie unul lângă celălalt. Pentru a începerea trade-ului sunt disponibile 2 alternative.
+Pentru a putea efectua un trade ambii jucători trebuie să fie unul lângă celălalt. Pentru începerea trade-ului sunt disponibile 2 alternative.
 
 - Tastarea comenzii `/trade [id]`;
 
