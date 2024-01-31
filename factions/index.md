@@ -8,13 +8,13 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**
 
 | Facțiune   | Cerințe minime |  Slot-uri (locuri) | Wiki |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | level 7* | 50** | [**Downtown Taxi Company**](./taxi.md)
-| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | level 7* | 55** | [**Los Santos Police Department**](./lspd.md)
-| <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> | level 7* | 55** | [**Hitman Agency**](./hitman.md)
-| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| level 10* | 20** | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| level 10* | 20** | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| level 10* | 20** | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| level 10* | 20** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | level 15* | 30** | [**Downtown Taxi Company**](./taxi.md)
+| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | level 15* | 30** | [**Los Santos Police Department**](./lspd.md)
+| <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> | level 15* | 30** | [**Hitman Agency**](./hitman.md)
+| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| level 20* | 50** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| level 20* | 50** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| level 20* | 50** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| level 20* | 50** | [**Gangs**](./gangs.md)
 
 ::: danger Atenție!
 **Dacă părăsești facțiunea din orice motiv și ai sub 14 zile în aceasta, nu vei putea aplica la facțiuni timp de 14 zile de la data la care ai ieșit.**
