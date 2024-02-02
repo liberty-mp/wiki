@@ -6,6 +6,10 @@ title: Case & apartamente
 
 **Casele** prezente pe server sunt obținute prin licitațiile ce au loc la **News Agency**. Acestea au rolul de *spawn point*, oferind posibilitatea jucatorului de a le mobila, de a își invita prietenii să stea împreună cu el și de a-și parca mașina în jurul casei.
 
+::: danger Atenție!  
+Casele și apartamentele se confiscă dacă nu ai 10 ore jucate în ultimele 30 de zile. Acest lucru se verifică în fiecare vineri.
+:::
+
 ## Cum obțin o casă?
 
 Proprietățile se vând prin intermediul licitațiilor, acestea pot dura diferite durate de timp. Pentru mai multe informații în legătură cu procedeul prin care licitezi: [**News Agency - Marketplace**](../economy/businesses.md#news-agency). După ce ai câștigat licitația, vei primi automat casa pe cont. Poți vedea ce proprietăți ai și pe [**UCP**](https://ucp.liberty.mp), pe profilul tău la categoria **Vehicles & Properties**!
