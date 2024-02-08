@@ -6,7 +6,7 @@ title: poker
 
 Pokerul **Texas Holdem** este un joc de cărţi comune care se joacă intre **două** şi până la **cinci** persoane. Pentru a câştiga la **Texas Holdem**, va trebui să faci cea mai bună combinaţie de **5** cărţi posibilă(consultă **[Clasament mâini](https://ibb.co/3B84gjy)**).
 
-Exista **15 mese** de joc ce dispun de cate **5 locuri**. Simultan pot juca poker **75 jucatori**. Minigameul dispune de toate optiunile posibile intr-un casino in viata reala. Pentru a juca Poker jucatorii au nevoie de **Casino Tokens**. Acestea pot fi achizitionate din incinta casinoului. Rata de conversie este de **$1/token la cumparare si $0.95/token la cash-out**.
+Exista **15 mese** de joc ce dispun de cate **5 locuri**. Simultan pot juca poker **75 jucatori**. Minigameul dispune de toate optiunile posibile intr-un casino in viata reala. Pentru a juca Poker jucatorii au nevoie de **Casino Tokens** și de minim **20** de ore jucate. Acestea pot fi achizitionate din incinta casinoului. Rata de conversie este de **$1/token la cumparare si $0.90/token la cash-out**. 
 
 Primii doi jucători, din stânga dealerului pun pe masă mizele obligatorii – blind-urile small şi big (de exemplu $50 şi $100). Aceasta se face pentru a fii siguri că acţiunea începe şi că jucătorii nu aşteaptă să fie serviţi cu As-As (cea mai buna mână de început la Texas Holdem) pentru a începe să parieze.
 
