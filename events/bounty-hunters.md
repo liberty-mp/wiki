@@ -5,7 +5,7 @@ title: Bounty Hunters
 | Întrebare | Răspuns |
 | :-----------: | :-----------: |
 | Event permanent? | Da. |
-| Nivel minim participare? | Nu. |
+| Nivel minim participare? | 5 |
 | Posibilitate găsire obiecte speciale? | [Da.](#recompense) |
 | Necesită iteme specifice? | Da, o armă. |
 | Locație statistici eveniment? | `O` -> `Quests & Events` |
