@@ -41,7 +41,7 @@ Valoarea unui <Image src="https://i.imgur.com/V5PL4Jz.png" alt="Casino-Token" wi
 
 |       Cumpărare          |          Vindere           |
 | :----------------------: | :------------------------: |
-|  <Dinero :amount="1" />  | <Dinero :amount="0.95" />  |
+|  <Dinero :amount="1" />  | <Dinero :amount="0.90" />  |
 
 Pentru a cumpăra sau vinde token-uri, apăsați tasta `E` când sunteți în fața casierului, apoi selectați `BUY TOKENS` sau `SELL TOKENS` în funcție de ce doriți și selectați `✔️ SELECT`, în următoarea pagină introduceți  suma, iar apoi selectați `SUMBIT`.
 
