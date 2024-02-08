@@ -22,6 +22,10 @@ title: Cryptomonede
 
   Trimiterea cryptomonedelor unui alt jucator se efectuează apăsând pe butonul Send. Pentru a transfera altui jucător un număr de **cryptomonede** căutați numele acestuia în bara `Search user`. După ce ați selectat persoana căreia doriți să îi trimiteți **cryptomonedele** trebuie să introduceți suma dorită (acest lucru poate fi realizat și mișcând slider-ul).
 
+::: danger Atenție!  
+Taxa la vânzarea **cryptomonedelor** este de **5%**.
+:::
+
   ## La ce putem folosi cryptomonedele?
 
   Acestea pot fi folosite de către jucători pentru a face Trade-uri sau pentru angajarea unui Hitman. Mai multe informații despre angajarea unui Hitman găsești [aici](../factions/hitman.md).
