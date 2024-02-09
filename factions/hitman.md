@@ -16,9 +16,9 @@ title: Hitman Agency
 
 ## Aplicația Hitman
 
-Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea costă minim 200 USDT și pot fi de **două tipuri**, mai exact fără martori și cât se poate de **discret** sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe.
+Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea pot fi de **două tipuri**, mai exact fără martori și cât se poate de **discret** care costă minim 650 USDT sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe care costă minim 500 USDT.
 
-<Image src="https://i.imgur.com/3oHqd3o.png" alt="Hitman" /> 
+<Image src="https://i.imgur.com/9w85G77.png" alt="Hitman" /> 
 
 ## Echipamentul
 
