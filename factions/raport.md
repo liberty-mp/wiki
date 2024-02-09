@@ -30,7 +30,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 | **4** (co-leader) | mâna dreaptă a liderului,<br> promovat de către lider | 
 | **5** (leader) | ales de staff-ul serverului,<br> după anumite criterii | 
 
-* Comanda [/fvr] (faction vehicle respawn) este valabilă decât la rank-ul de Co-Leader/Leader.
+* Comanda [/fvr] (faction vehicle respawn) este valabilă pentru Lider/Co-lider, dar se poate folosi și de un rank 3 dacă liderul/co-liderul nu sunt online.
 
 ### Raport <Color hex="#64A1D5">Los Santos Police Department</Color>
 
@@ -41,12 +41,12 @@ p - puncte
 
 | Rank | Activity points necesare | Puncte a.p oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1, 2, 3 | 100 | frisks - 8p<br>arrests - 5p<br>driving licences - 5p<br>Speeding fines - 1p<br>Unlicenced driving wanted - 1p  | 5 ore |
-| 4 | 65 | vezi deasupra ^  | 5 ore |
+| 1, 2, 3 | 300 | frisks - 8p<br>arrests - 5p<br>driving licences - 5p<br>Speeding fines - 1p<br>Unlicenced driving wanted - 1p  | 5 ore |
+| 4 | 195 | vezi deasupra ^  | 5 ore |
 | 5 | - | -  | 5 ore |
 
 ::: tip Exemplu
-Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 100 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
+Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 300 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
 :::
 
 ### Raport <Color hex="#EBF481">Downtown Taxi Company</Color>
@@ -73,12 +73,12 @@ p - puncte
 
 | Rank | Activity points necesare | Puncte a.p oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1, 2, 3 | 100 | completed contracts - 5p | 5 ore |
-| 4 | 65 | vezi deasupra ^  | 5 ore |
+| 1, 2, 3 | 60 | completed contracts - 5p | 5 ore |
+| 4 | 39 | vezi deasupra ^  | 5 ore |
 | 5 | - | -  | 5 ore |
 
 ::: tip Exemplu
-Pentru a completa raportul la rank 1, trebuie să completezi cu succes 20 de contracte (5 puncte x 20 contracte = 100 activity points) și să joci 5 ore pe server.
+Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de contracte (5 puncte x 12 contracte = 60 activity points) și să joci 5 ore pe server.
 :::
 
 <!--
