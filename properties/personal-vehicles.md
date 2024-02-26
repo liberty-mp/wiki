@@ -22,7 +22,19 @@ Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale
 Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
 ::: 
 
-::: details Lista Vehicule Luxury:  
+## Luxury Autos <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" />
+
+Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, jucătorii trebuie să dețină și un [**Luxury Vehicle Ticket**](https://ucp.liberty.mp/shop/products) <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" width="30" img align="center" alt="Luxury Vehicle Ticket"  />
+
+::: details Test Drive
+ <Image src="https://imgur.com/a/0sr1Ypc.gif" alt="Test Drive" />
+:::
+
+::: details Achiziționare vehicul
+ <Image src="https://imgur.com/a/L10ADJx.gif" alt="Achiziționare vehicul" />
+:::
+
+::: details Listă Vehicule Luxury Autos:  
 | Vehicul | Nume joc | Nume real | Preț Dealership| 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://imgur.com/E3xgk7W.png" alt="Golf 4" /> | Bürgerfahrzeug VER.4 | Golf 4 [1997] | <Dinero :amount='18000' /> |
