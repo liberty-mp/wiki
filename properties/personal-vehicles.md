@@ -31,7 +31,7 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 :::
 
 ::: details Achiziționare vehicul
- <Image src="https://i.imgur.com/a/L10ADJx.gif" alt="Achiziționare vehicul" />
+ <Image src="https://i.imgur.com/3neAWth.gif" alt="Achiziționare vehicul" />
 :::
 
 ::: details Listă Vehicule Luxury Autos:  
