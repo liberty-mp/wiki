@@ -27,7 +27,7 @@ Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Deale
 Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, jucătorii trebuie să dețină și un [**Luxury Vehicle Ticket**](https://ucp.liberty.mp/shop/products) <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" width="30" img align="center" alt="Luxury Vehicle Ticket"  />
 
 ::: details Test Drive
- <Image src="https://i.imgur.com/a/0sr1Ypc.gif" alt="Test Drive" />
+ <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
 :::
 
 ::: details Achiziționare vehicul
