@@ -112,6 +112,7 @@ Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Deale
 | <Image src="https://imgur.com/7pRa68O.png" alt="Benefactor One" /> | Benefactor One | Mercedes-AMG ONE [2022] | <Dinero :amount='3500000' /> |
 | <Image src="https://imgur.com/49ByCFQ.png" alt="Truffade Pasko" /> | Truffade Pasko | Koenigsegg Jesko [2020] | <Dinero :amount='4000000' /> |
 | <Image src="https://imgur.com/tK76Mho.png" alt="Turffade Devil" /> | Turffade Devil | Bugatti Divo [2020] | <Dinero :amount='4350000' /> |
+Special thanks to SFN.
 :::
 
 ::: details Lista Vehicule Speciale:  
