@@ -131,11 +131,13 @@ Special thanks to SFN.
 ::: details Lista Vehicule Speciale:  
 | Vehicul | Nume joc | Nume real | Obținut | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://imgur.com/pRdX7rx.png" alt="Pantheon Supersport (LP 1)" /> | Pantheon Supersport (LP 1) | Lamborghini Countach [1974] | Liberty Pass 1 |
-| <Image src="https://imgur.com/m3qx4e6.png" width="110" alt="Grotti Cheetah (LP 2)" /> | Grotti Cheetah (LP 2) | Lamborghini Countach [1974] | Liberty Pass 2 |
-| <Image src="https://imgur.com/aheAerR.png" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | Halloween Quest |
-| <Image src="https://imgur.com/Ti7p3bx.png" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | Halloween Quest |
+| <Image src="https://imgur.com/pRdX7rx.png" alt="Pantheon Supersport (LP 1)" /> | Pantheon Supersport (LP 1) | Lamborghini Countach [1974] | [**Liberty Pass 1**](../events/libertypass-seasonal-event.md#liberty-pass-) |
+| <Image src="https://imgur.com/m3qx4e6.png" width="110" alt="Grotti Cheetah (LP 2)" /> | Grotti Cheetah (LP 2) | Lamborghini Countach [1974] | [**Liberty Pass 2**](../events/libertypass-seasonal-event.md#liberty-pass-) |
+| <Image src="https://imgur.com/aheAerR.png" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
+| <Image src="https://imgur.com/Ti7p3bx.png" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
+
 :::
+
 ## Modificarea unui vehicul personal
 
 Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elicoptere și bărci).
