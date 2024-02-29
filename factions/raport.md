@@ -38,7 +38,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk 8 pct + <Dinero :amount='375' /> | 5 ore |
+| **1 -> 3** | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk: 8 pct + <Dinero :amount='375' /> | 5 ore |
 | **Tester** | 165 | - | - |
 | **4** | 195 | - | - |
 | **5** | - | - | - |
