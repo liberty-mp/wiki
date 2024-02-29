@@ -38,10 +38,10 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 -> 3 | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk 8 pct + <Dinero :amount='375' /> | 5 ore |
-| Tester | 165 | - | - |
-| 4 | 195 | - | - |
-| 5 | - | - | - |
+| **1 -> 3** | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk 8 pct + <Dinero :amount='375' /> | 5 ore |
+| **Tester** | 165 | - | - |
+| **4** | 195 | - | - |
+| **5** | - | - | - |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 300 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
@@ -53,9 +53,9 @@ Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabe
 
 | Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 -> 3 | 100 | Jucator transportat - 5 pct | 5 ore |
-| 4 | 65 | - | - |
-| 5 | - | - | - |
+| **1 -> 3** | 100 | Jucator transportat - 5 pct | 5 ore |
+| **4** | 65 | - | - |
+| **5** | - | - | - |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la destinație (5 puncte x 20 jucători transportați = 100 activity points) și să joci 5 ore pe server.
@@ -67,9 +67,9 @@ Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la
 
 | Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 -> 3 | 60 | Contract completat - 5 pct | 5 ore |
-| 4 | 39 | - | - |
-| 5 | - | - | - |
+| **1** -> 3 | 60 | Contract completat - 5 pct | 5 ore |
+| **4** | 39 | - | - |
+| **5** | - | - | - |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de contracte (5 puncte x 12 contracte = 60 activity points) și să joci 5 ore pe server.
@@ -80,9 +80,9 @@ Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de con
 ### Raport <Color hex="#5EABD2">Varrios Los Aztecas</Color>; <Color hex="#6DBC6E">Grove Street Families</Color>; <Color hex="#A379B5">Ballas</Color>; <Color hex="#C9A66A">Los Santos Vagos</Color>
 
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 -> 3 | 100 | | 5 ore |
-| 4 | 65 |   | 5 ore |
-| 5 | - | -  | 5 ore |
+| **1 -> 3** | 100 | | 5 ore |
+| **4** | 65 | - | - |
+| **5** | - | - | - |
 
 -->
 
