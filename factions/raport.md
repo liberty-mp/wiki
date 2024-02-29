@@ -24,11 +24,11 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Obținere |
 | :-----------: | :-----------: |
-| **1** | primit la intrarea în facțiune | 
-| **2** | la **25 de zile** împlinite<br>de la intrarea în facțiune | 
-| **3** | la **25 de zile** împlinite<br>de la promovarea la rank 2 în facțiune | 
-| **4** (co-leader) | mâna dreaptă a liderului,<br> promovat de către lider | 
-| **5** (leader) | ales de staff-ul serverului,<br> după anumite criterii | 
+| **1** | Primit la intrarea în facțiune | 
+| **2** | La **25 de zile** împlinite<br>de la intrarea în facțiune | 
+| **3** | La **25 de zile** împlinite<br>de la promovarea la rank 2 în facțiune | 
+| **4** (co-leader) | Mâna dreaptă a liderului,<br> promovat de către lider | 
+| **5** (leader) | Ales de staff-ul serverului,<br> după anumite criterii | 
 
 * Comanda [/fvr] (faction vehicle respawn) este valabilă pentru Lider/Co-lider, dar se poate folosi și de un rank 3 dacă liderul/co-liderul nu sunt online.
 
@@ -38,7 +38,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 -> 3 | 300 | Amenda: 3 pct + 250$<br>Conducere fara permis: 3 pct + 475$<br>Suspendare Permis: 3 pct + 375$<br>Arrest/Kill: 5 pct + 225$<br>Frisk 8 pct + 375$ | 5 ore |
+| 1 -> 3 | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk 8 pct + <Dinero :amount='375' /> | 5 ore |
 | Tester | 165 | - | - |
 | 4 | 195 | - | - |
 | 5 | - | - | - |
@@ -67,7 +67,7 @@ Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la
 
 | Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1 -> 3 | 60 | Contract completat - 5 pct | - |
+| 1 -> 3 | 60 | Contract completat - 5 pct | 5 ore |
 | 4 | 39 | - | - |
 | 5 | - | - | - |
 
