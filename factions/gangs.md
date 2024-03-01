@@ -112,6 +112,10 @@ Teritoriile din categoria **Warehouse** pot fi folosite de către grupările maf
 
 Teritoriile din categoria **Drug Plantation** pot fi folosite de către grupările mafiote în vederea producerii drogurilor de tip **Marijuana** prin plantarea si prelucrarea semințelor de **cannabis**.
 
+::: warning Atenție!  
+Drogurile dispar după **12 ore** de la plantarea acestora.
+:::
+
 | Item | Obținere | 
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/X2Fi4Nx.png" alt="Cannabis Seeds" width="30" label="Cannabis Seeds" /> | containerele turf-urilor de tip [**Port**](#teritorii-de-tip-port) | 
