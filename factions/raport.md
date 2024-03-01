@@ -24,11 +24,11 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Obținere |
 | :-----------: | :-----------: |
-| **1** | primit la intrarea în facțiune | 
-| **2** | la **25 de zile** împlinite<br>de la intrarea în facțiune | 
-| **3** | la **25 de zile** împlinite<br>de la promovarea la rank 2 în facțiune | 
-| **4** (co-leader) | mâna dreaptă a liderului,<br> promovat de către lider | 
-| **5** (leader) | ales de staff-ul serverului,<br> după anumite criterii | 
+| **1** | Primit la intrarea în facțiune | 
+| **2** | La **25 de zile** împlinite<br>de la intrarea în facțiune | 
+| **3** | La **25 de zile** împlinite<br>de la promovarea la rank 2 în facțiune | 
+| **4** (co-leader) | Mâna dreaptă a liderului,<br> promovat de către lider | 
+| **5** (leader) | Ales de staff-ul serverului,<br> după anumite criterii | 
 
 * Comanda [/fvr] (faction vehicle respawn) este valabilă pentru Lider/Co-lider, dar se poate folosi și de un rank 3 dacă liderul/co-liderul nu sunt online.
 
@@ -36,14 +36,12 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 ::: details Tabel raport  
 
-a.p - activity points  
-p - puncte
-
-| Rank | Activity points necesare | Puncte a.p oferite per acțiune | Ore activitate |
+| Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1, 2, 3 | 300 | frisks - 8p<br>arrests - 5p<br>driving licences - 5p<br>Speeding fines - 1p<br>Unlicenced driving wanted - 1p  | 5 ore |
-| 4 | 195 | vezi deasupra ^  | 5 ore |
-| 5 | - | -  | 5 ore |
+| **1 -> 3** | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk: 8 pct + <Dinero :amount='375' /> | 5 ore |
+| **Tester** | 165 | - | - |
+| **4** | 195 | - | - |
+| **5** | - | - | - |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 300 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
@@ -51,15 +49,13 @@ Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabe
 
 ### Raport <Color hex="#EBF481">Downtown Taxi Company</Color>
 
-::: details Tabel raport  
-a.p - activity points  
-p - puncte
+::: details Tabel raport    
 
-| Rank | Activity points necesare | Puncte a.p oferite per acțiune | Ore activitate |
+| Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1, 2, 3 | 100 | transported players - 5p | 5 ore |
-| 4 | 65 | vezi deasupra ^  | 5 ore |
-| 5 | - | -  | 5 ore |
+| **1 -> 3** | 100 | Jucator transportat - 5 pct | 5 ore |
+| **4** | 65 | - | - |
+| **5** | - | - | - |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la destinație (5 puncte x 20 jucători transportați = 100 activity points) și să joci 5 ore pe server.
@@ -68,14 +64,12 @@ Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la
 ### Raport <Color hex="#E34343">Hitman Agency</Color>
 
 ::: details Tabel raport  
-a.p - activity points  
-p - puncte
 
-| Rank | Activity points necesare | Puncte a.p oferite per acțiune | Ore activitate |
+| Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1, 2, 3 | 60 | completed contracts - 5p | 5 ore |
-| 4 | 39 | vezi deasupra ^  | 5 ore |
-| 5 | - | -  | 5 ore |
+| **1** -> 3 | 60 | Contract completat - 5 pct | 5 ore |
+| **4** | 39 | - | - |
+| **5** | - | - | - |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de contracte (5 puncte x 12 contracte = 60 activity points) și să joci 5 ore pe server.
@@ -86,9 +80,9 @@ Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de con
 ### Raport <Color hex="#5EABD2">Varrios Los Aztecas</Color>; <Color hex="#6DBC6E">Grove Street Families</Color>; <Color hex="#A379B5">Ballas</Color>; <Color hex="#C9A66A">Los Santos Vagos</Color>
 
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| 1, 2, 3 | 100 | | 5 ore |
-| 4 | 65 |   | 5 ore |
-| 5 | - | -  | 5 ore |
+| **1 -> 3** | 100 | | 5 ore |
+| **4** | 65 | - | - |
+| **5** | - | - | - |
 
 -->
 
