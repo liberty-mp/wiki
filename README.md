@@ -38,3 +38,10 @@
 ```
 
 <img src="https://github.com/liberty-mp/wiki/assets/35312043/27a72a93-de70-4749-ba30-4a09a8222060" width="128" height="128" />
+
+### InventoryItem
+```vue
+<InventoryItem itemKey="crate_male_top" width="64" :qt="2" />/
+```
+![image](https://github.com/liberty-mp/wiki/assets/35312043/abcce311-9a16-4717-b5d1-5e7bf16076db)
+
