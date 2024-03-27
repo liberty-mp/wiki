@@ -135,6 +135,7 @@ Pe lângă peștele prins, mai ai o șansă la a prinde **obiecte speciale** car
 | <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="100" label="Rod Guide" /> | **49%**  | Craftarea unei undițe speciale |
 | <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="100" label="Rod Grip" /> |  **49%** | Craftarea unei undițe speciale |
 | <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="100" label="Reel Rod" /> | **2%**  | Craftarea unei undițe speciale |
+| <Image src="https://i.imgur.com/bRzgIRp.png" alt="Cloth" width="100" label="Cloth" /> | **15%** | [Spray Tags](/clans/spray-wars/spray-tags) |
 
 ## Cazuri în care nu poți efectua jobul   
  

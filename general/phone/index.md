@@ -265,3 +265,19 @@ Pentru a utiliza această aplicație, trebuie să deții minim **Level 3**.
 :::
 
 > Vezi la [Threads](./applications/threads) cum să utilizezi această aplicație, precum și alte informații.
+>
+> --- 
+
+### Walkie
+
+<br />
+
+<Image src='https://i.imgur.com/MbKk7qX.png' width='48' height='48' />
+
+**Walkie** reprezintă aplicatia prin care detinatorii de frecvente private pot gestiona membrii frecventei, pot schimba parola frecventei sau pot schimba modul de acces al frecventei.
+
+::: tip
+Pentru a utiliza această aplicație, trebuie să deții o frecvență privată sau să fii moderator al unei frecvențe private.
+:::
+
+> Vezi la [Walkie](./applications/walkie) cum să utilizezi această aplicație, precum și alte informații.
