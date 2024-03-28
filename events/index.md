@@ -78,13 +78,11 @@ Uber Grand Prix este evenimentul de viteză și aventură pe patru roți, care a
 
 ---
 
-### Voltage Windfall Challenge ⚡👨‍🔧🔌
+### Gold Rush ⛏️🪙
 
-Voltage Windfall Challenge este un eveniment special conceput pentru electricieni, ce reprezintă o ocazie unică de a testa abilitățile, cunoștințele și creativitatea acestor profesioniști în domeniul electric.
+Gold Rush este evenimentul care îți oferă ocazia de a-ți demonstra abilitățile de miner și de a câștiga recompense valoroase. 
 
-Acest eveniment inovator și competitiv care aduce împreună electricieni talentați și pasionați pentru a demonstra măiestria lor. Această competiție se concentrează pe provocări complexe și neașteptate din domeniul electric, oferind electricienilor oportunitatea de a-și demonstra abilitățile și de a-și testa cunoștințele într-un mediu competitiv, dar distractiv.
-
-> Vezi detalierea evenimentului [Voltage Windfall Challenge](./voltage-windfall-challenge).
+> Vezi detalierea evenimentului [Gold Rush](./gold-rush).
 
 ---
 
