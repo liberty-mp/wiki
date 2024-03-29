@@ -96,17 +96,17 @@ Evenimentul de Halloween este un eveniment anual care are loc în fiecare an în
 
 ---
 
-### Liberty Pass Seasonal Event 🎫
+### Winter Seasonal Event ⛄❄️
+
+Winter Event este un eveniment sezonier care se desfășoară în perioada de iarnă, în care jucătorii pot obține diferite recompense prin completarea unor misiuni și colectarea unor obiecte speciale ce pot fi ulterior schimbate cu recompense.
+
+> Vezi detalierea evenimentului [Winter Seasonal Event](./winter-seasonal-event).
+
+# Liberty Pass Seasonal Event 🎫
 
 Liberty Pass Battlepass este un eveniment virtual captivant. Acest eveniment special aduce împreună comunitatea pentru o experiență competitivă și distractivă. Participanții își pot alege ce misiuni doresc să completeze, angajându-se în lupte intense pentru a câștiga recompense și avantaje exclusiviste. Cu fiecare nivel înaintat în cadrul Liberty Pass, jucătorii obțin recompense ce îi scot în evidență, pentru a-și arăta stilul și abilitățile în joc. 
 Acest eveniment este o ocazie perfectă pentru a-ți demonstra abilitățile de jucător înrăit.
 
 > Vezi detalierea evenimentului [Liberty Pass Seasonal Event](./libertypass-seasonal-event).
 
----
-
-### Winter Seasonal Event ⛄❄️
-
-Winter Event este un eveniment sezonier care se desfășoară în perioada de iarnă, în care jucătorii pot obține diferite recompense prin completarea unor misiuni și colectarea unor obiecte speciale ce pot fi ulterior schimbate cu recompense.
-
-> Vezi detalierea evenimentului [Winter Seasonal Event](./winter-seasonal-event).
+> Vezi premiile battlepass-ului actual: [Liberty Pass Season 3 Rewards](./libertypass-season-3-rewards).
