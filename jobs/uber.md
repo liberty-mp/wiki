@@ -86,12 +86,16 @@ Pe lângă suma de bani obținută la finalul cursei, mai ai șansa de a găsi o
 
 ::: tip Detalii șanse drop
 
-La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca. 
+La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca.
+
+La fiecare <Dinero :amount='300' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Hood**_.
+
 :::
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/TGIAVQa.png" alt="Pliers" width="48" label="Pliers" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
+| <Image src="https://i.imgur.com/R1ERRuW.png" alt="Hood (M)/(F)" width="48" label="Hood (M)/(F)" /> | **Nu** | **20%, vezi deasupra tabelului** | Folosita de membrii 'LSPD' pentru a putea face actiuni ilegale |
 
 ## Cazuri în care nu poți efectua job-ul
 ### Înafara zonei de job.
