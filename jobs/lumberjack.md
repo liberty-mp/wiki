@@ -54,6 +54,7 @@ La fiecare _**$600**_ câștigați în cadrul job-ului există șansa de _**20%*
 La fiecare _**$300**_ câștigați în cadrul job-ului există șansa de _**25%**_ de a găsi Tabacco Seeds.
 
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
+
 :::  
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
