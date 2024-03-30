@@ -48,7 +48,11 @@ Pe lângă suma de bani primită după descărcare, mai ai o șansa de a găsi *
 
 ::: tip Detalii șanse drop  
 La fiecare _**$400**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Rope.
+
 La fiecare _**$600**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Hook.
+
+La fiecare _**$300**_ câștigați în cadrul job-ului există șansa de _**25%**_ de a găsi Tabacco Seeds.
+
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 :::  
 
@@ -56,6 +60,7 @@ La fiecare _**$600**_ câștigați în cadrul job-ului există șansa de _**20%*
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../illegal-activities/robberies/atm-robbery) |
 | <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../illegal-activities/robberies/atm-robbery) |
+| <Image src="https://i.imgur.com/R1ERRuW.png" alt="Tabacco Seeds" width="48" label="Tabacco Seeds" /> | **Da, 20 per stack** | **25%, vezi deasupra tabelului** | [Farmare de plante](../clans/spray-wars/districts/tobacco) |
 
 ## Cazuri în care nu poți efectua jobul  
  
