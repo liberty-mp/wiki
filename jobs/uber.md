@@ -90,6 +90,8 @@ La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa 
 
 La fiecare <Dinero :amount='300' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Hood**_.
 
+În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
+
 :::
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
