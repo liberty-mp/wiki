@@ -145,7 +145,9 @@ Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger
 | Repair kit | <Dinero :amount='500' /> | 
 | Walkie talkie | <Dinero :amount='1000' /> |
 | Momeală | <Dinero :amount='64' /> |
-| Mâncare & băutură | <Dinero :amount='10' /> |
+| Mâncare & băutură | <Dinero :amount='20' /> |
+| Wooden Pickaxe | <Dinero :amount='100' /> |
+| Empty Can | <Dinero :amount='250' /> |
 
 ::: details 24/7
 <Image src="http://i.imgur.com/2RnhMsn.gif" alt="242" />

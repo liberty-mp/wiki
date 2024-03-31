@@ -71,17 +71,27 @@ Există 2 tipuri de crafting, anume: 'Items crafting' și 'Accesories crafting'.
 
 #### Crafting iteme
 
-La aceste NPC-uri poți crafta 'Hooked Rope' și 'C4 Bomb'.
+La aceste NPC-uri poți crafta **Hooked Rope**, **C4 Bomb**, **Spray Paint**, **Lockpick** și **Thermite Device**.
 
-| ITEM   | Necesar craft | 
-| :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" />  |  <Image src="https://i.imgur.com/UXt9NNT.png" alt="2x Hook" width="48" label="2x Hook" /> <Image src="https://i.imgur.com/GarEQ1P.png" alt="3x Rope" width="48" label="3x Rope" /> |
-| <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> | <Image src="https://i.imgur.com/BijpevO.png" alt="2x Explosive" width="48" label="2x Explosive" /> <Image src="https://i.imgur.com/hMMK1SU.png" alt="1x Electronic keyboard" width="48" label="1x Electronic keyboard" /> <Image src="https://i.imgur.com/C6Pj7yU.png" alt="3x Wires" width="48" label="3x Wires" /> | 
+| ITEM   | Necesar craft | Preț |
+| :-----------: | :-----------: | :---------: |
+| <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" />  |  <Image src="https://i.imgur.com/UXt9NNT.png" alt="2x Hook" width="48" label="2x Hook" /> <Image src="https://i.imgur.com/GarEQ1P.png" alt="3x Rope" width="48" label="3x Rope" /> | <Dinero :amount="50" /> |
+| <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> | <Image src="https://i.imgur.com/BijpevO.png" alt="2x Explosive" width="48" label="2x Explosive" /> <Image src="https://i.imgur.com/hMMK1SU.png" alt="1x Electronic keyboard" width="48" label="1x Electronic keyboard" /> <Image src="https://i.imgur.com/C6Pj7yU.png" alt="3x Wires" width="48" label="3x Wires" /> |  <Dinero :amount="100" /> |
+| <Image src="https://i.imgur.com/qlAEKTr.png" alt="Spray Paint" width="48" label="Spray Paint" /> | <Image src="https://i.imgur.com/Q1khiF2.png" alt="Empty Can" width="48" label="Empty Can" /> <Image src="https://i.imgur.com/7p1oJ6E.png" alt="Red Paint" width="48" label="Red Paint" /> <Image src="https://i.imgur.com/FJfHgoX.png" alt="Green Paint" width="48" label="Green Paint" /> <Image src="https://i.imgur.com/FnW1TZG.png" alt="Blue Paint" width="48" label="Blue Paint" /> | <Dinero :amount="50" /> |
+| <Image src="https://i.imgur.com/44msHeJ.png" alt="Lockpick" width="48" label="Lockpick" /> | <Image src="https://i.imgur.com/PBET64W.png" alt="2x Metal Bar" width="48" label="2x Metal Bar" /> | <Dinero :amount="100" /> |
+| <Image src="https://i.imgur.com/ssvCHqG.png" alt="Thermite Device" width="48" label="Thermite Device" /> | <Image src="https://i.imgur.com/2yZmE5w.png" alt="2x Thermite" width="48" label="2x Thermite" /> <Image src="https://i.imgur.com/PBET64W.png" alt="2x Metal Bar" width="48" label="2x Metal Bar" /> | <Dinero :amount="100" /> |
 
 ::: tip
 <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" /> pot fi folosite la [ATM Robbing](./robberies/atm-robbery.md).
 
 <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> poate fi folosit pentru [Fleeca Bank Rob](./robberies/fleeca-bank-robbery.md).
+
+<Image src="https://i.imgur.com/qlAEKTr.png" alt="Spray Paint" width="48" label="Spray Paint" /> poate fi folosit la [Spray Wars](/clans/spray-wars/).
+
+<Image src="https://i.imgur.com/44msHeJ.png" alt="Lockpick" width="48" label="Lockpick" /> poate fi folosit la [contrabanda de la Mr. Wang](/clans/spray-wars/districts/port).
+
+<Image src="https://i.imgur.com/ssvCHqG.png" alt="Thermite Device" width="48" label="Thermite Device" /> poate fi folosit la [Pacific Bank Rob](/clans/spray-wars/districts/bank).
+
 :::
 
 #### Crafting accesories
