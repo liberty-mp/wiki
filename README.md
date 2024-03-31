@@ -45,3 +45,4 @@
 ```
 ![image](https://github.com/liberty-mp/wiki/assets/35312043/abcce311-9a16-4717-b5d1-5e7bf16076db)
 
+> [List of available inventory items](https://wiki.liberty.mp/inventory-items)
