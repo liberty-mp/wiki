@@ -51,7 +51,7 @@ O plantă dispare în 3 ore dacă aceasta nu este recoltată.
 Du-te in locația afișată mai jos si proceseaza Tobacco leaves, iar în urma procesării vei primi x1 Processed Tobacco.
 
 ::: details Processimg Tobacco
- <Image src="https://i.imgur.com/VdoArDV.png" width="600" alt="Processed Tobacco" />
+ <Image src="/assets/images/clans/spray-wars/districts/tobacco/processed-tobacco.png" width="600" alt="Processed Tobacco" />
 :::
 
 ### Cum rulez un trabuc?
