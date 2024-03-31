@@ -59,5 +59,5 @@ Du-te in locația afișată mai jos si proceseaza Tobacco leaves, iar în urma p
 Du-te la zona de rulare a trabucurilor și ruleaza unul (vei avea nevoie de x1 Tobacco Leaves si x1 Processed Tobacco)
 
 ::: details 
- <Image src="https://i.imgur.com/rSS50qm.png" width="600" alt="Cigar Rolling" />
+ <Image src="/assets/images/clans/spray-wars/districts/tobacco/cigar-rolling.png" width="600" alt="Cigar Rolling" />
 :::
