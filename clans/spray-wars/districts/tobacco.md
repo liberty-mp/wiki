@@ -7,7 +7,7 @@ title: Tobacco District - Clan Spray Wars
 | Nume District | Tobacco District |
 | Activitate District | Farmare de plante. |
 | Număr de Spray Tags? | 15 |
-| Zona District | <Image src="https://i.imgur.com/9lVHLrj.png" width="256" label="Nordul hărții" /> |
+| Zona District | <Image src="/assets/images/clans/spray-wars/districts/tobacco/zone.png" width="256" label="Nordul hărții" /> |
 
 ###  Activitațiile din district
 
