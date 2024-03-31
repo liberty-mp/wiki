@@ -80,7 +80,7 @@ La fiecare _**$300**_ câștigați în cadrul job-ului există o șansa de a gă
 | <Image src="https://i.imgur.com/BijpevO.png" alt="Explosive" width="48" label="Explosive" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
 | <Image src="https://i.imgur.com/gssj0CY.png" alt="Red Paint" width="48" label="Red Paint" /> | **Da, 8 per stack** |  **30%, vezi deasupra tabelului**  | Craftarea unui Spray Paint - [Spray Tags](/clans/spray-wars/spray-tags) |
 | <Image src="https://i.imgur.com/ShRER66.png" alt="Green Paint" width="48" label="Green Paint" /> | **Da, 8 per stack** |  **30%, vezi deasupra tabelului**  | Craftarea unui Spray Paint - [Spray Tags](./clans/spray-wars/spray-tags) |
-| <Image src="https://i.imgur.com/aK3hk4R.png" alt="Blue Paint" width="48" label="Blue Paint" /> | **Da, 8 per stack** |  **30%, vezi deasupra tabelului**  | Craftarea unui Spray Paint - [Spray Tags](./clans/spray-wars/spray-tags) |
+| <Image src="https://i.imgur.com/aK3hk4R.png" alt="Blue Paint" width="48" label="Blue Paint" /> | **Da, 8 per stack** |  **30%, vezi deasupra tabelului**  | Craftarea unui Spray Paint - [Spray Tags](/clans/spray-wars/spray-tags) |
 
 ## Cazuri în care nu poți efectua jobul  
  
