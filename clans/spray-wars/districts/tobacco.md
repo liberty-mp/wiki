@@ -61,3 +61,23 @@ Du-te la zona de rulare a trabucurilor și ruleaza unul (vei avea nevoie de x1 T
 ::: details 
  <Image src="/assets/images/clans/spray-wars/districts/tobacco/cigar-rolling.png" alt="Cigar Rolling" />
 :::
+
+
+### Ce imi oferă un trabuc?
+
+În urma rulării trabucului, jucatorii vor primi unul din următoarele 3 trabucuri:
+
+| Cigar | Regen |
+| :---: | :---: |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/penny_puffer.png" alt="Penny Puffer" label="Penny Puffer" width="100" /><br>**Penny Puffer** |  30hp in 30 secunde |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/vintage_velvet.png" alt="Vintage Velvet" label="Vintage Velvet" width="100" /><br>**Vintage Velvet** |  60hp in 30 secunde |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/regal_reserve.png" alt="Regal Reserve" label="Regal Reserve" width="100" /><br>**Regal Reserve** |  80hp in 20 secunde |
+
+
+### Cum fumez un trabuc?
+
+Intra in inventar (apăsând tasta 'I'), apasa click dreapta pe un trabuc și click pe Smoke.
+
+::: details 
+ <Image src="" />
+:::
