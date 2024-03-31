@@ -33,7 +33,7 @@ Poți face rost de Tobacco Seeds practicând jobul [Lumberjack](/jobs/lumberjack
 În al doilea rând, du-te la locația afișată mai jos și planteaza Tobacco Seeds (apăsând fast slot-ul ales pentru Tobacco Seeds).
 
 ::: details Plant Tobacco Seeds
- <Image src="https://i.imgur.com/EJuNttp.gif" alt="Plant Tobacco Seeds" />
+ <Image src="/assets/images/clans/spray-wars/districts/tobacco/plant-tobacco-seeds.gif" alt="Plant Tobacco Seeds" />
 :::
 
 Poți culege planta de Tobacco după ce aceasta a ajuns la maturitate (15 minute), iar în urma recoltarii vei primi x3 Tobacco leaves.
