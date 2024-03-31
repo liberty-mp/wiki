@@ -86,7 +86,7 @@ La aceste NPC-uri poți crafta **Hooked Rope**, **C4 Bomb**, **Spray Paint**, **
 
 <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> poate fi folosit pentru [Fleeca Bank Rob](./robberies/fleeca-bank-robbery.md).
 
-<Image src="https://i.imgur.com/qlAEKTr.png" alt="Spray Paint" width="48" label="Spray Paint" /> poate fi folosit la [Spray Wars](./clans/spray-wars/).
+<Image src="https://i.imgur.com/qlAEKTr.png" alt="Spray Paint" width="48" label="Spray Paint" /> poate fi folosit la [Spray Wars](/clans/spray-wars/).
 
 <Image src="https://i.imgur.com/44msHeJ.png" alt="Lockpick" width="48" label="Lockpick" /> poate fi folosit la [contrabanda de la Mr. Wang](./clans/spray-wars/districts/port).
 
