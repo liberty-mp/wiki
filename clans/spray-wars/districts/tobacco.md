@@ -24,7 +24,7 @@ Districtul de Tobacco constă în plantarea semințelor de Tobacco, recoltarea f
 Poți face rost de Tobacco Seeds practicând jobul [Lumberjack](/jobs/lumberjack#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire). 
 
 ::: details Tobacco Seeds 
-  <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/tobacco_seeds.png" />
+  <InventoryItem itemKey="tobacco_seeds" width="64" />
 :::
 
 ### Cum plantez Tobacco Seeds?
