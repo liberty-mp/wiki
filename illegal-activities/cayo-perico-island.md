@@ -88,7 +88,7 @@ La aceste NPC-uri poți crafta **Hooked Rope**, **C4 Bomb**, **Spray Paint**, **
 
 <Image src="https://i.imgur.com/qlAEKTr.png" alt="Spray Paint" width="48" label="Spray Paint" /> poate fi folosit la [Spray Wars](/clans/spray-wars/).
 
-<Image src="https://i.imgur.com/44msHeJ.png" alt="Lockpick" width="48" label="Lockpick" /> poate fi folosit la [contrabanda de la Mr. Wang](./clans/spray-wars/districts/port).
+<Image src="https://i.imgur.com/44msHeJ.png" alt="Lockpick" width="48" label="Lockpick" /> poate fi folosit la [contrabanda de la Mr. Wang](/clans/spray-wars/districts/port).
 
 <Image src="https://i.imgur.com/ssvCHqG.png" alt="Thermite Device" width="48" label="Thermite Device" /> poate fi folosit la [Pacific Bank Rob](.clans/spray-wars/districts/bank).
 
