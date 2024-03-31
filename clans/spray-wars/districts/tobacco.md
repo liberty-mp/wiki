@@ -39,7 +39,7 @@ Poți face rost de Tobacco Seeds practicând jobul [Lumberjack](/jobs/lumberjack
 Poți culege planta de Tobacco după ce aceasta a ajuns la maturitate (15 minute), iar în urma recoltarii vei primi x3 Tobacco leaves.
 
 ::: details Harvest Tobacco Seeds
- <Image src="https://i.imgur.com/oBBYcsy.gif" alt="Harvest Tobacco Seeds" />
+ <Image src="/assets/images/clans/spray-wars/districts/tobacco/harvest-tobacco-seeds.gif" alt="Harvest Tobacco Seeds" />
 :::
 
 ::: warning Atentie!
