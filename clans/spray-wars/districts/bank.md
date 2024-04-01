@@ -40,15 +40,15 @@ Driver-ul trebuie sa detina o masina cu 4 locuri si o barca pe cont.
 Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sigura,alesa de acesta. Barca va fi utilizata pentru a scapa de wanted, dupa jaf.
 
 ::: details Driver - Go to the port
-   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Go-to-the-port.gif" alt="Driver - Go to the port" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Go-to-the-port.gif" alt="Driver - Go to the port" />
 :::
 
 ::: details Driver - Spawn the getaway boat
-   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Spawn-the-getaway-boat.gif" alt="Driver - Spawn the getaway boat" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Spawn-the-getaway-boat.gif" alt="Driver - Spawn the getaway boat" />
 :::
 
 ::: details Driver - Hide the getaway boat
-   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Hide-the-getaway-boat.gif" alt="Driver - Hide the getaway boat" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Hide-the-getaway-boat.gif" alt="Driver - Hide the getaway boat" />
 :::
 
 ###  Driver - Hide the gateaway vehicle near Pacific Standard Bank
@@ -56,11 +56,11 @@ Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sig
 Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific Standard Bank. Aceasta va fi utilizata pentru a ajunge inapoi la barca. 
 
 ::: details Driver - Get the getaway vehicle
-   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Get-the-getaway-vehicle.gif" alt="Driver - Get the getaway vehicle" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Get-the-getaway-vehicle.gif" alt="Driver - Get the getaway vehicle" />
 :::
 
 ::: details Driver - Hide the getaway vehicle
-   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Hide-the-getaway-vehicle.gif" alt="Driver - Hide the getaway vehicle" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Hide-the-getaway-vehicle.gif" alt="Driver - Hide the getaway vehicle" />
 :::
 
 ###  Driver - Wait for the vault to open
@@ -73,11 +73,11 @@ Driverul va trebui sa astepte ca Peterman sa sparga usile, Kidnapper sa ia ostat
 ### Kidnapper Task 1: Grab the bank manager
 
 ::: details Kidnapper - Grab the bank manager
-   <Image src="/assets/images/clans/spray-wars/districts/bank/Kidnapper-Grab-the-bank-manager.gif" alt="Kidnapper - Grab the bank manager" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Grab-the-bank-manager.gif" alt="Kidnapper - Grab the bank manager" />
 :::
 
 ### Kidnapper Task 2: Force the manager to open the vault
 
 ::: details Kidnapper - Force the manager to open the vault
-   <Image src="/assets/images/clans/spray-wars/districts/bank/Kidnapper-Force-the-manager-to-open-the-vault.gif" alt="Kidnapper - Force the manager to open the vault" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Force-the-manager-to-open-the-vault.gif" alt="Kidnapper - Force the manager to open the vault" />
 :::
