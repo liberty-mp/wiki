@@ -17,6 +17,10 @@ Districtul de Tobacco constă în plantarea semințelor de Tobacco, recoltarea f
 
 În interior se poate găsi o zona de procesare și o zona de rulare a trabucurilor.
 
+::: details Locație GPS
+   <Image src="/assets/images/clans/spray-wars/districts/tobacco/GPS.gif" alt="GPS" />
+:::
+
 ##  Întrebări frecvente
 
 ### Cum fac rost de Tobacco Seeds?
