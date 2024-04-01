@@ -13,6 +13,14 @@ Bank District este un district situat în partea de est a hărții, unde membrii
 
 Fiecare membru al heistului va avea un rol unic.
 
+::: details Heist required items
+   <Image src="/assets/images/clans/spray-wars/districts/bank/heist-required-items.gif" alt="Heist required items" />
+:::
+
+::: details Heist Planning
+   <Image src="/assets/images/clans/spray-wars/districts/bank/heist-planning.gif" alt="Heist Planning" />
+:::
+
 Driver-ul trebuie sa detina o masina cu 4 locuri si o barca pe cont.
 
 ### Driver Task 1: Hide the gateaway boat
