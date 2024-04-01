@@ -21,11 +21,21 @@ Fiecare membru al heistului va avea un rol unic.
    <Image src="/assets/images/clans/spray-wars/districts/bank/heist-planning.gif" alt="Heist Planning" />
 :::
 
+## Universal Tasks
+
+### Enter the bank
+
+Toti playerii vor trebui sa intre in banca.
+
+### Steal vault contents
+
+Jucatorii vor trebui sa intre in Vault si sa apese tasta 'E' in cercul mov pentru a fura banii si gold-ul.
+
 ## Driver
 
 Driver-ul trebuie sa detina o masina cu 4 locuri si o barca pe cont.
 
-### Driver Task 1: Hide the gateaway boat
+###  Driver -  Hide the gateaway boat
 
 Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sigura,alesa de acesta. Barca va fi utilizata pentru a scapa de wanted, dupa jaf.
 
@@ -41,7 +51,7 @@ Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sig
    <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Hide-the-getaway-boat.gif" alt="Driver - Hide the getaway boat" />
 :::
 
-### Driver Task 2: Hide the gateaway vehicle near Pacific Standard Bank
+###  Driver - Hide the gateaway vehicle near Pacific Standard Bank
 
 Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific Standard Bank. Aceasta va fi utilizata pentru a ajunge inapoi la barca. 
 
@@ -53,17 +63,10 @@ Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific 
    <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Hide-the-getaway-vehicle.gif" alt="Driver - Hide the getaway vehicle" />
 :::
 
-### Universal Task: Enter the bank
+###  Driver - Wait for the vault to open
 
-Toti playerii vor trebui sa intre in banca.
+Driverul va trebui sa astepte ca Peterman sa sparga usile, Kidnapper sa ia ostatic managerul, iar Cameraman-ul sa sparga camerele.
 
-### Universal Task: Wait for the vault to open
-
-Driver-ul va trebui sa astepte ca Peterman sa sparga usile, Kidnapper sa ia ostatic managerul, iar Cameraman-ul sa sparga camerele.
-
-### Universal Task: Steal vault contents
-
-Jucatorii vor trebui sa intre in Vault, sa apese E in cerc si sa fure banii si gold-ul.
 
 ## Kidnapper
 
