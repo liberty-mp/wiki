@@ -6,22 +6,19 @@ title: Spray Tags - Clans
 
 Red Paint, Green Paint și Blue Paint pot fi obținute practicând jobul [Trucker](../../jobs/trucker.md#obiecte-speciale-pentru-crafting--șanse-de-găsire).
 
-După ce toate ingredientele sunt adunate, jucătorul poate folosi crafting-ul de pe insula Cayo Perico pentru a produce Spray Paint-ul.
-
-
-Pentru a putea efectua tag-urile graffiti, jucătorii trebuie să echipeze Spray Paint-ul si Cloth-ul pentru a sterge tag-urile inamice.
+Pentru a putea efectua tag-urile graffiti, jucătorii trebuie să echipeze Spray Paint-ul și Cloth-ul pentru a putea șterge tag-urile inamice.
 
 ::: details Equip Spray Paint and Cloth
    <Image src="/assets/images/clans/spray-wars/equip-spray-paint-and-cloth.gif" alt="Equip Spray Paint and Cloth" />
 :::
 
-Cu Spray Paint-ul echipat și o suprafață disponibilă, jucătorul poate începe să efectueze tag-urile graffiti apasand tasta 'E' langa perete.
+Cu Spray Paint-ul echipat și o suprafață disponibilă, jucătorul poate începe să efectueze tag-urile graffiti apăsând tasta 'E' lângă perete.
 
 ::: details Spray Tag
    <Image src="/assets/images/clans/spray-wars/spray-tag.gif" alt="Spray Tag" />
 :::
 
-Cu Cloth-ul, jucătorul poate începe să stearga tag-urile graffiti apasand tasta 'E' langa perete.
+Cu Cloth-ul, jucătorul poate începe să șteargă tag-urile graffiti apăsând tasta 'E' lângă perete.
 
 ::: details Erase Tag
    <Image src="/assets/images/clans/spray-wars/erase-tag.gif" alt="Erase Tag" />
