@@ -23,7 +23,7 @@ Server farm-ul este situat în interiorul unei clădiri specializate. Pentru a �
 
 ### Cum minez Bitcoin?
 
-Pentru a începe minatul, jucătorii trebuie să achiziționeze un <InventoryItem itemKey="hardware_wallet" width="64" />. de la Lester. Acesta poate fi găsit folosind GPS-ul.
+Pentru a începe minatul, jucătorii trebuie să achiziționeze un <InventoryItem itemKey="hardware_wallet" width="64" />, de la Lester. Acesta poate fi găsit folosind GPS-ul.
 
 ::: details Locatie GPS Lester
   <Image src="/assets/images/clans/spray-wars/lester/GPS.gif" alt="Locatie GPS Lester" />
