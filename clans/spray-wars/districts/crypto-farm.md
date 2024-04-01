@@ -15,7 +15,7 @@ Membrii clanului ce dețin districtul Crypto Farm, vor avea acces la un sistem d
 
 ###  Locație Server Farm
 
-În interiorul cladirii se poate găsi server farm-ul. In cerc, apasati E pentru a incepe minatul.
+Server farm-ul este situat în interiorul unei clădiri specializate. Pentru a începe minatul, jucătorii trebuie să intre în cercul marcat și să apese tasta 'E'.
 
 ::: details GPS
   <Image src="/assets/images/clans/spray-wars/districts/crypto-farm/GPS.gif" alt="GPS" />
@@ -23,7 +23,7 @@ Membrii clanului ce dețin districtul Crypto Farm, vor avea acces la un sistem d
 
 ### Cum minez Bitcoin?
 
-Pentru minare, jucatorii vor avea nevoie de un <InventoryItem itemKey="hardware_wallet" width="64" />. Acestia il pot cumpara de la Lester.
+Pentru a începe minatul, jucătorii trebuie să achiziționeze un <InventoryItem itemKey="hardware_wallet" width="64" />. de la Lester. Acesta poate fi găsit folosind GPS-ul.
 
 ::: details Locatie GPS Lester
   <Image src="/assets/images/clans/spray-wars/lester/GPS.gif" alt="Locatie GPS Lester" />
@@ -39,13 +39,10 @@ Pentru minare, jucatorii vor avea nevoie de un <InventoryItem itemKey="hardware_
 
 ###  Extract Bitcoin
 
-Monedele de Bitcoin minate, vor trebui extrase din Hardware Wallet si transferate in cont. Pentru a face acest lucru va trebui sa vorbiti cu Lester.
+După ce au minat Bitcoin-ul, jucătorii trebuie să extragă criptomonedele din Hardware Wallet și să le transfere în contul lor. Pentru a face acest lucru, ei trebuie să discute cu Lester pentru a efectua operațiunea de extragere. După ce au fost extrase criptomonedele, jucătorii pot alege să le vândă pentru bani sau să le păstreze în portofelul lor digital.
+> Vezi detalierea [Cryptomonede](../../../economy/crypto.md).
 
 ::: details Extract BTC
   <Image src="/assets/images/clans/spray-wars/lester/extract-crypto.gif" alt="Extract BTC" />
 :::
-
-Dupa extragerea criptomonedelor, jucatorii le vor putea vinde sau transfera din Bank App.
-
-> Vezi detalierea [Cryptomonede](../../../economy/crypto.md).
 
