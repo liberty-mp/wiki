@@ -29,7 +29,7 @@ Toti playerii vor trebui sa intre in banca.
 
 ### Wait for the vault to open
 
-Pentru a deschide Vault-ul, Peterman va trebui sa sparga toate usile, Cameraman-ul sa sparga camerele, iar Kidnapper-ul sa ia ostatic managerul, pe care acesta il va forta sa deschida seiful.
+Pentru a deschide Vault-ul, Peterman va trebui sa topeasca ambele usi, Cameraman-ul sa sparga toate camerele, iar Kidnapper-ul sa ia ostatic managerul, pe care acesta il va forta sa deschida seiful.
 
 ### Steal vault contents
 
