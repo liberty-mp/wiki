@@ -25,6 +25,10 @@ Membrii clanului ce dețin districtul Crypto Farm, vor avea acces la un sistem d
 
 Pentru minare, jucatorii vor avea nevoie de un <InventoryItem itemKey="hardware_wallet" width="64" />. Acestia il pot cumpara de la Lester.
 
+::: details Hardware Wallet
+  <Image src="/assets/images/clans/spray-wars/lester/hardware-wallet.gif" alt="Hardware Wallet" />
+:::
+
 ::: details Crypto Mining
   <Image src="/assets/images/clans/spray-wars/districts/crypto-farm/bitcoin-mining.gif" alt="Crypto Mining" />
 :::
