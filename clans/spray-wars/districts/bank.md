@@ -47,7 +47,7 @@ Jucatorii vor trebui sa intre in Vault si sa apese tasta 'E' in cercul mov pentr
 
 Driver-ul trebuie sa detina o masina cu 4 locuri si o barca pe cont.
 
-###  Driver - Hide the gateaway boat
+###  Hide the gateaway boat
 
 Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sigura,alesa de acesta. Barca va fi utilizata pentru a scapa de wanted, dupa jaf.
 
@@ -63,7 +63,7 @@ Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sig
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Hide-the-getaway-boat.gif" alt="Driver - Hide the getaway boat" />
 :::
 
-###  Driver - Hide the gateaway vehicle near Pacific Standard Bank
+###  Hide the gateaway vehicle near Pacific Standard Bank
 
 Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific Standard Bank. Aceasta va fi utilizata pentru a ajunge inapoi la barca. 
 
@@ -77,13 +77,13 @@ Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific 
 
 ## Kidnapper
 
-### Kidnapper - Grab the bank manager
+### Grab the bank manager
 
 ::: details Grab the bank manager
    <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Grab-the-bank-manager.gif" alt="Kidnapper - Grab the bank manager" />
 :::
 
-### Kidnapper - Force the manager to open the vault
+### Force the manager to open the vault
 
 ::: details Force the manager to open the vault
    <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Force-the-manager-to-open-the-vault.gif" alt="Kidnapper - Force the manager to open the vault" />
@@ -91,13 +91,13 @@ Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific 
 
 ## Peterman
 
-### Peterman - Open the security door using thermite (1/2)
+### Open the security door using thermite (1/2)
 
 ::: details Open the security door using thermite (1/2)
    <Image src="/assets/images/clans/spray-wars/districts/bank/peterman/Open-the-security-door-using-thermite.gif" alt="Peterman - Open the security door using thermite (1/2)" />
 :::
 
-### Peterman - Open the security door using thermite (2/2)
+### Open the security door using thermite (2/2)
 
 ::: details Open the security door using thermite (2/2)
    <Image src="public/assets/images/clans/spray-wars/districts/bank/peterman/Open-the-security-door-using-thermite2.gif" alt="Peterman - Open the security door using thermite (2/2)" />
@@ -105,7 +105,7 @@ Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific 
 
 ## Cameraman
 
-### Cameraman - Destroy the security cameras
+### Destroy the security cameras
 
 ::: details Destroy the security cameras
    <Image src="/assets/images/clans/spray-wars/districts/bank/cameraman/Destroy-the-security-cameras.gif" alt="Cameraman - Destroy the security cameras" />
