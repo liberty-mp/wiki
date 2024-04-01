@@ -42,8 +42,8 @@ Poți face rost de Tobacco Seeds practicând jobul [Lumberjack](/jobs/lumberjack
 
 Poți culege planta de Tobacco după ce aceasta a ajuns la maturitate (15 minute), iar în urma recoltarii vei primi x3 Tobacco leaves.
 
-::: details Harvest Tobacco Seeds
- <Image src="/assets/images/clans/spray-wars/districts/tobacco/harvest-tobacco-seeds.gif" alt="Harvest Tobacco Seeds" />
+::: details Harvest Tobacco Plant
+ <Image src="/assets/images/clans/spray-wars/districts/tobacco/harvest-tobacco-plant.gif" alt="Harvest Tobacco Plant" />
 :::
 
 ::: warning Atentie!
@@ -54,8 +54,8 @@ O plantă dispare în 3 ore dacă aceasta nu este recoltată.
 
 Du-te in locația afișată mai jos si proceseaza Tobacco leaves, iar în urma procesării vei primi x1 Processed Tobacco.
 
-::: details Processimg Tobacco
- <Image src="/assets/images/clans/spray-wars/districts/tobacco/processed-tobacco.png" alt="Processed Tobacco" />
+::: details Processing Tobacco
+ <Image src="/assets/images/clans/spray-wars/districts/tobacco/processing-tobacco.gif" alt="Processing Tobacco" />
 :::
 
 ### Cum rulez un trabuc?
@@ -63,7 +63,7 @@ Du-te in locația afișată mai jos si proceseaza Tobacco leaves, iar în urma p
 Du-te la zona de rulare a trabucurilor și ruleaza unul (vei avea nevoie de x1 Tobacco Leaves si x1 Processed Tobacco)
 
 ::: details 
- <Image src="/assets/images/clans/spray-wars/districts/tobacco/cigar-rolling.png" alt="Cigar Rolling" />
+ <Image src="/assets/images/clans/spray-wars/districts/tobacco/cigar-rolling.gif" alt="Cigar Rolling" />
 :::
 
 
