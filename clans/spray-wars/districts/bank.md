@@ -75,7 +75,6 @@ Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific 
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Hide-the-getaway-vehicle.gif" alt="Driver - Hide the getaway vehicle" />
 :::
 
-
 ## Kidnapper
 
 ### Kidnapper Task 1: Grab the bank manager
@@ -88,4 +87,12 @@ Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific 
 
 ::: details Kidnapper - Force the manager to open the vault
    <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Force-the-manager-to-open-the-vault.gif" alt="Kidnapper - Force the manager to open the vault" />
+:::
+
+## Peterman
+
+## Cameraman
+
+::: details Destroy the security cameras
+   <Image src="/assets/images/clans/spray-wars/districts/bank/cameraman/Destroy-the-security-cameras.gif" alt="Cameraman - Destroy the security cameras" />
 :::
