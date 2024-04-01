@@ -9,9 +9,9 @@ title: Bank District - Clan Spray Wars
 | Număr de Spray Tags? | 20 |
 | Zona District | <Image src="/assets/images/clans/spray-wars/districts/bank.png" width="256" label="Estul hărții" /> |
 
-Bank District este un district situat în partea de est a hărții, unde membrii clanului care deține districtul vor avea acces la un sistem de jafuri bancare. Jucătorii vor putea să organizeze jafuri la băncile din district, fiind necesară o planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal.
+Bank District este un district situat în partea de est a hărții, unde membrii clanului ce dețin districtul vor avea acces la un sistem de jafuri bancare. Jucătorii vor putea să organizeze jafuri la băncile din district, fiind necesară o planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal. Fiecare membru al heistului avand un rol unic.
 
-Fiecare membru al heistului va avea un rol unic.
+Pentru a jefui banca, fiecare membru va trebui sa detina o arma cu cel putin 200 durabilitate si gloante, Heat level 0. Peterman-ul va mai avea nevoie si de x1 Thermal Device si x1 Drill.
 
 ::: details Heist required items
    <Image src="/assets/images/clans/spray-wars/districts/bank/heist-required-items.gif" alt="Heist required items" />
