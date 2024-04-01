@@ -31,6 +31,10 @@ Toti playerii vor trebui sa intre in banca.
 
 Pentru a deschide Vault-ul, Peterman va trebui sa topeasca ambele usi, Cameraman-ul sa sparga toate camerele, iar Kidnapper-ul sa ia ostatic managerul, pe care acesta il va forta sa deschida seiful.
 
+::: details Wait for the vault to open
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Universal-Task-Wait-for-the-vault-to-open.gif" alt="Wait for the vault to open" />
+:::
+
 ### Steal vault contents
 
 Jucatorii vor trebui sa intre in Vault si sa apese tasta 'E' in cercul mov pentru a fura banii si gold-ul.
