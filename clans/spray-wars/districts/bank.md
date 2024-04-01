@@ -15,23 +15,23 @@ Fiecare membru al heistului va avea un rol unic.
 
 Driver-ul trebuie sa detina o masina cu 4 locuri si o barca pe cont.
 
-Driver Task 1: Hide the gateaway boat
+### Driver Task 1: Hide the gateaway boat
 
 Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sigura,alesa de acesta. Barca va fi utilizata pentru a scapa de wanted, dupa jaf.
 
-Driver Task 2: Hide the gateaway vehicle near Pacific Standard Bank
+### Driver Task 2: Hide the gateaway vehicle near Pacific Standard Bank
 
 Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific Standard Bank. Aceasta va fi utilizata pentru a ajunge inapoi la barca. 
 
-Universal Task: Enter the bank
+### Universal Task: Enter the bank
 
 Toti playerii vor trebui sa intre in banca.
 
-Universal Task: Wait for the vault to open
+### Universal Task: Wait for the vault to open
 
 Driver-ul va trebui sa astepte ca Peterman sa sparga usile, Kidnapper sa ia ostatic managerul, iar Cameraman-ul sa sparga camerele.
 
-Universal Task: Steal vault contents
+### Universal Task: Steal vault contents
 
 Jucatorii vor trebui sa intre in Vault, sa apese E in cerc si sa fure banii si gold-ul.
 
