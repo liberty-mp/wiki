@@ -75,6 +75,24 @@ Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific 
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Hide-the-getaway-vehicle.gif" alt="Driver - Hide the getaway vehicle" />
 :::
 
+###  Get in the getaway vehicle
+
+::: details 
+   <Image src="public/assets/images/clans/spray-wars/districts/bank/driver/Get-in-the-getaway-vehicle.gif" alt="Driver - Get in the getaway vehicle" />
+:::
+
+###  Get in the getaway boat
+
+::: details 
+   <Image src="public/assets/images/clans/spray-wars/districts/bank/driver/Get-in-the-getaway-boat.gif" alt="Driver - Get in the getaway boat" />
+:::
+
+###  Go to the submarine
+
+::: details 
+   <Image src="public/assets/images/clans/spray-wars/districts/bank/driver/Go-to-the-submarine.gif" alt="Driver - Go to the submarine" />
+:::
+
 ## Kidnapper
 
 ### Grab the bank manager
