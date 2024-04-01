@@ -80,3 +80,27 @@ Liberty Pass Boost este un nou tip de boost temporar ce poate fi câștigat în 
  - +25% mai mulţi bani la rob
  - dublu streep rep în cadrul roburilor
  - +100% tier experience la payday-uri
+
+## Liberty Pass Rewards
+
+# Bonus Tiers
+
+::: warning Atenție! 
+Aceste questuri pot fi completate doar de jucatorii ce detin Liberty Premium Pass.
+::: 
+
+### Bonus Quest 1
+
+Completeaza 110 misiuni de battlepass.
+
+| Pistol .50 | 9mm Ammo |
+| :---: | :---: |
+| <Image src="https://i.imgur.com/D1DTAiO.png" alt="Pistol .50" width="55" label="Pistol .50" /><br>**x1** | <Image src="https://ucp.liberty.mp/assets/images/inventory/ammo/9mm.png" alt="9mm Ammo" width="55" label="9mm Ammo" /><br>**x2.000** |
+
+### Bonus Quest 2
+
+Acumuleaza 3,500,000 experienta de battlepass.
+
+| Hotring Sabre | Badge |
+| :---: | :---: |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_1115909093.png" alt="Hotring Sabre" width="100" label="Hotring Sabre" /><br> | <Image src="https://ucp.liberty.mp/assets/images/profile/badges/battlepass.png" alt="Badge" width="55" label="Badge" /><br> |

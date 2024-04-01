@@ -8,3 +8,32 @@ title: Crypto Farm District - Clan Spray Wars
 | Activitate District | Sistem de farmare de criptomonede. |
 | Număr de Spray Tags? | 20 |
 | Zona District | <Image src="https://i.imgur.com/2gZ0oML.png" width="256" label="Vestul hărții" /> |
+
+###  Activitațiile din district
+
+Membrii clanului ce dețin districtul Crypto Farm, vor avea acces la un sistem de minare a criptomonedei Bitcoin. Acest district situat în partea de vest a hărții. Jucațorii vor putea să-și lase conturile la minat într-un server farm. Reward-ul obținut va fi în criptomonede.
+
+### Cum minez Bitcoin?
+
+Pentru minare, jucatorii vor avea nevoie de un <InventoryItem itemKey="hardware_wallet" width="64" />. Acestia il pot cumpara de la Lester.
+
+###  Locație Server Farm
+
+În interiorul cladirii se poate găsi server farm-ul. In cerc, apasati E pentru a incepe minatul.
+
+::: details GPS
+  <Image src="" alt="" />
+:::
+
+###  Extract Bitcoin
+
+Monedele de Bitcoin minate, vor trebui extrase din Hardware Wallet si transferate in cont. Pentru a face acest lucru va trebui sa vorbiti cu Lester.
+
+::: details Extract BTC
+  <Image src="" alt="" />
+:::
+
+Dupa extragerea criptomonedelor, jucatorii le vor putea vinde sau transfera din Bank App.
+
+> Vezi detalierea [Cryptomonede](../../../economy/crypto.md).
+
