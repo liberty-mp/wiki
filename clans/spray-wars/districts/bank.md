@@ -91,16 +91,16 @@ Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific 
 
 ## Peterman
 
-### Peterman - 
+### Peterman - Open the security door using thermite (1/2)
 
 ::: details 
-   <Image src="" alt="Peterman -" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/peterman/Open-the-security-door-using-thermite.gif" alt="Peterman - Open the security door using thermite (1/2)" />
 :::
 
-### Peterman - 
+### Peterman - Open the security door using thermite (2/2)
 
 ::: details 
-   <Image src="" alt="Peterman -" />
+   <Image src="" alt="Peterman - Open the security door using thermite (2/2)" />
 :::
 
 ## Cameraman
