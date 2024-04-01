@@ -105,14 +105,9 @@ Odată ce seiful este deschis, membrii heistului trebuie să acționeze rapid pe
 
 Kidnapper-ul trebuie să localizeze și să captureze managerul băncii pentru a obține acces la seif. Forțarea managerului să deschidă seiful este o parte crucială a jafului.
 
-
-### Grab the bank manager
-
 ::: details Grab the bank manager
    <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Grab-the-bank-manager.gif" alt="Kidnapper - Grab the bank manager" />
 :::
-
-### Force the manager to open the vault
 
 ::: details Force the manager to open the vault
    <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Force-the-manager-to-open-the-vault.gif" alt="Kidnapper - Force the manager to open the vault" />
@@ -122,13 +117,9 @@ Kidnapper-ul trebuie să localizeze și să captureze managerul băncii pentru a
 
 Peterman-ul va folosi dispozitivul termic pentru a deschide ușile.
 
-### Open the security door using thermite (1/2)
-
 ::: details Open the security door using thermite (1/2)
    <Image src="/assets/images/clans/spray-wars/districts/bank/peterman/Open-the-security-door-using-thermite.gif" alt="Peterman - Open the security door using thermite (1/2)" />
 :::
-
-### Open the security door using thermite (2/2)
 
 ::: details Open the security door using thermite (2/2)
    <Image src="public/assets/images/clans/spray-wars/districts/bank/peterman/Open-the-security-door-using-thermite2.gif" alt="Peterman - Open the security door using thermite (2/2)" />
@@ -137,8 +128,6 @@ Peterman-ul va folosi dispozitivul termic pentru a deschide ușile.
 ## Cameraman
 
 Cameraman-ul trebuie sa distruga camerele de securitate.
-
-### Destroy the security cameras
 
 ::: details Destroy the security cameras
    <Image src="/assets/images/clans/spray-wars/districts/bank/cameraman/Destroy-the-security-cameras.gif" alt="Cameraman - Destroy the security cameras" />
