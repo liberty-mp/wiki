@@ -27,6 +27,10 @@ Fiecare membru al heistului va avea un rol unic.
 
 Toti playerii vor trebui sa intre in banca.
 
+### Wait for the vault to open
+
+Pentru a deschide Vault-ul, Peterman va trebui sa sparga toate usile, Cameraman-ul sa sparga camerele, iar Kidnapper-ul sa ia ostatic managerul, pe care acesta il va forta sa deschida seiful.
+
 ### Steal vault contents
 
 Jucatorii vor trebui sa intre in Vault si sa apese tasta 'E' in cercul mov pentru a fura banii si gold-ul.
@@ -62,10 +66,6 @@ Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific 
 ::: details Driver - Hide the getaway vehicle
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Hide-the-getaway-vehicle.gif" alt="Driver - Hide the getaway vehicle" />
 :::
-
-###  Driver - Wait for the vault to open
-
-Driverul va trebui sa astepte ca Peterman sa sparga usile, Kidnapper sa ia ostatic managerul, iar Cameraman-ul sa sparga camerele.
 
 
 ## Kidnapper
