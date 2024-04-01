@@ -47,19 +47,19 @@ Jucatorii vor trebui sa intre in Vault si sa apese tasta 'E' in cercul mov pentr
 
 Driver-ul trebuie sa detina o masina cu 4 locuri si o barca pe cont.
 
-###  Driver -  Hide the gateaway boat
+###  Driver - Hide the gateaway boat
 
 Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sigura,alesa de acesta. Barca va fi utilizata pentru a scapa de wanted, dupa jaf.
 
-::: details Driver - Go to the port
+::: details Go to the port
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Go-to-the-port.gif" alt="Driver - Go to the port" />
 :::
 
-::: details Driver - Spawn the getaway boat
+::: details Spawn the getaway boat
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Spawn-the-getaway-boat.gif" alt="Driver - Spawn the getaway boat" />
 :::
 
-::: details Driver - Hide the getaway boat
+::: details Hide the getaway boat
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Hide-the-getaway-boat.gif" alt="Driver - Hide the getaway boat" />
 :::
 
@@ -67,31 +67,45 @@ Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sig
 
 Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific Standard Bank. Aceasta va fi utilizata pentru a ajunge inapoi la barca. 
 
-::: details Driver - Get the getaway vehicle
+::: details Get the getaway vehicle
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Get-the-getaway-vehicle.gif" alt="Driver - Get the getaway vehicle" />
 :::
 
-::: details Driver - Hide the getaway vehicle
+::: details Hide the getaway vehicle
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Hide-the-getaway-vehicle.gif" alt="Driver - Hide the getaway vehicle" />
 :::
 
 ## Kidnapper
 
-### Kidnapper Task 1: Grab the bank manager
+### Kidnapper - Grab the bank manager
 
-::: details Kidnapper - Grab the bank manager
+::: details Grab the bank manager
    <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Grab-the-bank-manager.gif" alt="Kidnapper - Grab the bank manager" />
 :::
 
-### Kidnapper Task 2: Force the manager to open the vault
+### Kidnapper - Force the manager to open the vault
 
-::: details Kidnapper - Force the manager to open the vault
+::: details Force the manager to open the vault
    <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Force-the-manager-to-open-the-vault.gif" alt="Kidnapper - Force the manager to open the vault" />
 :::
 
 ## Peterman
 
+### Peterman - 
+
+::: details 
+   <Image src="" alt="Peterman -" />
+:::
+
+### Peterman - 
+
+::: details 
+   <Image src="" alt="Peterman -" />
+:::
+
 ## Cameraman
+
+### Cameraman - Destroy the security cameras
 
 ::: details Destroy the security cameras
    <Image src="/assets/images/clans/spray-wars/districts/bank/cameraman/Destroy-the-security-cameras.gif" alt="Cameraman - Destroy the security cameras" />
