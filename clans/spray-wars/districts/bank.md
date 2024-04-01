@@ -31,8 +31,20 @@ Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sig
    <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Go-to-the-port.gif" alt="Driver - Go to the port" />
 :::
 
-::: details Driver - Spawn the getaway boat.gif
-   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Spawn-the-getaway-boat.gif" alt="Driver - Spawn the getaway boat.gif" />
+::: details Driver - Spawn the getaway boat
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Spawn-the-getaway-boat.gif" alt="Driver - Spawn the getaway boat" />
+:::
+
+::: details Driver - Hide the getaway boat
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Hide-the-getaway-boat.gif" alt="Driver - Hide the getaway boat" />
+:::
+
+::: details Driver - Get the getaway vehicle
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Get-the-getaway-vehicle.gif" alt="Driver - Get the getaway vehicle" />
+:::
+
+::: details Driver - Hide the getaway vehicle
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Hide-the-getaway-vehicle.gif" alt="Driver - Hide the getaway vehicle" />
 :::
 
 ### Driver Task 2: Hide the gateaway vehicle near Pacific Standard Bank
