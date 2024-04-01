@@ -19,6 +19,14 @@ Driver-ul trebuie sa detina o masina cu 4 locuri si o barca pe cont.
 
 Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sigura,alesa de acesta. Barca va fi utilizata pentru a scapa de wanted, dupa jaf.
 
+::: details Driver - Go to the port
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Go-to-the-port.gif" alt="Driver - Go to the port" />
+:::
+
+::: details Driver - Spawn the getaway boat.gif
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Spawn-the-getaway-boat.gif" alt="Driver - Spawn the getaway boat.gif" />
+:::
+
 ### Driver Task 2: Hide the gateaway vehicle near Pacific Standard Bank
 
 Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific Standard Bank. Aceasta va fi utilizata pentru a ajunge inapoi la barca. 
@@ -34,6 +42,7 @@ Driver-ul va trebui sa astepte ca Peterman sa sparga usile, Kidnapper sa ia osta
 ### Universal Task: Steal vault contents
 
 Jucatorii vor trebui sa intre in Vault, sa apese E in cerc si sa fure banii si gold-ul.
+
 
 ::: details Kidnapper - Grab the bank manager
    <Image src="/assets/images/clans/spray-wars/districts/bank/Kidnapper-Grab-the-bank-manager.gif" alt="Kidnapper - Grab the bank manager" />
