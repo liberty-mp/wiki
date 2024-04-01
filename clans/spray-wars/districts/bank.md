@@ -53,6 +53,8 @@ Driver-ul va trebui sa ascunda o masina cu 4 locuri in preajma bancii Pacific St
 
 ###  Go to the submarine
 
+Odată ieșiți din bancă, aceștia vor trebui să intre în mașină și să ajungă la barcă.
+
 ::: details Get in the getaway vehicle
    <Image src="public/assets/images/clans/spray-wars/districts/bank/driver/Get-in-the-getaway-vehicle.gif" alt="Driver - Get in the getaway vehicle" />
 :::
@@ -69,7 +71,7 @@ Driver-ul va trebui sa ascunda o masina cu 4 locuri in preajma bancii Pacific St
 
 ### Enter the bank
 
-Toti membrii heistului va trebui sa intre in banca.
+Toti membrii heistului vor trebui sa intre in banca.
 
 ### Wait for the vault to open
 
