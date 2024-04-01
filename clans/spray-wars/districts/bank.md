@@ -39,6 +39,10 @@ Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sig
    <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Hide-the-getaway-boat.gif" alt="Driver - Hide the getaway boat" />
 :::
 
+### Driver Task 2: Hide the gateaway vehicle near Pacific Standard Bank
+
+Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific Standard Bank. Aceasta va fi utilizata pentru a ajunge inapoi la barca. 
+
 ::: details Driver - Get the getaway vehicle
    <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Get-the-getaway-vehicle.gif" alt="Driver - Get the getaway vehicle" />
 :::
@@ -46,10 +50,6 @@ Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sig
 ::: details Driver - Hide the getaway vehicle
    <Image src="/assets/images/clans/spray-wars/districts/bank/Driver-Hide-the-getaway-vehicle.gif" alt="Driver - Hide the getaway vehicle" />
 :::
-
-### Driver Task 2: Hide the gateaway vehicle near Pacific Standard Bank
-
-Driver-ul va trebui sa o ascunda o masina cu 4 locuri in preajma Bancii Pacific Standard Bank. Aceasta va fi utilizata pentru a ajunge inapoi la barca. 
 
 ### Universal Task: Enter the bank
 
@@ -64,9 +64,13 @@ Driver-ul va trebui sa astepte ca Peterman sa sparga usile, Kidnapper sa ia osta
 Jucatorii vor trebui sa intre in Vault, sa apese E in cerc si sa fure banii si gold-ul.
 
 
+### Kidnapper Task 1: Grab the bank manager
+
 ::: details Kidnapper - Grab the bank manager
    <Image src="/assets/images/clans/spray-wars/districts/bank/Kidnapper-Grab-the-bank-manager.gif" alt="Kidnapper - Grab the bank manager" />
 :::
+
+### Kidnapper Task 2: Force the manager to open the vault
 
 ::: details Kidnapper - Force the manager to open the vault
    <Image src="/assets/images/clans/spray-wars/districts/bank/Kidnapper-Force-the-manager-to-open-the-vault.gif" alt="Kidnapper - Force the manager to open the vault" />
