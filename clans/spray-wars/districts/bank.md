@@ -15,14 +15,8 @@ Bank District, situat în partea de est a hărții, este unul dintre cele mai st
 ## Planificare și Pregătire:
 Planificarea unui jaf bancar implică mai multe etape esențiale.
 
-Pentru a jefui banca, fiecare membru va trebui să dețină o armă echipată, cu cel puțin 200 de durabilitate și gloanțe și Heat level 0.
-Fiecare membru al heistului trebuie să fie echipat corespunzător. Peterman-ul trebuie să aibă x1 Thermal Device si x1 Drill pentru a deschide ușile, iar Driver-ul trebuie să dețină o mașină și o barcă, pe cont, pentru evadare.
-
-Rolul fiecaruia:
-Driver-ul trebuie să identifice cele mai bune rute de intrare și evadare din bancă. Alegerea locurilor de ascundere pentru mașină și barcă este crucială pentru evadarea acestora.
-Peterman-ul va folosi dispozitivul termic pentru a deschide ușile.
-Cameraman-ul trebuie sa distruga camerele de securitate.
-Kidnapper-ul trebuie să localizeze și să captureze managerul băncii pentru a obține acces la seif. Forțarea managerului să deschidă seiful este o parte crucială a jafului.
+Pentru a jefui banca, fiecare membru al heistului trebuie să fie echipat corespunzător. Acestia va trebui să dețină o armă echipată, cu cel puțin 200 de durabilitate și gloanțe și Heat level 0. 
+Peterman-ul trebuie să aibă x1 Thermal Device si x1 Drill pentru a deschide ușile, iar Driver-ul trebuie să dețină pe cont o mașină și o barcă, pentru evadare.
 
 ::: details Heist required items
    <Image src="/assets/images/clans/spray-wars/districts/bank/heist-required-items.gif" alt="Heist required items" />
@@ -33,6 +27,8 @@ Kidnapper-ul trebuie să localizeze și să captureze managerul băncii pentru a
 :::
 
 ## Driver
+
+Driver-ul trebuie să identifice cele mai bune rute de intrare și evadare din bancă. Alegerea locurilor de ascundere pentru mașină și barcă este crucială pentru evadarea acestora.
 
 ###  Hide the gateaway boat
 
@@ -107,9 +103,10 @@ Odată ce seiful este deschis, membrii heistului trebuie să acționeze rapid pe
 
 ## Kidnapper
 
-### Grab the bank manager
+Kidnapper-ul trebuie să localizeze și să captureze managerul băncii pentru a obține acces la seif. Forțarea managerului să deschidă seiful este o parte crucială a jafului.
 
-Kidnapper-ul trebuie să localizeze și să captureze managerul băncii pentru a obține acces la seif. 
+
+### Grab the bank manager
 
 ::: details Grab the bank manager
    <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Grab-the-bank-manager.gif" alt="Kidnapper - Grab the bank manager" />
@@ -117,13 +114,13 @@ Kidnapper-ul trebuie să localizeze și să captureze managerul băncii pentru a
 
 ### Force the manager to open the vault
 
-Forțarea managerului să deschidă seiful este o parte crucială a jafului.
-
 ::: details Force the manager to open the vault
    <Image src="/assets/images/clans/spray-wars/districts/bank/kidnapper/Force-the-manager-to-open-the-vault.gif" alt="Kidnapper - Force the manager to open the vault" />
 :::
 
 ## Peterman
+
+Peterman-ul va folosi dispozitivul termic pentru a deschide ușile.
 
 ### Open the security door using thermite (1/2)
 
@@ -138,6 +135,8 @@ Forțarea managerului să deschidă seiful este o parte crucială a jafului.
 :::
 
 ## Cameraman
+
+Cameraman-ul trebuie sa distruga camerele de securitate.
 
 ### Destroy the security cameras
 
