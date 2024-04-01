@@ -21,6 +21,8 @@ Fiecare membru al heistului va avea un rol unic.
    <Image src="/assets/images/clans/spray-wars/districts/bank/heist-planning.gif" alt="Heist Planning" />
 :::
 
+## Driver
+
 Driver-ul trebuie sa detina o masina cu 4 locuri si o barca pe cont.
 
 ### Driver Task 1: Hide the gateaway boat
@@ -63,6 +65,7 @@ Driver-ul va trebui sa astepte ca Peterman sa sparga usile, Kidnapper sa ia osta
 
 Jucatorii vor trebui sa intre in Vault, sa apese E in cerc si sa fure banii si gold-ul.
 
+## Kidnapper
 
 ### Kidnapper Task 1: Grab the bank manager
 
