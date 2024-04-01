@@ -35,9 +35,13 @@ Pentru a deschide Vault-ul, Peterman va trebui sa topeasca ambele usi, Cameraman
    <Image src="/assets/images/clans/spray-wars/districts/bank/Universal-Task-Wait-for-the-vault-to-open.gif" alt="Wait for the vault to open" />
 :::
 
-### Steal vault contents
+### Steal the vault contents
 
 Jucatorii vor trebui sa intre in Vault si sa apese tasta 'E' in cercul mov pentru a fura banii si gold-ul.
+
+::: details Steal the vault contents
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Universal-Task-Steal-the-vault-contents.gif" alt="Steal the vault contents" />
+:::
 
 ## Driver
 
