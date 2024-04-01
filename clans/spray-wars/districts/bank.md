@@ -9,9 +9,14 @@ title: Bank District - Clan Spray Wars
 | Număr de Spray Tags? | 20 |
 | Zona District | <Image src="/assets/images/clans/spray-wars/districts/bank.png" width="256" label="Estul hărții" /> |
 
-Bank District este un district situat în partea de est a hărții, unde membrii clanului ce dețin districtul vor avea acces la un sistem de jafuri bancare. Jucătorii vor putea să organizeze jafuri la băncile din district, fiind necesară o planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal. Fiecare membru al heistului avand un rol unic.
 
-Pentru a jefui banca, fiecare membru va trebui sa detina o arma echipata, cu cel putin 200 durabilitate si gloante si Heat level 0. Peterman-ul va mai avea nevoie si de x1 Thermal Device si x1 Drill. Driver-ul trebuie sa detina o masina cu 4 locuri si o barca pe cont.
+Bank District, situat în partea de est a hărții, este unul dintre cele mai strategice districte ale hărții, găzduind Pacific Bank, o instituție bogată și bine păzită. Jucătorii vor putea să organizeze jafuri la băncile din district. Pentru a organiza un jaf reușit, este esențial ca fiecare membru al heistului să își îndeplinească rolul cu precizie și coordonare, fiecare membru avand un rol unic.
+
+## Planificare și Pregătire:
+Planificarea unui jaf bancar implică mai multe etape esențiale.
+
+Pentru a jefui banca, fiecare membru va trebui să dețină o armă echipată, cu cel puțin 200 de durabilitate și gloanțe și Heat level 0.
+Fiecare membru al heistului trebuie să fie echipat corespunzător. Peterman-ul trebuie să aibă x1 Thermal Device si x1 Drill pentru a deschide ușile. Cameraman-ul trebuie sa distruga camerele de securitate, iar Driver-ul trebuie să dețină o mașină și o barcă, pe cont, pentru evadare.
 
 ::: details Heist required items
    <Image src="/assets/images/clans/spray-wars/districts/bank/heist-required-items.gif" alt="Heist required items" />
@@ -25,7 +30,7 @@ Pentru a jefui banca, fiecare membru va trebui sa detina o arma echipata, cu cel
 
 ###  Hide the gateaway boat
 
-Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sigura, alesa de acesta. Barca va fi utilizata pentru a scapa de wanted, dupa jaf.
+Driverul trebuie să spawneze barca din port și să o ascundă într-o locație sigură, aleasă de el. Barca va fi utilizată pentru a scăpa de wanted, după jaf. 
 
 ::: details Go to the port
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Go-to-the-port.gif" alt="Driver - Go to the port" />
@@ -41,7 +46,7 @@ Driverul va trebui sa spawneze barca din port si sa o ascunda intr-o locatie sig
 
 ###  Hide the gateaway vehicle near Pacific Standard Bank
 
-Driver-ul va trebui sa ascunda o masina cu 4 locuri in preajma bancii Pacific Standard. Aceasta va fi utilizata pentru a ajunge inapoi la barca. 
+Driver-ul trebuie să ascundă o mașină cu 4 locuri în apropierea băncii Pacific Standard. Aceasta va fi folosită pentru a ajunge înapoi la barcă.
 
 ::: details Get the getaway vehicle
    <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Get-the-getaway-vehicle.gif" alt="Driver - Get the getaway vehicle" />
@@ -75,7 +80,7 @@ Toti membrii heistului vor trebui sa intre in banca.
 
 ### Wait for the vault to open
 
-Pentru a deschide Vault-ul, Peterman va trebui sa topeasca ambele usi, Cameraman-ul sa sparga toate camerele, iar Kidnapper-ul sa ia ostatic managerul, pe care acesta il va forta sa deschida seiful.
+Pentru a deschide Vault-ul, Peterman va trebui să topească ambele uși, Cameraman-ul să spargă toate camerele, iar Kidnapper-ul să ia ostatic managerul, pe care acesta îl va forța să deschidă seiful.
 
 ::: details Wait for the vault to open
    <Image src="/assets/images/clans/spray-wars/districts/bank/Universal-Task-Wait-for-the-vault-to-open.gif" alt="Wait for the vault to open" />
@@ -83,7 +88,7 @@ Pentru a deschide Vault-ul, Peterman va trebui sa topeasca ambele usi, Cameraman
 
 ### Steal the vault contents
 
-Jucatorii vor trebui sa intre in Vault si sa apese tasta 'E' in cercul mov pentru a fura banii si gold-ul.
+Jucătorii vor trebui să intre în Vault și să apese tasta 'E' în cercul mov pentru a fura banii și aurul.
 
 ::: details Steal the vault contents
    <Image src="/assets/images/clans/spray-wars/districts/bank/Universal-Task-Steal-the-vault-contents.gif" alt="Steal the vault contents" />
