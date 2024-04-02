@@ -60,6 +60,7 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/EhbNQeH.png" alt="Annis Z VER. 370" /> | Annis Z VER. 370 | Nissan 370Z [2019] | <Dinero :amount='181000' /> |
 | <Image src="https://imgur.com/rUqRMYe.png" alt="Vapid Horse" /> | Vapid Horse | Ford Mustang GT [2015] | <Dinero :amount='182000' /> |
 | <Image src="https://imgur.com/1bQWMXM.png" alt="Vapid Bam 1500" /> | Vapid Bam 1500 | Dodge RAM [2020] | <Dinero :amount='182000' /> |
+| <Image src="https://imgur.com/DWNyTeK.png" alt="Vapid Rampant Scorpion" /> | Vapid Rampant Scorpion | F150 Raptor [2021] | <Dinero :amount='182000' /> |
 | <Image src="https://imgur.com/RXWri04.png" alt="Annis Z VER.350" /> | Annis Z VER.350 | Nissan 350Z [2002] | <Dinero :amount='185000' /> |
 | <Image src="https://imgur.com/kTntJxv.png" alt="Karin WRX" /> | Karin WRX | Subaru Impretza WRX STI [2005] | <Dinero :amount='185250' /> |
 | <Image src="https://imgur.com/nVg770v.png" alt="Bravado Competitor" /> | Bravado Competitor | Dodge Challenger [2014] | <Dinero :amount='186000' /> |
@@ -116,12 +117,16 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/Ylr2ZBy.png" alt="Progen VER.720S" /> | Progen VER.720S | McLaren 720S [2020] | <Dinero :amount='720000' /> |
 | <Image src="https://imgur.com/kHbK8Wd.png" alt="Grotti Viktor" /> | Grotti Viktor | Aston Martin Victor [2020] | <Dinero :amount='899789' /> |
 | <Image src="https://imgur.com/AqoZO6a.png" alt="Progen A.S" /> | Progen A.S | McLaren Senna [2019] | <Dinero :amount='1600000' /> |
+| <Image src="https://imgur.com/Xmz9UPj.png" alt="Ubermacht S1KRR" /> | Ubermacht S1KRR | BMW S1000RR [2009] | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | <Dinero :amount='2600000' /> |
 | <Image src="https://imgur.com/v1xVcaA.png" alt="Pegassi Revoltoso" /> | Pegassi Revoltoso | Lamborghini Sian Roadster [2021] | <Dinero :amount='2899999' /> |
 | <Image src="https://imgur.com/MaDcqQj.png" alt="Pegassi Venon" /> | Pegassi Venon | Lamborghini Veneno [2014] | <Dinero :amount='2970000' /> |
+| <Image src="https://imgur.com/Rmvz02i.png" alt="Shitzu H2" /> | Shitzu H2 | BMW S1000RR [2009] | <Dinero :amount='3000000' /> |
+| <Image src="https://imgur.com/E30ZwT1.png" alt="Rimac Nevera" /> | Rimac Nevera | Coil Nubera [2021] | <Dinero :amount='3000000' /> |
 | <Image src="https://imgur.com/H0ZBJGW.png" alt="Överflöd Agr" /> | Överflöd Agr | Koenigsegg Agera [2010] | <Dinero :amount='3100000' /> |
 | <Image src="https://imgur.com/OuaUyH1.png" alt="Truffade Centaur" /> | Truffade Centaur | Bugatti Chiron [2017] | <Dinero :amount='3200000' /> |
 | <Image src="https://imgur.com/7pRa68O.png" alt="Benefactor One" /> | Benefactor One | Mercedes-AMG ONE [2022] | <Dinero :amount='3500000' /> |
+| <Image src="https://imgur.com/uCKiOiI.png" alt="Grotti FXX K Evo" /> | Grotti FXX K Evo | Ferarri FXX K Evo [2017] | <Dinero :amount='3500000' /> |
 | <Image src="https://imgur.com/49ByCFQ.png" alt="Truffade Pasko" /> | Truffade Pasko | Koenigsegg Jesko [2020] | <Dinero :amount='4000000' /> |
 | <Image src="https://imgur.com/tK76Mho.png" alt="Truffade Devil" /> | Truffade Devil | Bugatti Divo [2020] | <Dinero :amount='4350000' /> |
 
