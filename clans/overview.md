@@ -18,7 +18,7 @@ Tagul clanului
 
 ### Display Name
 
-Opțiunea de a alege cum va arăta numele tău în chaturi. 3 opțiuni:
+Opțiunea de a alege cum va arăta numele tău în chaturi. 6 opțiuni:
 
 ::: details Opțiuni Display Name Clan
 
