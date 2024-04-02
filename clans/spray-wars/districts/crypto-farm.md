@@ -15,7 +15,7 @@ Membrii clanului ce dețin districtul Crypto Farm, vor avea acces la un sistem d
 
 ###  Locație Server Farm
 
-Server farm-ul este situat în interiorul unei clădiri specializate. Pentru a începe minatul, jucătorii trebuie să intre în cercul marcat și să apese tasta 'E'.
+Server farm-ul este situat în interiorul unei clădiri specializate. Pentru a începe minatul, jucătorii trebuie să intre în cercul marcat și să apese tasta `E`.
 
 ::: details Locatie GPS Server Farm
   <Image src="/assets/images/clans/spray-wars/districts/crypto-farm/GPS.gif" alt="GPS" />
