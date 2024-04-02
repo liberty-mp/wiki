@@ -40,7 +40,7 @@ Poți face rost de Tobacco Seeds practicând jobul [Lumberjack](/jobs/lumberjack
  <Image src="/assets/images/clans/spray-wars/districts/tobacco/plant-tobacco-seeds.gif" alt="Plant Tobacco Seeds" />
 :::
 
-Poți culege planta de Tobacco după ce aceasta a ajuns la maturitate (15 minute), iar în urma recoltarii vei primi x3 Tobacco leaves.
+Poți culege planta de Tobacco după ce aceasta a ajuns la maturitate (15 minute) apăsând tasta `E`, iar în urma recoltarii vei primi x3 Tobacco leaves.
 
 ::: details Harvest Tobacco Plant
  <Image src="/assets/images/clans/spray-wars/districts/tobacco/harvest-tobacco-plant.gif" alt="Harvest Tobacco Plant" />
@@ -80,7 +80,7 @@ Du-te la zona de rulare a trabucurilor și ruleaza unul (vei avea nevoie de x1 T
 
 ### Cum fumez un trabuc?
 
-Intra in inventar (apăsând tasta 'I'), apasa click dreapta pe un trabuc și click pe Smoke.
+Intra in inventar (apăsând tasta `I`), apasa click dreapta pe un trabuc și click pe Smoke.
 
 ::: details 
  <Image src="" />
