@@ -19,11 +19,11 @@ Pentru a jefui banca, fiecare membru al heistului trebuie să fie echipat coresp
 Peterman-ul trebuie să aibă un Thermal Device si un Drill pentru a deschide ușile, iar Driver-ul trebuie să dețină pe cont o mașină și o barcă, pentru evadare.
 
 ::: details Heist required items
-   <Image src="/assets/images/clans/spray-wars/districts/bank/heist-required-items.gif" alt="Heist required items" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Heist-required-items.gif" alt="Heist required items" />
 :::
 
 ::: details Heist Planning
-   <Image src="/assets/images/clans/spray-wars/districts/bank/heist-planning.gif" alt="Heist Planning" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/Heist-planning.gif" alt="Heist Planning" />
 :::
 
 ## Driver
