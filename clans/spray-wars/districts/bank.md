@@ -94,7 +94,7 @@ Pentru a deschide Vault-ul, Peterman va trebui să topească ambele uși, Camera
 
 ### Steal the vault contents
 
-Odată ce seiful este deschis, membrii heistului trebuie să acționeze rapid pentru a fura banii și aurul din interior. Jucătorii vor trebui să intre în Vault și să apese tasta 'E' în cercul mov pentru a fura banii și aurul.
+Odată ce seiful este deschis, membrii heistului trebuie să acționeze rapid pentru a fura banii și aurul din interior. Jucătorii vor trebui să intre în Vault și să apese tasta `E` în cercul mov pentru a fura banii și aurul.
 
 ::: details Steal the vault contents
    <Image src="/assets/images/clans/spray-wars/districts/bank/Universal-Task-Steal-the-vault-contents.gif" alt="Steal the vault contents" />
