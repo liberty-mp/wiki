@@ -127,7 +127,7 @@ Peterman-ul va folosi dispozitivul termic pentru a deschide ușile.
 
 ## Cameraman
 
-Cameraman-ul trebuie sa distruga camerele de securitate.
+Cameramanul trebuie să distrugă camerele de securitate.
 
 ::: details Destroy the security cameras
    <Image src="/assets/images/clans/spray-wars/districts/bank/cameraman/Destroy-the-security-cameras.gif" alt="Cameraman - Destroy the security cameras" />
