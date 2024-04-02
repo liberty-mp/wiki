@@ -28,6 +28,20 @@ Asemănător cu sezonul 2 din Liberty Pass, sezonul 3 aduce niște modificari mi
 
 ## Întrebări frecvente
 
+### Unde pot vedea premiile tierelor bonus?
+Aceste tiere bonus se pot vedea odata ce navigati pana la ultimele tiere.
+
+::: details Cum apar tierele bonus
+<Image src="https://i.imgur.com/OUoM4NC.png" alt="Bonus Tiers" /> 
+:::
+
+### Cum știu cât delay am la o misiune?
+Acest lucru se poate vedea în căsuța misiunii, paralel cu numarul misiunii.
+
+::: details Cum apare delayul in căsuța misiunii
+<Image src="https://i.imgur.com/OrAjUwN.png" alt="Delay Misiune" /> 
+:::
+
 ### Care este durata acestui eveniment?
 Sezonul 3 a început pe data de 28 Martie 2024 și se va termina pe data de 22 Mai 2024, având o durată de 7 săptămâni.
 
@@ -61,8 +75,9 @@ Poți selecta ce misiuni dorești să vezi prin intermediul butonului aflat în 
 ### Ce sunt tierele bonus?
 Aceste tiere au fost implementate odata cu `Liberty Pass Season 3` pentru a încuraja jucatorii sa fie mai activi, asta rezultând in niște premii mult mai rare fața de cele până în `Tier 100`
 
-::: details Accesarea Tierelor Bonus.
-<Image src="https://i.imgur.com/tmVr8qi.mp4" alt="BonusTiers"/>
+::: details Accesarea Tierelor Bonus
+<Image src="https://i.imgur.com/zg1gHES.gif" alt="BonusTiers"/>
+:::
 
 ::: details Schimbarea week-ului
 <Image src="https://i.imgur.com/7ei6ijM.gif" alt="WeekChange"/>
