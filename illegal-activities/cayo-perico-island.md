@@ -2,7 +2,7 @@
 title: Cayo Perico Island
 ---
 
-Insula Cayo Perico este cunoscută ca fiind cea mai de temut insulă din împrejurimile Los Santos-ului. Pe această insulă se pot face mai multe activități ilegale, precum spălatul banilor marcați obținuți din jefuitul [ATM-urilor](./robberies/atm-robbery.md) sau din [spargerea bâncilor](./robberies/fleeca-bank-robbery.md) și chiar pentru obținerea de iteme distrugătoare, precum bombele folosite în spartul băncilor și obținerea sforilor cu care se scot ATM-urile din perete.
+Insula Cayo Perico este cunoscută ca fiind cea mai de temut insulă din împrejurimile Los Santos-ului. Pe această insulă se pot face mai multe activități ilegale, precum spălatul banilor marcați obținuți din jefuitul [ATM-urilor](./robberies/atm-robbery.md) sau din [spargerea băncilor](./robberies/fleeca-bank-robbery.md) și chiar pentru obținerea de iteme distrugătoare, precum bombele folosite în spartul băncilor și obținerea sforilor cu care se scot ATM-urile din perete.
 
 ## Întrebări frecvente
 
