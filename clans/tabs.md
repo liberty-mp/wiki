@@ -62,22 +62,24 @@ Perk-urile clanului sunt beneficii ce sunt cumpărate folosind $ Money și Gold 
 **Ca membru al clanului poți depozita $ Money și Gold în seiful clanului iar liderul poate dona la un anumit perk pentru a crește nivelul perk-ului.**
 
 ::: details Perks Overview
-<Image src="https://i.imgur.com/CExkH0O.png" alt="Perks Overview" />
+<Image src="https://i.imgur.com/Nms0CFV.png" alt="Perks Overview" />
 :::
 
 | Perk | Perk Description |
 | :--: | :--: |
-| <Image src="https://i.imgur.com/T7KRGLu.png" alt="TEAMWORK EMPOWERMENT" width="100" /> | Maximize performance and provide better compensation for clan members. |
-| <Image src="https://i.imgur.com/RI4HNO9.png" alt="ADVANCED CONNECTIONS" width="100" /> | Police relations enhancement. Decreases wanted duration for clan members. |
-| <Image src="https://i.imgur.com/vusNovl.png" alt="HEIST MASTERY" width="100" /> | Enhance coordination among clan members for higher earnings in heists/robberies. |
-| <Image src="https://i.imgur.com/wBg7vcf.png" alt="ADVANCED SKILL DEVELOPMENT" width="100" /> | Enhance concentration during heists and earn incresead # Street Reputation Points. |
-| <Image src="https://i.imgur.com/L0Mk7XI.png" alt="MONEY LAUNDERING" width="100" /> | Lowers the server tax applied during the 'Money Laundering' opperation. | 
-| <Image src="https://i.imgur.com/ceiwFmC.png" alt="MASTER OF PASSIVE GAINS" width="100" /> | Increases the amount of money received at the end of a passive shift. | 
+| <Image src="https://i.imgur.com/KZfM3aZ.png" alt="TEAMWORK EMPOWERMENT" width="180" /> | Maximize performance and provide better compensation for clan members. |
+| <Image src="https://i.imgur.com/k2gh56h.png" alt="ADVANCED CONNECTIONS" width="180" /> | Police relations enhancement. Decreases wanted duration for clan members. |
+| <Image src="https://i.imgur.com/MLFauAy.png" alt="HEIST MASTERY" width="180" /> | Enhance coordination among clan members for higher earnings in heists/robberies. |
+| <Image src="https://i.imgur.com/EF9OX8H.png" alt="ADVANCED SKILL DEVELOPMENT" width="180" /> | Enhance concentration during heists and earn incresead # Street Reputation Points. |
+| <Image src="https://i.imgur.com/r5kRln3.png" alt="BATTLEFIELD INTEGRATION" width="180" /> | Gain access to the clan warfare system, allowing your clan to comple for control over districts. |
+| <Image src="https://i.imgur.com/G6RRoJU.png" alt="TAGGING EFFICIENCY" width="180" /> | Gain the advantage and reduce the time required overwrite enemy tags and create your own. |
+| <Image src="https://i.imgur.com/G8TkdpG.png" alt="MONEY LAUNDERING" width="180" /> | Lowers the server tax applied during the 'Money Laundering' opperation. | 
+| <Image src="https://i.imgur.com/NLZchPn.png" alt="MASTER OF PASSIVE GAINS" width="180" /> | Increases the amount of money received at the end of a passive shift. | 
 
 
 ## Perk Level-UP Table
 
-Tabelul de mai jos se aplică la toate perk-urile, excepţie fiind la perk-ul Money Laundering. Informaţiile se vor regăsi mai jos.
+Tabelul de mai jos se aplică la toate perk-urile, excepţie fiind la perk-urile Money Laundering, Battlefield Integration si Tagging Effeciency. Informaţiile se vor regăsi mai jos.
 Boost-urile nu se acumulează, boost-ul maxim pentru orice perk fiind 25%/membru.
 
 | Perk Level | $ Money Required | Gold Required | Time to Upgrade | % Boost |
@@ -103,8 +105,23 @@ Money Laundering Level-UP Table
 
 `% of Marked Money` reprezintă suma de bani pe care player-ul o va primi în urma procesului de Laundering. De exemplu, dacă player-ul face parte dintr-un clan ce are level 1 la perk-ul Money Laundering, din <MarkedMoney :amount="10000" /> 35%, adică <Dinero :amount='3500'/>.
 
-## Logs
+Battlefield Integration Table
 
-Log-urile clanului.
-Join, leave, uninvite, invest, buy etc.
-to be updated
+| Perk Level | $ Money Required | Gold Required | Time to Upgrade |
+| :-----------: | :-----------: | :-----------: | :-----------: | 
+| 1 | <Dinero :amount='10000000'/> | <Gold :amount='25000'/> | Instant |
+
+Tagging Effeciency Level-UP Table
+
+::: Timpul de așteptare pentru ștergerea / crearea unui tag este de **5 minute** fară upgrade la perk-ul Tagging Effeciency. 
+:::
+
+| Perk Level | $ Money Required | Gold Required | Time to Upgrade | Effeciency % of time | Time Left |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | 
+| 1 | <Dinero :amount='2500000'/> | <Gold :amount='2000'/> | Instant | 5% | 4 min și 45 sec |
+| 2 | <Dinero :amount='5000000'/> | <Gold :amount='5000'/> | Instant | 10% | 4 min și 30 sec |
+| 3 | <Dinero :amount='8500000'/> | <Gold :amount='10000'/> | Instant | 15% | 4 min și 15 sec | 
+| 4 | <Dinero :amount='13500000'/> | <Gold :amount='20000'/> | Instant | 25% | 3 min și 45 sec |
+| 5 | <Dinero :amount='16500000'/> | <Gold :amount='30000'/> | Instant | 33% | 3 min și 21 sec |
+
+`Effeciency % of time` reprezintă timpul redus pentru ștergerea tag-ului inamic sau crearea tag-ului propriu. De exemplu, dacă un jucător face parte dintr-un clan ce are level 3 la perk-ul Tagging Effeciency, acesta trebuie să aștepte 15% din 5 minute, adică 4 minute și 15 secunde.

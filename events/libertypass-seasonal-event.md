@@ -19,17 +19,31 @@ Acesta poate fi completat atât în varianta [free](#varianta-free), variantă c
 Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzile `/battlepass` si `/bp`, sau prin apăsarea tastei `U`, tastă ce poate fi modificată în meniul de setări.
 
 ::: details Meniul Liberty Pass
-<Image src="https://i.imgur.com/i6VSsOQ.png" alt="MeniuLP" />
+<Image src="https://i.imgur.com/LfrWFGO.png" alt="MeniuLP" />
 :::
 
-Față de sezonul 1, sezonul 2 aduce o serie de schimbări, printre care:
-- 50 de tiere în plus
-- posibilitatea de a obține Tier Experience (XP) din misiuni zilnice
+Asemănător cu sezonul 2 din Liberty Pass, sezonul 3 aduce niște modificari mici dar semnificative, precum:
+- 2 Tiere Bonus
+- Badge Bonus pentru completarea asazisor Tiere.
 
 ## Întrebări frecvente
 
+### Unde pot vedea premiile tierelor bonus?
+Aceste tiere bonus se pot vedea odata ce navigati pana la ultimele tiere.
+
+::: details Cum apar tierele bonus
+<Image src="https://i.imgur.com/OUoM4NC.png" alt="Bonus Tiers" /> 
+:::
+
+### Cum știu cât delay am la o misiune?
+Acest lucru se poate vedea în căsuța misiunii, paralel cu numarul misiunii.
+
+::: details Cum apare delayul in căsuța misiunii
+<Image src="https://i.imgur.com/OrAjUwN.png" alt="Delay Misiune" /> 
+:::
+
 ### Care este durata acestui eveniment?
-Sezonul 2 a început pe data de 16 decembrie 2023 și se va termina pe data de 3 februarie 2024, având o durată de 7 săptămâni.
+Sezonul 3 a început pe data de 28 Martie 2024 și se va termina pe data de 22 Mai 2024, având o durată de 7 săptămâni.
 
 ### Dacă achiziționez varianta premium după ce completez niște tiere, primesc premiile din urmă?
 Da, în momentul achiziționării vei primi și premiile din urmă, indiferent de tier-ul la care ai ajuns.
@@ -58,12 +72,19 @@ Aceste informații apar în partea de sus a meniului dedicat battlepass-ului, su
 ### Cum văd misiunile din week-urile anterioare?
 Poți selecta ce misiuni dorești să vezi prin intermediul butonului aflat în partea stângă a meniului, meniu unde apar toate week-urile disponibile la acel moment.
 
+### Ce sunt tierele bonus?
+Aceste tiere au fost implementate odata cu `Liberty Pass Season 3` pentru a încuraja jucatorii sa fie mai activi, asta rezultând in niște premii mult mai rare fața de cele până în `Tier 100`
+
+::: details Accesarea Tierelor Bonus
+<Image src="https://i.imgur.com/zg1gHES.gif" alt="BonusTiers"/>
+:::
+
 ::: details Schimbarea week-ului
 <Image src="https://i.imgur.com/7ei6ijM.gif" alt="WeekChange"/>
 :::
 
-::: details Prezentare vehicul Grotti Cheetah
-<Image src="https://i.imgur.com/sysDjq9.png" alt="Grotti Cheetah" />  
+::: details Prezentare vehicul Dinka NSX
+<Image src="https://i.imgur.com/3LYRda9.jpeg" alt="Dinka NSX" />  
 :::
 
 ::: details Badge
