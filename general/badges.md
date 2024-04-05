@@ -68,11 +68,11 @@ Membrii clanului aflat pe locul 1 la final de sezon Bounty Hunters vor primi bad
 
 ### Liberty Pass Badge
 
-În momentul de față, există doar un badge ce se poate obține aici, cel pentru sezonul 1, urmând să fie actualizate datele la următoarele sezoane de [Liberty Pass](../events/libertypass-seasonal-event).
+Acest badge poate fi obținut la finalizarea sezonului [Liberty Pass](../events/libertypass-seasonal-event), de catre jucatorii ce detin versiunea [Premium](../events/libertypass-seasonal-event##unde-ajung-itemele-pe-care-le-castig-din-tiere) a battlepass-ului.
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/EuMloev.png" alt="LP1" width="50" label="Liberty Pass Season 1" />| obținut de jucătorii ce termină Liberty Pass-ul, sezonul 1 |
+| <Image src="https://i.imgur.com/EuMloev.png" alt="LP1" width="50" label="Liberty Pass Season" />| obținut de jucătorii ce termină Liberty Pass-ul |
 
 ### Halloween Event Badge
 
