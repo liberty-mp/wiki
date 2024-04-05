@@ -38,7 +38,7 @@ Acest badge este înmânat jucătorilor ce contribuie la testarea sistemelor ale
 | :-----------: | :-----------: |
 | <Image src="https://ucp.liberty.mp/assets/images/profile/badges/beta_tester.png" alt="Beta Tester" width="50" label="Beta Tester Badge" />| obținut la testarea sistemelor de pe serverul Beta |
 
-### Premium Account Badge
+### Premium Account Badges
 
 În momentul de față se pot obține 4 badge-uri de acest tip, fiecare fiind obținut la o anumită perioadă prestabilită achiziționând <PremiumSubscription type='gold' /> / <PremiumSubscription type='platinum' />.
 
@@ -49,7 +49,7 @@ Acest badge este înmânat jucătorilor ce contribuie la testarea sistemelor ale
 | <Image src="https://i.imgur.com/vL6ckpM.png" alt="Premium 3" width="50" label="Premium 3 Years" />| obținut la achiziționarea de 3 ani de premium account |
 | <Image src="https://i.imgur.com/2QDVNZH.png" alt="Premium 4" width="50" label="Premium 4 Years" />| obținut la achiziționarea de 4 ani de premium account |
 
-### Bounty Hunters Badge
+### Bounty Hunters Badges
 
 Există 5 tipuri de badge pentru această activitate și unul pentru clan. Acestea se pot obține în funcție de locul pe care-l ocupi la finalul unui sezon de [Bounty Hunters](../events/bounty-hunters).
 
@@ -66,7 +66,7 @@ Membrii clanului aflat pe locul 1 la final de sezon Bounty Hunters vor primi bad
 | <Image src="https://i.imgur.com/NGwpTQ4.png" alt="BH4" width="50" label="Bounty Hunters Silver" />| obținut la finalul unui sezon de Bounty Hunters pe locul 4 |
 | <Image src="https://i.imgur.com/bKpnEvf.png" alt="BH5" width="50" label="Bounty Hunters Bronze" />| obținut la finalul unui sezon de Bounty Hunters pe locul 5 |
 
-### Liberty Pass Badge
+### Liberty Pass Badges
 
 Acest badge poate fi obținut la finalizarea battlepass-ului [Liberty Pass](../events/libertypass-seasonal-event-).
 
