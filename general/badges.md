@@ -78,7 +78,7 @@ Un nou badge a fost implementat odata cu `Liberty Pass Season 3`, acesta poate f
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/ll3ZMoF.png" alt="LP Bonus Quests Badge" width="50" label="LP Bonus Quests Badge" />| obținut de jucătorii ce au completat cele două Questuri Bonus din Liberty Pass |
+| <Image src="https://i.imgur.com/rYMgGg9.png" alt="LP Bonus Quests Badge" width="100" label="LP Bonus Quests Badge" />| obținut de jucătorii ce au completat cele două Questuri Bonus din Liberty Pass |
 
 ### Halloween Event Badge
 
