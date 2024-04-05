@@ -72,7 +72,13 @@ Acest badge poate fi obținut la finalizarea battlepass-ului [Liberty Pass](../e
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/EuMloev.png" alt="LP1" width="50" label="Liberty Pass Season" />| obținut de jucătorii ce termină Liberty Pass-ul |
+| <Image src="https://i.imgur.com/EuMloev.png" alt="Liberty Pass" width="50" label="Liberty Pass Season" />| obținut de jucătorii ce termină Liberty Pass-ul |
+
+Un nou badge a fost implementat odata cu `Liberty Pass Season 3`, acesta poate fi obținut de jucătorii ce dețin Liberty Premium Pass și au completat cele două Questuri Bonus din [Liberty Pass](../events/libertypass-seasonal-event-).
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/EuMloev.png" alt=" width="50" label="Liberty Pass Season" />| obținut de jucătorii ce au completat cele două Questuri Bonus din Liberty Pass |
 
 ### Halloween Event Badge
 
