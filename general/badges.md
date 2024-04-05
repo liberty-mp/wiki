@@ -22,13 +22,21 @@ Nu, badge-urile nu aduc nici un beneficiu in-game, ci doar estetic pe [UCP](http
 
 În următoarele rânduri veți găsi badge-urile disponibile în momentul de față afișate într-un tabel și ce trebuie să faceți pentru a le obține.
 
-### Beta Period Badge
+### Open Beta Period Badge
 
-Acest badge a fost înmânat jucătorilor ce au contribuit în perioada beta a serverului. Nu se mai poate obține în momentul actual.
+Acest badge a fost înmânat jucătorilor ce au contribuit în perioada open beta a serverului. Nu se mai poate obține în momentul actual.
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/Bnr5W0Q.png" alt="BadgeBETA" width="50" label="Beta Testing Badge" />| obținut în perioada beta |
+
+### Beta Tester Badge
+
+Acest badge este înmânat jucătorilor ce contribuie la testarea sistemelor ale serverului.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="[https://i.imgur.com/Bnr5W0Q.png](https://ucp.liberty.mp/assets/images/profile/badges/beta_tester.png)" alt="Beta Tester" width="50" label="Beta Tester Badge" />| obținut în perioada beta |
 
 ### Premium Account Badge
 
