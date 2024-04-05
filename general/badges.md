@@ -36,7 +36,7 @@ Acest badge este înmânat jucătorilor ce contribuie la testarea sistemelor ale
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="[https://i.imgur.com/Bnr5W0Q.png](https://ucp.liberty.mp/assets/images/profile/badges/beta_tester.png)" alt="Beta Tester" width="50" label="Beta Tester Badge" />| obținut în perioada beta |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/beta_tester.png" alt="Beta Tester" width="50" label="Beta Tester Badge" />| obținut în perioada beta |
 
 ### Premium Account Badge
 
