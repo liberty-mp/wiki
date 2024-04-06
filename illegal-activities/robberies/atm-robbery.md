@@ -8,8 +8,8 @@ title: ATM Robbery
 | Necesită permis de conducere? | Nu. |
 | Necesită iteme specifice? | <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" />
 | Necesită un minim de level? | Da, ai nevoie de minim level 3. |
-| Necesită un anumit skill? | Da, ai nevoie de skill [Snitch](../index.md#care-sunt-skill-urile-la-robbing-street-reputation) |
-
+| Necesită un anumit Skill? | Da, ai nevoie de skill [Snitch](../index.md#care-sunt-skill-urile-la-robbing-street-reputation) |
+| De ce Heat Level am nevoie ? | Ai nevoie minim 40 Heat Level. |
 
 ## Desfășurarea unui **ATM Robbery**
 
