@@ -63,19 +63,19 @@ Driver-ul trebuie să ascundă o mașină cu 4 locuri în apropierea băncii Pac
 După ce au luat toate obiectele valoroase din seif, membrii heistului trebuie să se regrupeze și să evadeze din bancă cât mai repede posibil. Odată ieșiți din bancă, aceștia vor trebui să intre în mașină și să ajungă la barcă.
 
 ::: details Get in the getaway vehicle
-   <Image src="public/assets/images/clans/spray-wars/districts/bank/driver/Get-in-the-getaway-vehicle.gif" alt="Driver - Get in the getaway vehicle" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Get-in-the-getaway-vehicle.gif" alt="Driver - Get in the getaway vehicle" />
 :::
 
 Driver-ul trebuie să conducă echipa la locația unde a fost ascunsă barca. Utilizarea rutei de evadare pregătite anterior este esențială pentru a evita prinderea de către poliție.
 
 ::: details Get in the getaway boat
-   <Image src="public/assets/images/clans/spray-wars/districts/bank/driver/Get-in-the-getaway-boat.gif" alt="Driver - Get in the getaway boat" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Get-in-the-getaway-boat.gif" alt="Driver - Get in the getaway boat" />
 :::
 
 Utilizând barca pregătită, membrii heistului trebuie să evadeze din zona de pericol și să conduca pana la Submarin, unde acestia vor primii banii marcati si goldul si vor scapa si de wanted.
 
 ::: details Go to the submarine
-   <Image src="public/assets/images/clans/spray-wars/districts/bank/driver/Go-to-the-submarine.gif" alt="Driver - Go to the submarine" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/driver/Go-to-the-submarine.gif" alt="Driver - Go to the submarine" />
 :::
 
 ## Universal Tasks
@@ -122,7 +122,7 @@ Peterman-ul va folosi dispozitivul termic pentru a deschide ușile.
 :::
 
 ::: details Open the security door using thermite (2/2)
-   <Image src="public/assets/images/clans/spray-wars/districts/bank/peterman/Open-the-security-door-using-thermite2.gif" alt="Peterman - Open the security door using thermite (2/2)" />
+   <Image src="/assets/images/clans/spray-wars/districts/bank/peterman/Open-the-security-door-using-thermite2.gif" alt="Peterman - Open the security door using thermite (2/2)" />
 :::
 
 ## Cameraman
