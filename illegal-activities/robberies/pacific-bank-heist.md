@@ -17,7 +17,7 @@ Pentru a jefui banca, jucatorii vor trebui sa faca parte dintr-un clan ce detine
 Planificarea unui jaf bancar implică mai multe etape esențiale.
 
 Pentru a organiza un jaf, fiecare membru al heistului trebuie să fie echipat corespunzător. Acestia va trebui să dețină o armă echipată, cu cel puțin 200 de durabilitate și gloanțe și Heat level 0. 
-Peterman-ul trebuie să aibă un [Thermal Device](../cayo-perico-island.md#crafting-iteme) si de un [Drill](../../jobs/tow-truck-driver.md#obiecte-speciale-pentru-activități--șanse-de-găsire) pentru a deschide ușile, iar Driver-ul trebuie să dețină pe cont o mașină și o barcă, pentru evadare.
+Peterman-ul trebuie să aibă un [Thermal Device](../cayo-perico-island.md#crafting-iteme) si un [Drill](../../jobs/tow-truck-driver.md#obiecte-speciale-pentru-activități--șanse-de-găsire) pentru a deschide ușile, iar Driver-ul trebuie să dețină pe cont o mașină cu 4 locuri și o barcă, pentru evadare.
 
 ::: details Heist required items
    <Image src="/assets/images/clans/spray-wars/districts/bank/Heist-required-items.gif" alt="Heist required items" />
