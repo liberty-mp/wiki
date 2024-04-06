@@ -8,6 +8,7 @@ title: Fleeca Bank Robbery
 | Necesită permis de conducere? | Nu. |
 | Necesită iteme specifice? | <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> <Image src="https://i.imgur.com/7yoaS4e.png" alt="Pliers" width="48" label="Pliers" /> <Image src="https://i.imgur.com/Z2ORyVw.png" alt="Drill" width="48" label="Drill" />
 | Necesită un anumit skill? | Da, ai nevoie de skill [Shoplifter](../index.md#care-sunt-skill-urile-la-robbing-street-reputation) |
+| De ce Heat Level am nevoie ? | Ai nevoie minim 9 Heat Level. |
 
 ## Desfășurarea unui Bank Rob
 
