@@ -33,8 +33,8 @@ Vorbind cu Dembe, poți cumpăra următoarele obiecte folosind Special Event Tok
 
 | Item | Tokens |
 | :-: | :-: |
-| <Image src="https://i.imgur.com/CjvfBdN.png" alt="Treasure Map" width="50" label="Treasure Map" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x100 Tokens" /> |
-| <Image src="https://i.imgur.com/c3AHcGs.png" alt="Shovel" width="50" label="Shovel" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x25 Tokens" /> |
+| <Image src="https://i.imgur.com/CjvfBdN.png" alt="Treasure Map" width="50" label="Treasure Map" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x65 Tokens" /> |
+| <Image src="https://i.imgur.com/c3AHcGs.png" alt="Shovel" width="50" label="Shovel" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x15 Tokens" /> |
 
 ### Treasure Map Rewards  
 
