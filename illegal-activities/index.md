@@ -62,7 +62,7 @@ Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce 
 
 ### Pacific Bank Heist 🏦💰
 
-În cadrul acestei acțiuni ilegale, jucătorii au oportunitatea să organizeze jafuri la banca Pacific, o instituție bogată și bine păzită. Pentru a organiza un jaf, jucatorii vor trebui sa faca parte dintr-un clan ce detine [Bank District](.clans/spray-wars/districts/bank.md). Este esențial ca fiecare membru al heistului să își îndeplinească rolul cu precizie și coordonare, fiecare membru avand un rol unic. Este o activitate extrem de riscantă, care necesită planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal. Cu toate acestea, trebuie să fie conștienți că consecințele unui eșec pot fi serioase și pot implica urmărirea penală.
+În cadrul acestei acțiuni ilegale, jucătorii au oportunitatea să organizeze jafuri la banca Pacific, o instituție bogată și bine păzită. Pentru a organiza un jaf, jucatorii vor trebui sa faca parte dintr-un clan ce detine [Bank District](../clans/spray-wars/districts/bank.md). Este esențial ca fiecare membru al heistului să își îndeplinească rolul cu precizie și coordonare, fiecare membru avand un rol unic. Este o activitate extrem de riscantă, care necesită planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal. Cu toate acestea, trebuie să fie conștienți că consecințele unui eșec pot fi serioase și pot implica urmărirea penală.
 *Ai nevoie de 500 puncte de **Street Reputations Points** pentru a jefui o bancă.*
 
 > Vezi detalierea [Pacific Bank Heist](./robberies/pacific-bank-heist.md).
