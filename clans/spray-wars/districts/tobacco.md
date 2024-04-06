@@ -1,4 +1,4 @@
----
+e---
 title: Tobacco District - Clan Spray Wars
 ---
 
@@ -73,9 +73,9 @@ Du-te la zona de rulare a trabucurilor și ruleaza unul (vei avea nevoie de x1 T
 
 | Cigar | Regen |
 | :---: | :---: |
-| <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/penny_puffer.png" alt="Penny Puffer" label="Penny Puffer" width="100" /><br>**Penny Puffer** |  30hp in 30 secunde |
-| <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/vintage_velvet.png" alt="Vintage Velvet" label="Vintage Velvet" width="100" /><br>**Vintage Velvet** |  60hp in 30 secunde |
-| <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/regal_reserve.png" alt="Regal Reserve" label="Regal Reserve" width="100" /><br>**Regal Reserve** |  90hp in 30 secunde |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/penny_puffer.png" alt="Penny Puffer" label="Penny Puffer" width="100" /><br> |  30hp in 30 secunde |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/vintage_velvet.png" alt="Vintage Velvet" label="Vintage Velvet" width="100" /><br> |  60hp in 30 secunde |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/regal_reserve.png" alt="Regal Reserve" label="Regal Reserve" width="100" /><br> |  90hp in 30 secunde |
 
 
 ### Cum fumez un trabuc?
