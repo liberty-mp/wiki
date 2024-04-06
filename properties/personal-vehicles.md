@@ -114,7 +114,7 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/rXXmaKY.png" alt="Pegassi Amantador" /> | Pegassi Amantador |  Lamborghini Aventador [2017] | <Dinero :amount='1705000' /> |
 | <Image src="https://imgur.com/HxIeVR9.png" alt="Grotti 488 Track" /> | Grotti 488 Track  | Ferrari 488 [2019] | <Dinero :amount='1711000' /> |
 | <Image src="https://imgur.com/Ylr2ZBy.png" alt="Progen VER. 720S" /> | Progen VER. 720S | McLaren 720S [2020] | <Dinero :amount='1720000' /> |
-| <Image src="https://imgur.com/6aKv0Lu.png" width="110" alt="Vapid GT 17" /> | Vapid GT 17 | Lamborghini Countach LPI 800-4 [2022] | <Dinero :amount='1760021' /> |
+| <Image src="https://imgur.com/6aKv0Lu.png" width="110" alt="Vapid GT 17" /> | Vapid GT 17 | Ford GT [2017] | <Dinero :amount='1760021' /> |
 | <Image src="https://imgur.com/CyvM4lv.png" width="110" alt="Pegassi Cotach LIPI" /> | Pegassi Cotach LIPI | Lamborghini Countach LPI 800-4 [2022] | <Dinero :amount='1815000' /> |
 | <Image src="https://imgur.com/WSSM33v.png" alt="Pfister Turbo S VER. 992" /> | Pfister Turbo S VER. 992 | Porsche Turbo S 992 [2020] | <Dinero :amount='1820000' /> |
 | <Image src="https://imgur.com/kHbK8Wd.png" alt="Grotti Viktor" /> | Grotti Viktor | Aston Martin Victor [2020] | <Dinero :amount='2100000' /> |
