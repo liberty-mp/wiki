@@ -60,6 +60,13 @@ Heat Level-ul este un sistem de delay (amânare) al activităților ilegale, ce 
 
 > Vezi detalierea [Fleeca Bank Robbery](./robberies/fleeca-bank-robbery.md).
 
+### Pacific Bank Heist 🏦💰
+
+În cadrul acestei acțiuni ilegale, jucătorii au oportunitatea să organizeze jafuri la banca Pacific, o instituție bogată și bine păzită. Pentru a organiza un jaf, jucatorii vor trebui sa faca parte dintr-un clan ce detine [Bank District](.clans/spray-wars/districts/bank.md). Este esențial ca fiecare membru al heistului să își îndeplinească rolul cu precizie și coordonare, fiecare membru avand un rol unic. Este o activitate extrem de riscantă, care necesită planificare amănunțită și determinare pentru a obține comorile băncilor în mod ilegal. Cu toate acestea, trebuie să fie conștienți că consecințele unui eșec pot fi serioase și pot implica urmărirea penală.
+*Ai nevoie de 500 puncte de **Street Reputations Points** pentru a jefui o bancă.*
+
+> Vezi detalierea [Pacific Bank Heist](./robberies/pacific-bank-heist.md).
+
 ### Cayo Perico Island 🏝️
 
 Insula Cayo Perico este cunoscută ca fiind cea mai de temut insulă din împrejurimile Los Santos-ului. Pe această insulă se pot face mai multe activități ilegale, precum spălatul banilor marcați obținuți din jefuitul [ATM-urilor](./robberies/atm-robbery.md) sau din [spargerea bâncilor](./robberies/fleeca-bank-robbery.md) și chiar pentru obținerea de iteme distrugătoare, precum bombele folosite în spartul băncilor și obținerea sforilor cu care se scot ATM-urile din perete.
