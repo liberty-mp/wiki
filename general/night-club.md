@@ -17,7 +17,7 @@ Jucătorii pot solicita DJ-ului să difuzeze o melodie preferată, aceasta va fi
 După ce ai făcut acest lucru, pe ecran va apărea un meniu în care trebuie să cauți melodia dorită și să o selectezi.
 
 ::: tip Informații
-Fiecare melodie solicitată costă <Dinero :amount="1_000" />.
+Fiecare melodie solicitată costă <Dinero :amount="200" />.
 
 Melodia solicitată va fi adăugată într-o coadă de redare și va fi difuzată în club în ordinea în care a fost solicitată.
 

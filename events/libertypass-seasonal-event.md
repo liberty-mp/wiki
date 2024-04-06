@@ -75,6 +75,10 @@ Poți selecta ce misiuni dorești să vezi prin intermediul butonului aflat în 
 ### Ce sunt tierele bonus?
 Aceste tiere au fost implementate odata cu `Liberty Pass Season 3` pentru a încuraja jucatorii sa fie mai activi, asta rezultând in niște premii mult mai rare fața de cele până în `Tier 100`
 
+::: warning Atenție! 
+Aceste questuri pot fi completate doar de jucatorii ce detin Liberty Premium Pass.
+::: 
+
 ::: details Accesarea Tierelor Bonus
 <Image src="https://i.imgur.com/zg1gHES.gif" alt="BonusTiers"/>
 :::

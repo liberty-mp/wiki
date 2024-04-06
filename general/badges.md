@@ -22,15 +22,23 @@ Nu, badge-urile nu aduc nici un beneficiu in-game, ci doar estetic pe [UCP](http
 
 În următoarele rânduri veți găsi badge-urile disponibile în momentul de față afișate într-un tabel și ce trebuie să faceți pentru a le obține.
 
-### Beta Period Badge
+### Open Beta Period Badge
 
-Acest badge a fost înmânat jucătorilor ce au contribuit în perioada beta a serverului. Nu se mai poate obține în momentul actual.
+Acest badge a fost înmânat jucătorilor ce au contribuit în perioada open beta a serverului. Nu se mai poate obține în momentul actual.
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/Bnr5W0Q.png" alt="BadgeBETA" width="50" label="Beta Testing Badge" />| obținut în perioada beta |
 
-### Premium Account Badge
+### Beta Tester Badge
+
+Acest badge este înmânat jucătorilor ce contribuie la testarea sistemelor ale serverului.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/beta_tester.png" alt="Beta Tester" width="50" label="Beta Tester Badge" />| obținut la testarea sistemelor de pe serverul Beta |
+
+### Premium Account Badges
 
 În momentul de față se pot obține 4 badge-uri de acest tip, fiecare fiind obținut la o anumită perioadă prestabilită achiziționând <PremiumSubscription type='gold' /> / <PremiumSubscription type='platinum' />.
 
@@ -41,7 +49,7 @@ Acest badge a fost înmânat jucătorilor ce au contribuit în perioada beta a s
 | <Image src="https://i.imgur.com/vL6ckpM.png" alt="Premium 3" width="50" label="Premium 3 Years" />| obținut la achiziționarea de 3 ani de premium account |
 | <Image src="https://i.imgur.com/2QDVNZH.png" alt="Premium 4" width="50" label="Premium 4 Years" />| obținut la achiziționarea de 4 ani de premium account |
 
-### Bounty Hunters Badge
+### Bounty Hunters Badges
 
 Există 5 tipuri de badge pentru această activitate și unul pentru clan. Acestea se pot obține în funcție de locul pe care-l ocupi la finalul unui sezon de [Bounty Hunters](../events/bounty-hunters).
 
@@ -58,13 +66,19 @@ Membrii clanului aflat pe locul 1 la final de sezon Bounty Hunters vor primi bad
 | <Image src="https://i.imgur.com/NGwpTQ4.png" alt="BH4" width="50" label="Bounty Hunters Silver" />| obținut la finalul unui sezon de Bounty Hunters pe locul 4 |
 | <Image src="https://i.imgur.com/bKpnEvf.png" alt="BH5" width="50" label="Bounty Hunters Bronze" />| obținut la finalul unui sezon de Bounty Hunters pe locul 5 |
 
-### Liberty Pass Badge
+### Liberty Pass Badges
 
-În momentul de față, există doar un badge ce se poate obține aici, cel pentru sezonul 1, urmând să fie actualizate datele la următoarele sezoane de [Liberty Pass](../events/libertypass-seasonal-event).
+Acest badge poate fi obținut la finalizarea battlepass-ului [Liberty Pass](../events/libertypass-seasonal-event-).
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/EuMloev.png" alt="LP1" width="50" label="Liberty Pass Season 1" />| obținut de jucătorii ce termină Liberty Pass-ul, sezonul 1 |
+| <Image src="https://i.imgur.com/EuMloev.png" alt="Liberty Pass" width="50" label="Liberty Pass Season" />| obținut de jucătorii ce termină Liberty Pass-ul |
+
+Un nou badge a fost implementat odata cu `Liberty Pass Season 3`, acesta poate fi obținut de jucătorii ce dețin Liberty Premium Pass și au completat cele două Questuri Bonus din [Liberty Pass](../events/libertypass-seasonal-event-).
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/rYMgGg9.png" alt="LP Bonus Quests Badge" width="100" label="LP Bonus Quests Badge" />| obținut de jucătorii ce au completat cele două Questuri Bonus din Liberty Pass |
 
 ### Halloween Event Badge
 
