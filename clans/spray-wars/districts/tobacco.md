@@ -81,7 +81,3 @@ Du-te la zona de rulare a trabucurilor și ruleaza unul (vei avea nevoie de x1 T
 ### Cum fumez un trabuc?
 
 Intra in inventar (apăsând tasta `I`), apasa click dreapta pe un trabuc și click pe Smoke.
-
-::: details 
- <Image src="" />
-:::
