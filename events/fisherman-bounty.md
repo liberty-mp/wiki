@@ -23,7 +23,7 @@ Evenimentul **NU** are o limită de repetări pe zi. Poți rezolva câte Treasur
 Poți avea maxim o hartă în inventar. Nu este tradable.<br>
 Shovel-ul trebuie cumpărat doar o dată, nu se uzează.<br>
 Event Tokens & Shovel & Fisherman's Bounty Crate **sunt tradable**.<br>
-Event Tokens & Fisherman's Bounty Crate - maxim 100 bucăți/stack.<br>
+Event Tokens & Fisherman's Bounty Crate - maxim 65 bucăți/stack.<br>
 Toate ticketele câștigate în cadrul evenimentului **sunt tradable**.<br>
 :::
 
@@ -33,8 +33,8 @@ Vorbind cu Dembe, poți cumpăra următoarele obiecte folosind Special Event Tok
 
 | Item | Tokens |
 | :-: | :-: |
-| <Image src="https://i.imgur.com/CjvfBdN.png" alt="Treasure Map" width="50" label="Treasure Map" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x100 Tokens" /> |
-| <Image src="https://i.imgur.com/c3AHcGs.png" alt="Shovel" width="50" label="Shovel" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x25 Tokens" /> |
+| <Image src="https://i.imgur.com/CjvfBdN.png" alt="Treasure Map" width="50" label="Treasure Map" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x65 Tokens" /> |
+| <Image src="https://i.imgur.com/c3AHcGs.png" alt="Shovel" width="50" label="Shovel" /> | <Image src="https://i.imgur.com/Bfl2sfW.png" alt="Tokens" width="50" label="x15 Tokens" /> |
 
 ### Treasure Map Rewards  
 
