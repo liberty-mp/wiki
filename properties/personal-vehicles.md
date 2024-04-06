@@ -123,8 +123,8 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | <Dinero :amount='2600000' /> |
 | <Image src="https://imgur.com/v1xVcaA.png" alt="Pegassi Revoltoso" /> | Pegassi Revoltoso | Lamborghini Sian Roadster [2021] | <Dinero :amount='2899999' /> |
 | <Image src="https://imgur.com/MaDcqQj.png" alt="Pegassi Venon" /> | Pegassi Venon | Lamborghini Veneno [2014] | <Dinero :amount='2970000' /> |
-| <Image src="https://imgur.com/Rmvz02i.png" alt="Shitzu H2" /> | Shitzu H2 | BMW S1000RR [2009] | <Dinero :amount='3000000' /> |
-| <Image src="https://imgur.com/E30ZwT1.png" alt="Rimac Nevera" /> | Rimac Nevera | Coil Nubera [2021] | <Dinero :amount='3000000' /> |
+| <Image src="https://imgur.com/Rmvz02i.png" alt="Shitzu H2" /> | Shitzu H2 | Kawasaki Ninja H2 [2014]| <Dinero :amount='3000000' /> |
+| <Image src="https://imgur.com/E30ZwT1.png" alt="Coil Nubera" /> | Coil Nubera | Rimac Nevera [2021] | <Dinero :amount='3000000' /> |
 | <Image src="https://imgur.com/H0ZBJGW.png" alt="Överflöd Agr" /> | Överflöd Agr | Koenigsegg Agera [2010] | <Dinero :amount='3100000' /> |
 | <Image src="https://imgur.com/OuaUyH1.png" alt="Truffade Centaur" /> | Truffade Centaur | Bugatti Chiron [2017] | <Dinero :amount='3200000' /> |
 | <Image src="https://imgur.com/7pRa68O.png" alt="Benefactor One" /> | Benefactor One | Mercedes-AMG ONE [2022] | <Dinero :amount='3500000' /> |
