@@ -27,12 +27,9 @@ Prețurile variază în funcție de haină. Un tabel cu acestea aveți mai jos.
 
 | **Tip** | **Preț cuprins între** |
 | :-----------: | :-----------: | 
-| Ochelari | <Dinero :amount='300' /> - <Dinero :amount='2500' />| 
 | Top | <Dinero :amount='120' /> - <Dinero :amount='10200' /> | 
 | Pantaloni | <Dinero :amount='10' /> - <Dinero :amount='4000' /> | 
-| Ceasuri | <Dinero :amount='2000' /> - <Dinero :amount='44000' /> |
 | Adidași | <Dinero :amount='160' /> - <Dinero :amount='2200' /> | 
-| Brățări | <Dinero :amount='500' /> - <Dinero :amount='18000' />| 
 
 ::: details Clothing store 
 
@@ -148,6 +145,7 @@ Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger
 | Mâncare & băutură | <Dinero :amount='20' /> |
 | Wooden Pickaxe | <Dinero :amount='100' /> |
 | Empty Can | <Dinero :amount='250' /> |
+| Helmet M/F | <Dinero :amount='5000'/> |
 
 ::: details 24/7
 <Image src="http://i.imgur.com/2RnhMsn.gif" alt="242" />
