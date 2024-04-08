@@ -30,6 +30,10 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
  <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
 :::
 
+:::  Tip
+Un test drive durează 120 de secunde.
+:::  
+
 ::: details Achiziționare vehicul
  <Image src="https://i.imgur.com/3neAWth.gif" alt="Achiziționare vehicul" />
 :::
