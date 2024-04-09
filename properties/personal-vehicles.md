@@ -104,7 +104,6 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/5V0i26g.png" alt="Übermacht M4 Facelift" /> | Übermacht M4 Facelift | BMW M4 [2021] | <Dinero :amount='635000' /> |
 | <Image src="https://imgur.com/lcVIfRc.png" alt="Übermacht VER.8 Competition" /> | Übermacht VER.8 Competition | BMW M8 Competition [2019] | <Dinero :amount='650000' /> |
 | <Image src="https://imgur.com/9hASx37.png" alt="Ubermacht M3 Ver. G80" /> | Ubermacht M3 Ver. G80 | BMW M3 G80 [2021] | <Dinero :amount='661333' /> |
-| <Image src="https://imgur.com/YB1rIOG.png" alt="Pegassi Huricane" /> | Pegassi Huricane | Lamborghini Huracan [2019] | <Dinero :amount='695000' /> |
 | <Image src="https://imgur.com/r41go7a.png" alt="Obey R VER. 8" /> | Obey R VER. 8 | Audi RS8 [2019] | <Dinero :amount='1501000' /> |
 | <Image src="https://imgur.com/12dkfoD.png" alt="Pegassi Mercy" /> | Pegassi Mercy | Lamborghini Murcielago [2002] | <Dinero :amount='1649000' /> |
 | <Image src="https://imgur.com/CC6ydom.png" width="110" alt="Grotti F1.2" /> | Grotti F1.2 | Ferrari F12 [2020] | <Dinero :amount='1665999' /> |
