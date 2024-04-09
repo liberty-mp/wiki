@@ -11,7 +11,7 @@ title: Port District - Clan Spray Wars
 
 ###  Activitațiile din district
 
-Clanul ce deține Port District va avea posibilitatea să îl contacteze pe Mr. Wang, pentru aceștia jucătorii fiind nevoiți să fure un anumit tip de autovehicul, pentru care vor primi o sumă de bani, în funcție de autovehicul.
+Membrii clanului ce deține Port District vor avea posibilitatea să îl contacteze pe Mr. Wang, pentru acesta jucătorii fiind nevoiți să fure un anumit tip de autovehicul, pentru care vor primi o sumă de bani, în funcție de autovehicul.
 
 ### Locație Mr. Wang
 
@@ -29,7 +29,7 @@ Mr. Wang se află în incinta portului din orașul Los Santos. Pentru a vedea au
 
 ### Cum sparg o mașină?
 
-Pentru a spare o mașină vei avea nevoie de un Lockpick, obiect pe care îl vei putea crafta pe insula [Cayo Perico](illegal-activities/cayo-perico-island#crafting-iteme).
+Pentru a spare o mașină vei avea nevoie de un Lockpick, obiect pe care îl vei putea crafta pe insula [Cayo Perico](../../illegal-activities/cayo-perico-island.md#crafting-iteme).
 
 ::: details Lockpick System
 <Image src="https://i.imgur.com/Y4FRIYm.gif" />
@@ -41,7 +41,7 @@ Pentru a spare o mașină vei avea nevoie de un Lockpick, obiect pe care îl vei
 
 ### Câți bani primesc pe o mașină?
 
-Fiecare jucător va trebui să fure un autovehicul din [Luxury Autos Dealership](properties/personal-vehicles#luxury-autos) ce are minim 15 exemplare cumpărate de jucători.
+Fiecare jucător va trebui să fure un autovehicul din [Luxury Autos Dealership](../../properties/personal-vehicles.md#luxury-autos) ce are minim 15 exemplare cumpărate de jucători.
 
 Pentru fiecare mașină, un jucător va primi 1% din costul acesteia din Dealership. Dacă suma sa este mai mică de <Dinero :amount="4500" />, jucătorul va primi <Dinero :amount="4500" /> pentru mașina furată.
 
