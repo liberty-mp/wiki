@@ -109,6 +109,8 @@ La fiecare $350 câștigați în cadrul job-ului există șansa de 25% de a găs
 
 La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găsi **Gunpowder**.
 
+La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găsi **Thermite**.
+
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 
 :::  
