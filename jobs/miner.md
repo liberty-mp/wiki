@@ -129,7 +129,7 @@ La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găs
  <Image src="https://i.imgur.com/L6ut45T.png" alt="Abandon vehicul" />  
 :::  
 
-- Dacă mori, tura de job este anulată instant și pierdeți orice progres din vehiculul Bison.  
+- Dacă mori, tura de job este anulată instant și pierdeți orice progres din vehiculul Caracara.  
 ::: details Moarte în timpul jobului  
  <Image src="https://i.imgur.com/9oNK7SN.png" alt="Moarte job Miner" />  
 :::  
