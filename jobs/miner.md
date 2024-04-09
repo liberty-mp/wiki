@@ -116,6 +116,7 @@ La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găs
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/wy3nrJG.png" alt="Metal Bar" width="48" label="Metal Bar" /> | **Da, 8 per stack** |  **25%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
 | <Image src="https://i.imgur.com/Ub9vSWq.png" alt="Gunpowder" width="48" label="Gunpowder" /> | **Da, 32 per stack** |  **25%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
+| <Image src="https://i.imgur.com/2yZmE5w.png" alt="Thermite" width="48" label="Thermite" /> | **Da, 32 per stack** |  **25%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
 
 ## Cazuri în care nu poți efectua jobul  
  
