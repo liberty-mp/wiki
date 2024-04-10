@@ -105,11 +105,11 @@ Un tabel cu toate tipurile de pietre pe care le poți mina în zonele de carier�
 
 Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 ::: tip Detalii șanse drop  
-La fiecare $350 câștigați în cadrul job-ului există șansa de 25% de a găsi **Metal Bar**.
+La fiecare $300 câștigați în cadrul job-ului există șansa de 35% de a găsi **Metal Bar**.
 
 La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găsi **Gunpowder**.
 
-La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găsi **Thermite**.
+La fiecare $300 câștigați în cadrul job-ului există șansa de 20% de a găsi **Thermite**.
 
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 
