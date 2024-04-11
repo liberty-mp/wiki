@@ -105,9 +105,11 @@ Un tabel cu toate tipurile de pietre pe care le poți mina în zonele de carier�
 
 Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 ::: tip Detalii șanse drop  
-La fiecare $350 câștigați în cadrul job-ului există șansa de 25% de a găsi **Metal Bar**.
+La fiecare $300 câștigați în cadrul job-ului există șansa de 35% de a găsi **Metal Bar**.
 
 La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găsi **Gunpowder**.
+
+La fiecare $300 câștigați în cadrul job-ului există șansa de 20% de a găsi **Thermite**.
 
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 
@@ -116,6 +118,7 @@ La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găs
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/wy3nrJG.png" alt="Metal Bar" width="48" label="Metal Bar" /> | **Da, 8 per stack** |  **25%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
 | <Image src="https://i.imgur.com/Ub9vSWq.png" alt="Gunpowder" width="48" label="Gunpowder" /> | **Da, 32 per stack** |  **25%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
+| <Image src="https://i.imgur.com/2yZmE5w.png" alt="Thermite" width="48" label="Thermite" /> | **Da, 32 per stack** |  **25%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
 
 ## Cazuri în care nu poți efectua jobul  
  
@@ -129,7 +132,7 @@ La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găs
  <Image src="https://i.imgur.com/L6ut45T.png" alt="Abandon vehicul" />  
 :::  
 
-- Dacă mori, tura de job este anulată instant și pierdeți orice progres din vehiculul Bison.  
+- Dacă mori, tura de job este anulată instant și pierdeți orice progres din vehiculul Caracara.  
 ::: details Moarte în timpul jobului  
  <Image src="https://i.imgur.com/9oNK7SN.png" alt="Moarte job Miner" />  
 :::  
