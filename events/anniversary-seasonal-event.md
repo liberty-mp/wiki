@@ -23,15 +23,15 @@ Anniversary Event este un eveniment sezonier ce se desfasoara cu ocazia implinir
 ## Întrebări frecvente
 
 ### De câte ori pot face evenimentele pe zi?
-Quest-ul de ziua serverului il poti completa odata la **3 ore**(timp real).
+Task-ul referitor la livrarea de litere poate fi completat odata la **3 ore** (timp real, se scurge si daca jucatorul este deconectat).
 
-Gift-ul il primesti odata la **5 ore jucate** pe server.
+Crate-ul aniversar se primeste odata la **5 ore jucate** pe server.
 
 ## Misiuni disponibile
 
 ### Anniversary Letters Quest
 
-Acest eveniment este unul cu o dificultate medie, in zona de nord a hartii se vor dropa 25 cutii pe care trebuie sa le gasiti. Aceste cutii au in interiorul lor 25 litere pe care trebuie sa le colectati pentru a scrie numele comunitatii: `LIBERTYMP`. Dupa colectarea celor 9 litere necesare, acestea trebuie livrate la 'Anniversary Event Coordonator' pentru revendicarea premiului.
+Acest eveniment este unul cu o dificultate medie, in zona de nord a hartii se vor dropa un numar de cutii pe care trebuie sa le gasiti. Aceste cutii au in interiorul litere pe care trebuie sa le colectati pentru a scrie numele comunitatii: `LIBERTYMP`. Dupa colectarea celor 9 litere necesare, acestea trebuie livrate la 'Anniversary Event Coordonator' pentru revendicarea premiului.
 
 ::: details Cutiile pe mapa şi colectarea acestora 
 <Image src="https://i.imgur.com/oZhIGFa.png" alt="Cutie pe minimap" />  
@@ -56,9 +56,9 @@ Literele din inventar dispar dupa **5 ore**(timp real).
 Cutiile se spawneaza odata la **~12 minute**.
 :::
 
-### Anniversary Gift
+### Anniversary Crate
 
-Dupa fiecare **5 ore jucate** pe server vei primi in inventar un cadou pe care il poti deschide. Dupa deschiderea acestuia vei primi un obiect din tabelul de mai jos si <Image :width="5" src="https://i.imgur.com/wXYCQ7J.png" alt="15x Anniversary Coins" width="25" label="15x Anniversary Coins" />
+Dupa fiecare **5 ore jucate** pe server vei primi in Post Office un cadou pe care il poti deschide. Dupa deschiderea acestuia vei primi un obiect din tabelul de mai jos si <Image :width="5" src="https://i.imgur.com/wXYCQ7J.png" alt="15x Anniversary Coins" width="25" label="15x Anniversary Coins" />
 
 ::: details Anniversary Gift Timer si Afisare pe ecran
 <Image src="https://i.imgur.com/anJAHkb.png" alt="Anniversary Gift Timer" />
