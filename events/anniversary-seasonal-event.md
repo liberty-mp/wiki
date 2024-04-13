@@ -91,7 +91,7 @@ Anniversary Gift contine urmatoarele iteme:
 
 | Obiect | Informatii |
 | :-: | :-: |
-| <Image :width="36" src="https://i.imgur.com/wXYCQ7J.png" alt="Anniversary Coins" width="50" label="Anniversary Coins" /> | Moneda de schimb pentru [1 Year Anniversary Shop](## 1 Year Anniversary Shop). |
+| <Image :width="36" src="https://i.imgur.com/wXYCQ7J.png" alt="Anniversary Coins" width="50" label="Anniversary Coins" /> | Moneda de schimb pentru [1 Year Anniversary Shop](#_1-year-anniversary-shop). |
 | <Image src="https://i.imgur.com/Pe8CgYj.png" width="50" alt="Anniversary Gift Timer" /> | Recompensa in urma livrarii literelor si timpului petrecut pe server. |
 | <Image src="https://i.imgur.com/G2LJIfc.png" width="50" alt="Litera" /> | Litera gasita in cutiile gasite pe harta. |
 
