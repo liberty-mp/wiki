@@ -40,10 +40,8 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/E3xgk7W.png" alt="Golf 4" /> | Bürgerfahrzeug VER.4 | Golf 4 [1997] | <Dinero :amount='18000' /> |
 | <Image src="https://imgur.com/nbT0bvK.png" alt="Golf 5" /> | Bürgerfahrzeug GTI VER.5 | Golf 5 GTI [2004] | <Dinero :amount='19000' /> |
 | <Image src="https://imgur.com/XEqyY1e.png" alt="BMW M5 E30" /> | Übermacht E30 VER.5 | BMW M5 E30 [1986] | <Dinero :amount='65000' /> |
-| <Image src="https://imgur.com/h3Rsu3d.png" alt="Mini Cooper JCW" /> | Weeny Issi JCW | Mini Cooper JCW [2023] | <Dinero :amount='69789' /> |
 | <Image src="https://imgur.com/TiYXEI0.png" alt="Gold 7R" /> | Bürgerfahrzeug VER.7R | Golf 7R [2014] | <Dinero :amount='71000' /> |
 | <Image src="https://imgur.com/xBDuWBk.png" alt="BMW M3 E46" /> | Übermacht E46 VER.3 | BMW M3 E46 [2000] | <Dinero :amount='72000' /> |
-| <Image src="https://imgur.com/vJYz8XW.png" alt="Dinka Integra" /> | Dinka Integra | Honda Integra Type R DC5 [2002] | <Dinero :amount='73000' /> |
 | <Image src="https://imgur.com/IRtatLc.png" alt="Annis Miata" /> | Annis Miata | Mazda MX-5 NA Miata [1989] | <Dinero :amount='74250' /> |
 | <Image src="https://imgur.com/YIfNRlm.png" alt="Vapid Focus Performance" /> | Vapid Focus Performance | Ford Focus RS [2016] | <Dinero :amount='84000' /> |
 | <Image src="https://imgur.com/BkkcEG4.png" alt="Ubermacht E21" /> | Ubermacht E21 | BMW E21 [1975] | <Dinero :amount='90000' /> |
@@ -54,10 +52,7 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/jOTYxdG.png" alt="Übermacht Hybrid Ver. 8" /> | Übermacht Hybrid Ver. 8 | BMW I8 [2014] | <Dinero :amount='145000' /> |
 | <Image src="https://imgur.com/Kyl7kyz.png" alt="Benefactor Sentinel Evolution II" /> | Benefactor Sentinel Evolution II | Mercedes-Benz W201 [1982] | <Dinero :amount='149800' /> |
 | <Image src="https://imgur.com/04cH1KP.png" alt="Obey RS Ver. 2" /> | Obey RS Ver. 2 | Audi RS2 [1994] | <Dinero :amount='175250' /> |
-| <Image src="https://imgur.com/Q6fyYk0.png" alt="Benefactor A45 - 210" /> | Benefactor A45 - 210 | Mercedes-Benz A Class [2018] | <Dinero :amount='178000' /> |
 | <Image src="https://imgur.com/8ubrotj.png" alt="Maibatsu Evo Ver. X" /> | Maibatsu Evo Ver. X | Mitsubishi Lancer Evolution X [2007] | <Dinero :amount='179000' /> |
-| <Image src="https://imgur.com/MhYFbbj.png" alt="Annis Pursuer" /> | Annis Pursuer | Toyota JZX-100 Chaser [1977] | <Dinero :amount='179999' /> |
-| <Image src="https://imgur.com/EhbNQeH.png" alt="Annis Z VER. 370" /> | Annis Z VER. 370 | Nissan 370Z [2019] | <Dinero :amount='181000' /> |
 | <Image src="https://imgur.com/rUqRMYe.png" alt="Vapid Horse" /> | Vapid Horse | Ford Mustang GT [2015] | <Dinero :amount='182000' /> |
 | <Image src="https://imgur.com/1bQWMXM.png" alt="Vapid Bam 1500" /> | Vapid Bam 1500 | Dodge RAM [2020] | <Dinero :amount='182000' /> |
 | <Image src="https://imgur.com/DWNyTeK.png" alt="Vapid Rampant Scorpion" /> | Vapid Rampant Scorpion | F150 Raptor [2021] | <Dinero :amount='182000' /> |
@@ -84,7 +79,6 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/PCiAUkb.png" alt="Benefactor GT VER.63 Performance" /> | Benefactor GT VER.63 Performance | Mercedes-AMG GT [2020] | <Dinero :amount='254000' /> |
 | <Image src="https://imgur.com/RWVcRNp.png" alt="Annis GT Race" /> | Annis GT Race | Nissan GT-R R35 [2017] | <Dinero :amount='258000' /> |
 | <Image src="https://imgur.com/LTdh4Jk.png" alt="Annis Ascent" /> | Annis Ascent | Toyota Supra MK4 [1993] | <Dinero :amount='265000' /> |
-| <Image src="https://imgur.com/9qkCuce.png" width="110" alt="Emperor Vectre RCF" /> | Emperor Vectre RCF | Lexus RC F [2023] | <Dinero :amount='272000' /> |
 | <Image src="https://imgur.com/KeYgoq5.png" alt="Annis RX VER.7" /> | Annis RX VER.7 | Mazda RX7 FD3C [1992] | <Dinero :amount='272000' /> |
 | <Image src="https://imgur.com/YTODA1o.png" alt="Pfister Ver. 911 E" /> | Pfister Ver. 911 E | Porsche 911 E [1969] | <Dinero :amount='274800' /> |
 | <Image src="https://imgur.com/IMPrq4E.png" width="110" alt="Dinka Jester NSX" /> | Dinka Jester NSX | Honda NSX [2020] | <Dinero :amount='275000' /> |
@@ -105,6 +99,7 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/lcVIfRc.png" alt="Übermacht VER.8 Competition" /> | Übermacht VER.8 Competition | BMW M8 Competition [2019] | <Dinero :amount='650000' /> |
 | <Image src="https://imgur.com/9hASx37.png" alt="Ubermacht M3 Ver. G80" /> | Ubermacht M3 Ver. G80 | BMW M3 G80 [2021] | <Dinero :amount='661333' /> |
 | <Image src="https://imgur.com/r41go7a.png" alt="Obey R VER. 8" /> | Obey R VER. 8 | Audi RS8 [2019] | <Dinero :amount='1501000' /> |
+| <Image src="https://imgur.com/xfebxr4.png" alt="Benefactor SL 6.3" /> | Benefactor SL 6.3 | Mercedes SL63[2023] | <Dinero :amount='1515000' /> |
 | <Image src="https://imgur.com/12dkfoD.png" alt="Pegassi Mercy" /> | Pegassi Mercy | Lamborghini Murcielago [2002] | <Dinero :amount='1649000' /> |
 | <Image src="https://imgur.com/CC6ydom.png" width="110" alt="Grotti F1.2" /> | Grotti F1.2 | Ferrari F12 [2020] | <Dinero :amount='1665999' /> |
 | <Image src="https://imgur.com/Sw4mGsD.png" alt="Pegassi Hurricane" /> | Pegassi Hurricane | Lamborghini Huracan [2014] | <Dinero :amount='1695000' /> |
@@ -115,15 +110,18 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 | <Image src="https://imgur.com/Ylr2ZBy.png" alt="Progen VER. 720S" /> | Progen VER. 720S | McLaren 720S [2020] | <Dinero :amount='1720000' /> |
 | <Image src="https://imgur.com/6aKv0Lu.png" width="110" alt="Vapid GT 17" /> | Vapid GT 17 | Ford GT [2017] | <Dinero :amount='1760021' /> |
 | <Image src="https://imgur.com/CyvM4lv.png" width="110" alt="Pegassi Cotach LIPI" /> | Pegassi Cotach LIPI | Lamborghini Countach LPI 800-4 [2022] | <Dinero :amount='1815000' /> |
+| <Image src="https://imgur.com/vFfqyVY.png" width="110" alt="Progen Ver. 765LT Spaidar" /> | Progen Ver. 765LT Spaidar | McLaren 765LT Spider[2022] | <Dinero :amount='1818000' /> |
 | <Image src="https://imgur.com/WSSM33v.png" alt="Pfister Turbo S VER. 992" /> | Pfister Turbo S VER. 992 | Porsche Turbo S 992 [2020] | <Dinero :amount='1820000' /> |
 | <Image src="https://imgur.com/kHbK8Wd.png" alt="Grotti Viktor" /> | Grotti Viktor | Aston Martin Victor [2020] | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/Xmz9UPj.png" alt="Ubermacht S1KRR" /> | Ubermacht S1KRR | BMW S1000RR [2009] | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/AqoZO6a.png" alt="Progen A.S." /> | Progen A.S. | McLaren Senna [2019] | <Dinero :amount='2300000' /> |
 | <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | <Dinero :amount='2600000' /> |
+| <Image src="https://imgur.com/dtEqBAW.png" alt="Pfister 918 Spaidar" /> | Pfister 918 Spaidar | Porsche 918 Spider[2013] | <Dinero :amount='2800000' /> |
 | <Image src="https://imgur.com/v1xVcaA.png" alt="Pegassi Revoltoso" /> | Pegassi Revoltoso | Lamborghini Sian Roadster [2021] | <Dinero :amount='2899999' /> |
 | <Image src="https://imgur.com/MaDcqQj.png" alt="Pegassi Venon" /> | Pegassi Venon | Lamborghini Veneno [2014] | <Dinero :amount='2970000' /> |
 | <Image src="https://imgur.com/Rmvz02i.png" alt="Shitzu H2" /> | Shitzu H2 | Kawasaki Ninja H2 [2014]| <Dinero :amount='3000000' /> |
 | <Image src="https://imgur.com/E30ZwT1.png" alt="Coil Nubera" /> | Coil Nubera | Rimac Nevera [2021] | <Dinero :amount='3000000' /> |
+| <Image src="https://imgur.com/7sfqg71.png" alt="" /> | Grotti LaGrotti | Ferrari LaFerrari[2013] | <Dinero :amount='3000069' /> |
 | <Image src="https://imgur.com/H0ZBJGW.png" alt="Överflöd Agr" /> | Överflöd Agr | Koenigsegg Agera [2010] | <Dinero :amount='3100000' /> |
 | <Image src="https://imgur.com/OuaUyH1.png" alt="Truffade Centaur" /> | Truffade Centaur | Bugatti Chiron [2017] | <Dinero :amount='3200000' /> |
 | <Image src="https://imgur.com/7pRa68O.png" alt="Benefactor One" /> | Benefactor One | Mercedes-AMG ONE [2022] | <Dinero :amount='3500000' /> |
