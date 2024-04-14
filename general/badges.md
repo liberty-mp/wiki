@@ -80,6 +80,14 @@ Un nou badge a fost implementat odata cu `Liberty Pass Season 3`, acesta poate f
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/rYMgGg9.png" alt="LP Bonus Quests Badge" width="100" label="LP Bonus Quests Badge" />| obținut de jucătorii ce au completat cele două Questuri Bonus din Liberty Pass |
 
+### One Year Anniversary 2024 Badge
+
+Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Anniversary](../events/anniversary-seasonal-event) din 2024.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/CHdswhv.png" alt="HLLW2023" width="50" label="Anniversay Event" />| obținut de jucătorii ce au livrat de 15 ori cuvântul „LIBERTYMP”, în zile diferite, în cadrul evenimentului Anniversary |
+
 ### Halloween Event Badge
 
 Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Halloween](../events/halloween-seasonal-event) din 2023.
