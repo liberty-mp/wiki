@@ -231,7 +231,7 @@ Secțiunea **Visuals**:
 - **Show Faction Chat** - se poate selecta dacă doriți să vă apară chat-ul facțiunii din care faceți parte sau nu;
 - **Show Clan Chat** - se poate selecta dacă doriți să vă apară chat-ul clanului din care faceți parte sau nu;
 - **Anniversary Drops Notifications** - se poate selecta dacă doriți să vă apară notificările drop-urilor pe perioada aniversării serverului (setare activă doar pe parcursul evenimentului aniversării serverului);
-- **Game Time** - se poate selecta dacă doriți să schimbați ora în joc
+- **Game Time** - se poate selecta dacă doriți să schimbați ora în joc.
 
 Sectiunea **Performance**:
 - **Streaming Preset** - cu ajutorul acestei setări vă puteți modifica câți playeri vă pot intra în stream dintr-o dată (ajută în caz că aveți LAG prin oraș când sunt mulți playeri prin apropiere.)
@@ -244,8 +244,8 @@ Secțiunea **Audio**:
 - **Radio Volume** - se poate ajusta volumul radioului din vehicule;  
 - **Boombox** - se poate selecta dacă să se audă boombox-ul (boxa portabilă) pe server sau nu; 
 - **Boombox Volume** - se poate ajusta volumul boombox-ului (boxei portabile).
-- **Night Club** - se poate selecta dacă să se audă muzca din Night Club
-- **Night Club Volume** - se poate ajusta volumul muzicii Night Club-ului
+- **Night Club** - se poate selecta dacă să se audă muzica din Night Club pe server sau nu;
+- **Night Club Volume** - se poate ajusta volumul muzicii Night Club-ului.
 
 <Image src="https://i.imgur.com/BAteEyo.png" alt="Settings2" />
 
