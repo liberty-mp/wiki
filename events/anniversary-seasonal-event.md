@@ -5,8 +5,8 @@ title: 1 Year Anniversary
 | Întrebare | Răspuns |
 | :-----------: | :-----------: |
 | Event permanent? | Nu, [sezonier.](./index.md#evenimentele-se-impart-in-3-categorii) |
-| Nivel minim participare? | Nu. |
-| Nivel minim participare? |  [Da.](#obiecte-speciale) |
+| Nivel minim participare? | Minim 7 ore in last week. |
+| Obiecte speciale |  [Da.](#obiecte-speciale) |
 | Necesită iteme specifice? | Nu. |
 | Locație statistici eveniment? | `/gps -> General -> Anniversary Event Coordonator` |
 
@@ -58,7 +58,7 @@ Cutiile se spawneaza odata la **~12 minute**.
 
 ### Anniversary Crate
 
-Dupa fiecare **5 ore jucate** pe server vei primi in Post Office un cadou pe care il poti deschide. Dupa deschiderea acestuia vei primi un obiect din tabelul de mai jos si <Image :width="5" src="https://i.imgur.com/wXYCQ7J.png" alt="15x Anniversary Coins" width="25" label="15x Anniversary Coins" />
+Dupa fiecare **5 ore jucate** pe server vei primi in Post Office un cadou pe care il poti deschide. Dupa deschiderea acestuia vei primi un obiect din tabelul de mai jos si <Image :width="5" src="https://i.imgur.com/wXYCQ7J.png" alt="15x Anniversary Coins" width="40" label="15x Anniversary Coins" />
 
 ::: details Anniversary Gift Timer si Afisare pe ecran
 <Image src="https://i.imgur.com/anJAHkb.png" alt="Anniversary Gift Timer" />
