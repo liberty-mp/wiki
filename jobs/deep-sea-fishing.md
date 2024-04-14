@@ -107,4 +107,3 @@ Prețul peștilor este <Dinero :amount="8" /> / peste in **Los Santos**.
 
 - Jobul pasiv **<Color hex="#FF0000">Nu</Color>** beneficiaza de bonusurile obisnuite ([Marijuana Joint](../factions/gangs#marijuana-joint), [Team Work Empowerment](../clans/tabs#perk-level-up-table), [World Exploration Job Boost](../events/world-exploration#recompense-streak-serie-completari-eveniment)).
 - Jobul pasiv beneficiaza de perk intitulat [Master of Passive Gains](../clans/tabs#perk-level-up-table) al clanurilor ce ofera intre **5%** si **25%** mai multi bani in cadrul jobului.
-- Jobul pasiv beneficiaza in cadrul evenimentului [World Exploration](../events/world-exploration#recompense-streak-serie-completari-eveniment) de bonusul **Passive Job Boost** ce ofera intre **5%** si **25%** mai multi bani in cadrul jobului.
