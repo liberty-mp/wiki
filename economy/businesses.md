@@ -31,9 +31,28 @@ Prețurile variază în funcție de haină. Un tabel cu acestea aveți mai jos.
 | Pantaloni | <Dinero :amount='10' /> - <Dinero :amount='4000' /> | 
 | Adidași | <Dinero :amount='160' /> - <Dinero :amount='2200' /> | 
 
+
 ::: details Clothing store 
 
 <Image src="http://i.imgur.com/MdvAS73.gif" alt="exemplu1" />
+::: 
+
+### Preview
+Clothing Store-ul oferă posibilitatea de a vizualiza toate articolele vestimentare de pe server, de la haine până la bijuterii și cum stau acestea pe caracter.
+
+::: details Preview Haine
+
+<Image src="https://i.imgur.com/8LhOJLa.gif" alt="exemplu2" />
+::: 
+
+### Outfit Trade
+Clothing Store-ul oferă posibilitatea de a schimba 5 tipuri de articole vestimentare diferite sau similare într-un crate de haine. Articolele vestimentare trebuie să facă parte din aceiași colecție (articole vestimentare Alpha sau Gamma, cele două nu pot fi combinate) pentru a putea face rost de o cutie. 
+
+Cutia primită va fi influențată în funcție de ce tip si ce tip de haine/articole vestimentare predomină. În cazul in care puneți 5 articole vestimentare de același fel (pantaloni), veți primi o cutie de pantaloni. În cazul in care puneți o pereche de pantaloni, o perechie de papuci și trei bluze, veți primi tot o cutie 'Top', deoarece numărul acestora este mai mare.
+
+::: details Exemplu Trade
+
+<Image src="https://i.imgur.com/xRxFx6w.gif" alt="exemplu2" />
 ::: 
 
 ::: tip
@@ -92,7 +111,7 @@ Este o afacere destinată spălării unei mașini murdare, după o zi de lucru d
 :::
 
 ### **Gun Shop** <Image src="https://i.imgur.com/G3mJm9o.png" alt="gns" />
-Este locația de unde îți poți procura o armă, mai exact un cuțit, o bâtă, un pistol și muniție pentru el. Există doar 9 magazine, iar prețurile sunt următoarele:
+Este locația de unde îți poți procura o armă, mai exact un cuțit, o bâtă, un pistol, muniție pentru el și o cagulă folosiă de către polițiști. Există doar 9 magazine, iar prețurile sunt următoarele:
 
 | **Armă** | **Preț** |
 | :-----------: | :-----------: | 
@@ -100,6 +119,7 @@ Este locația de unde îți poți procura o armă, mai exact un cuțit, o bâtă
 | Bâtă | <Dinero :amount='500' />  | 
 | Pistol | <Dinero :amount='5000' /> | 
 | Muniție | <Dinero :amount='50' /> |
+| Hood M/F | <Dinero :amount='750' /> |
 
 
 ::: details Gun shop
@@ -132,7 +152,7 @@ După ce ați rămas fără benzină în canistră este recomandat să o umpleț
 :::
 
 ### **24/7 Market** <Image src="https://i.imgur.com/wFTPcRe.png" alt="mark" />
-Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger-ul, undița, repair kit-ul, walkie talkie-ul și mâncarea sau băutura. Sunt 18 astfel de locații, iar prețurile sunt următoarele:
+Sunt locurile unde găsești lucruri esențiale, precum canistra, mobile charger-ul, undița, repair kit-ul, walkie talkie-ul și mâncarea sau băutura. Sunt 20 astfel de locații, iar prețurile sunt următoarele:
 
 | **Obiect** | **Preț** |
 | :-----------: | :-----------: | 
