@@ -95,8 +95,8 @@ Lista cu upgrade-urile disponibile și costurile în puncte de upgrade este urm�
 | Level | Cost (puncte de upgrade) |
 | ----------- | :-----------: |
 | Level 1 | 75 puncte de upgrade |
-| Level 2 | 150 puncte de upgrade |
-| Level 3 | 250 puncte de upgrade |
+| Level 2 | 250 puncte de upgrade |
+| Level 3 | 450 puncte de upgrade |
 
 ###  Suspension Upgrade
 
