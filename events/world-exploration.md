@@ -55,16 +55,6 @@ Evenimentul are loc zilnic, se resetează la ora _**07:00**_ și poate să fie c
 | 70 completări | 20% mai mulți bani la rob |
 |               |                          |
 | 100 completări | 25% job boost<br>25% mai multă experiență la payday<br>25% mai mulți bani la rob |
-|                |                         |
-| 105 completări | 5% pasiv job boost |
-|                |                         |
-| 110 completări | 10% pasiv job boost |
-|                |                         |
-| 115 completări | 15% pasiv job boost | 
-|                |                         |
-| 120 completări | 20% pasiv job boost |
-|                |                         |
-| 125 completări | 25% pasiv job boost |
 
 Evenimentul dispune și de un obiectiv de completări consecutive.  
 La fiecare _**10**_ completări jucătorii sunt răsplătiți cu <Gold :amount='50' />.  
