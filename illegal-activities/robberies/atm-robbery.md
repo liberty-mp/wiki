@@ -2,7 +2,7 @@
 title: ATM Robbery
 ---
 
-| Întrebare   | Răspuns |
+| Întrebare | Răspuns |
 | ----------- | :-----------: |
 | Necesită **vehicul personal**? | Da. |
 | Necesită permis de conducere? | Nu. |
