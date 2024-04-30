@@ -11,9 +11,9 @@ title: Bank District - Clan Spray Wars
 
 Bank District, situat în partea de est a hărții, este unul dintre cele mai strategice districte ale hărții, găzduind Pacific Bank, o instituție bogată și bine păzită. Jucătorii vor putea să organizeze jafuri la băncile din district. Pentru a organiza un jaf reușit, este esențial ca fiecare membru al heistului să își îndeplinească rolul cu precizie și coordonare, fiecare membru avand un rol unic.
 
-## Cum jefuiesc banca?
+## Cum jefuiesc Pacific Bank?
 
-Pentru a jefui aceasta bancă, jucatorii trebuie să facă parte din clan-ul ce detine districtul, să aibă 0 Heat Level și o armă echipată cu cel puțin 200 de durabilitate și gloanțe. Driver-ul trebuie să dețină pe cont o mașină cu 4 locuri și o barcă, pentru evadare. Peterman-ul are nevoie de un [Thermal Device](../cayo-perico-island.md#crafting-iteme) și un [Drill](../../jobs/tow-truck-driver.md#obiecte-speciale-pentru-activități--șanse-de-găsire) pentru a deschide ușile.
+Pentru a jefui această bancă, jucătorii trebuie să facă parte din clan-ul ce deține districtul, să aibă 0 Heat Level și o armă echipată cu cel puțin 200 durabilitate și gloanțe. Driver-ul trebuie să dețină pe cont o mașină cu 4 locuri și o barcă pentru evadare. Peterman-ul are nevoie de un [Thermal Device](../cayo-perico-island.md#crafting-iteme) și un [Drill](../../jobs/tow-truck-driver.md#obiecte-speciale-pentru-activități--șanse-de-găsire) pentru a topi ușile.
 
 ::: details Heist required items
    <Image src="/assets/images/clans/spray-wars/districts/bank/Heist-required-items.gif" alt="Heist required items" />
