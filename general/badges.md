@@ -78,7 +78,7 @@ Un nou badge a fost implementat odata cu `Liberty Pass Season 3`, acesta poate f
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/battlepass_completionist.png" alt="Battlepass Completionist" width="100" label="Battlepass Completionist" />| obținut de jucătorii ce au completat 'Bonus Quest 2' |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/battlepass_completionist.png" alt="Battlepass Completionist" width="50" label="Battlepass Completionist" />| obținut de jucătorii ce au completat 'Bonus Quest 2' |
 
 ### One Year Anniversary 2024 Badge
 
