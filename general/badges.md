@@ -74,7 +74,7 @@ Acest badge poate fi obținut la finalizarea battlepass-ului [Liberty Pass](../e
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/EuMloev.png" alt="Liberty Pass" width="50" label="Liberty Pass Season" />| obținut de jucătorii ce termină Liberty Pass-ul |
 
-Un badge nou a fost adăugat odată cu Sezonul 3 din [Liberty Pass](../events/libertypass-seasonal-event). Acesta poate fi obținut de jucătorii ce dețin varianta Premium a Liberty Pass-ului și au finalizat [Bonus Quest 2](../events/libertypass-seasonal-event#ce-sunt-tierele-bonus).
+Un badge nou a fost adăugat odată cu `Sezonul 3` din [Liberty Pass](../events/libertypass-seasonal-event). Acesta poate fi obținut de jucătorii ce dețin varianta Premium a Liberty Pass-ului și au finalizat [Bonus Quest 2](../events/libertypass-seasonal-event#ce-sunt-tierele-bonus).
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
