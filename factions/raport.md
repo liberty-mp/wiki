@@ -41,7 +41,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 | **1 -> 3** | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk: 8 pct + <Dinero :amount='375' /> | 5 ore |
 | **Tester** | 165 | - | - |
 | **4** | 195 | - | - |
-| **5** | - | - | - |
+| **5** | / | / | / |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 300 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
@@ -56,7 +56,7 @@ Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabe
 | **1 -> 3** | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk: 8 pct + <Dinero :amount='375' /> | 5 ore |
 | **Tester** | 165 | - | - |
 | **4** | 195 | - | - |
-| **5** | - | - | - |
+| **5** | / | / | / |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 300 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
