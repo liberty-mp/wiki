@@ -71,7 +71,7 @@ Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabe
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | **1 -> 3** | 100 | Jucator transportat - 5 pct | 5 ore |
 | **4** | 65 | - | - |
-| **5** | - | - | - |
+| **5** | / | / | / |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la destinație (5 puncte x 20 jucători transportați = 100 activity points) și să joci 5 ore pe server.
@@ -85,7 +85,7 @@ Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | **1** -> 3 | 60 | Contract completat - 5 pct | 5 ore |
 | **4** | 39 | - | - |
-| **5** | - | - | - |
+| **5** | / | / | / |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de contracte (5 puncte x 12 contracte = 60 activity points) și să joci 5 ore pe server.
@@ -98,7 +98,7 @@ Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de con
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | **1 -> 3** | 100 | | 5 ore |
 | **4** | 65 | - | - |
-| **5** | - | - | - |
+| **5** | / | / | / |
 
 -->
 
