@@ -15,6 +15,7 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **7 facțiuni**
 | <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| level 20<br>50 hours | 25** | [**Gangs**](./gangs.md)
 | <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| level 20<br>50 hours | 25** | [**Gangs**](./gangs.md)
 | <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| level 20<br>50 hours | 25** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/VliNMHg.png" alt="SD" width="32" label="Sheriff Department" /> | level 15<br>30 hours | 55** | [**Sheriff Department**](./sheriff.md)
 
 ::: danger Atenție!
 **Dacă părăsești facțiunea din orice motiv și ai sub 14 zile în aceasta, nu vei putea aplica la facțiuni timp de 14 zile de la data la care ai ieșit.**
