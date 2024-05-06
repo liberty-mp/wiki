@@ -5,7 +5,7 @@ title: Sheriff Department
 ### Informații generale despre Sheriff Department
 <br>
 <br>
-<Image src="" alt="SD" width="25" label="Sheriff Department" />  are un obiectiv unic, acela fiind să aplice legea în satul Sandy Shores și orașul Paleto Boy, statul San Andreas. Sherifii au de-a face atât cu oameni din lumea mafiotă, dar și cu civili care încalcă anumite legi sau nu se supun ordinelor aduse. Deși există un număr mare de polițiști, cei din lumea frauduloasă și imorală continuă să întreprindă activități ilegale și periculoase.
+<Image src="https://i.imgur.com/VliNMHg.png" alt="SD" width="25" label="Sheriff Department" />  are un obiectiv unic, acela fiind să aplice legea în satul Sandy Shores și orașul Paleto Boy, statul San Andreas. Sherifii au de-a face atât cu oameni din lumea mafiotă, dar și cu civili care încalcă anumite legi sau nu se supun ordinelor aduse. Deși există un număr mare de polițiști, cei din lumea frauduloasă și imorală continuă să întreprindă activități ilegale și periculoase.
 
 ## Locația HQ (Headquarters)
 
