@@ -10,6 +10,10 @@ Pe serverul nostru, membrii clanurilor vor putea participa la Spray Wars, o acti
 
 La începutul war-ului, fiecare district va fi deținut de un clan. Scopul fiecărui clan este de a cucerii cât mai multe districte posibile. La finalul war-ului, districtul va fi deținut de clanul care a cucerit cel mai mare număr de [Spray Tags](./spray-tags.md).
 
+| Zile | Ore | 
+| :-----------: | :-----------: | 
+| Marți & Joi & Duminică | 20:00 - 22:00 | 
+
 ::: warning Atentie!
 În cazul în care două sau mai multe clanuri au același număr de [Spray Tags](./spray-tags.md), perioada de war se va prelungi până când un clan va cucerii districtul respectiv.
 :::
