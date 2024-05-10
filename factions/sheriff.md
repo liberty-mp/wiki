@@ -137,6 +137,29 @@ Pentru a acorda somații jucătorilor, polițistul o să folosească comanda `/s
 <Image src="http://i.imgur.com/Em2TXka.gif" alt="frisk" />
 :::
 
+Polițiștii pot efectua opriri în trafic pentru a cere jucătorilor documentele. Șoferul oprit poate face acest lucru folosind meniul de interacțiuni sau comanda `/showdocuments [id]` urmând ca ofițerul să accepte documentele acestuia folosind comanda `/acceptdocuments [id]`.
+
+::: Tip
+Jucătorii vor fi nevoiți să-și achiziționeze o asigurare pentru vehiculul personal prin aplicația 'Vehicles' din telefon, prețul fiind de <Dinero :amount='1' />/KM.
+:::
+
+::: warning Tip
+În cazul în care jucătorul nu deține categoria corectă de permis sau are o asigurare expirată, acesta va primi wanted respectiv amenda.
+:::
+
+::: details Exemplu
+<Image src="https://i.imgur.com/CpnXAwq.png" alt="Accept documents" />
+<Image src="/assets/images/factions/lspd/Insurance-Fine.gif" alt="Insurance Fine" />
+:::
+
+## Utilizarea cagulii
+
+Polițiștii pot comite ilegalități fără a fi sancționați în cadrul facțiunii folosind o cagulă. Itemul este intitulat Hood, are o singură utilizare și poate fi cumpărat dintr-un [Gunshop](../economy/businesses#gun-shop) la prețul de <Dinero :amount='750' />. Odată echipat, polițistul poate folosi armele off duty și poate participa la diferite activități ilegale precum jafuri, furturi de vehicule, etc. 
+
+::: warning 
+În momentul dezechipării sau în momentul în care jucătorul este arestat, cagula este distrusă.
+:::
+
 ## Obiecte confiscabile
 
 Un tabel cu obiecte ilegale și cele ce par ilegale dar nu sunt. Dacă obiectul **nu apare** aici înseamnă că **nu este confiscabil** de poliție în urma unei percheziții.
