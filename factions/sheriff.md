@@ -47,7 +47,7 @@ Fără echipament nu îți poți desfășura activitățile de polițist!
 :::
 
 ::: details Faction Locker
-<Image src="" alt="Locker" />
+<Image src="/assets/images/factions/sheriff/Locker.gif" alt="Locker" />
 :::
 
 ::: tip
@@ -55,7 +55,7 @@ Pentru a intra în incinta închisorii trebuie să folosești locker-ul, astfel 
 :::
 
 ::: details Închisoarea
-<Image src="" alt="Jail" />
+<Image src="/assets/images/factions/sheriff/Jail.gif" alt="Jail" />
 :::
 
 ## Vehicule
@@ -76,7 +76,7 @@ Pentru a porni girofarul, apasă tasta `E`.
 ::: details Locatie cars
 
 <Image src="https://i.imgur.com/k32RrAl.png" alt="SD Spawn Cars" />
-<Image src="" alt="SD Spawn Cars" />
+<Image src="/assets/images/factions/sheriff/Spawn-cars.gif" alt="SD Spawn Cars" />
 <Image src="http://i.imgur.com/Hw3qEDQ.png" alt="SD Spawn Cars" />
 
 :::
