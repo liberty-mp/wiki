@@ -5,11 +5,10 @@ title: Rapoarte de activitate
 ### Informații generale
 
 Cerințele raportului diferă de la facțiune la facțiune, mai jos sunt prezentate toate rapoartele.
-Liderii facțiunilor sunt nevoiți să facă doar numărul de ore jucate. Co-liderii sunt nevoiți să facă atât orele cât și un număr mai mic de activity points.
+Liderii facțiunilor sunt nevoiți să facă doar numărul de ore jucate. Co-liderii sunt nevoiți să facă atât orele cât și un raport de activitate mai mic.
 
 ::: danger Atenție!  
 Raportul de activitate este obligatoriu pentru membrii unei facțiuni.  
-Activity points (puncte de activitate) reprezintă un număr total de puncte ce trebuiesc atinse pentru ca raportul să fie considerat complet, pe lângă orele jucate necesare.
 :::
 
 ::: tip
@@ -39,9 +38,9 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 | Rank | Raport de activitate | Bani oferiți per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | **1 -> 3** | 25x Criminali arestați<br>3x Amenzi pentru viteză<br>3x Opriri de rutină<br>2x Permise suspendate | Conducere fară permis: <Dinero :amount='475' /><br>Suspendare Permis: <Dinero :amount='375' /><br>Percheziție: <Dinero :amount='375' /><br>Amendă: <Dinero :amount='250' /><br>Arrest/Kill: <Dinero :amount='225' />| 7 ore |
-| **Tester** |  | - | - |
-| **4** |  | - | - |
-| **5** | / | - | / |
+| **Tester** | - | - | - |
+| **4** | - | - | - |
+| **5** | N/A | - | - |
 
 ### Raport <Color hex="#EBF481">Downtown Taxi Company</Color>
 
@@ -49,9 +48,9 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Raport de activitate | Ore activitate |
 | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 20x Clienți transportați | 5 ore |
+| **1 -> 3** | 20x Clienți transportați | 7 ore |
 | **4** | - | - |
-| **5** | / | / |
+| **5** | N/A | - |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la destinație și să joci 5 ore pe server.
@@ -63,9 +62,9 @@ Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la
 
 | Rank | Raport de activitate | Ore activitate |
 | :-----------: | :-----------: | :-----------: |
-| **1** -> 3 | 30x Contracte normale finalizate<br>10x Contracte 'silent' finalizate | 5 ore |
+| **1** -> 3 | 30x Contracte normale finalizate<br>10x Contracte 'silent' finalizate | 7 ore |
 | **4** | - | - |
-| **5** | / | / |
+| **5** | N/A | - |
 
 ::: tip Exemplu
 Pentru a completa raportul la rank 1, trebuie să completezi cu succes 30 de contracte normale, 10 contracte silent și să joci 5 ore pe server.
@@ -78,7 +77,7 @@ Pentru a completa raportul la rank 1, trebuie să completezi cu succes 30 de con
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | **1 -> 3** | 100 | | 5 ore |
 | **4** | 65 | - | - |
-| **5** | / | / | / |
+| **5** | / | - | - |
 
 -->
 
