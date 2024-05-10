@@ -26,7 +26,7 @@ Atasamentele pe toate armele sunt disponibile incepand cu **rank 3**.
 
 :::
 
-<Image src="https://i.imgur.com/496pa8b.png" alt="Pistol" width="100" label="Pistol" />
+<Image src="https://i.imgur.com/b7N6yYi.png" alt="Pistol .50" width="100" label="Pistol .50" />
 <Image src="https://i.imgur.com/EdkzxtF.png" alt="Tazer" width="100" label="Tazer" />
 <Image src="https://i.imgur.com/rmx6CMm.png" alt="Radar" width="100" label="Radar" />
 <Image src="https://i.imgur.com/7JDzBXz.png" alt="Rifle" width="100" label="Pușcă automată" />
