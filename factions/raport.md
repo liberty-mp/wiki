@@ -36,43 +36,39 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 ::: details Tabel raport  
 
-| Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
+| Rank | Raport de activitate | Bani oferiți per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk: 8 pct + <Dinero :amount='375' /> | 5 ore |
-| **Tester** | 165 | - | - |
-| **4** | 195 | - | - |
-| **5** | / | / | / |
-
-::: tip Exemplu
-Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 300 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
-:::
+| **1 -> 3** | 25x Criminali arestați<br>3x Amenzi pentru viteză<br>3x Opriri de rutină<br>2x Permise suspendate | Conducere fară permis: <Dinero :amount='475' /><br>Suspendare Permis: <Dinero :amount='375' /><br>Percheziție: <Dinero :amount='375' /><br>Amendă: <Dinero :amount='250' /><br>Arrest/Kill: <Dinero :amount='225' />| 7 ore |
+| **Tester** |  | - | - |
+| **4** |  | - | - |
+| **5** | / | - | / |
 
 ### Raport <Color hex="#EBF481">Downtown Taxi Company</Color>
 
 ::: details Tabel raport    
 
-| Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 100 | Jucator transportat - 5 pct | 5 ore |
-| **4** | 65 | - | - |
-| **5** | / | / | / |
+| Rank | Raport de activitate | Ore activitate |
+| :-----------: | :-----------: | :-----------: |
+| **1 -> 3** | 20x Clienți transportați | 5 ore |
+| **4** | - | - |
+| **5** | / | / |
 
 ::: tip Exemplu
-Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la destinație (5 puncte x 20 jucători transportați = 100 activity points) și să joci 5 ore pe server.
+Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la destinație și să joci 5 ore pe server.
 :::
 
 ### Raport <Color hex="#E34343">Hitman Agency</Color>
 
 ::: details Tabel raport  
 
-| Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| **1** -> 3 | 60 | Contract completat - 5 pct | 5 ore |
-| **4** | 39 | - | - |
-| **5** | / | / | / |
+| Rank | Raport de activitate | Ore activitate |
+| :-----------: | :-----------: | :-----------: |
+| **1** -> 3 | 30x Contracte normale finalizate<br>10x Contracte 'silent' finalizate | 5 ore |
+| **4** | - | - |
+| **5** | / | / |
 
 ::: tip Exemplu
-Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de contracte (5 puncte x 12 contracte = 60 activity points) și să joci 5 ore pe server.
+Pentru a completa raportul la rank 1, trebuie să completezi cu succes 30 de contracte normale, 10 contracte silent și să joci 5 ore pe server.
 :::
 
 <!--
