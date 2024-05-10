@@ -28,9 +28,17 @@ Prin intermediul acestei aplicații se transmit servicii către **agenția Hitma
 Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta `E` pe *checkpoint-ul* mov denumit *Contracts list* si sa selectezi un contract din lista! 
 :::
 
-<Image src="https://i.imgur.com/kp2pnkN.png" alt="Pistol" label="Pistol" width="150" /> 
+<Image src="https://i.imgur.com/kp2pnkN.png" alt="Pistol" label="Pistol" width="150" />
+<Image src="https://i.imgur.com/b7N6yYi.png" alt="Pistol .50" width="150" label="Pistol .50" /> 
 <Image src="https://i.imgur.com/LNDlffh.png" alt="Sniper" label="Sniper Rifle" width="150" />
 
+::: tip
+
+Pistolul .50 este disponibil începând cu **rank 2**.
+
+Atașamentele pe Pistolul .50 sunt disponibile începând cu **rank 2** iar pe Sniper Rifle începând cu **rank 3**.
+
+:::
 
 ## Vehicule
 
