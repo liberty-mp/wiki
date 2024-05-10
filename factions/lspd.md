@@ -71,7 +71,7 @@ Pentru a porni girofarul, apasă tasta `E`.
 | Buffalo      |   [**Police Buffalo**](https://i.imgur.com/Edcz0Dy.png)    |   
 | Mercedes-Benz AMG GT R |  [**Police Mercedes-Benz AMG GT R**](https://i.imgur.com/qg2DlPO.png)    |   
 | Maverick | [**Police Maverick**](https://static.wikia.nocookie.net/gtawiki/images/5/50/PoliceMaverick-GTAV-front.png/revision/latest?cb=20161111195820) |
-| Predator | [**Police Predator**](https://static.wikia.nocookie.net/gtawiki/images/c/cb/PolicePredator-GTAV-front.png/revision/latest?cb=20180529134458) |
+| Predator | [**Police Predator**](https://i.imgur.com/p8Zh3yh.png) |
 
 ::: details Locatie cars
 
