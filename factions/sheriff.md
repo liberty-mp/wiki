@@ -11,7 +11,7 @@ title: Sheriff Department
 
 **Sediul SD** se află într-o zonă retrasă, în Sandy Shores, astfel încât oamenii legii pot ajunge cât se poate de repede la orice eveniment **ilegal** sau **neplăcut** din zonele Sandy Shores și Paleto Bay. La același sediu sunt aduși oamenii ce sunt **căutați** de poliție pentru a fi încarcerați, pe care îi poți vedea și la închisoare ulterior.
 ::: details Locație HQ  
-<Image src="" alt="Sediu" label="Locație: Sandy Shores" labelAlign="left" />
+<Image src="https://i.imgur.com/TDBf4dz.png" alt="Sediu" label="Locație: [Sandy Shores](https://i.imgur.com/cUy90iU.png)" labelAlign="left" />
 :::
 
 ## Echipament
@@ -47,7 +47,7 @@ Fără echipament nu îți poți desfășura activitățile de polițist!
 :::
 
 ::: details Faction Locker
-<Image src="http://i.imgur.com/IbbBabV.gif" alt="Locker" />
+<Image src="" alt="Locker" />
 :::
 
 ::: tip
@@ -55,7 +55,7 @@ Pentru a intra în incinta închisorii trebuie să folosești locker-ul, astfel 
 :::
 
 ::: details Închisoarea
-<Image src="http://i.imgur.com/EVyeTk2.gif" alt="Jail" />
+<Image src="" alt="Jail" />
 :::
 
 ## Vehicule
@@ -66,32 +66,32 @@ Pentru a intra în incinta închisorii trebuie să folosești locker-ul, astfel 
 Pentru a porni girofarul, apasă tasta `E`.
 :::
 
-| Vehicule      |      Tip      |  
+| Vehicule  |  Tip  |  
 | :-------------: | :-----------: |  
-| Buffalo      |   [**Police Buffalo**]()    |   
-| Mercedes-Benz AMG GT R |  [**Police Mercedes-Benz AMG GT R**]()    |   
+| Buffalo |  [**Sheriff Buffalo**](https://i.imgur.com/oXaZNnM.png)  |   
+| Mercedes-Benz AMG GT R |  [**Sheriff Mercedes-Benz AMG GT R**]()  |   
 | Maverick | [**Police Maverick**](https://static.wikia.nocookie.net/gtawiki/images/5/50/PoliceMaverick-GTAV-front.png/revision/latest?cb=20161111195820) |
-| Predator | [**Police Predator**](https://static.wikia.nocookie.net/gtawiki/images/c/cb/PolicePredator-GTAV-front.png/revision/latest?cb=20180529134458) |
+| Predator | [**Police Predator**](https://i.imgur.com/p8Zh3yh.png) |
 
 ::: details Locatie cars
 
-<Image src="" alt="Spawn Cars" />
-<Image src="" alt="Spawn Cars" />
-<Image src="" alt="Spawn Cars" />
+<Image src="https://i.imgur.com/k32RrAl.png" alt="SD Spawn Cars" />
+<Image src="" alt="SD Spawn Cars" />
+<Image src="http://i.imgur.com/Hw3qEDQ.png" alt="SD Spawn Cars" />
 
 :::
 
 ::: details Locatie airplanes
 
-<Image src="" alt="Spawn Airplanes" />
-<Image src="" alt="Spawn Airplanes" />
+<Image src="https://i.imgur.com/BsId74e.png" alt="Spawn Airplanes" />
+<Image src="https://i.imgur.com/Bxta0q6.png" alt="Spawn Airplanes" />
 
 :::
 
 ::: details Locatie boat
 
-<Image src="" alt="Spawn Boat" />
-<Image src="" alt="Spawn Boat" />
+<Image src="https://i.imgur.com/BkQ4g9S.png" alt="Spawn Boat" />
+<Image src="https://i.imgur.com/jJNpZ76.png" alt="Spawn Boat" />
 
 :::
 
@@ -107,8 +107,8 @@ Pentru a identifica atât *motivul, wanted-ul, cât și locația infractorului*,
 Infractorii care au **cătușe** deasupra capului înseamnă că au drept de predare și trebuie încătușați și duși la secție la punctul de arest! Punctul de **arest** este în spatele secției. Cei care nu au drept de predare au deasupra capului o **țintă** și trebuie omorâți pe loc.
 :::
 
-::: details Punct de arest in Desert
-<Image src="https://im.ezgif.com/tmp/ezgif-1-200897774c.gif" alt="Arest" />
+::: details Punct de arest in Sandy Shores
+<Image src="https://i.imgur.com/mba4Ejo.png" alt="Arrest Point" />
 :::
 
 ::: details Exemplu drept de predare
