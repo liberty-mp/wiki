@@ -37,7 +37,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Raport de activitate | Bani oferiți per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 25x Criminali arestați<br>3x Amenzi pentru viteză<br>3x Opriri de rutină<br>2x Permise suspendate | Conducere fară permis: <Dinero :amount='475' /><br>Suspendare Permis: <Dinero :amount='375' /><br>Percheziție: <Dinero :amount='375' /><br>Amendă: <Dinero :amount='250' /><br>Arrest/Kill: <Dinero :amount='225' />| 7 ore |
+| **1 -> 3** | 50 de Criminali arestați<br>5 de Amenzi pentru viteză<br>5 Opriri de rutină<br>3 Permise suspendate | Conducere fară permis: <Dinero :amount='475' /><br>Suspendare Permis: <Dinero :amount='375' /><br>Percheziție: <Dinero :amount='375' /><br>Amendă: <Dinero :amount='250' /><br>Arrest/Kill: <Dinero :amount='225' />| 7 ore |
 | **Tester** | - | - | - |
 | **4** | - | - | - |
 | **5** | N/A | - | - |
@@ -48,7 +48,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Raport de activitate | Ore activitate |
 | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 20x Clienți transportați | 7 ore |
+| **1 -> 3** | 35 de Clienți transportați | 7 ore |
 | **4** | - | - |
 | **5** | N/A | - |
 
@@ -62,12 +62,12 @@ Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la
 
 | Rank | Raport de activitate | Ore activitate |
 | :-----------: | :-----------: | :-----------: |
-| **1** -> 3 | 30x Contracte normale finalizate<br>10x Contracte 'silent' finalizate | 7 ore |
+| **1** -> 3 | 20x Contracte normale finalizate<br>5x Contracte 'silent' finalizate | 7 ore |
 | **4** | - | - |
 | **5** | N/A | - |
 
 ::: tip Exemplu
-Pentru a completa raportul la rank 1, trebuie să completezi cu succes 30 de contracte normale, 10 contracte silent și să joci 5 ore pe server.
+Pentru a completa raportul la rank 1, trebuie să completezi cu succes 20 de contracte normale, 5 contracte silent și să joci 5 ore pe server.
 :::
 
 <!--
