@@ -37,7 +37,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Raport de activitate | Bani oferiți per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 50 de Criminali arestați<br>5 de Amenzi pentru viteză<br>5 Opriri de rutină<br>3 Permise suspendate | Conducere fară permis: <Dinero :amount='475' /><br>Suspendare Permis: <Dinero :amount='375' /><br>Percheziție: <Dinero :amount='375' /><br>Amendă: <Dinero :amount='250' /><br>Arrest/Kill: <Dinero :amount='225' />| 7 ore |
+| **1 -> 3** | Criminali arestați: 50<br>Amenzi pentru viteză: 5<br>Opriri de rutină: 5<br>Permise suspendate: 3 | Conducere fară permis: <Dinero :amount='475' /><br>Suspendare Permis: <Dinero :amount='375' /><br>Percheziție: <Dinero :amount='375' /><br>Amendă: <Dinero :amount='250' /><br>Arrest/Kill: <Dinero :amount='225' />| 7 ore |
 | **Tester** | - | - | - |
 | **4** | - | - | - |
 | **5** | N/A | - | - |
@@ -48,7 +48,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Raport de activitate | Ore activitate |
 | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 35 de Clienți transportați | 7 ore |
+| **1 -> 3** | Clienți transportați: 35 | 7 ore |
 | **4** | - | - |
 | **5** | N/A | - |
 
@@ -62,7 +62,7 @@ Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la
 
 | Rank | Raport de activitate | Ore activitate |
 | :-----------: | :-----------: | :-----------: |
-| **1** -> 3 | 20x Contracte normale finalizate<br>5x Contracte 'silent' finalizate | 7 ore |
+| **1** -> 3 | Contracte normale: 20 <br>Contracte Silent: 5 | 7 ore |
 | **4** | - | - |
 | **5** | N/A | - |
 
