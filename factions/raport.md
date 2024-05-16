@@ -37,7 +37,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Raport de activitate | Bani oferiți per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | Criminali arestați: 50<br>Amenzi pentru viteză: 5<br>Opriri de rutină: 5<br>Permise suspendate: 3 | Conducere fară permis: <Dinero :amount='475' /><br>Suspendare Permis: <Dinero :amount='375' /><br>Percheziție: <Dinero :amount='375' /><br>Amendă: <Dinero :amount='250' /><br>Arrest/Kill: <Dinero :amount='225' />| 7 ore |
+| **1 -> 3** | Criminali arestați: 40 <br>Amenzi pentru viteză: 3 <br>Opriri de rutină: 3 <br>Permise suspendate: 1 | Conducere fară permis: <Dinero :amount='475' /><br>Suspendare Permis: <Dinero :amount='375' /><br>Percheziție: <Dinero :amount='375' /><br>Amendă: <Dinero :amount='250' /><br>Arrest/Kill: <Dinero :amount='225' />| 7 ore |
 | **Tester** | - | - | - |
 | **4** | - | - | - |
 | **5** | N/A | - | - |
@@ -48,7 +48,7 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 | Rank | Raport de activitate | Ore activitate |
 | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | Clienți transportați: 35 | 7 ore |
+| **1 -> 3** | Clienți transportați: 30 | 7 ore |
 | **4** | - | - |
 | **5** | N/A | - |
 
