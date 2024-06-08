@@ -18,6 +18,14 @@ Summer event este un eveniment sezonier ce se desfășoară pe toată durata sez
 <Image src="https://i.imgur.com/GmmbxkR.png" alt="Summer Event" />
 :::
 
+::: tip
+La completarea celor trei activitati [Scuba Diving, Metal Scavenger si Ice Cream Delivery(livrarea a 50 de inghetate/zi lui Hannah)] de 50 de ori si atingerea sumei de <Dinero :amount="1000000" /> in cadrul jobului de vara, vei primi un bagde special.
+:::
+
+::: details Prezentare badge
+<Image src="https://i.imgur.com/tXKuHbj.png" alt="Prezentare badge" label="Liberty Summer Badge 2024" width="350" />
+:::
+
 ## Întrebări frecvente
 
 ### Care este durata evenimentului?
@@ -74,6 +82,14 @@ Pentru a putea face conversia, va trebui sa ne intoarcem la Hannah si sa selecta
 <Image src="https://i.imgur.com/WcApi5k.png" alt="disponi2bilitati" />
 <Image src="https://i.imgur.com/qOFVa7r.png" alt="disponibilitati2" />
 <Image src="https://i.imgur.com/7bd5iGk.png" alt="disponibilitati3" />
+:::
+
+::: tip
+La atingerea sumei de <Dinero :amount="500000" /> in cadrul jobului de vara, vei primi un badge special.
+:::
+
+::: details Prezentare badge
+<Image src="https://i.imgur.com/aneZYAw.png" alt="Prezentare badge" label="Ice Cream Delivery Badge 2024" width="350" />
 :::
 
 Icecreams pot fi obtinute și prin alte activităti prestate pe server, mai multe detalii vor putea fi văzute in tabelul de mai jos.
@@ -139,6 +155,16 @@ Metalele vor putea fi găsite doar pe plaja desemnată a orasului Los Santos, ma
 <Image src="https://i.imgur.com/t4G6Twa.png" alt="123" />
 :::
 
+::: tip
+Evenimentul poate fi completat doar o dată pe zi, avand un numar maxim de 50 de monede de aur ce pot fi colectate într-o zi.
+
+La completarea evenimentului de cel putin 20 ori, vei primi un badge special.
+:::
+
+::: details Prezentare badge
+<Image src="https://i.imgur.com/OJiqMWq.png" alt="Prezentare badge" label="Metal Scavenger Badge 2024" width="350" />
+:::
+
 ### Scuba Diving 🤿
 
 Ești un împătimit al sporturilor extreme și adrenalina în sânge? În acest caz, trebuie să știi că, în aceasta vară, zi de zi vei putea face scufundări în căutarea celor 50 de perle ascunse în largurile mării.
@@ -184,6 +210,16 @@ Odată ce am obținut perlele, acestea vor putea fi convertite, din nou, în Sum
 ::: details Schimb perle
 <Image src="https://i.imgur.com/elhRflw.png" alt="info" />
 <Image src="https://i.imgur.com/c7XwVn0.png" alt="info" />
+:::
+
+::: tip
+Evenimentul poate fi completat doar o dată pe zi, avand un numar maxim de 50 de scoici ce pot fi colectate într-o zi.
+
+La completarea evenimentului de cel putin 20 ori, vei primi un badge special.
+:::
+
+::: details Prezentare badge
+<Image src="https://i.imgur.com/oKrTiy3.png" alt="Prezentare badge" label="Scuba Diving Badge 2024" width="350" />
 :::
 
 ### Lucky Wheel 🍀
