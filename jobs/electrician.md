@@ -23,11 +23,15 @@ Jobul de Electrician constă în menținerea în funcțiune a echipamentelor ele
 Odată ajuns la locația NPC-ului Electrician, interacționează cu el folosind butonul `E` și selectează "**Începe munca**". Vei avea de ales dacă dorești să începi munca folosind vehiculul oferit de server sau unul personal. 
 
 ::: tip
-Selectând vehiculul oferit de el, se va asigura că vei avea rezervorul de combustibil mereu plin, deci nu va trebui ca tu să acoperi costurile combustibilului.
+Selectând optiunea "Standard" vei primi un vehiculul oferit de John, se va asigura că vei avea rezervorul de combustibil mereu plin, deci nu va trebui ca tu să acoperi costurile combustibilului.
+
+Pentru a utiliza masina personala in cadrul jobului trebuie sa selectezi optiunea "Advanced (100h)" si sa ai 100 de ore jucate pe server. 
 :::
 
-::: details Începe munca  
-  <Image src="https://i.imgur.com/cTjCQDk.gif" alt="Start Job" />  
+::: details Începe munca   
+  <Image src="https://i.imgur.com/NXiUWQL.gif" alt="Start Job Standard" /> 
+
+  <Image src="https://i.imgur.com/qoiljfs.gif" alt="Start Job Advanced" /> 
 :::  
 
 ::: details Vehicul oferit de NPC 
