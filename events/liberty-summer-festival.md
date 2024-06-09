@@ -90,6 +90,8 @@ Icecreams pot fi obtinute și prin alte activităti prestate pe server, mai mult
 | World Exploration | <Image src="https://i.imgur.com/mHPI2pm.png" alt="5x Icecream" width="50" label="5x Icecream" /> |
 | Payday | <Image src="https://i.imgur.com/mHPI2pm.png" alt="2x Icecream" width="50" label="2x Icecream" /> |
 
+În urma completării acestei activități, jucatorul va beneficia de un consum cu 50% mai mic de combustibil la orice vehicul, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
+
 ### Metal Scavenger 🧈
 
 Te consider ca fiind un bun căutător de comori? Vara aceasta vei avea oportunitatea de a iti etala abilitătile de căutător! Odată cu venirea sezonului cald, pe plaja din Los Santos s-au semnalat mai multe lucruri pretioase pierdute in nisip.
@@ -139,6 +141,8 @@ Metalele vor putea fi găsite doar pe plaja desemnată a orasului Los Santos, ma
 <Image src="https://i.imgur.com/t4G6Twa.png" alt="123" />
 :::
 
+În urma completării acestei activități, jucatorul va beneficia de Heat reduction mai rapid cu 15%, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
+
 ### Scuba Diving 🤿
 
 Ești un împătimit al sporturilor extreme și adrenalina în sânge? În acest caz, trebuie să știi că, în aceasta vară, zi de zi vei putea face scufundări în căutarea celor 50 de perle ascunse în largurile mării.
@@ -185,6 +189,8 @@ Odată ce am obținut perlele, acestea vor putea fi convertite, din nou, în Sum
 <Image src="https://i.imgur.com/elhRflw.png" alt="info" />
 <Image src="https://i.imgur.com/c7XwVn0.png" alt="info" />
 :::
+
+În urma completării acestei activități, jucatorul va beneficia de job boost in cadrul joburilor pasive Deep Sea Fishing și Crypto Farm pe tot parcursul zilei, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
 
 ### Lucky Wheel 🍀
 
