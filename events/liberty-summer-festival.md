@@ -19,7 +19,7 @@ Summer event este un eveniment sezonier ce se desfășoară pe toată durata sez
 :::
 
 ::: tip
-La completarea celor trei activitati [Scuba Diving, Metal Scavenger si Ice Cream Delivery(livrarea a 50 de inghetate/zi lui Hannah)] de 50 de ori si atingerea sumei de <Dinero :amount="1000000" /> in cadrul jobului de vara, vei primi un bagde special.
+La completarea celor trei activitati [Scuba Diving, Metal Scavenger si Ice Cream Stand Refill (livrarea a 50 de inghetate/zi lui Hannah)] de 50 de ori si atingerea sumei de <Dinero :amount="1000000" /> in cadrul jobului de vara, vei primi un bagde special.
 :::
 
 ::: details Prezentare badge
@@ -68,20 +68,10 @@ După ce vom selecta inceperea activitătii, Hannah ne va oferi ca vehicul de mu
 <Image src="https://i.imgur.com/cwBeaAm.png" alt="vehicul2" />
 :::
 
-In momentul in care intram in checkpoint-ul la care trebuie sa facem livrarea, vom primi o suma de bani aleatorie și `Icecream`.
+In momentul in care intram in checkpoint-ul la care trebuie sa facem livrarea, vom primi o suma de bani.
 
 ::: tip
-Suma căștigată este influentata de skill-ul avut în cadrul activitătii deoarece este considerat ca fiind un job.
-
-Referitor la Icecream, acesta se va primi atunci cand obtinem 160$ castigati la job.
-:::
-
-Pentru a putea face conversia, va trebui sa ne intoarcem la Hannah si sa selectam, dintre optiunile prezentate mai sus `Schimb inghetata`, iar mai apoi `Am adus inghetata`. In functie de numarul de inghetate avut se vor primi si `Summer Event Tokens`.
-
-::: details Convertire icecreams
-<Image src="https://i.imgur.com/WcApi5k.png" alt="disponi2bilitati" />
-<Image src="https://i.imgur.com/qOFVa7r.png" alt="disponibilitati2" />
-<Image src="https://i.imgur.com/7bd5iGk.png" alt="disponibilitati3" />
+Suma căștigată este influentata de skill-ul pe care-l vei dobandi la acest job temporar.
 :::
 
 ::: tip
@@ -92,7 +82,10 @@ La atingerea sumei de <Dinero :amount="500000" /> in cadrul jobului de vara, vei
 <Image src="https://i.imgur.com/aneZYAw.png" alt="Prezentare badge" label="Ice Cream Delivery Badge 2024" width="350" />
 :::
 
-Icecreams pot fi obtinute și prin alte activităti prestate pe server, mai multe detalii vor putea fi văzute in tabelul de mai jos.
+### Ice Cream Stand Refill 🍦
+
+Datorita cererii mari de inghetata, standul are nevoie de ajutorul tau pentru a isi putea servi toti clientii. Drept urmare trebuia sa-l alimentezi cu 50 inghetate pe zi.
+Inghetata poate fi obtinuta din activităti prestate pe server, mai multe detalii vor putea fi văzute in tabelul de mai jos.
 
 | Activitate | Cantitate |
 | :-----------: | :-----------: |
@@ -105,6 +98,14 @@ Icecreams pot fi obtinute și prin alte activităti prestate pe server, mai mult
 | Daily Quests | <Image src="https://i.imgur.com/mHPI2pm.png" alt="5x Icecream" width="50" label="5x Icecream" /> |
 | World Exploration | <Image src="https://i.imgur.com/mHPI2pm.png" alt="5x Icecream" width="50" label="5x Icecream" /> |
 | Payday | <Image src="https://i.imgur.com/mHPI2pm.png" alt="2x Icecream" width="50" label="2x Icecream" /> |
+
+Pentru a alimenta chioscul de inghetata, va trebui sa sa selectam, dintre optiunile prezentate mai sus `Schimb inghetata`, iar mai apoi `Am adus inghetata`. In functie de numarul de inghetate avut vei primi `Summer Event Tokens`.
+
+::: details Alimentare stand inghetata
+<Image src="https://i.imgur.com/WcApi5k.png" alt="disponi2bilitati" />
+<Image src="https://i.imgur.com/qOFVa7r.png" alt="disponibilitati2" />
+<Image src="https://i.imgur.com/7bd5iGk.png" alt="disponibilitati3" />
+:::
 
 În urma completării acestei activități, jucatorul va beneficia de un consum cu 50% mai mic de combustibil la orice vehicul, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
 
