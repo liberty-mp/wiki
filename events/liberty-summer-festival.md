@@ -15,7 +15,7 @@ title: Liberty Summer Festival
 Summer event este un eveniment sezonier ce se desfășoară pe toată durata sezonului cald în care jucătorii vor putea obține diferite recompense prin completarea unor misiuni și colectarea unor obiecte speciale ce pot fi ulterior schimbate cu recompense.
 
 ::: details Prezentare Summer Event
-<Image src="https://i.imgur.com/GmmbxkR.png" alt="Summer Event" />
+<Image src="https://i.imgur.com/XKZxfbx.png" alt="Summer Event" />
 :::
 
 ## Întrebări frecvente
@@ -28,8 +28,8 @@ Acest eveniment momentan nu are o data prestabilită de eliminare de pe server, 
 
 ### Liberty Music Festival 💃
 
-Pe toată durata verii, pe plaja din orașul Los Santos va fi regăsită o scenă la care vor fi, mai mereu, diverse evenimente. Acolo, jucătorii se vor putea aduna și vor putea lua parte la marile festivale ce vor avea loc în această vară.
-Așadar, dacă îți făceai probleme ca nu vei avea oportunitatea de a îi vedea pe Travis Scott, Don Toliver și multi altii într-un concert live, te așteptăm pe plajă să ne distrăm cu toți acesti artisti mari!
+Pe toată durata verii, pe plaja din orașul Los Santos va fi regăsită o scenă la care vor fi, mai mereu, diverse evenimente. Acolo, jucătorii se vor putea aduna și vor putea lua parte la marile festivaluri ce vor avea loc în această vară.
+Așadar, dacă îți făceai probleme ca nu vei avea oportunitatea de a participa la festivalurile verii, sau de a îi vedea pe Travis Scott, Don Toliver și multi altii într-un concert live, te așteptăm pe plajă să ne distrăm la watch party!
 
 ::: details Prezentare Scenă evenimente
 <Image src="https://i.imgur.com/oryLicn.png" alt="Summer stage" />
@@ -207,7 +207,7 @@ Accesarea Lucky Wheel se vă putea face prin intermediul butonului `Deschide roa
 
 ### Summer shop 🛒
 
-Trebuie să existe și o răsplată după atâtea activități, nu-i așa? Ei bine, Summer Shop-ul este puțîn mai diferit fata de cele de la evenimentele anterioare. Tot vorbeam mai sus despre `Summer Event Token`, ei bine, acestea vor putea fi folosite în shop-ul special ce poate fi accsesat prin interacțiunea cu Anne. Odată la 6 ore, preturile și inclusiv itemele din shop se vor modifica, oferind obiecte speciale pentru fiecare jucător în parte, fiind diferit de la jucător la jucător, atât prețul, cât și item-ul oferit. Mai multe detalii despre preturi sau itemele disponibile nu vă putem oferi, însă, acestea sunt pe măsură efortului depus și vor merita.
+Trebuie să existe și o răsplată după atâtea activități, nu-i așa? Ei bine, Summer Shop-ul este puțîn mai diferit fata de cele de la evenimentele anterioare. Tot vorbeam mai sus despre `Summer Event Token`, ei bine, acestea vor putea fi folosite în shop-ul special ce poate fi accsesat prin interacțiunea cu Anne. Odată la 6 ore, preturile și inclusiv itemele din shop se vor modifica, oferind obiecte speciale pentru fiecare jucător în parte, fiind diferit de la jucător la jucător, atât prețul, cât și item-ul oferit. În shop se vor regăsi aleatoriu: noua colecție de haine Sigma, items din Premium Shop, items utile din joc.
 
 ::: details Prezentare shop
 <Image src="https://i.imgur.com/M9EQdTu.png" alt="info" />
