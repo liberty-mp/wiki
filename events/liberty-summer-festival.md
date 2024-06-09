@@ -223,7 +223,14 @@ La completarea acestei activități de 20 ori jucatorul va fi recompensat cu un 
 
 ### Lucky Wheel 🍀
 
-Anne este reprezentanta norocului în ceea ce tine evenimentul de vara. Odată interacționat cu ea, vei avea 2 opțiuni posibile de selectat. Odată, vorbim despre `Lucky Wheel`. Poți da la aceasta roata daca deti un `Lucky Wheel Ticket` ce poate fi obținut din Liberty Pass sau prin scurgerea timpului de 1:30 la roata din josul ecranului, găsită în partea dreapta jos.
+Anne este reprezentanta norocului în ceea ce tine evenimentul de vara. Odată interacționat cu ea, vei avea 2 opțiuni posibile de selectat. Odată, vorbim despre `Lucky Wheel`. 
+Poți da la aceasta roata daca deti un `Lucky Wheel Ticket`.
+
+Lucky Wheel Ticket poate fi obtinut in urmatoarele moduri: 
+  - Liberty Pass
+  - daca playerul joaca 1:30 ore pe server intr-o zi (reset la ora 07:00)
+  - daca playerul acumuleaza 5 payday-uri intr-o zi (reset la ora 07:00) 
+  - la completarea activitatilor de vara intr-o zi
 
 Pentru a ajunge la Anne, poți folosi comanda `/summer` și să selectezi opțiunea Lucky Wheel. Odată ajuns acolo, pentru a accesa meniul, vă fi nevoie să apeși tasta `E` pentru a interacționă.
 
