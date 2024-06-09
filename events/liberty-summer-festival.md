@@ -15,7 +15,7 @@ title: Liberty Summer Festival
 Summer event este un eveniment sezonier ce se desfășoară pe toată durata sezonului cald în care jucătorii vor putea obține diferite recompense prin completarea unor misiuni și colectarea unor obiecte speciale ce pot fi ulterior schimbate cu recompense.
 
 ::: details Prezentare Summer Event
-<Image src="https://i.imgur.com/GmmbxkR.png" alt="Summer Event" />
+<Image src="https://i.imgur.com/XKZxfbx.png" alt="Summer Event" />
 :::
 
 ::: tip
@@ -36,8 +36,8 @@ Acest eveniment momentan nu are o data prestabilită de eliminare de pe server, 
 
 ### Liberty Music Festival 💃
 
-Pe toată durata verii, pe plaja din orașul Los Santos va fi regăsită o scenă la care vor fi, mai mereu, diverse evenimente. Acolo, jucătorii se vor putea aduna și vor putea lua parte la marile festivale ce vor avea loc în această vară.
-Așadar, dacă îți făceai probleme ca nu vei avea oportunitatea de a îi vedea pe Travis Scott, Don Toliver și multi altii într-un concert live, te așteptăm pe plajă să ne distrăm cu toți acesti artisti mari!
+Pe toată durata verii, pe plaja din orașul Los Santos va fi regăsită o scenă la care vor fi, mai mereu, diverse evenimente. Acolo, jucătorii se vor putea aduna și vor putea lua parte la marile festivaluri ce vor avea loc în această vară.
+Așadar, dacă îți făceai probleme ca nu vei avea oportunitatea de a participa la festivalurile verii, sau de a îi vedea pe Travis Scott, Don Toliver și multi altii într-un concert live, te așteptăm pe plajă să ne distrăm la watch party!
 
 ::: details Prezentare Scenă evenimente
 <Image src="https://i.imgur.com/oryLicn.png" alt="Summer stage" />
@@ -106,6 +106,8 @@ Icecreams pot fi obtinute și prin alte activităti prestate pe server, mai mult
 | World Exploration | <Image src="https://i.imgur.com/mHPI2pm.png" alt="5x Icecream" width="50" label="5x Icecream" /> |
 | Payday | <Image src="https://i.imgur.com/mHPI2pm.png" alt="2x Icecream" width="50" label="2x Icecream" /> |
 
+În urma completării acestei activități, jucatorul va beneficia de un consum cu 50% mai mic de combustibil la orice vehicul, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
+
 ### Metal Scavenger 🧈
 
 Te consider ca fiind un bun căutător de comori? Vara aceasta vei avea oportunitatea de a iti etala abilitătile de căutător! Odată cu venirea sezonului cald, pe plaja din Los Santos s-au semnalat mai multe lucruri pretioase pierdute in nisip.
@@ -155,11 +157,9 @@ Metalele vor putea fi găsite doar pe plaja desemnată a orasului Los Santos, ma
 <Image src="https://i.imgur.com/t4G6Twa.png" alt="123" />
 :::
 
-::: tip
 Evenimentul poate fi completat doar o dată pe zi, avand un numar maxim de 50 de monede de aur ce pot fi colectate într-o zi.
-
-La completarea evenimentului de cel putin 20 ori, vei primi un badge special.
-:::
+În urma completării acestei activități, jucatorul va beneficia de Heat reduction mai rapid cu 15%, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
+La completarea acestei activități de 20 ori jucatorul va fi recompensat cu un Badge pe profil.
 
 ::: details Prezentare badge
 <Image src="https://i.imgur.com/OJiqMWq.png" alt="Prezentare badge" label="Metal Scavenger Badge 2024" width="350" />
@@ -212,13 +212,12 @@ Odată ce am obținut perlele, acestea vor putea fi convertite, din nou, în Sum
 <Image src="https://i.imgur.com/c7XwVn0.png" alt="info" />
 :::
 
-::: tip
 Evenimentul poate fi completat doar o dată pe zi, avand un numar maxim de 50 de scoici ce pot fi colectate într-o zi.
-
-La completarea evenimentului de cel putin 20 ori, vei primi un badge special.
+În urma completării acestei activități, jucatorul va beneficia de job boost in cadrul joburilor pasive Deep Sea Fishing și Crypto Farm pe tot parcursul zilei, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
+La completarea acestei activități de 20 ori jucatorul va fi recompensat cu un Badge pe profil.
 :::
 
-::: details Prezentare badge
+::: details Prezentare Badge
 <Image src="https://i.imgur.com/oKrTiy3.png" alt="Prezentare badge" label="Scuba Diving Badge 2024" width="350" />
 :::
 
@@ -243,7 +242,7 @@ Accesarea Lucky Wheel se vă putea face prin intermediul butonului `Deschide roa
 
 ### Summer shop 🛒
 
-Trebuie să existe și o răsplată după atâtea activități, nu-i așa? Ei bine, Summer Shop-ul este puțîn mai diferit fata de cele de la evenimentele anterioare. Tot vorbeam mai sus despre `Summer Event Token`, ei bine, acestea vor putea fi folosite în shop-ul special ce poate fi accsesat prin interacțiunea cu Anne. Odată la 6 ore, preturile și inclusiv itemele din shop se vor modifica, oferind obiecte speciale pentru fiecare jucător în parte, fiind diferit de la jucător la jucător, atât prețul, cât și item-ul oferit. Mai multe detalii despre preturi sau itemele disponibile nu vă putem oferi, însă, acestea sunt pe măsură efortului depus și vor merita.
+Trebuie să existe și o răsplată după atâtea activități, nu-i așa? Ei bine, Summer Shop-ul este puțîn mai diferit fata de cele de la evenimentele anterioare. Tot vorbeam mai sus despre `Summer Event Token`, ei bine, acestea vor putea fi folosite în shop-ul special ce poate fi accsesat prin interacțiunea cu Anne. Odată la 6 ore, preturile și inclusiv itemele din shop se vor modifica, oferind obiecte speciale pentru fiecare jucător în parte, fiind diferit de la jucător la jucător, atât prețul, cât și item-ul oferit. În shop se vor regăsi aleatoriu: noua colecție de haine Sigma, items din Premium Shop, items utile din joc.
 
 ::: details Prezentare shop
 <Image src="https://i.imgur.com/M9EQdTu.png" alt="info" />
@@ -253,7 +252,7 @@ Trebuie să existe și o răsplată după atâtea activități, nu-i așa? Ei bi
 
 ### Scoici
 
-Perlele sunt obținute în urma completării activității 'Scuba Diving' și vor putea fi folosite în obținere `Perlelor`.
+Scoicile sunt obținute în urma completării activității 'Scuba Diving' și vor putea fi folosite în obținere `Perlelor`.
 
 ### Perle
 
