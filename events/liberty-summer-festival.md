@@ -128,6 +128,9 @@ Odată incepută activitatea, vom primi un detector de metale pe care il vom put
 Metalele pot fi ridicate si cu o marjă de eroare de maximum 5 metri, nu trebuie să fim neapărat deasupra lor.
 :::
 
+::: tip
+Dacă mai aveți doar 10 metale de căutat, pe minimap o să vă apară semne de întrebare ca în poza prezentată [aici](https://i.imgur.com/O8kudks.png).
+
 ::: details Informare incepere activitate 
 <Image src="https://i.imgur.com/wzLzEXP.png" alt="2" />
 :::
