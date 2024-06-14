@@ -99,6 +99,12 @@ Inghetata poate fi obtinuta din activităti prestate pe server, mai multe detali
 | World Exploration | <Image src="https://i.imgur.com/mHPI2pm.png" alt="5x Icecream" width="50" label="5x Icecream" /> |
 | Payday | <Image src="https://i.imgur.com/mHPI2pm.png" alt="2x Icecream" width="50" label="2x Icecream" /> |
 
+::: tip
+Jucătorii pot colecta câte înghețate îsi doresc în functie de activitatea avută pe server, însă, bine de știut ar fi faptul că dacă dorim să completăm progresul pentru quest prin convertirea acestora în event tokens, NPC-ul le va lua pe toate. Spre exemplu, dacă avem 100 inghețate si mergem sa convertim la NPC, acesta ne va da 100 event tokens.
+
+Dacă dorim să salvăm progres pentru ziua următoare, jucătorii vor fi nevoiți să livreze 50 înghețate NPC-ului iar abia după să înceapa colectarea pentru ziua urmatoare.
+:::
+
 Pentru a alimenta chioscul de inghetata, va trebui sa sa selectam, dintre optiunile prezentate mai sus `Schimb inghetata`, iar mai apoi `Am adus inghetata`. In functie de numarul de inghetate avut vei primi `Summer Event Tokens`.
 
 ::: details Alimentare stand inghetata
