@@ -19,7 +19,7 @@ Summer event este un eveniment sezonier ce se desfășoară pe toată durata sez
 :::
 
 ::: tip
-La completarea celor trei activitati [Scuba Diving, Metal Scavenger si Ice Cream Stand Refill (livrarea a 50 de inghetate/zi lui Hannah)] de 50 de ori si atingerea sumei de <Dinero :amount="1000000" /> in cadrul jobului de vara, vei primi un bagde special.
+La completarea celor trei activitati [Scuba Diving, Metal Scavenger si Ice Cream Stand Refill (livrarea a 50 de inghetate/zi lui Hannah)] de 50 de ori si atingerea sumei de <Dinero :amount="400000" /> in cadrul jobului de vara, vei primi un bagde special.
 :::
 
 ::: details Prezentare badge
@@ -75,7 +75,7 @@ Suma căștigată este influentata de skill-ul pe care-l vei dobandi la acest jo
 :::
 
 ::: tip
-La atingerea sumei de <Dinero :amount="500000" /> in cadrul jobului de vara, vei primi un badge special.
+La atingerea sumei de <Dinero :amount="200000" /> in cadrul jobului de vara, vei primi un badge special.
 :::
 
 ::: details Prezentare badge
