@@ -133,9 +133,6 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/49ByCFQ.png" alt="Truffade Pasko" /> | Truffade Pasko | Koenigsegg Jesko [2020] | <Dinero :amount='4000000' /> |
 | <Image src="https://imgur.com/tK76Mho.png" alt="Truffade Devil" /> | Truffade Devil | Bugatti Divo [2020] | <Dinero :amount='4350000' /> |
 | <Image src="https://imgur.com/Ru2rGRD.png" alt="Truffade Mistreto Spyder" /> | Truffade Mistreto Spyder  | Bugatti Mistral [2024] | <Dinero :amount='4350000' /> |
-
-
-Special thanks to SFN.
 :::
 
 ::: details Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
@@ -144,7 +141,8 @@ Special thanks to SFN.
 | <Image src="https://imgur.com/pRdX7rx.png" alt="Pantheon Supersport (LP 1)" /> | Pantheon Supersport (LP 1) | Lamborghini Countach [1974] | [**Liberty Pass 1**](../events/libertypass-seasonal-event.md#liberty-pass-) |
 | <Image src="https://imgur.com/m3qx4e6.png" width="110" alt="Grotti Cheetah (LP 2)" /> | Grotti Cheetah (LP 2) | Lamborghini Countach [1974] | [**Liberty Pass 2**](../events/libertypass-seasonal-event.md#liberty-pass-) |
 | <Image src="https://imgur.com/M3sKCsK.png" width="110" alt="Dinka NSX" /> | Dinka NSX | Honda NSX[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) |
-| <Image src="https://imgur.com/C6UHpW8.png" width="110" alt="Dinka NSX" /> | Hotring Sabre | Chevrolet Lumina[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) - **bonus tier(102)** |
+| <Image src="https://imgur.com/C6UHpW8.png" width="110" alt="Hotring Sabre" /> | Hotring Sabre | Chevrolet Lumina[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) - **bonus tier(102)** |
+| <Image src="https://imgur.com/wj0QkWq.png" width="110" alt="Übermacht E30 Cabrioleto" /> | Übermacht E30 Cabrioleto | BMW E30 325i Cabriolet[1990] | [**Liberty Pass 4**](/events/libertypass-seasonal-event) - **bonus tier(102)** |
 | <Image src="https://imgur.com/aheAerR.png" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 | <Image src="https://imgur.com/Ti7p3bx.png" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 :::
