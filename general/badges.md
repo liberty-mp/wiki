@@ -68,17 +68,17 @@ Membrii clanului aflat pe locul 1 la final de sezon Bounty Hunters vor primi bad
 
 ### Liberty Pass Badges
 
-Acest badge poate fi obținut la finalizarea battlepass-ului [Liberty Pass](../events/libertypass-seasonal-event-).
+Acest badge poate fi obținut la finalizarea battlepass-ului [Liberty Pass](../events/libertypass-seasonal-event).
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/EuMloev.png" alt="Liberty Pass" width="50" label="Liberty Pass Season" />| obținut de jucătorii ce termină Liberty Pass-ul |
 
-Un nou badge a fost implementat odata cu `Liberty Pass Season 3`, acesta poate fi obținut de jucătorii ce dețin Liberty Premium Pass și au completat cele două Questuri Bonus din [Liberty Pass](../events/libertypass-seasonal-event-).
+Un badge nou a fost adăugat odată cu `Sezonul 3` din [Liberty Pass](../events/libertypass-seasonal-event). Acesta poate fi obținut de jucătorii ce dețin varianta Premium a Liberty Pass-ului și au finalizat [Bonus Quest 2](../events/libertypass-seasonal-event#ce-sunt-tierele-bonus).
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/rYMgGg9.png" alt="LP Bonus Quests Badge" width="100" label="LP Bonus Quests Badge" />| obținut de jucătorii ce au completat cele două Questuri Bonus din Liberty Pass |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/battlepass_completionist.png" alt="Battlepass Completionist" width="50" label="Battlepass Completionist" />| obținut de jucătorii ce au completat 'Bonus Quest 2' |
 
 ### One Year Anniversary 2024 Badge
 

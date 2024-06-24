@@ -26,7 +26,7 @@ Atasamentele pe toate armele sunt disponibile incepand cu **rank 3**.
 
 :::
 
-<Image src="https://i.imgur.com/496pa8b.png" alt="Pistol" width="100" label="Pistol" />
+<Image src="https://i.imgur.com/b7N6yYi.png" alt="Pistol .50" width="100" label="Pistol .50" />
 <Image src="https://i.imgur.com/EdkzxtF.png" alt="Tazer" width="100" label="Tazer" />
 <Image src="https://i.imgur.com/rmx6CMm.png" alt="Radar" width="100" label="Radar" />
 <Image src="https://i.imgur.com/7JDzBXz.png" alt="Rifle" width="100" label="Pușcă automată" />
@@ -71,7 +71,7 @@ Pentru a porni girofarul, apasă tasta `E`.
 | Buffalo      |   [**Police Buffalo**](https://i.imgur.com/Edcz0Dy.png)    |   
 | Mercedes-Benz AMG GT R |  [**Police Mercedes-Benz AMG GT R**](https://i.imgur.com/qg2DlPO.png)    |   
 | Maverick | [**Police Maverick**](https://static.wikia.nocookie.net/gtawiki/images/5/50/PoliceMaverick-GTAV-front.png/revision/latest?cb=20161111195820) |
-| Predator | [**Police Predator**](https://static.wikia.nocookie.net/gtawiki/images/c/cb/PolicePredator-GTAV-front.png/revision/latest?cb=20180529134458) |
+| Predator | [**Police Predator**](https://i.imgur.com/p8Zh3yh.png) |
 
 ::: details Locatie cars
 
@@ -141,6 +141,29 @@ De asemenea, tracking-ul (localizarea) care afișează locația infractorului es
 Pentru a acorda somații jucătorilor, polițistul o să folosească comanda `/so [id]`, iar respectivul în cauză o să primească notificarea. Pentru a percheziționa pe cineva, se folosește tasta `N`, se selectează jucătorul și se alege opțiunea `frisk`.
 ::: details Exemplu percheziție
 <Image src="http://i.imgur.com/Em2TXka.gif" alt="frisk" />
+:::
+
+Polițiștii pot efectua opriri în trafic pentru a cere jucătorilor documentele. Șoferul oprit poate face acest lucru folosind meniul de interacțiuni sau comanda `/showdocuments [id]` urmând ca ofițerul să accepte documentele acestuia folosind comanda `/acceptdocuments [id]`.
+
+::: Tip
+Jucătorii vor fi nevoiți să-și achiziționeze o asigurare pentru vehiculul personal prin aplicația 'Vehicles' din telefon, prețul fiind de <Dinero :amount='1' />/KM.
+:::
+
+::: warning Tip
+În cazul în care jucătorul nu deține categoria corectă de permis sau are o asigurare expirată, acesta va primi wanted respectiv amenda.
+:::
+
+::: details Exemplu
+<Image src="https://i.imgur.com/CpnXAwq.png" alt="Accept documents" />
+<Image src="/assets/images/factions/lspd/Insurance-Fine.gif" alt="Insurance Fine" />
+:::
+
+## Utilizarea cagulii
+
+Polițiștii pot comite ilegalități fără a fi sancționați în cadrul facțiunii folosind o cagulă. Itemul este intitulat Hood, are o singură utilizare și poate fi cumpărat dintr-un [Gunshop](../economy/businesses#gun-shop) la prețul de <Dinero :amount='750' />. Odată echipat, polițistul poate folosi armele off duty și poate participa la diferite activități ilegale precum jafuri, furturi de vehicule, etc. 
+
+::: warning 
+În momentul dezechipării sau în momentul în care jucătorul este arestat, cagula este distrusă.
 :::
 
 ## Obiecte confiscabile

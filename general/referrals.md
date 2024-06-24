@@ -28,20 +28,26 @@ Poți introduce un referral după ce _termini tutorialul de început_ sau în **
 
 | Cerințe   | Recompense |
 | :-----------: | :-----------: |
-| 15 ore jucate | <Dinero :amount='1000' /> |
-| 25 ore jucate | <Dinero :amount='1500' /> |
+| 15 ore jucate | <Dinero :amount='2000' /> |
+| 20 ore jucate | <InventoryItem itemKey="crate_trucker_event" width="64" :qt="1" />/|
+| 30 ore jucate | <Dinero :amount='2500' /> |
 | 40 ore jucate | <Gold :amount='250' /> |
 | 75 ore jucate | [**clothing crate**](#clothing-crate) |
+| 100 ore jucate | <InventoryItem itemKey="ammo_smg" width="64" :qt="100" />/ |
 | 150 ore jucate | <Gold :amount='750' /> |
 
 **Persoana ce a introdus referral-ul** (numele sau ID-ul unic) primește următoarele recompense atunci când atinge numărul de ore jucate:
 
 | Cerințe   | Recompense |
 | :-----------: | :-----------: |
-| 10 ore jucate | <Dinero :amount='1500' /> |
-| 20 ore jucate | <Dinero :amount='2000' /> |
+| 5 ore jucate | <InventoryItem itemKey="marijuana_joint" width="64" :qt="10" />/ |
+| 10 ore jucate | <Dinero :amount='2500' /> |
+| 20 ore jucate | <Dinero :amount='3000' /> |
+| 30 ore jucate | <InventoryItem itemKey="crate_trucker_event" width="64" :qt="2" />/ |
 | 40 ore jucate | <Gold :amount='200' /> |
 | 80 ore jucate | [**clothing crate**](#clothing-crate) |
+| 100 ore jucate | <InventoryItem itemKey="weapon_pistol50" width="64" :qt="1" />/ |
+| 125 ore jucate | <InventoryItem itemKey="ammo_smg" width="64" :qt="100" />/ |
 | 150 ore jucate | <Gold :amount='700' /> |
 
 **<Color hex="#FFD700">Gold</Color>**-ul este folosit în [Shop](https://ucp.liberty.mp/shop).
