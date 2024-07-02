@@ -3,7 +3,11 @@ title: Bank District - Clan Spray Wars
 ---
 
 | Întrebare | Răspuns |
-| ----------- | :-----------: |
+| ----------- | :-----------: ||
+| Nume District | Bank District |
+| Activitate District | Heist la Pacific Bank. |
+| Număr de Spray Tags? | 20 |
+| Zona District | <Image src="/assets/images/clans/spray-wars/districts/bank.png" width="256" label="Estul hărții" /> |
 | Necesită **vehicul personal**? | Da, un membru al heistului va avea nevoie de o masina cu 4 locuri si de o barca. |
 | Necesită un minim de level? | Da, ai nevoie de minim level 15. |
 | Necesită iteme specifice? | <InventoryItem itemKey="weapon_carbinerifle" width="64" :qt="1" />/ <InventoryItem itemKey="ammo_rifle" width="64" :qt="200" />/ <InventoryItem itemKey="thermite_device" width="64" :qt="1" />/ <InventoryItem itemKey="drill" width="64" :qt="1" />/ |
