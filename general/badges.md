@@ -112,7 +112,7 @@ Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul d
 
 | Badge | Cerință |
 | :-----------: | :-----------: |
-| <Image src="/assets/images/general/badges/Ice-Cream-Delivery-Badge-2024.png" alt="SUMMER2024" width="50" label="Ice Cream Delivery Badge 2024" />| obținut de jucătorii ce au atins suma de $200,000 în cadrul jobului de vara. |
-| <Image src="/assets/images/general/badges/Ice-Cream-Delivery-Badge-2024.png" alt="SUMMER2024" width="50" label="Metal Scavenger Badge 2024" />| obținut de jucătorii ce au completat această activitate de 20 de ori. |
-| <Image src="/assets/images/general/badges/Ice-Cream-Delivery-Badge-2024.png" alt="SUMMER2024" width="50" label="Scuba Diving Badge 2024" />| obținut de jucătorii ce au completat această activitate de 20 de ori. |
+| <Image src="/assets/images/general/badges/Ice-Cream-Delivery-Badge-2024.png" alt="SUMMER2024" width="50" label="Ice Cream Delivery Badge 2024" />| obținut de jucătorii ce au atins suma de $200,000 în cadrul [jobului de vara](../events/liberty-summer-festival#ice-cream-delivery-🍦). |
+| <Image src="/assets/images/general/badges/Ice-Cream-Delivery-Badge-2024.png" alt="SUMMER2024" width="50" label="Metal Scavenger Badge 2024" />| obținut de jucătorii ce au completat [Metal Scavenger](../events/liberty-summer-festival#metal-scavenger-🧈) de 20 de ori. |
+| <Image src="/assets/images/general/badges/Ice-Cream-Delivery-Badge-2024.png" alt="SUMMER2024" width="50" label="Scuba Diving Badge 2024" />| obținut de jucătorii ce au completat [Scuba Diving](../events/liberty-summer-festival#scuba-diving-🤿) de 20 de ori. |
 | <Image src="/assets/images/general/badges/Ice-Cream-Delivery-Badge-2024.png" alt="SUMMER2024" width="50" label="Liberty Summer Festival Badge 2024" />| obținut de jucătorii ce au completat cele trei activitati [Scuba Diving, Metal Scavenger si Ice Cream Stand Refill (livrarea a 50 de inghetate/zi lui Hannah)] de 50 de ori si atingerea sumei de $400,000 in cadrul jobului de vara. |
