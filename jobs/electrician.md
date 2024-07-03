@@ -65,8 +65,8 @@ La fiecare _**$900**_ câștigați există șansa de _**20%**_ de a găsi _**Ele
 
 | **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/C6Pj7yU.png" alt="Wires" width="48" label="Wires" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
-| <Image src="https://i.imgur.com/hMMK1SU.png" alt="Electronic keyboard" width="48" label="Electronic keyboard" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
+| <Image src="https://i.imgur.com/C6Pj7yU.png" alt="Wires" width="48" label="Wires" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
+| <Image src="https://i.imgur.com/hMMK1SU.png" alt="Electronic keyboard" width="48" label="Electronic keyboard" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
 
 ## Cazuri în care nu poți efectua jobul  
  
