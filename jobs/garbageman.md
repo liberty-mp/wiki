@@ -70,12 +70,15 @@ Bonusurile provenite din diferite surse ([World Exploration](../events/world-exp
 
 :::  
 
-| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../illegal-activities/robberies/atm-robbery) |
-| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../illegal-activities/robberies/atm-robbery) |
-| <Image src="https://i.imgur.com/hUMaLGq.png" alt="Shattered Glass" width="48" label="Shattered Glass" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
-| <Image src="https://i.imgur.com/4CZcmp2.png" alt="Piece of plastic" width="48" label="Piece of plastic" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
+| **Imagine** | **Șansă de drop %** | **Utilitate**
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/UXt9NNT.png" alt="Hook" width="48" label="Hook" /> |  **20%, vezi deasupra tabelului**  | jefuirea de ATM-uri - [ATM Robbery](../illegal-activities/robberies/atm-robbery) |
+| <Image src="https://i.imgur.com/GarEQ1P.png" alt="Rope" width="48" label="Rope" /> |  **20%, vezi deasupra tabelului** | jefuirea de ATM-uri - [ATM Robbery](../illegal-activities/robberies/atm-robbery) |
+| <Image src="https://i.imgur.com/hUMaLGq.png" alt="Shattered Glass" width="48" label="Shattered Glass" /> | **20%, vezi deasupra tabelului**  | folosit in [Crafting](../general/crafting) |
+| <Image src="https://i.imgur.com/4CZcmp2.png" alt="Piece of plastic" width="48" label="Piece of plastic" /> | **20%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
+
+::: tip Acestea pot fi puse maxim în Stack de 32.
+:::
 
 ## Cazuri în care nu poți efectua jobul  
 
