@@ -65,4 +65,3 @@ După aprobare, clanul va apărea în lista de clanuri (poza 6).
 ::: danger Atenție!
 Atunci când clanul expiră, **timp de 15 zile clanul este încă activ** dar orice opțiune în afară de extindere, este blocată. După cele 15 zile, clanul este șters definitiv și orice progres este șters.
 :::
-
