@@ -70,6 +70,31 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/MIiEykj.png" alt="Benefactor CLS VER.63S Performance" /> | Benefactor CLS VER.63S Performance | Mercedes-AMG CLS 63 [2015] | ~248km/h | <Dinero :amount='224000' /> |
 | <Image src="https://imgur.com/FyQMn7d.png" alt="Obey RS VER.7 2020" /> | Obey RS VER.7 2020 |  Audi RS7 [2020] | ~263km/h | <Dinero :amount='227000' /> |
 | <Image src="https://imgur.com/Z8Z0KHC.png" alt="Benefactor E VER. 63S Performance" /> | Benefactor E VER. 63S Performance | Mercedes-AMG E63 S [2018] | ~266km/h | <Dinero :amount='229000' /> |
+<Image src="https://imgur.com/MhULRf4.png" alt="Benefactor S" /> | Benefactor S | Mercedes S-Class [2018] | ~236km/h | <Dinero :amount='229000' /> |
+| <Image src="https://imgur.com/iqpHitO.png" alt="Übermacht X VER.6" /> | Übermacht X VER.6 | BMW X6M [2017] | ~247km/h | <Dinero :amount='236000' /> |
+| <Image src="https://imgur.com/55mMCbv.png" alt="Benefactor GLE VER.63S Performance" /> | Benefactor GLE VER.63S Performance | Mercedes-AMG GLE 63S [2015] | ~244km/h | <Dinero :amount='245000' /> |
+| <Image src="https://imgur.com/Fbd7y1K.png" alt="Benefactor G VER.63 Performance" /> | Benefactor G VER.63 Performance | Mercedes-AMG G-Class [2018] | ~217km/h <Dinero :amount='247000' /> |
+| <Image src="https://imgur.com/PCiAUkb.png" alt="Benefactor GT VER.63 Performance" /> | Benefactor GT VER.63 Performance | Mercedes-AMG GT [2020] | ~260km/h 
+| <Dinero :amount='254000' /> |
+| <Image src="https://imgur.com/RWVcRNp.png" alt="Annis GT Race" /> | Annis GT Race | Nissan GT-R R35 [2017] | ~250km/h | <Dinero :amount='258000' /> |
+| <Image src="https://imgur.com/LTdh4Jk.png" alt="Annis Ascent" /> | Annis Ascent | Toyota Supra MK4 [1993] | ~238km/h | <Dinero :amount='265000' /> |
+| <Image src="https://imgur.com/KeYgoq5.png" alt="Annis RX VER.7" /> | Annis RX VER.7 | Mazda RX7 FD3C [1992] | ~209km/h | <Dinero :amount='272000' /> |
+| <Image src="https://imgur.com/YTODA1o.png" alt="Pfister Ver. 911 E" /> | Pfister Ver. 911 E | Porsche 911 E [1969] | ~259km/h | <Dinero :amount='274800' /> |
+| <Image src="https://imgur.com/IMPrq4E.png" width="110" alt="Dinka Jester NSX" /> | Dinka Jester NSX | Honda NSX [2020] | ~261km/h | <Dinero :amount='275000' /> |
+| <Image src="https://imgur.com/EMRsCQr.png" alt="Annis Horizon" /> | Annis Horizon | Nissan Skyline R34 GT-R [1998] | ~247km/h | <Dinero :amount='288000' /> |
+| <Image src="https://imgur.com/A3TJ2vm.png" alt="Enus WorldWide" /> | Enus WorldWide |  Bentley Continental [2016] | ~234km/h | <Dinero :amount='290000' /> |
+| <Image src="https://imgur.com/lORMuxV.png" alt="Übermacht SportWagon M3" /> | Übermacht SportWagon M3 | BMW M3 [2014] | ~244km/h | <Dinero :amount='291500' /> |
+| <Image src="https://imgur.com/v6mK05F.png" alt="Benefactor C VER.63 GEN. V204" /> | Benefactor C VER.63 GEN. V204 | Mercedes-AMG C63 [2012] | ~250km/h | <Dinero :amount='292000' /> |
+| <Image src="https://imgur.com/W8QJ1md.png" alt="Benefactor C VER.63" /> | Benefactor C VER.63 | Mercedes-AMG C63 S [2015] | ~245km/h | <Dinero :amount='295000' /> |
+| <Image src="https://imgur.com/QV6ICvj.png" alt="Pfister Electra" /> | Pfister Electra | Porsche Taycan Turbo S Cross Turismo [2021] | ~235km/h | <Dinero :amount='300000' /> |
+| <Image src="https://imgur.com/gbd72XJ.png" alt="Enus Benetto" /> | Enus Benetto | Bentley Bentayga [2015] | ~219km/h | <Dinero :amount='301000' /> |
+| <Image src="https://imgur.com/7j1jZNj.png" alt="Pfister Panarama" /> | Pfister Panarama | Porsche Panamera [2016] | 260km/h | <Dinero :amount='315222' /> |
+| <Image src="https://imgur.com/mksyg8B.png" alt="Enus Shadow" /> | Enus Shadow | Rolls-Royce Wraith [2019] | ~248km/h | <Dinero :amount='319000' /> |
+| <Image src="https://imgur.com/cOvJICq.png" alt="Coil Speedster" /> | Coil Speedster | Tesla Roadster [2023] | ~230km/h | <Dinero :amount='321200' /> |
+| <Image src="https://imgur.com/9nIWdd2.png" alt="Übermacht M4 VER.GTS" /> | Übermacht M4 VER.GTS | BMW M4 GTS [2016] | ~255km/h | <Dinero :amount='462000' /> |
+| <Image src="https://imgur.com/YV9blW0.png" alt="Pegassi Taurus" /> | Pegassi Taurus | Lamborghini Urus [2018] | ~248km/h | <Dinero :amount='480000' /> |
+| <Image src="https://imgur.com/z612GQj.png" alt="Benefactor Performance GT" /> | Benefactor Performance GT | Mercedes-AMG GT [2018] | ~272km/h | <Dinero :amount='492000' /> |
+| <Image src="https://imgur.com/5V0i26g.png" alt="Übermacht M4 Facelift" /> | Übermacht M4 Facelift | BMW M4 [2021] | ~248km/h | <Dinero :amount='635000' /> |
 
 ::: details Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
 | Vehicul | Nume joc | Nume real | Obținut | 
