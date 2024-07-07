@@ -125,6 +125,23 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/kHbK8Wd.png" alt="Grotti Viktor" /> | Grotti Viktor | Aston Martin Victor [2020] | ~279km/h | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/Xmz9UPj.png" alt="Ubermacht S1KRR" /> | Ubermacht S1KRR | BMW S1000RR [2009] | ~278km/h | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/AqoZO6a.png" alt="Progen A.S." /> | Progen A.S. | McLaren Senna [2019] | ~282km/h | <Dinero :amount='2300000' /> |
+ <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | ~279km/h | <Dinero :amount='2600000' /> |
+| <Image src="https://imgur.com/dtEqBAW.png" alt="Pfister 918 Spaidar" /> | Pfister 918 Spaidar | Porsche 918 Spider[2013] | ~286km/h | <Dinero :amount='2800000' /> |
+| <Image src="https://imgur.com/v1xVcaA.png" alt="Pegassi Revoltoso" /> | Pegassi Revoltoso | Lamborghini Sian Roadster [2021] | ~278 km/h | <Dinero :amount='2899999' /> |
+| <Image src="https://imgur.com/MaDcqQj.png" alt="Pegassi Venon" /> | Pegassi Venon | Lamborghini Veneno [2014] | ~287 km/h | <Dinero :amount='2970000' /> |
+| <Image src="https://imgur.com/Rmvz02i.png" alt="Shitzu H2" /> | Shitzu H2 | Kawasaki Ninja H2 [2014]| ~305 km/h | <Dinero :amount='3000000' /> |
+| <Image src="https://imgur.com/E30ZwT1.png" alt="Coil Nubera" /> | Coil Nubera | Rimac Nevera [2021] | ~296 km/h | <Dinero :amount='3000000' /> |
+| <Image src="https://imgur.com/7sfqg71.png" alt="Grotti LaGrotti" /> | Grotti LaGrotti | Ferrari LaFerrari[2013] | ~290 km/h | <Dinero :amount='3000069' /> |
+| <Image src="https://imgur.com/H0ZBJGW.png" alt="Överflöd Agr" /> | Överflöd Agr | Koenigsegg Agera [2010] | ~299 km/h | <Dinero :amount='3100000' /> |
+| <Image src="https://imgur.com/OuaUyH1.png" alt="Truffade Centaur" /> | Truffade Centaur | Bugatti Chiron [2017] | ~295 km/h | <Dinero :amount='3200000' /> |
+| <Image src="https://imgur.com/7pRa68O.png" alt="Benefactor One" /> | Benefactor One | Mercedes-AMG ONE [2022] | ~300 km/h | <Dinero :amount='3500000' /> |
+| <Image src="https://imgur.com/uCKiOiI.png" alt="Grotti FXX K Evo" /> | Grotti FXX K Evo | Ferarri FXX K Evo [2017] | ~297 km/h | <Dinero :amount='3500000' /> |
+| <Image src="https://imgur.com/I06BH7a.png" alt="Grotti SiFi90xx Strada" /> | Grotti SiFi90xx Strada | Ferrari SF90 XX Stradale [2019] | ~299 km/h | <Dinero :amount='3500000' /> |
+| <Image src="https://imgur.com/49ByCFQ.png" alt="Truffade Pasko" /> | Truffade Pasko | Koenigsegg Jesko [2020] | ~303 km/h | <Dinero :amount='4000000' /> |
+| <Image src="https://imgur.com/tK76Mho.png" alt="Truffade Devil" /> | Truffade Devil | Bugatti Divo [2020] | ~312 km/h | <Dinero :amount='4350000' /> |
+| <Image src="https://imgur.com/Ru2rGRD.png" alt="Truffade Mistreto Spyder" /> | Truffade Mistreto Spyder  | Bugatti Mistral [2024] | ~314 km/h | <Dinero :amount='4350000' />|
+| <Image src="https://imgur.com/rxde3O4.png" alt="Truffade Super Sporty (Carbon)" /> | Truffade Super Sporty (Carbon)  | Bugatti Chiron Super Sport [2023] | ~317 km/h | <Dinero :amount='5800000' />|
+| <Image src="https://imgur.com/YMLHSAa.png" alt="Dewbauchee Vilciri Pro" /> | Dewbauchee Vilciri Pro  | Aston Martin Valkyrie PRO [2016] | ~320 km/h | <Dinero :amount='6300000' />|
 
 :::
 
