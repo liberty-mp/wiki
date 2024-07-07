@@ -106,6 +106,26 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/wj0QkWq.png" width="110" alt="Übermacht E30 Cabrioleto" /> | Übermacht E30 Cabrioleto | BMW E30 325i Cabriolet[1990] | [**Liberty Pass 4**](/events/libertypass-seasonal-event) - **bonus tier(102)** |
 | <Image src="https://imgur.com/aheAerR.png" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 | <Image src="https://imgur.com/Ti7p3bx.png" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
+| <Image src="https://imgur.com/lcVIfRc.png" alt="Übermacht VER.8 Competition" /> | Übermacht VER.8 Competition | BMW M8 Competition [2019] | ~272km/h | <Dinero :amount='650000' /> |
+| <Image src="https://imgur.com/9hASx37.png" alt="Ubermacht M3 Ver. G80" /> | Ubermacht M3 Ver. G80 | BMW M3 G80 [2021] | ~269km/h | <Dinero :amount='661333' /> |
+| <Image src="https://imgur.com/r41go7a.png" alt="Obey R VER. 8" /> | Obey R VER. 8 | Audi RS8 [2019] | ~274km/h | <Dinero :amount='1501000' /> |
+| <Image src="https://imgur.com/xfebxr4.png" alt="Benefactor SL 6.3" /> | Benefactor SL 6.3 | Mercedes SL63[2023] | 271km/h | <Dinero :amount='1515000' /> |
+| <Image src="https://imgur.com/12dkfoD.png" alt="Pegassi Mercy" /> | Pegassi Mercy | Lamborghini Murcielago [2002] | ~258km/h | <Dinero :amount='1649000' /> |
+| <Image src="https://imgur.com/CC6ydom.png" width="110" alt="Grotti F1.2" /> | Grotti F1.2 | Ferrari F12 [2020] | ~273km/h | <Dinero :amount='1665999' /> |
+| <Image src="https://imgur.com/Sw4mGsD.png" alt="Pegassi Hurricane" /> | Pegassi Hurricane | Lamborghini Huracan [2014] | ~271km/h | <Dinero :amount='1695000' /> |
+| <Image src="https://imgur.com/gzhkKx6.png" alt="Pfister GT 3 VER. 992" /> | Pfister GT 3 VER.992 | Porsche GT3 992 [2020] | ~263km/h | <Dinero :amount='1698000' /> |
+| <Image src="https://imgur.com/LVcSxJn.png" alt="Grotti 812 SuperRapido" /> | Grotti 812 SuperRapido | Ferrari 812 SuperFast [2018] | ~280km/h | <Dinero :amount='1700000' /> 
+| <Image src="https://imgur.com/rXXmaKY.png" alt="Pegassi Amantador" /> | Pegassi Amantador |  Lamborghini Aventador [2017] | ~283km/h | <Dinero :amount='1705000' /> |
+| <Image src="https://imgur.com/HxIeVR9.png" alt="Grotti 488 Track" /> | Grotti 488 Track  | Ferrari 488 [2019] | ~281km/h | <Dinero :amount='1711000' /> |
+| <Image src="https://imgur.com/Ylr2ZBy.png" alt="Progen VER. 720S" /> | Progen VER. 720S | McLaren 720S [2020] | ~272km/h| <Dinero :amount='1720000' /> |
+| <Image src="https://imgur.com/6aKv0Lu.png" width="110" alt="Vapid GT 17" /> | Vapid GT 17 | Ford GT [2017] | ~271km/h | <Dinero :amount='1760021' /> |
+| <Image src="https://imgur.com/CyvM4lv.png" width="110" alt="Pegassi Cotach LIPI" /> | Pegassi Cotach LIPI | Lamborghini Countach LPI 800-4 [2022] | ~284km/h | <Dinero :amount='1815000' /> |
+| <Image src="https://imgur.com/vFfqyVY.png" width="110" alt="Progen Ver. 765LT Spaidar" /> | Progen Ver. 765LT Spaidar | McLaren 765LT Spider[2022] | ~266km/h | <Dinero :amount='1818000' /> |
+| <Image src="https://imgur.com/WSSM33v.png" alt="Pfister Turbo S VER. 992" /> | Pfister Turbo S VER. 992 | Porsche Turbo S 992 [2020] | 272km/h | <Dinero :amount='1820000' /> |
+| <Image src="https://imgur.com/kHbK8Wd.png" alt="Grotti Viktor" /> | Grotti Viktor | Aston Martin Victor [2020] | ~279km/h | <Dinero :amount='2100000' /> |
+| <Image src="https://imgur.com/Xmz9UPj.png" alt="Ubermacht S1KRR" /> | Ubermacht S1KRR | BMW S1000RR [2009] | ~278km/h | <Dinero :amount='2100000' /> |
+| <Image src="https://imgur.com/AqoZO6a.png" alt="Progen A.S." /> | Progen A.S. | McLaren Senna [2019] | ~282km/h | <Dinero :amount='2300000' /> |
+
 :::
 
 ## Modificarea unui vehicul personal
