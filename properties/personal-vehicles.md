@@ -95,17 +95,6 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/YV9blW0.png" alt="Pegassi Taurus" /> | Pegassi Taurus | Lamborghini Urus [2018] | ~248km/h | <Dinero :amount='480000' /> |
 | <Image src="https://imgur.com/z612GQj.png" alt="Benefactor Performance GT" /> | Benefactor Performance GT | Mercedes-AMG GT [2018] | ~272km/h | <Dinero :amount='492000' /> |
 | <Image src="https://imgur.com/5V0i26g.png" alt="Übermacht M4 Facelift" /> | Übermacht M4 Facelift | BMW M4 [2021] | ~248km/h | <Dinero :amount='635000' /> |
-
-::: details Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
-| Vehicul | Nume joc | Nume real | Obținut | 
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://imgur.com/pRdX7rx.png" alt="Pantheon Supersport (LP 1)" /> | Pantheon Supersport (LP 1) | Lamborghini Countach [1974] | [**Liberty Pass 1**](../events/libertypass-seasonal-event.md#liberty-pass-) |
-| <Image src="https://imgur.com/m3qx4e6.png" width="110" alt="Grotti Cheetah (LP 2)" /> | Grotti Cheetah (LP 2) | Lamborghini Countach [1974] | [**Liberty Pass 2**](../events/libertypass-seasonal-event.md#liberty-pass-) |
-| <Image src="https://imgur.com/M3sKCsK.png" width="110" alt="Dinka NSX" /> | Dinka NSX | Honda NSX[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) |
-| <Image src="https://imgur.com/C6UHpW8.png" width="110" alt="Hotring Sabre" /> | Hotring Sabre | Chevrolet Lumina[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) - **bonus tier(102)** |
-| <Image src="https://imgur.com/wj0QkWq.png" width="110" alt="Übermacht E30 Cabrioleto" /> | Übermacht E30 Cabrioleto | BMW E30 325i Cabriolet[1990] | [**Liberty Pass 4**](/events/libertypass-seasonal-event) - **bonus tier(102)** |
-| <Image src="https://imgur.com/aheAerR.png" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
-| <Image src="https://imgur.com/Ti7p3bx.png" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 | <Image src="https://imgur.com/lcVIfRc.png" alt="Übermacht VER.8 Competition" /> | Übermacht VER.8 Competition | BMW M8 Competition [2019] | ~272km/h | <Dinero :amount='650000' /> |
 | <Image src="https://imgur.com/9hASx37.png" alt="Ubermacht M3 Ver. G80" /> | Ubermacht M3 Ver. G80 | BMW M3 G80 [2021] | ~269km/h | <Dinero :amount='661333' /> |
 | <Image src="https://imgur.com/r41go7a.png" alt="Obey R VER. 8" /> | Obey R VER. 8 | Audi RS8 [2019] | ~274km/h | <Dinero :amount='1501000' /> |
@@ -142,6 +131,17 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/Ru2rGRD.png" alt="Truffade Mistreto Spyder" /> | Truffade Mistreto Spyder  | Bugatti Mistral [2024] | ~314 km/h | <Dinero :amount='4350000' />|
 | <Image src="https://imgur.com/rxde3O4.png" alt="Truffade Super Sporty (Carbon)" /> | Truffade Super Sporty (Carbon)  | Bugatti Chiron Super Sport [2023] | ~317 km/h | <Dinero :amount='5800000' />|
 | <Image src="https://imgur.com/YMLHSAa.png" alt="Dewbauchee Vilciri Pro" /> | Dewbauchee Vilciri Pro  | Aston Martin Valkyrie PRO [2016] | ~320 km/h | <Dinero :amount='6300000' />|
+
+::: details Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
+| Vehicul | Nume joc | Nume real | Obținut | 
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://imgur.com/pRdX7rx.png" alt="Pantheon Supersport (LP 1)" /> | Pantheon Supersport (LP 1) | Lamborghini Countach [1974] | [**Liberty Pass 1**](../events/libertypass-seasonal-event.md#liberty-pass-) |
+| <Image src="https://imgur.com/m3qx4e6.png" width="110" alt="Grotti Cheetah (LP 2)" /> | Grotti Cheetah (LP 2) | Lamborghini Countach [1974] | [**Liberty Pass 2**](../events/libertypass-seasonal-event.md#liberty-pass-) |
+| <Image src="https://imgur.com/M3sKCsK.png" width="110" alt="Dinka NSX" /> | Dinka NSX | Honda NSX[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) |
+| <Image src="https://imgur.com/C6UHpW8.png" width="110" alt="Hotring Sabre" /> | Hotring Sabre | Chevrolet Lumina[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) - **bonus tier(102)** |
+| <Image src="https://imgur.com/wj0QkWq.png" width="110" alt="Übermacht E30 Cabrioleto" /> | Übermacht E30 Cabrioleto | BMW E30 325i Cabriolet[1990] | [**Liberty Pass 4**](/events/libertypass-seasonal-event) - **bonus tier(102)** |
+| <Image src="https://imgur.com/aheAerR.png" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
+| <Image src="https://imgur.com/Ti7p3bx.png" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 
 :::
 
