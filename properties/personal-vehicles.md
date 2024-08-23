@@ -74,8 +74,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/iqpHitO.png" alt="Übermacht X VER.6" /> | Übermacht X VER.6 | BMW X6M [2017] | ~247km/h | <Dinero :amount='236000' /> |
 | <Image src="https://imgur.com/55mMCbv.png" alt="Benefactor GLE VER.63S Performance" /> | Benefactor GLE VER.63S Performance | Mercedes-AMG GLE 63S [2015] | ~244km/h | <Dinero :amount='245000' /> |
 | <Image src="https://imgur.com/Fbd7y1K.png" alt="Benefactor G VER.63 Performance" /> | Benefactor G VER.63 Performance | Mercedes-AMG G-Class [2018] | ~217km/h <Dinero :amount='247000' /> |
-| <Image src="https://imgur.com/PCiAUkb.png" alt="Benefactor GT VER.63 Performance" /> | Benefactor GT VER.63 Performance | Mercedes-AMG GT [2020] | ~260km/h 
-| <Dinero :amount='254000' /> |
+| <Image src="https://imgur.com/PCiAUkb.png" alt="Benefactor GT VER.63 Performance" /> | Benefactor GT VER.63 Performance | Mercedes-AMG GT [2020] | ~260km/h | <Dinero :amount='254000' /> |
 | <Image src="https://imgur.com/RWVcRNp.png" alt="Annis GT Race" /> | Annis GT Race | Nissan GT-R R35 [2017] | ~250km/h | <Dinero :amount='258000' /> |
 | <Image src="https://imgur.com/LTdh4Jk.png" alt="Annis Ascent" /> | Annis Ascent | Toyota Supra MK4 [1993] | ~238km/h | <Dinero :amount='265000' /> |
 | <Image src="https://imgur.com/KeYgoq5.png" alt="Annis RX VER.7" /> | Annis RX VER.7 | Mazda RX7 FD3C [1992] | ~209km/h | <Dinero :amount='272000' /> |
