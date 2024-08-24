@@ -22,9 +22,8 @@ Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzi
 <Image src="https://i.imgur.com/LfrWFGO.png" alt="MeniuLP" />
 :::
 
-Asemănător cu sezonul 2 din Liberty Pass, sezonul 3 aduce niște modificari mici dar semnificative, precum:
-- 2 Tiere Bonus
-- Badge Bonus pentru completarea asazisor Tiere.
+Față de sezonul 4, sezonul 5 modifică Liberty Pass Boost Ticket, astfel încât ticketele dobândite în sezoanele anterioare vor deveni Account Boost Ticket și nu vor mai conține bonusul pentru Tier XP la payday.
+
 
 ## Întrebări frecvente
 
@@ -43,7 +42,7 @@ Acest lucru se poate vedea în căsuța misiunii, paralel cu numarul misiunii.
 :::
 
 ### Care este durata acestui eveniment?
-Sezonul 3 a început pe data de 28 Martie 2024 și se va termina pe data de 22 Mai 2024, având o durată de 7 săptămâni.
+Sezonul 5 a început pe data de 8 august 2024 și se va termina pe data de 7 octombrie 2024, având o durată de aproximativ 8 săptămâni.
 
 ### Dacă achiziționez varianta premium după ce completez niște tiere, primesc premiile din urmă?
 Da, în momentul achiziționării vei primi și premiile din urmă, indiferent de tier-ul la care ai ajuns.
@@ -57,6 +56,13 @@ Varianta premium poate fi achiziționată contra sumei de <Gold :amount='10_000'
 ### Unde văd progresul și câștigul pe care le am la o anumită misiune? 
 
 Acestea apar în dreapta fiecărei misiuni. Progresul este detaliat sub formă de procentaj, acesta schimbându-se o dată cu o modificare a progresului respectivei misiuni. Câștigul unei misiuni variază între 12,000 EXP, 18,000 EXP sau 24,000 EXP, în funcție de dificultatea misiunii respective.
+
+Acestea apar în dreapta fiecărei misiuni. Progresul este detaliat sub formă de procentaj, acesta schimbându-se o dată cu o modificare a progresului respectivei misiuni. Câștigul unei misiuni variază între 12,000 EXP, 18,000 EXP sau 24,000 EXP, în funcție de dificultatea misiunii respective.
+
+### Pot da refund la varianta premium?
+
+În cazul în care ai un ticket pentru versiunea premium a Liberty Pass mai veche decât sezonul actual, poți alege să dai refund acestuia pentru suma de <Gold :amount='7_500'/>.
+
 
 ::: details Informații despre progres & câștig
 <Image src="https://i.imgur.com/xsccp7t.png" alt="Detalii misiune" /> 
@@ -87,8 +93,8 @@ Aceste questuri pot fi completate doar de jucatorii ce detin Liberty Premium Pas
 <Image src="https://i.imgur.com/7ei6ijM.gif" alt="WeekChange"/>
 :::
 
-::: details Prezentare vehicul Dinka NSX
-<Image src="https://i.imgur.com/3LYRda9.jpeg" alt="Dinka NSX" />  
+::: details Prezentare vehicul Grotti F40
+<Image src="https://i.imgur.com/u9DaAKq.png" alt="Grotti F40" />  
 :::
 
 ::: details Badge
@@ -97,7 +103,7 @@ Aceste questuri pot fi completate doar de jucatorii ce detin Liberty Premium Pas
 
 ## Liberty Pass Boost
 
-Liberty Pass Boost este un nou tip de boost temporar ce poate fi câștigat în urma completării anumitor tiere din Liberty Pass. Acesta vine sub formă de tickete ce pot fi vândute altor jucători. Un ticket durează 12 ore de la activare și oferă:
+Liberty Pass Boost este un boost temporar ce poate fi câștigat în urma completării anumitor tiere din Liberty Pass. Acesta vine sub formă de tickete ce poate fi folosit doar în sezonul în care a fost dobândit și nu este tradabil. Un ticket durează 12 ore de la activare și oferă:
 
  - +25% mai mult drop la obiecte la joburi
  - +25% mai mulţi bani la joburi
@@ -105,3 +111,13 @@ Liberty Pass Boost este un nou tip de boost temporar ce poate fi câștigat în 
  - +25% mai mulţi bani la rob
  - dublu streep rep în cadrul roburilor
  - +100% tier experience la payday-uri
+
+## Account Boost Ticket
+
+Account Boost Ticket este un nou boost temporar adăugat pe server. Acesta vine sub formă de tickete ce pot fi cumpărate de la playeri, durează 12 ore de la activare și conține:
+
+ - +25% mai mult drop la obiecte la joburi
+ - +25% mai mulţi bani la joburi
+ - +25% mai mulţi bani la joburile pasive
+ - +25% mai mulţi bani la rob
+ - dublu streep rep în cadrul roburilor
