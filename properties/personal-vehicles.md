@@ -70,7 +70,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/MIiEykj.png" alt="Benefactor CLS VER.63S Performance" /> | Benefactor CLS VER.63S Performance | Mercedes-AMG CLS 63 [2015] | ~248km/h | <Dinero :amount='224000' /> |
 | <Image src="https://imgur.com/FyQMn7d.png" alt="Obey RS VER.7 2020" /> | Obey RS VER.7 2020 |  Audi RS7 [2020] | ~263km/h | <Dinero :amount='227000' /> |
 | <Image src="https://imgur.com/Z8Z0KHC.png" alt="Benefactor E VER. 63S Performance" /> | Benefactor E VER. 63S Performance | Mercedes-AMG E63 S [2018] | ~266km/h | <Dinero :amount='229000' /> |
-<Image src="https://imgur.com/MhULRf4.png" alt="Benefactor S" /> | Benefactor S | Mercedes S-Class [2018] | ~236km/h | <Dinero :amount='229000' /> |
+| <Image src="https://imgur.com/MhULRf4.png" alt="Benefactor S" /> | Benefactor S | Mercedes S-Class [2018] | ~236km/h | <Dinero :amount='229000' /> |
 | <Image src="https://imgur.com/iqpHitO.png" alt="Übermacht X VER.6" /> | Übermacht X VER.6 | BMW X6M [2017] | ~247km/h | <Dinero :amount='236000' /> |
 | <Image src="https://imgur.com/55mMCbv.png" alt="Benefactor GLE VER.63S Performance" /> | Benefactor GLE VER.63S Performance | Mercedes-AMG GLE 63S [2015] | ~244km/h | <Dinero :amount='245000' /> |
 | <Image src="https://imgur.com/Fbd7y1K.png" alt="Benefactor G VER.63 Performance" /> | Benefactor G VER.63 Performance | Mercedes-AMG G-Class [2018] | ~217km/h <Dinero :amount='247000' /> |
