@@ -50,3 +50,5 @@ Secțiunea **Living in Los Santos**:
 | To be or not to be | Achiziționează orice obiect din Ammu-Nation | - | - |
 | Behind bars | Intră la închisoare | - | - |
 | Witness | Raportează un jucător care a comis o crimă | - | - |
+| World Exploration | Completeaza World Exploration | 50 / 100 / 150 / 250 / 500 | - / <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> / - / - / - |
+
