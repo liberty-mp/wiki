@@ -47,6 +47,7 @@ Poți introduce un referral după ce _termini tutorialul de început_ sau în **
 | 40 ore jucate | <Gold :amount='200' /> |
 | 80 ore jucate | [**clothing crate**](#clothing-crate) |
 | 100 ore jucate | <InventoryItem itemKey="weapon_pistol50" width="64" :qt="1" />/ |
+| 100 ore jucate | <InventoryItem itemKey="vehicle_ds_economy_ticket" width="64" :qt="1" />/ |
 | 125 ore jucate | <InventoryItem itemKey="ammo_smg" width="64" :qt="100" />/ |
 | 150 ore jucate | <Gold :amount='700' /> |
 
