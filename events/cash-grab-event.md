@@ -32,6 +32,7 @@ Cash Grab Event Crate **este tradable**.
 
 Acest crate conține unul dintre următoarele premii:
 
+
 | General | Obiecte speciale (crafting) | Shop Items |
 | :-: | :-: | :-: |
 | <Dinero :amount="1500" /> - <Dinero :amount="3200" /> | <Image src="https://i.imgur.com/Nts90lm.png" alt="3x Hook" width="50" label="3x Hook" /> | <Image src="https://i.imgur.com/5lCArfs.png" alt="Vehicle Slot" width="50" label="Vehicle Slot" /> |
