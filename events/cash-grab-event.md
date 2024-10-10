@@ -1,41 +1,34 @@
----
-title: Tow Truck Rally
+![image](https://github.com/user-attachments/assets/6134470e-4ae6-4ed9-ab6f-0cefd2150587)---
+title: Cash Grab Event
 ---
 
 | Întrebare | Răspuns |
 | :-----------: | :-----------: |
 | Event permanent? | Nu, [temporar.](./index.md#evenimentele-se-impart-in-3-categorii) |
-| Nivel minim participare? | Da, nivel 5. |
-| Posibilitate găsire obiecte speciale? | [Da.](#tow-truck-rally-rewards) |
+| Nivel minim participare? | Minim 50 ore active. |
+| Posibilitate găsire obiecte speciale? | [Da.](#reward) |
 | Necesită iteme specifice? | Nu. |
 | Locație statistici eveniment? | `O` -> `Quests & Events` |
 
-# Tow Truck Rally 🚗🗺️
+# Cash Grab Event 💸💰
 
-Tow Truck Rally este evenimentul prin care dorim să readucem pofta de joacă şi de a fi primul în top.
+Cash Grab este evenimentul prin care dorim să readucem pofta de joacă şi de a fi primul în top.
 
-La Tow Truck Rally, veți fi martorii unei competiții palpitante, care pun la încercare abilitățile șoferilor de camioane de tractare. Unul dintre cele mai populare evenimente din cadrul raliului este concursul de remorcare a vehiculelor grele, în care șoferii trebuie să demonstreze dexteritatea și puterea camionului lor pentru a trage vehicule din ce în ce mai masive pe distanțe impresionante.
+La Cash Grab veti fi nevoiti sa livrati sacii cu bani la ATM-urile ramase in pana din oras pentru a putea primi premii impresionante!
 
 Jucătorii vor dropa un crate când vor acumula <Dinero :amount="390" /> - <Dinero :amount="550" /> în urma activităţii în cadrul jobului.
 
-Pentru mai multe detalii legate de acest job poţi accesa [Tow Truck Driver - informaţii](../jobs/tow-truck-driver).
-
 :::tip Informații:
-
-Sansa de a primi un Hypercar **20%** ce ofera castiguri majorate cu **25%**.
 
 Când este activ evenimentul **NU** are o limită de repetări.
 
-Ai nevoie de minim level 5 pentru acest job şi pentru a participa la eveniment.
+Ai nevoie de minim  50 ore jucate pentru acest job şi pentru a participa la eveniment.
 
-Tow Truck Rally Crate **este tradable**.
+Cash Grab Event Crate **este tradable**.
 
 :::
 
-
-### Tow Truck Rally Rewards
-
-Pe parcursul evenimentului vei primi un Tow Truck Rally Crate ->  <Image src="https://i.imgur.com/9L806cM.png" alt="1x Tow Truck Rally Crate" width="50" label="1x Tow Truck Rally Crate" />
+### Cash Grab Rewards
 
 Acest crate conține unul dintre următoarele premii:
 
@@ -59,4 +52,3 @@ Acest crate conține unul dintre următoarele premii:
 | - | - | <Image src="https://i.imgur.com/6Dl1QjM.png" alt="Boombox" width="50" label="Boombox" /> |<br>
 
 În cazul în care ai nevoie de alte informații pe care nu le găsești pe această pagină, îți sugerăm să folosești sistemul de ajutor din joc (tastează `/helpme`), să accesezi serverul nostru de [**Discord**](https://liberty.mp/discord) sau să comunici cu alți jucători și să îi intrebi pe aceștia.
-

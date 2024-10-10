@@ -6,6 +6,7 @@ title: Bank District - Clan Spray Wars
 | ----------- | :-----------: |
 | Nume District | Bank District |
 | Activitate District | Heist la Pacific Bank. |
+| Street Points Minim | Da, 500. |
 | Număr de Spray Tags? | 20 |
 | Zona District | <Image src="/assets/images/clans/spray-wars/districts/bank.png" width="256" label="Estul hărții" /> |
 

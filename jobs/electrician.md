@@ -23,11 +23,15 @@ Jobul de Electrician constă în menținerea în funcțiune a echipamentelor ele
 Odată ajuns la locația NPC-ului Electrician, interacționează cu el folosind butonul `E` și selectează "**Începe munca**". Vei avea de ales dacă dorești să începi munca folosind vehiculul oferit de server sau unul personal. 
 
 ::: tip
-Selectând vehiculul oferit de el, se va asigura că vei avea rezervorul de combustibil mereu plin, deci nu va trebui ca tu să acoperi costurile combustibilului.
+Selectând optiunea "Standard" vei primi un vehiculul oferit de John, se va asigura că vei avea rezervorul de combustibil mereu plin, deci nu va trebui ca tu să acoperi costurile combustibilului.
+
+Pentru a utiliza masina personala in cadrul jobului trebuie sa selectezi optiunea "Advanced (100h)" si sa ai 100 de ore jucate pe server. 
 :::
 
-::: details Începe munca  
-  <Image src="https://i.imgur.com/cTjCQDk.gif" alt="Start Job" />  
+::: details Începe munca   
+  <Image src="https://i.imgur.com/NXiUWQL.gif" alt="Start Job Standard" /> 
+
+  <Image src="https://i.imgur.com/qoiljfs.gif" alt="Start Job Advanced" /> 
 :::  
 
 ::: details Vehicul oferit de NPC 
@@ -59,10 +63,13 @@ La fiecare _**$900**_ câștigați există șansa de _**20%**_ de a găsi _**Ele
 
 :::
 
-| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/C6Pj7yU.png" alt="Wires" width="48" label="Wires" /> | **Da, 20 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
-| <Image src="https://i.imgur.com/hMMK1SU.png" alt="Electronic keyboard" width="48" label="Electronic keyboard" /> | **Da, 10 per stack** |  **20%, vezi deasupra tabelului**  | C4 Bomb |
+| **Imagine** | **Șansă de drop %** | **Utilitate**
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/C6Pj7yU.png" alt="Wires" width="48" label="Wires" /> |  **20%, vezi deasupra tabelului**  | C4 Bomb |
+| <Image src="https://i.imgur.com/hMMK1SU.png" alt="Electronic keyboard" width="48" label="Electronic keyboard" /> | **20%, vezi deasupra tabelului**  | C4 Bomb |
+
+::: tip Acestea pot fi puse maxim în Stack de 32.
+:::
 
 ## Cazuri în care nu poți efectua jobul  
  

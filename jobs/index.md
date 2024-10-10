@@ -4,7 +4,7 @@ title: Informații generale joburi
 
 ### Informații generale joburi
  
-Pe server există 6 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a joburilor prezente în momentul actual pe server.  
+Pe server există 9 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a joburilor prezente în momentul actual pe server.  
 
 ## Întrebări frecvente
 
@@ -145,3 +145,11 @@ Ești în căutarea unei cariere flexibile și recompensatoare care îți permit
 Ai nevoie de pricepere la volan și **permis de conducere categoria B**, dacă nu vrei să riști **o vizită la închisoare**!.
 
 > Vezi detalierea jobului [Uber](./uber). 
+
+---
+
+### Money Transporter 💼💸
+Cauți o carieră stabilă și bine plătită, care îți oferă responsabilitate și siguranță? Devino transportator de valori și fă parte din echipa care protejează și transportă bani și bunuri prețioase în siguranță. Acest job îți oferă șansa de a lucra într-un mediu securizat și de a contribui la protecția financiară a companiilor. 🛡️ Fie că ești pasionat de siguranță sau pur și simplu vrei un loc de muncă dinamic, acest rol îți oferă șansa de a-ți dezvolta abilitățile. 
+Ai nevoie de **permis de conducere categoria B** și de o atitudine vigilentă pentru a nu ajunge într-o situație neplăcută! 🚔
+> Vezi detalierea jobului [Money Transporter](./money-transporter).
+> 
