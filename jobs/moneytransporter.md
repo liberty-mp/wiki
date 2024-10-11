@@ -96,7 +96,7 @@ Unul dintre jucatori va conduce autovehiculul iar altul va fi nevoit sa la fieca
 ::: 
 
 ::: tip
-Daca unul dintre jucatori are spre exemplu skill Bronze fara o subscriptie activa si celalalt jucator are skill Bronze cu subscriptia Platinum activata pe cont, numarul de saci de bani din vehicul va fi minimul dintre acestia 2, adica 3 saci.
+In momentul in care un jucator are skill Silver si celalalt jucator are skill Bronze, numarul de saci de bani din vehicul va fi echivalentul celui ce are skill Bronze. Acelasi lucru se aplica si pentru jucatorul cu cont Platina si unul fara cont Platina, se vor aplica doar 5 saci de bani.
 :::
 
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
