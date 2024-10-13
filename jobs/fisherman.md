@@ -5,7 +5,7 @@ title: Fisherman
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
 | Câștig mediu pe ora? | ~<Dinero :amount='1700' /> |
-| Ce nivel este necesar? | Nivel 10 |
+| Cate ore jucate sunt necesare pentru a practica jobul?  | 10 ore jucate |
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Da, undiță și momeală. |
