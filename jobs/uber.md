@@ -5,7 +5,7 @@ title: Uber
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
 | Câștig mediu pe ora? | ~<Dinero :amount='1700' /> |
-| Ce nivel este necesar? | Nivel 15 |
+| Cate ore jucate sunt necesare? | 20 ore jucate |
 | Necesită vehicul personal? | Da |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Nu. |
