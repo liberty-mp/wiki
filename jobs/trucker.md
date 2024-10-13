@@ -5,6 +5,7 @@ title: Trucker
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
 | Câștig mediu pe ora? | ~<Dinero :amount='1750' /> |
+| Nivel minim necesar? | Nu, minim 10 ore jucate pe cont. |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria C). |
 | Necesită iteme specifice? | Nu. |
