@@ -44,16 +44,16 @@ Aceste badge-uri sunt acordate jucătorilor care obțin ultimul nivel de skill, 
 
 | Badge | Cerință |
 | :-----------: | :-----------: |
-<Image src="https://i.imgur.com/4UFmAML.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Electrician](https://wiki.liberty.mp/jobs/electrician)
-<Image src="https://i.imgur.com/7gsp54c.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Fisherman](https://wiki.liberty.mp/jobs/fisherman)
-<Image src="https://i.imgur.com/hNLQr9s.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Garbageman](https://wiki.liberty.mp/jobs/garbageman)
-<Image src="https://i.imgur.com/1kKpFtx.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Lumberjack](https://wiki.liberty.mp/jobs/lumberjack)
-<Image src="https://i.imgur.com/df4LGhB.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Miner](https://wiki.liberty.mp/jobs/miner)
-<Image src="https://i.imgur.com/zXNvhar.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Trucker](https://wiki.liberty.mp/jobs/trucker)
-<Image src="https://i.imgur.com/9Qu4vtE.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Uber](https://wiki.liberty.mp/jobs/uber)
-<Image src="https://i.imgur.com/h7xLMUJ.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Deep Sea Fishing](https://wiki.liberty.mp/jobs/deep-sea-fishing)
-<Image src="https://i.imgur.com/GyiZfcY.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Money Transporter](https://wiki.liberty.mp/jobs/moneytransporter)
-<Image src="https://i.imgur.com/NFhLimR.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, minând [Criptomonede](https://wiki.liberty.mp/clans/spray-wars/districts/crypto-farm)
+| <Image src="https://i.imgur.com/4UFmAML.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Electrician](https://wiki.liberty.mp/jobs/electrician) |
+| <Image src="https://i.imgur.com/7gsp54c.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Fisherman](https://wiki.liberty.mp/jobs/fisherman) |
+| <Image src="https://i.imgur.com/hNLQr9s.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Garbageman](https://wiki.liberty.mp/jobs/garbageman) |
+| <Image src="https://i.imgur.com/1kKpFtx.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Lumberjack](https://wiki.liberty.mp/jobs/lumberjack) |
+| <Image src="https://i.imgur.com/df4LGhB.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Miner](https://wiki.liberty.mp/jobs/miner) |
+| <Image src="https://i.imgur.com/zXNvhar.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Trucker](https://wiki.liberty.mp/jobs/trucker) |
+| <Image src="https://i.imgur.com/9Qu4vtE.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Uber](https://wiki.liberty.mp/jobs/uber) |
+| <Image src="https://i.imgur.com/h7xLMUJ.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Deep Sea Fishing](https://wiki.liberty.mp/jobs/deep-sea-fishing) |
+| <Image src="https://i.imgur.com/GyiZfcY.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Money Transporter](https://wiki.liberty.mp/jobs/moneytransporter) | 
+| <Image src="https://i.imgur.com/NFhLimR.png" alt="JOBSKILL" width="50" label="Back To School" />| obținut de jucătorii care atins ultimul nivel, Master, minând [Criptomonede](https://wiki.liberty.mp/clans/spray-wars/districts/crypto-farm) | 
 
 ### Premium Account Badges
 
@@ -140,5 +140,5 @@ Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul d
 
 | Badge | Cerință |
 | :-----------: | :-----------: |
-<Image src="https://i.imgur.com/mX5nRm1.png" alt="BACK2SCHOOL" width="50" label="Back To School" />| obținut de jucătorii care au găsit în total un număr de 500 cărți pe parcursul evenimentului
-<Image src="https://i.imgur.com/1MDKFt9.png" alt="BACK2SCHOOL" width="50" label="Back To School Group" />| obținut de jucătorii care au în total un număr de 400 de cărți într-un grup cu alți jucători, pe parcursul evenimentului
+| <Image src="https://i.imgur.com/mX5nRm1.png" alt="BACK2SCHOOL" width="50" label="Back To School" />| obținut de jucătorii care au găsit în total un număr de 500 cărți pe parcursul evenimentului |
+| <Image src="https://i.imgur.com/1MDKFt9.png" alt="BACK2SCHOOL" width="50" label="Back To School Group" />| obținut de jucătorii care au în total un număr de 400 de cărți într-un grup cu alți jucători, pe parcursul evenimentului |
