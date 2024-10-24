@@ -13,7 +13,7 @@ title: Halloween Seasonal Event
 # Halloween Seasonal Event 🎃
 
 Cea mai înfricoșătoare perioadă a anului a sosit și pe serverul nostru!\
-Evenimentul de Halloween va fi disponibil timp de 30 de zile pe server (24.10.2024 - 24.11.2023, ora 23:59).
+Evenimentul de Halloween va fi disponibil timp de 30 de zile pe server (24.10.2024 - 24.11.2024, ora 23:59).
 
 ### Spooky Wheel 💀
 
