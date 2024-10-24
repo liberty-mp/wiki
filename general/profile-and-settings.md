@@ -252,3 +252,10 @@ Secțiunea **Audio**:
 Secțiunea **Hotkeys**:  
 
 Reprezintă panoul de comandă a butoanelor cu scurtături care pot fi personalizate în funcție de preferințele fiecăruia. Pentru a personaliza o scurtătură, apasă `CLICK STANGA` pe tasta scurtăturii afișată unde dorești să realizezi modificarea, apoi selectează un alt buton sau o altă tastă preferată pentru scurtătura selectată. 
+
+
+
+
+
+
+
