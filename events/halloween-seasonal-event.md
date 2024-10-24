@@ -46,7 +46,7 @@ Odată ajuns acolo, pentru a accesa meniul, vă fi nevoie să apeși tasta `E` p
 
 Evenimentul dispune de 3 misiuni [Jack O'Lanterns Quest](#jack-o-lanterns-quest-🎃), [Ghost Busters Quest](#ghost-busters-quest-👻), [Trick or Treat Quest](#trick-or-treat-quest-🏠). \
 Toate cele 3 quest-uri pot fi completate atat in mod solo cat si intr-o grupa de maxim 4 persoane. \
-In cazul in care jucatorii completeaza quest-ul in 4, acestia vor primi recompense marite.
+In cazul in care jucatorii completeaza quest-ul in grupa, acestia vor primi recompense marite.
 
 Comenzi disponibile pentru party:
 - **/questinvite**: pentru a invita un jucator intr-un party.
