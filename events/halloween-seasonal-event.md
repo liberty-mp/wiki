@@ -12,157 +12,186 @@ title: Halloween Seasonal Event
 
 # Halloween Seasonal Event 🎃
 
-Cea mai înfricoșătoare perioadă a anului a sosit și pe serverul nostru! De la tradiționalul 'trick or treat' și până la căutatul de fantome, mult așteptatul eveniment și-a făcut apariția.
+Cea mai înfricoșătoare perioadă a anului a sosit și pe serverul nostru!\
+Evenimentul de Halloween va fi disponibil timp de 30 de zile pe server (24.10.2024 - 24.11.2023, ora 23:59).
 
-## Întrebări frecvente
+### Spooky Wheel 💀
 
-### Care este durata acestui eveniment?
-Evenimentul de Halloween va fi disponibil timp de 17 de zile pe server (28.10.2023 - 17.11.2023, ora 23:59).
+Roata Infricosatoare este un mecanism de tip "Roata Norocului" ce ofera recompense jucatorilor activi pe server.
+Poți da la aceasta roata daca deti un `Spooky Wheel Ticket`.
 
-### De câte ori pot face misiunile pe zi?
-Quest-urile sunt disponibile o singură dată pe zi. Dacă l-ai completat astăzi, spre exemplu, vei putea lua parte la eveniment din nou mâine, începând cu ora 07:00.
+Lucky Wheel Ticket poate fi obtinut in urmatoarele moduri: 
+  - daca playerul joaca 2 ore pe server intr-o zi (reset la ora 07:00)
+  - daca playerul acumuleaza 5 payday-uri intr-o zi (reset la ora 07:00) 
+  - la completarea activitatilor de Halloween intr-o zi (cu preconditia de a avea completata si activitatea saptamanala)
+
+Spooky Wheel poate fi localizata utilizand aplicatia **Maps** din telefonul mobil. \
+Odată ajuns acolo, pentru a accesa meniul, vă fi nevoie să apeși tasta `E` pentru a interacționă.
+
+::: details Accesare locatie
+<Image src="https://i.imgur.com/iINPvNF.png" alt="Locatie" />
+:::
+
+::: details Accesare meniu roata
+<Image src="https://i.imgur.com/8JNEFc7.png" alt="Accesare meniu roata" />
+:::
+
+::: details Info roata
+<Image src="https://i.imgur.com/EOu6Q85.png" alt="info" />
+:::
+
+În momentul apăsării 'Spooky Spin' din mijlocul rotii, aceasta vă produce animația de învârtire iar premiul ce vă pica vă fi primit direct în inventarul jucătorului.
 
 ## Misiuni disponibile
 
-### Jack O' Lanterns Quest
-Acest eveniment este unul cu o dificultate ușoară. Pe harta din 'ESC' vă vor fi afișate 15 locații ale dovlecilor pe care va trebui să îi colectați. Acești dovleci pot fi folosiți în 'Halloween Shop', meniu ce poate fi deschis prin `/halloween`.
+Evenimentul dispune de 3 misiuni [Jack O'Lanterns Quest](#jack-o-lanterns-quest-🎃), [Ghost Busters Quest](#ghost-busters-quest-👻), [Trick or Treat Quest](#trick-or-treat-quest-🏠). \
+Toate cele 3 quest-uri pot fi completate atat in mod solo cat si intr-o grupa de maxim 4 persoane. \
+In cazul in care jucatorii completeaza quest-ul in 4, acestia vor primi recompense marite.
 
-::: details Dovlecii pe mapa şi colectarea acestora
-<Image src="https://i.imgur.com/yjyG0jt.png" alt="Dovleac pe minimap" />  
-<Image src="https://i.imgur.com/WprP0aX.png" alt="Colectare dovleac" /> 
+Comenzi disponibile pentru party:
+- **/questinvite**: pentru a invita un jucator intr-un party.
+- **/questaccept**: pentru a accepta o invitatie
+- **/questleave**: pentru a parasi un party
+
+### Jack O'Lanterns Quest 🎃
+Acest eveniment este unul cu o dificultate ușoară. 
+Quest-ul poate fi inceput de la NPC-ul specific acestuia, NPC ce poate fi localizat din telefonul mobil, aplicatia **Maps** sub categoria **Halloween**.
+Pe harta din 'ESC' vă vor fi afișate 250 locații ale dovlecilor pe care va trebui să îi colectați.
+
+Pentru fiecare dovleac gasit, veti fi recompensat cu un numar de bomboane ce pot fi utilizate în 'Halloween Shop', meniu ce poate fi deschis prin `/halloween`.
+
+::: details Colectare dovleac
+<Image src="https://i.imgur.com/p29od95.png" alt = "Colectare dovleac"/>
 :::
 
-Fiecare dovleac colectat vă va fi adaugat in `Inventar`.
+### Ghost Busters Quest 👻
 
-::: details Info collect dovleac
-<Image src="https://i.imgur.com/UQZMfMa.png" alt="Info collect dovleac" />  
-:::
+Acest eveniment este unul cu o dificultate medie.  
+Quest-ul poate fi inceput de la NPC-ul specific acestuia, NPC ce poate fi localizat din telefonul mobil, aplicatia **Maps** sub categoria **Halloween**.
 
-### Ghost Busters Quest
+Acest quest vă va schimba vremea de pe server, aceasta devenind una posomorâtă, cu ploaie, fulgere și multe alte efecte speciale. \
+Pe harta din 'ESC' vă vor fi afișate 30 locații ale fantomelor pe care va trebui să le fotografiati.
 
-Acest eveniment este unul cu o dificultate medie.  Pentru a îl începe, aveți nevoie de un 'Temporary Halloween Mask' ce poate fi achiziţionat din 'Halloween Shop' contra sumei de 5 dovleci. Odată achiziționat item-ul, îl veți primi în inventar. Prin apăsarea tastei `I` veți deschide inventarul și, pentru a începe quest-ul, va trebui să echipați item-ul pe slot-ul dedicat măștilor.
-
-::: warning
-Pentru începerea acestui quest, este necesar să terminaţi quest-ul Jack O' Lanters prima dată!
-:::
-
-::: details Item necesar
-<Image src="https://i.imgur.com/tuTEFOF.png" alt="Item necesar" />  
-:::
-
-::: details Item pe slot-ul aferent
-<Image src="https://i.imgur.com/FaWT7UG.png" alt="Item pe slot-ul aferent" />  
-:::
-
-::: tip
-Masca specială pentru acest quest vă va schimba vremea de pe server, aceasta devenind una posomorâtă, cu ploaie, fulgere și multe alte efecte speciale.
-
-Odată echipată, pe mapa din ESC vă vor apărea 20 de locații ale fantomelor ce trebuie fotografiate. Pentru a fotografia o fantomă, va trebui să deschideți telefonul prin tasta `KEY UP` și să selectați iconița special dedicată camerei, odată deschisă, va trebui îndreptată spre fantomă și apăsat `MOUSE LEFT BUTTON` pentru a o fotografia.
-:::
+Pentru a fotografia o fantomă, va trebui să deschideți telefonul prin tasta `KEY UP` și să selectați iconița special dedicată camerei, odată deschisă, va trebui îndreptată spre fantomă și apăsat `MOUSE LEFT BUTTON` pentru a o fotografia.
 
 ::: details Aplicaţia camera din telefon
 <Image src="https://i.imgur.com/wTfbfj8.png" alt="Aplicaţia camera din telefon" />  
 :::
 
 ::: details Fantoma
-<Image src="https://i.imgur.com/CMhsrVr.png" alt="Fantoma" />  
+<Image src="https://i.imgur.com/eeLmCzA.png" alt="Fantoma" />  
 :::
 
-Fiecare fantomă fotografiată vă va răsplăti cu o fotografie ce vă va fi acordată în inventar. Acestea pot fi folosite în shop-ul special ce poate fi deschis prin `/halloween`.
+Pentru fiecare fantomă fotografiată veti fi recompensat cu un numar de bomboane ce pot fi utilizate în 'Halloween Shop', meniu ce poate fi deschis prin `/halloween`.
 
-::: details Fotografie primită
-<Image src="https://i.imgur.com/JzWOOEH.png" alt="Fotografie primită" />  
-:::
+### Trick or Treat Quest 🏠
 
-### Trick or Treat Quest
-După cum spune și numele, nimic nu este mai ușor ca, colindatul caselor din orașul Los Santos. 
+După cum spune și numele, nimic nu este mai ușor ca, colindatul caselor din orașul Los Santos. \
+Quest-ul poate fi inceput de la NPC-ul specific acestuia, NPC ce poate fi localizat din telefonul mobil, aplicatia **Maps** sub categoria **Halloween**. \
 
-Acest quest nu are nevoie de un item necesar ca cel de deasupra, pur și simplu va trebui să mergeți la o casă de pe server, la intrarea acesteia și să apăsați tasta `K` pentru a vă primi răsplata exprimată prin candies.
-
-::: warning
-Pentru începerea acestui quest, este necesar să terminaţi quest-ul Ghost Busters prima dată!
-:::
+Pe harta din 'ESC' vă vor fi afișate 50 locații ale unor case pe care va trebui să le colindati.\
+Pentru a colinda o casa mergeti la intrarea acesteia și apăsați tasta `K`.
 
 ::: details Tasta în faţa casei
 <Image src="https://i.imgur.com/nrUkccT.png" alt="Faţa casei" />  
 :::
 
-Odată apasată tasta `K`, veţi colinda casa şi veţi auzi un sunet specific colindului.
+Odată apasată tasta `K`, veţi colinda casa şi veţi auzi un sunet specific colindului. \
 
-## Completion Streak Bonus
+Pentru fiecare casa colindata veti fi recompensat cu un numar de bomboane ce pot fi utilizate în 'Halloween Shop', meniu ce poate fi deschis prin `/halloween`.
 
-De asemenea, la un anumit număr de completări ale fiecărui quest, veți primi un premiu special, premiu ce va putea fi revendicat din Halloween Special Shop.
+## De câte ori pot face misiunile pe zi?
+Quest-urile **Ghost Busters** si **Trick or Treat** pot fi completate o singură dată pe zi. \
+Quest-ul **Jack O' Lanterns** poate fi completat o data pe saptamana. Resetarea are loc in fiecare Vineri la ora 7:00 AM.
 
-### Jack O' Lanterns Completion Streak
+## Badge-uri
 
-La 10 completări ale quest-ului Jack O' Lanterns, veți putea achiziționa din shop permanent Halloween Mask.
+| Badge   | Metoda de obtinere |
+| :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/pumpkins.png" alt="Jack O' Lantern" width="100" label="Jack O' Latntern" /> | Gaseste 750 dovleci ascunsi. |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/ghosts.png"  alt="Ghost Buster" width="100" label="Ghost Buster" /> | Fotografiaza 600 fantome. |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/carol.png"  alt="Trick Or Treat" width="100" label="Trick Or Treat" /> | Colinda 1000 case. |
 
-::: details Masca permanentă shop
-<Image src="https://i.imgur.com/0C1TpRi.png" alt="Masca permanentă" />  
-:::
+## Candies
 
-### Ghost Busters Completion Streak
+Pentru ca un Halloween nu este delicios fara dulciuri, in urma diverselor activitati desfasurate pe server jucatorii vor fi recompensati astfel:
 
-La 10 completări ale quest-ului Ghost Busters, veți putea achiziționa din shop motocicleta Sanctus. Această motocicletă va fi disponibilă pe contul vostru timp de 20 de zile, tunning-ul pentru aceasta putând fi schimbat complet gratuit.
+| Activitate | Numar bomboane | 
+| :-----------: | :-----------: |
+| Dovleac ascuns gasit (solo) | 4-5 bomboane |
+| Dovleac ascuns gasit (in party) | 5-6 bomboane |
+| Fantoma fotografiata (solo) | 6-8 bomboane |
+| Fantoma fotografiata (in party) | 7-10 bomboane |
+| Casa colindata (solo) | 3-4 bomboane |
+| Casa colindata (in party) | 4-5 bomboane |
+| la fiecare 180$ castigati la orice job | 2 bomboane (4 daca jucatorul detine subscriptie Platinum) |
+| Hotdog Stand Robbery | 8 bomboane (12 daca jucatorul detine subscriptie Platinum) |
+| ATM Robbery	| 20 bomboane (30 daca jucatorul detine subscriptie Platinum) |
+| Money Transporter Robbery	| 20 bomboane (30 daca jucatorul detine subscriptie Platinum) |
+| Fleeca Bank Robbery | 45 bomboane (70 daca jucatorul detine subscriptie Platinum) |
+| Pacific Standard Bank Heist	| 45 bomboane (70 daca jucatorul detine subscriptie Platinum) |
+| Bounty Hunters | 3 bomboane/NPC ucis (5 daca jucatorul detine subscriptie Platinum) |
+| Daily Quests | 15 bomboane/quest (25 daca jucatorul detine subscriptie Platinum) |
+| World Exploration	| 15 bomboane/completare (25 daca jucatorul detine subscriptie Platinum) |
+| Payday | 3 bomboane (5 daca jucatorul detine subscriptie Platinum) |
 
-::: tip
-Vehiculul de pe cont va expira doar atunci când este condus. Dacă nu sunteți la volanul vehiculului, timpul limitat nu va scădea.
-:::
+## Halloween Shop
 
-::: details Sanctus shop
-<Image src="https://i.imgur.com/gmPJCLC.png" alt="Sanctus" />  
-:::
-
-### Trick or Treat Completion Streak
-
-La 10 completări ale quest-ului Ghost Busters, veți putea achiziționa din shop vehiculul Weevil Custom. Această mașina va fi disponibilă pe contul vostru timp de 20 de zile, tunning-ul pentru aceasta putând fi schimbat complet gratuit.
-
-::: tip
-Vehiculul de pe cont va expira doar atunci când este condus. Dacă nu sunteți la volanul vehiculului, timpul limitat nu va scădea.
-:::
-
-::: details Weevil
-<Image src="https://i.imgur.com/odJT0wR.png" alt="Weevil" />  
-:::
-
-
-## Halloween Special Shop
-Toate activitățile enumerate mai sus trebuiesc cumva și răsplătite, nu-i așa?
-
-Prin deschiderea Halloween Shop-ului, îți poți selecta premiul dorit contra itemelor primite din completarea task-urilor. 
-
-::: tip
-Anumite iteme pot fi cumpărate de nenumărate ori, altele pot fi cumpărate într-un număr limitat.
-:::
-
-::: tip
-Un anumit item poate fi achiziționat contra unui număr de dovleci, unui număr de dulciuri sau unui număr de fotografii. Mai multe detalii vor fi afișate mai jos sau in-game.
-:::
-
-Mai jos, veți avea un tabel ce vă va prezenta toate opțiunile disponibile din Halloween Shop.
+Bomboanele pot fi folosite în shop-ul special ce poate fi accsesat prin interacțiunea comanda `/halloween`. \
+Odată la 6 ore, preturile și inclusiv itemele din shop se vor modifica, oferind obiecte speciale pentru fiecare jucător în parte, fiind diferit de la jucător la jucător, atât prețul, cât și item-ul oferit. \
+În shop se vor regăsi aleatoriu haine din colecția de haine Sigma, iteme din Premium Shop precum si diverse iteme utile din joc. \
+Tot din **Halloween Shop** jucatorii pot debloca vehicule speciale **TEMPORARE** precum **Sanctus** si **Weevil Custom**.
 
 | Item   | Metode achizitie | Limită de achiziții |
 | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/D57aqYm.png" alt="Halloween Temporary Mask" width="48" label="Halloween Temporary Mask" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="5x Pumpkin" label="5x Pumpkin" /> | o singură dată |
-| <Image src="https://i.imgur.com/VN6hRhp.png" alt="$10.000 Marked Money" width="48" label="$10.000 Marked Money" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="15x Pumpkin" label="15x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="20x Candy" label="20x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="20x Ghost Picture" label="20x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/OQ1GppJ.png" alt="Hooked-rope" width="48" label="Hooked Rope" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="8x Pumpkin" label="8x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="10x Candy" label="10x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="10x Ghost Picture" label="10x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="10x Pumpkin" label="10x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="12x Candy" label="12x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="12x Ghost Picture" label="12x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/WR12L1k.png" alt="Pistol .50" width="60" label="Pistol .50" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="15x Pumpkin" label="15x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="20x Candy" label="20x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="20x Ghost Picture" label="20x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/onADx1v.png" width="50" label="250x 9mm Ammo" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="10x Pumpkin" label="10x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="15x Candy" label="15x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="15x Ghost Picture" label="15x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/ouDnrjG.png" alt="Vehicle Tyre Smoke Ticket" width="50" label="Vehicle Tyre Smoke Ticket" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="60x Pumpkin" label="60x Pumpkin" /> | o singură dată |
-| <Image src="https://i.imgur.com/OmDEdB1.png" alt="Vehicle Neon Ticket" width="50" label="Vehicle Neon Ticket" /> | <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="85x Ghost Picture" label="85x Ghost Picture" /> | de 3 ori |
-| <Image src="https://i.imgur.com/UV4bXUr.png" alt="Vehicle Plate Ticket" width="50" label="Vehicle Plate Ticket" /> | <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="75x Candy" label="75x Candy" /> | de 3 ori |
-| <Image src="https://i.imgur.com/9UMVP5j.png" alt="Vehicle Headlights Ticket" width="50" label="Vehicle Headlights Ticket" /> | <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="60x Candy" label="60x Candy" /> | de 3 ori |
-| <Image src="https://i.imgur.com/5lCArfs.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="125x Ghost Picture" label="125x Ghost Picture" /> | o singură dată |
-| <Image src="https://i.imgur.com/xu36tbx.png" alt="25x Inventory Slots Ticket" width="50" label="25x Inventory Slots Ticket" /> | <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="225x Candy" label="225x Candy" /> | de 2 ori |
-| <Image src="https://i.imgur.com/agE3E2g.png" alt="Name Change Ticket" width="50" label="Name Change Ticket" /> | <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="80x Ghost Picture" label="80x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/MTLwxUA.png" alt="Male / Female Legs Crate" width="48" label="Male / Female Legs Crate" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="25x Pumpkin" label="25x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="50x Candy" label="50x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="40x Ghost Picture" label="40x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/iw7O1fV.png" alt="Male / Female Shoes Crate" width="48" label="Male / Female Shoes Crate" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="25x Pumpkin" label="25x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="50x Candy" label="50x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="40x Ghost Picture" label="40x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/YeQx2NZ.png" alt="Male / Female Accessories Crate" width="48" label="Male / Female Accessories Crate" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="50x Pumpkin" label="50x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="100x Candy" label="100x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="80x Ghost Picture" label="80x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/C01gQHM.png" alt="Male / Female Masks and Hats Crate" width="48" label="Male / Female Masks and Hats Crate" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="60x Pumpkin" label="60x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="125x Candy" label="125x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="100x Ghost Picture" label="100x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/1Zux9Qp.png" alt="Male / Female Bags and Backpacks Crate" width="48" label="Male / Female Bags and Backpacks Crate" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="85x Pumpkin" label="85x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="175x Candy" label="175x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="140x Ghost Picture" label="140x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/PwWNNhv.png" alt="Male / Female Jewelry Crate" width="48" label="Male / Female Jewelry Crate" /> | <Image :width="36" src="https://i.imgur.com/01MpH7z.png" alt="85x Pumpkin" label="85x Pumpkin" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/cCXjac4.png" alt="175x Candy" label="175x Candy" /> <Color hex="#fb923c">/</Color> <Image :width="36" src="https://i.imgur.com/VTjyoDw.png" alt="140x Ghost Picture" label="140x Ghost Picture" /> | nelimitată |
-| <Image src="https://i.imgur.com/D57aqYm.png" alt="Halloween Permanent Mask" width="48" label="Halloween Permanent Mask" /> | Completează misiunea [Jack O' Lanterns](#jack-o-lanterns-quest) de <Color hex="#fb923c">10</Color> ori pentru a debloca | o singură dată |
+| <InventoryItem itemKey="drill" width="50" /> | 10 - 40 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="pliers" width="50" /> | 8 - 30 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="goldbar" width="50" /> | 90 - 170 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="silverbar" width="50" /> | 70 - 150 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="iron_pickaxe" width="50" /> | 800 - 1300 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="undita_carbon" width="50" /> | 800 - 1300 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="penny_puffer_cigar" width="50" /> | 35 - 60 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vintage_velvet_cigar" width="50" /> | 45 - 75 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="regal_reserve_cigar" width="50" /> | 60 - 100 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="explosive" width="50" /> | 35 - 90 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="c4_bomb"  width="50" /> | 50 - 110 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="hooked_rope" width="50" /> | 45 - 100 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="lockpick" width="50" /> | 10 - 30 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="weapon_pistol50" width="50" /> | 700 - 1500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="weapon_carbinerifle" width="50" /> | 700 - 1500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="ammo_smg" width="50" /> | 700 - 1500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="ammo_rifle" width="50" /> | 700 - 1500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_female_top" width="50" /> | 2000 - 3000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_female_legs" width="50" /> | 2000 - 3000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_female_shoes" width="50" /> | 2000 - 3000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_female_head" width="50" /> | 3200 - 4800 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_female_bags" width="50" /> | 3500 - 5000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_female_jewelry" width="50" /> | 3500 - 5000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_female_accs" width="50" /> | 3000 - 4800 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_male_top" width="50" /> | 2000 - 3000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_male_legs" width="50" /> | 2000 - 3000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_male_shoes" width="50" /> | 2000 - 3000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_male_head" width="50" /> | 3200 - 4800 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_male_bags" width="50" /> | 3500 - 5000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_male_jewelry" width="50" /> | 3500 - 5000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_male_accs" width="50" /> | 3000 - 4800 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_harmony_female" width="50" /> | 3200 - 4900 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_harmony_male" width="50" /> | 3200 - 4900 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_sigma_female" width="50" /> | 3400 - 4900 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="crate_sigma_male" width="50" /> | 3400 - 4900 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_ds_economy_ticket" width="50" /> | 800 - 1500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_custom_color_ticket" width="50" /> | 8500 - 11500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_headlights_ticket" width="50" /> | 6800 - 10800 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_plate_ticket" width="50" /> | 8500 - 11500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_horn_ticket" width="50" /> | 6800 - 10800 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_trunk_ticket" width="50" /> | 6800 - 10800 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_tyre_smoke_ticket" width="50" /> | 6800 - 10800 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_neon_ticket" width="50" /> | 8500 - 11500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_reset_km_ticket" width="50" /> | 4000 - 7000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_camber_ticket" width="50" /> | 8500 - 11000 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_tcs_ticket" width="50" /> | 8500 - 11500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="vehicle_wheels_ticket" width="50" /> | 8500 - 11500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="name_change_ticket" width="50" /> | 6500 - 10500 bomboane | 1 dată/6 ore |
+| <InventoryItem itemKey="inventory_slots_ticket" width="50" /> | 20000 - 30000 bomboane | 1 dată/6 ore |
 | <Image src="https://i.imgur.com/8aR9vXT.png" alt="Sanctus" width="50" label="Sanctus" /> | Completează misiunea [Ghost Busters](#ghost-busters-quest) de <Color hex="#fb923c">10</Color> ori pentru a debloca | o singură dată |
 | <Image src="https://i.imgur.com/eivHCyM.png" alt="Weevil Custom" width="50" label="Weevil Custom" /> | Completează misiunea [Trick or Treat](#trick-or-treat-quest) de <Color hex="#fb923c">10</Color> ori pentru a debloca | o singură dată | 
-| <Image src="https://i.imgur.com/7pVoFnU.png" alt="Halloween Badge" width="50" label="Halloween Badge" /> | Completează misiunile [Trick or Treat](#trick-or-treat-quest), [Ghost Busters](#ghost-busters-quest) si [Jack O' Lanterns](#jack-o-lanterns-quest) de <Color hex="#fb923c">10</Color> ori pentru a debloca | o singură dată | 
