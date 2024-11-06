@@ -22,11 +22,22 @@ Lista cu premiile de la fiecare tier poate fi consultată pe server prin comenzi
 <Image src="https://i.imgur.com/LfrWFGO.png" alt="MeniuLP" />
 :::
 
-Asemănător cu sezonul 2 din Liberty Pass, sezonul 3 aduce niște modificari mici dar semnificative, precum:
+Asemănător cu sezonul 2 din Liberty Pass, Sezonul 3 aduce niște modificari mici dar semnificative, precum:
 - 2 Tiere Bonus
-- Badge Bonus pentru completarea asazisor Tiere.
+- [Badge Bonus](../general/badges#liberty-pass-badges) obținut de jucătorii ce au completat 'Bonus Quest 2'
 
 ## Întrebări frecvente
+
+### Ce sunt tierele bonus?
+Aceste tiere au fost implementate odată cu `Liberty Pass Season 3` pentru a încuraja jucătorii să fie mai activi, asta rezultând în niște premii mult mai rare față de cele până în `Tier 100`
+
+::: warning Atenție! 
+Aceste questuri pot fi completate doar de jucatorii ce detin Liberty Premium Pass.
+::: 
+
+::: details Accesarea Tierelor Bonus
+<Image src="https://i.imgur.com/zg1gHES.gif" alt="BonusTiers"/>
+:::
 
 ### Unde pot vedea premiile tierelor bonus?
 Aceste tiere bonus se pot vedea odata ce navigati pana la ultimele tiere.
@@ -43,7 +54,7 @@ Acest lucru se poate vedea în căsuța misiunii, paralel cu numarul misiunii.
 :::
 
 ### Care este durata acestui eveniment?
-Sezonul 3 a început pe data de 28 Martie 2024 și se va termina pe data de 22 Mai 2024, având o durată de 7 săptămâni.
+Sezonul 3 a început pe data de 28 Martie 2024 și se va termina pe data de 15 Mai 2024, având o durată de 6 săptămâni.
 
 ### Dacă achiziționez varianta premium după ce completez niște tiere, primesc premiile din urmă?
 Da, în momentul achiziționării vei primi și premiile din urmă, indiferent de tier-ul la care ai ajuns.
@@ -72,27 +83,12 @@ Aceste informații apar în partea de sus a meniului dedicat battlepass-ului, su
 ### Cum văd misiunile din week-urile anterioare?
 Poți selecta ce misiuni dorești să vezi prin intermediul butonului aflat în partea stângă a meniului, meniu unde apar toate week-urile disponibile la acel moment.
 
-### Ce sunt tierele bonus?
-Aceste tiere au fost implementate odata cu `Liberty Pass Season 3` pentru a încuraja jucatorii sa fie mai activi, asta rezultând in niște premii mult mai rare fața de cele până în `Tier 100`
-
-::: warning Atenție! 
-Aceste questuri pot fi completate doar de jucatorii ce detin Liberty Premium Pass.
-::: 
-
-::: details Accesarea Tierelor Bonus
-<Image src="https://i.imgur.com/zg1gHES.gif" alt="BonusTiers"/>
-:::
-
 ::: details Schimbarea week-ului
 <Image src="https://i.imgur.com/7ei6ijM.gif" alt="WeekChange"/>
 :::
 
 ::: details Prezentare vehicul Dinka NSX
 <Image src="https://i.imgur.com/3LYRda9.jpeg" alt="Dinka NSX" />  
-:::
-
-::: details Badge
-<Image src="https://i.imgur.com/TGFt4Yd.png" alt="LPBadge" />  
 :::
 
 ## Liberty Pass Boost
