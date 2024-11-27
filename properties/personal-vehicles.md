@@ -149,6 +149,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_629640447.png" width="150" alt="Grotti F40" /> | Grotti F40 | Ferrari F40 | [**Liberty Pass 5**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
 | <Image src="https://imgur.com/aheAerR.png" width="150" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 | <Image src="https://imgur.com/Ti7p3bx.png" width="150" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
+
 :::
 
 ## Modificarea unui vehicul personal
