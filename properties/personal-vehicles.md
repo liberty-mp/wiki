@@ -31,9 +31,6 @@ Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentr
 ::: tip
 Un Test Drive durează 120 de secunde.
 :::  
-:::
-
-
 
 ::: details Achiziționare vehicul
  <Image src="https://i.imgur.com/3neAWth.gif" alt="Achiziționare vehicul" />
@@ -139,6 +136,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/tK76Mho.png" width="150" alt="Truffade Devil" /> | Truffade Devil | Bugatti Divo [2020] | ~312 km/h | <Dinero :amount='4350000' /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> |
 | <Image src="https://imgur.com/rxde3O4.png" width="150" alt="Truffade Super Sporty (Carbon)" /> | Truffade Super Sporty (Carbon)  | Bugatti Chiron Super Sport [2023] | ~317 km/h | <Dinero :amount='5800000' />| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> |
 | <Image src="https://imgur.com/YMLHSAa.png" width="150" alt="Dewbauchee Vilciri Pro" /> | Dewbauchee Vilciri Pro  | Aston Martin Valkyrie PRO [2016] | ~320 km/h | <Dinero :amount='6300000' />| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> |
+:::
 
 ::: details Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
 | Vehicul | Nume joc | Nume real | Obținut | 
@@ -151,7 +149,6 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_629640447.png" width="150" alt="Grotti F40" /> | Grotti F40 | Ferrari F40 | [**Liberty Pass 5**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
 | <Image src="https://imgur.com/aheAerR.png" width="150" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 | <Image src="https://imgur.com/Ti7p3bx.png" width="150" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
-
 :::
 
 ## Modificarea unui vehicul personal
