@@ -24,8 +24,7 @@ Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Deale
 
 ## Luxury Autos <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" />
 
-Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, jucătorii sunt nevoiti să dețină și un <InventoryItem itemKey="vehicle_ds_economy_ticket" width="50" :qt="1"/> pentru vehiculele cu un preț sub $500.000. 
-În cazul mașinilor cu un preț mai mare de această sumă, este necesar un <InventoryItem itemKey="vehicle_ds_ticket" width="50" :qt="1"/>. 
+Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, jucătorii sunt nevoiti să dețină și un Economy Vehicle Ticket pentru vehiculele cu un preț sub $500.000. În cazul mașinilor cu un preț mai mare de această sumă, este necesar un Luxury Vehicle Ticket.
 
 ::: details Test Drive
  <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
