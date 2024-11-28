@@ -10,7 +10,7 @@ title: Miner
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Da, [târnăcop](#cum-fac-rost-de-tarnacop). |
 | Posibilitate câștigare iteme extra? | [Da](#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire). |
-| Locație NPC Miner | <Image src="https://i.imgur.com/1ONfXp8.png" width="256" label="Grand Senora Desert, Joshua Rd" />  |
+| Locație NPC Miner | [Grand Senora Desert, Joshua Rd](https://i.imgur.com/1ONfXp8.png) |
 
 ## Desfășurarea jobului  
 
