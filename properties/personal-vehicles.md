@@ -22,9 +22,15 @@ Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale
 Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
 ::: 
 
-## Luxury Autos <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" />
+## Luxury Autos Dealership <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" />
 
-Este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, jucătorii sunt nevoiti să dețină și un Economy Vehicle Ticket pentru vehiculele cu un preț sub $500.000. În cazul mașinilor cu un preț mai mare de această sumă, este necesar un Luxury Vehicle Ticket.
+Acesta este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, jucătorii sunt nevoiti să dețină și un Economy Vehicle Ticket pentru vehiculele cu un preț sub $500.000. În cazul mașinilor cu un preț mai mare de această sumă, este necesar un Luxury Vehicle Ticket.
+
+
+| Tip Ticket | Detalii | 
+| :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | |
 
 ::: details Test Drive
  <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
