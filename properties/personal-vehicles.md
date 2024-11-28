@@ -30,15 +30,15 @@ Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din via
  <Image src="https://i.imgur.com/3neAWth.gif" alt="Achiziționare vehicul" />
 :::
 
-#### Tip ticket
-| Ticket | Detalii | 
+#### Ticketele necesare pentru achiziționarea unui vehicul din Luxury Autos Dealership
+| Tip | Detalii | 
 | :-----------: | :-----------: |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț sub $500.000 |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 |
 
 #### Test Drive
 
-Jucătorii pot testa vehiculele din Luxury Autos Dealership apăsând pe butonul "Test Drive", de unde pot alege dacă doresc să testeze mașina ca fiind "Stock" sau "Performance" (mașina va dispune de upgrade-urile de tip Engine, Turbo, Transmission, Brakes). De asemenea, o listă cu mașinile prezente în Luxury Autos Dealership în care sunt prezente detalii cu privire la numele real al acestora, prețul, tipul de ticket necesar pentru achiziție cât și viteza maximă este afișată mai jos.
+Jucătorii pot testa vehiculele din Luxury Autos Dealership apăsând pe butonul "Test Drive", de unde pot alege dacă doresc să testeze mașina ca fiind "Stock" sau "Performance" (mașina va dispune de upgrade-urile de tip Engine, Turbo, Transmission, Brakes). De asemenea, mai jos este afișată o listă cu toate mașinile disponibile, în aceasta sunt prezentate detalii cu privire la numele real al acestora, viteza maximă și prețul + tipul de ticket necesar pentru achiziționare.
 
 ::: details Demonstrație Test Drive
  <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
@@ -149,7 +149,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/rxde3O4.png" width="150" alt="Truffade Super Sporty (Carbon)" /> | Truffade Super Sporty (Carbon) | Bugatti Chiron Super Sport [2023] | ~317 km/h | <Dinero :amount='5800000' />| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> |
 | <Image src="https://imgur.com/YMLHSAa.png" width="150" alt="Dewbauchee Vilciri Pro" /> | Dewbauchee Vilciri Pro | Aston Martin Valkyrie PRO [2016] | ~320 km/h | <Dinero :amount='6300000' />| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> |
 
-
+:::
 
 ::: details Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
 | Vehicul | Nume joc | Nume real | Obținut | 
@@ -162,6 +162,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_629640447.png" width="150" alt="Grotti F40" /> | Grotti F40 | Ferrari F40 | [**Liberty Pass 5**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
 | <Image src="https://imgur.com/aheAerR.png" width="150" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 | <Image src="https://imgur.com/Ti7p3bx.png" width="150" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
+
 :::
 
 ## Modificarea unui vehicul personal
