@@ -24,7 +24,7 @@ Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Deale
 
 ## Luxury Autos Dealership <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" />
 
-Acesta este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, jucătorii sunt nevoiți să dețină și de un [**ticket corespunzător**](../events/halloween-seasonal-event.md#halloween-seasonal-event-).
+Acesta este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, jucătorii sunt nevoiți să dețină și de un [**ticket corespunzător**](../properties/personal-vehicles.md#tip-ticket). 
 
 #### Tip ticket
 | Ticket | Detalii | 
