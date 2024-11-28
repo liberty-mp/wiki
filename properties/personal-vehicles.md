@@ -94,7 +94,7 @@ Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din via
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț sub $500.000 |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 |
 
-# Listă Vehicule Luxury Autos:  
+## Listă Vehicule Luxury Autos:  
 | Vehicul | Nume joc | Nume real | Viteză maximă (Performance) | Preț Dealership | Ticket necesar |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_4196968019.png" width="150" alt="Karin Corolla GR" /> | Karin Corolla GR | Toyota GR Corolla | ~195km/h | <Dinero :amount='11000' /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> |
@@ -196,7 +196,7 @@ Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din via
 | <Image src="https://imgur.com/YMLHSAa.png" width="150" alt="Dewbauchee Vilciri Pro" /> | Dewbauchee Vilciri Pro | Aston Martin Valkyrie PRO [2016] | ~320 km/h | <Dinero :amount='6300000' />| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> |
 
 
-# Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
+## Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
 | Vehicul | Nume joc | Nume real | Obținut | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://imgur.com/pRdX7rx.png" width="110" alt="Pantheon Supersport (LP 1)" /> | Pantheon Supersport (LP 1) | Lamborghini Countach [1974] | [**Liberty Pass 1**](../events/libertypass-seasonal-event.md#liberty-pass-) |
