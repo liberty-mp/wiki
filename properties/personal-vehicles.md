@@ -22,6 +22,10 @@ Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale
 Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
 ::: 
 
+::: details Demonstrație pentru achiziționarea unui vehicul
+ <Image src="https://i.imgur.com/3neAWth.gif" alt="Achiziționare vehicul" />
+:::
+
 #### Test Drive
 
 Jucătorii pot testa vehiculele din Luxury Autos Dealership apăsând pe butonul "Test Drive", de unde pot alege dacă doresc să testeze mașina ca fiind "Stock" sau "Performance" (mașina va dispune de upgrade-urile de tip Engine, Turbo, Transmission, Brakes). De asemenea, mai jos este afișată o listă cu toate mașinile disponibile, în aceasta sunt prezentate detalii cu privire la numele real al acestora, viteza maximă și prețul + tipul de ticket necesar pentru achiziționare.
@@ -88,16 +92,11 @@ Informațiile legate de modificările aduse vehiculului, numărul de kilometri, 
 
 Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, aceștia vor avea nevoie să dețină și un [**Ticket**](../properties/personal-vehicles.md#ticketele-necesare-pentru-achizi%C8%9Bionarea-unui-vehicul-din-luxury-autos-dealership) corespunzător. 
 
-::: details Demonstrație pentru achiziționarea unui vehicul
- <Image src="https://i.imgur.com/3neAWth.gif" alt="Achiziționare vehicul" />
-:::
-
 #### Ticketele necesare pentru achiziționarea unui vehicul din Luxury Autos Dealership
 | Tip | Detalii | 
 | :-----------: | :-----------: |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț sub $500.000 |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 |
-
 
 # Listă Vehicule Luxury Autos:  
 | Vehicul | Nume joc | Nume real | Viteză maximă (Performance) | Preț Dealership | Ticket necesar |
