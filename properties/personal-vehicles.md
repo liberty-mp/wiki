@@ -91,8 +91,8 @@ Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din via
 #### Ticketele necesare pentru achiziționarea unui vehicul din Luxury Autos Dealership
 | Tip | Detalii | Mod de obținere în joc | Preț în [**Shop**](https://ucp.liberty.mp/shop/products) |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț sub $500.000 | [**Evenimente**](../events/#informatii-generale-evenimente) | <Gold :amount='500' /> |
-| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 | [**Evenimente**](../events/#informatii-generale-evenimente) | <Gold :amount='3000' /> |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț sub $500.000 | [**Evenimente**](/events/#informatii-generale-evenimente) | <Gold :amount='500' /> |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 | [**Evenimente**](/events/#informatii-generale-evenimente) | <Gold :amount='3000' /> |
 
 ## Listă Vehicule Luxury Autos:  
 | Vehicul | Nume joc | Nume real | Viteză maximă (Performance) | Preț Dealership | Ticket necesar |
