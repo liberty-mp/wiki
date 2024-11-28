@@ -34,20 +34,6 @@ Jucătorii pot testa vehiculele din Luxury Autos Dealership apăsând pe butonul
 Un Test Drive durează 120 de secunde.
 ::: 
 
-## Modificarea unui vehicul personal
-
-Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elicoptere și bărci).
-
-| Iconiță specifică | Tip | Zone geografice |
-| :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Mod Shop" width="30" label="Mod Shop Blip" /> | Mașini | [**Burton**](https://imgur.com/gbLY2Wn.png), [**LS Intl. Airport**](https://imgur.com/8Q1VNhg.png), [**Grand Senora Desert**](https://imgur.com/5Gzm9tm.png) și [**Paleto Bay**](https://imgur.com/d0WFlIO.png)| 
-| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Aircraft Mod Shop" width="30" label="Mod Shop Blip" /> | Elicoptere | [**LS Intl. Airport**](https://imgur.com/RcQJ0rN.png)|
-| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Boats Mod Shop" width="30" label="Mod Shop Blip" /> | Bărci | [**Elysian Island**](https://imgur.com/bbA7Z2A.png)|
-
-::: tip 
-Aplicația **Vehicles** din telefonul mobil se poate accesa și prin comenzile: `/vehicles` sau `/cars` în chat.
-:::    
-
 ## Lista vehiculelor personale 
 
 Accesând aplicația sau tastând una din comenzile specifice, ai acces la lista de vehicule deținute.   
@@ -74,6 +60,10 @@ Panoul de comandă este folosit pentru vizualizarea stării tehnice a mașinii �
 Dacă vindeți vehiculul către un Dealership, nu veți primi bani!  
 ::: 
 
+::: tip 
+Aplicația **Vehicles** din telefonul mobil se poate accesa și prin comenzile: `/vehicles` sau `/cars` în chat.
+:::    
+
 ## Informațiile suplimentare ale vehiculului personal
 
 Pentru a vizualiza informații suplimentare cu privire la vehiculul deținut, apasă pe butonul mov **View info** din partea de jos a panoului de comandă. 
@@ -83,6 +73,16 @@ Pentru a vizualiza informații suplimentare cu privire la vehiculul deținut, ap
 ::: tip 
 Informațiile legate de modificările aduse vehiculului, numărul de kilometri, dar și altele se pot vizualiza în acest meniu. 
 :::  
+
+## Modificarea unui vehicul personal
+
+Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elicoptere și bărci).
+
+| Iconiță specifică | Tip | Zone geografice |
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Mod Shop" width="30" label="Mod Shop Blip" /> | Mașini | [**Burton**](https://imgur.com/gbLY2Wn.png), [**LS Intl. Airport**](https://imgur.com/8Q1VNhg.png), [**Grand Senora Desert**](https://imgur.com/5Gzm9tm.png) și [**Paleto Bay**](https://imgur.com/d0WFlIO.png)| 
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Aircraft Mod Shop" width="30" label="Mod Shop Blip" /> | Elicoptere | [**LS Intl. Airport**](https://imgur.com/RcQJ0rN.png)|
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Boats Mod Shop" width="30" label="Mod Shop Blip" /> | Bărci | [**Elysian Island**](https://imgur.com/bbA7Z2A.png)|
 
 ## Luxury Autos Dealership <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" /> 
 
