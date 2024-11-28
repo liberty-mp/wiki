@@ -24,13 +24,13 @@ Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Deale
 
 ## Luxury Autos Dealership <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" />
 
-Acesta este Dealership-ul de unde îți poți cumpara vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, jucătorii sunt nevoiți să dețină și de un [**ticket corespunzător**](../properties/personal-vehicles.md#tip-ticket). 
+Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, aceștia vor avea nevoie să dețină și un [**ticket corespunzător**](../properties/personal-vehicles.md#tip-ticket). 
 
 #### Tip ticket
 | Ticket | Detalii | 
 | :-----------: | :-----------: |
-| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | acest ticket este folosit pentru a cumpăra vehiculele cu un preț sub $500.000 |
-| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | acest ticket este folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț sub $500.000 |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 |
 
 ::: details Test Drive
  <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
