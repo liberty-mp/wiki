@@ -2,10 +2,6 @@
 title: Vehicule Personale
 ---
 
-### Informații generale despre vehicule personale
-
-**Vehiculele Personale** reprezintă o categorie de bunuri pe care jucătorii le pot deține pe server. Se pot obține din cadrul unui magazin: **Dealership**. 
-
 ## Achiziția unui vehicul personal
 
 Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default, Motorcycles Default, Boats Default și Airplanes Default) și unul cu vehicule din viața reală (Luxury Autos).
@@ -14,7 +10,7 @@ Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 3 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) | 
 | <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) + un [**Ticket**](../properties/personal-vehicles.md#ticketele-necesare-pentru-achizi%C8%9Bionarea-unui-vehicul-din-luxury-autos-dealership) corespunzător | 
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | [**Luxury Autos**](../properties/personal-vehicles.md#luxury-autos-dealership-) | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) + un [**Ticket**](../properties/personal-vehicles.md#ticketele-necesare-pentru-achizi%C8%9Bionarea-unui-vehicul-din-luxury-autos-dealership) corespunzător | 
 | <Image src="https://i.imgur.com/WBJe08I.png" alt="Dealership" width="30" label="Dealership Blip" /> | Airplanes Default | 3 | [**Los Santos International Airport**](https://i.imgur.com/b5D4nND.png) | Bani in joc ($)<br> sau <br> Gold |
 | <Image src="https://i.imgur.com/Oer7ECJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Boats Default | 3 | [**La Puerta**](https://i.imgur.com/JbkGkvk.png) | Bani in joc ($)<br> sau <br> Gold |
 
@@ -203,11 +199,12 @@ Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din via
 # Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
 | Vehicul | Nume joc | Nume real | Obținut | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://imgur.com/pRdX7rx.png" width="150" alt="Pantheon Supersport (LP 1)" /> | Pantheon Supersport (LP 1) | Lamborghini Countach [1974] | [**Liberty Pass 1**](../events/libertypass-seasonal-event.md#liberty-pass-) |
-| <Image src="https://imgur.com/m3qx4e6.png" width="150" alt="Grotti Cheetah (LP 2)" /> | Grotti Cheetah (LP 2) | Lamborghini Countach [1974] | [**Liberty Pass 2**](../events/libertypass-seasonal-event.md#liberty-pass-) |
-| <Image src="https://imgur.com/M3sKCsK.png" width="150" alt="Dinka NSX" /> | Dinka NSX | Honda NSX[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) |
-| <Image src="https://imgur.com/C6UHpW8.png" width="150" alt="Hotring Sabre" /> | Hotring Sabre | Chevrolet Lumina[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
-| <Image src="https://imgur.com/wj0QkWq.png" width="150" alt="Übermacht E30 Cabrioleto" /> | Übermacht E30 Cabrioleto | BMW E30 325i Cabriolet[1990] | [**Liberty Pass 4**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
-| <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_629640447.png" width="150" alt="Grotti F40" /> | Grotti F40 | Ferrari F40 | [**Liberty Pass 5**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
-| <Image src="https://imgur.com/aheAerR.png" width="150" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
-| <Image src="https://imgur.com/Ti7p3bx.png" width="150" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
+| <Image src="https://imgur.com/pRdX7rx.png" width="110" alt="Pantheon Supersport (LP 1)" /> | Pantheon Supersport (LP 1) | Lamborghini Countach [1974] | [**Liberty Pass 1**](../events/libertypass-seasonal-event.md#liberty-pass-) |
+| <Image src="https://imgur.com/m3qx4e6.png" width="110" alt="Grotti Cheetah (LP 2)" /> | Grotti Cheetah (LP 2) | Lamborghini Countach [1974] | [**Liberty Pass 2**](../events/libertypass-seasonal-event.md#liberty-pass-) |
+| <Image src="https://imgur.com/M3sKCsK.png" width="110" alt="Dinka NSX" /> | Dinka NSX | Honda NSX[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) |
+| <Image src="https://imgur.com/C6UHpW8.png" width="110" alt="Hotring Sabre" /> | Hotring Sabre | Chevrolet Lumina[1990] | [**Liberty Pass 3**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
+| <Image src="https://imgur.com/wj0QkWq.png" width="110" alt="Übermacht E30 Cabrioleto" /> | Übermacht E30 Cabrioleto | BMW E30 325i Cabriolet[1990] | [**Liberty Pass 4**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_629640447.png" width="110" alt="Grotti F40" /> | Grotti F40 | Ferrari F40 | [**Liberty Pass 5**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_1315816827.png" width="110" alt="Vapid Bullet GT-R" /> | Vapid Bullet GT-R | Ford GT-R | [**Liberty Pass 6**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
+| <Image src="https://imgur.com/aheAerR.png" width="110" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
+| <Image src="https://imgur.com/Ti7p3bx.png" width="110" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
