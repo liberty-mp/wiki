@@ -22,6 +22,68 @@ Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale
 Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
 ::: 
 
+#### Test Drive
+
+Jucătorii pot testa vehiculele din Luxury Autos Dealership apăsând pe butonul "Test Drive", de unde pot alege dacă doresc să testeze mașina ca fiind "Stock" sau "Performance" (mașina va dispune de upgrade-urile de tip Engine, Turbo, Transmission, Brakes). De asemenea, mai jos este afișată o listă cu toate mașinile disponibile, în aceasta sunt prezentate detalii cu privire la numele real al acestora, viteza maximă și prețul + tipul de ticket necesar pentru achiziționare.
+
+::: details Demonstrație Test Drive
+ <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
+:::
+
+::: tip
+Un Test Drive durează 120 de secunde.
+::: 
+
+## Modificarea unui vehicul personal
+
+Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elicoptere și bărci).
+
+| Iconiță specifică | Tip | Zone geografice |
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Mod Shop" width="30" label="Mod Shop Blip" /> | Mașini | [**Burton**](https://imgur.com/gbLY2Wn.png), [**LS Intl. Airport**](https://imgur.com/8Q1VNhg.png), [**Grand Senora Desert**](https://imgur.com/5Gzm9tm.png) și [**Paleto Bay**](https://imgur.com/d0WFlIO.png)| 
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Aircraft Mod Shop" width="30" label="Mod Shop Blip" /> | Elicoptere | [**LS Intl. Airport**](https://imgur.com/RcQJ0rN.png)|
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Boats Mod Shop" width="30" label="Mod Shop Blip" /> | Bărci | [**Elysian Island**](https://imgur.com/bbA7Z2A.png)|
+
+::: tip 
+Aplicația **Vehicles** din telefonul mobil se poate accesa și prin comenzile: `/vehicles` sau `/cars` în chat.
+:::    
+
+## Lista vehiculelor personale 
+
+Accesând aplicația sau tastând una din comenzile specifice, ai acces la lista de vehicule deținute.   
+
+<Image src="https://i.imgur.com/hfl0O6Z.png" alt="VehList"/>  
+
+::: tip 
+Vehiculele spawnate vor apărea în listă cu bulină verde, iar cele despawnate cu bulină roșie. 
+:::  
+
+## Utilizarea aplicației Vehicles
+
+Panoul de comandă este folosit pentru vizualizarea stării tehnice a mașinii și mai multe funcții care pot fi utilizate pentru gestionarea vehiculelor personale, după cum urmează: 
+
+<Image src="https://i.imgur.com/ltw2e3V.png" alt="VehControl"/>  
+
+- **Despawn vehicle**: se folosește când vrei să despawnezi (dispare de pe server) vehiculul personal;
+- **Locate vehicle**: ajută la localizarea vehiculului personal;
+- **Change lock**: se utilizează pentru a schimba încuietoarea vehiculului, după ce ai dat cheia acestuia unui alt jucător;  
+- **Tow vehicle**: este folosit pentru a spawna (apare mașina pe server) vehiculul în locația unde a fost parcat (`/parkvehicle`) sau la ultima locație cunoscută; 
+- **Sell to Dealership**: se utilizează pentru a vinde vehiculul către un Dealership.
+
+::: warning Atenție!
+Dacă vindeți vehiculul către un Dealership, nu veți primi bani!  
+::: 
+
+## Informațiile suplimentare ale vehiculului personal
+
+Pentru a vizualiza informații suplimentare cu privire la vehiculul deținut, apasă pe butonul mov **View info** din partea de jos a panoului de comandă. 
+
+<Image src="https://i.imgur.com/IlOo5lU.png" alt="VehAllInfo"/> 
+
+::: tip 
+Informațiile legate de modificările aduse vehiculului, numărul de kilometri, dar și altele se pot vizualiza în acest meniu. 
+:::  
+
 ## Luxury Autos Dealership <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" />
 
 Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, aceștia vor avea nevoie să dețină și un [**Ticket**](../properties/personal-vehicles.md#ticketele-necesare-pentru-achizi%C8%9Bionarea-unui-vehicul-din-luxury-autos-dealership) corespunzător. 
@@ -36,19 +98,8 @@ Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din via
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț sub $500.000 |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 |
 
-#### Test Drive
 
-Jucătorii pot testa vehiculele din Luxury Autos Dealership apăsând pe butonul "Test Drive", de unde pot alege dacă doresc să testeze mașina ca fiind "Stock" sau "Performance" (mașina va dispune de upgrade-urile de tip Engine, Turbo, Transmission, Brakes). De asemenea, mai jos este afișată o listă cu toate mașinile disponibile, în aceasta sunt prezentate detalii cu privire la numele real al acestora, viteza maximă și prețul + tipul de ticket necesar pentru achiziționare.
-
-::: details Demonstrație Test Drive
- <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
-:::
-
-::: tip
-Un Test Drive durează 120 de secunde.
-::: 
-
-::: details Listă Vehicule Luxury Autos:  
+# Listă Vehicule Luxury Autos:  
 | Vehicul | Nume joc | Nume real | Viteză maximă (Performance) | Preț Dealership | Ticket necesar |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_4196968019.png" width="150" alt="Karin Corolla GR" /> | Karin Corolla GR | Toyota GR Corolla | ~195km/h | <Dinero :amount='11000' /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> |
@@ -149,9 +200,8 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/rxde3O4.png" width="150" alt="Truffade Super Sporty (Carbon)" /> | Truffade Super Sporty (Carbon) | Bugatti Chiron Super Sport [2023] | ~317 km/h | <Dinero :amount='5800000' />| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> |
 | <Image src="https://imgur.com/YMLHSAa.png" width="150" alt="Dewbauchee Vilciri Pro" /> | Dewbauchee Vilciri Pro | Aston Martin Valkyrie PRO [2016] | ~320 km/h | <Dinero :amount='6300000' />| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> |
 
-:::
 
-::: details Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
+# Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
 | Vehicul | Nume joc | Nume real | Obținut | 
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://imgur.com/pRdX7rx.png" width="150" alt="Pantheon Supersport (LP 1)" /> | Pantheon Supersport (LP 1) | Lamborghini Countach [1974] | [**Liberty Pass 1**](../events/libertypass-seasonal-event.md#liberty-pass-) |
@@ -162,55 +212,3 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_629640447.png" width="150" alt="Grotti F40" /> | Grotti F40 | Ferrari F40 | [**Liberty Pass 5**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
 | <Image src="https://imgur.com/aheAerR.png" width="150" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 | <Image src="https://imgur.com/Ti7p3bx.png" width="150" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Quest**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
-
-:::
-
-## Modificarea unui vehicul personal
-
-Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elicoptere și bărci).
-
-| Iconiță specifică | Tip | Zone geografice |
-| :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Mod Shop" width="30" label="Mod Shop Blip" /> | Mașini | [**Burton**](https://imgur.com/gbLY2Wn.png), [**LS Intl. Airport**](https://imgur.com/8Q1VNhg.png), [**Grand Senora Desert**](https://imgur.com/5Gzm9tm.png) și [**Paleto Bay**](https://imgur.com/d0WFlIO.png)| 
-| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Aircraft Mod Shop" width="30" label="Mod Shop Blip" /> | Elicoptere | [**LS Intl. Airport**](https://imgur.com/RcQJ0rN.png)|
-| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Boats Mod Shop" width="30" label="Mod Shop Blip" /> | Bărci | [**Elysian Island**](https://imgur.com/bbA7Z2A.png)|
-
-::: tip 
-Aplicația **Vehicles** din telefonul mobil se poate accesa și prin comenzile: `/vehicles` sau `/cars` în chat.
-:::    
-
-## Lista vehiculelor personale 
-
-Accesând aplicația sau tastând una din comenzile specifice, ai acces la lista de vehicule deținute.   
-
-<Image src="https://i.imgur.com/hfl0O6Z.png" alt="VehList"/>  
-
-::: tip 
-Vehiculele spawnate vor apărea în listă cu bulină verde, iar cele despawnate cu bulină roșie. 
-:::  
-
-## Utilizarea aplicației Vehicles
-
-Panoul de comandă este folosit pentru vizualizarea stării tehnice a mașinii și mai multe funcții care pot fi utilizate pentru gestionarea vehiculelor personale, după cum urmează: 
-
-<Image src="https://i.imgur.com/ltw2e3V.png" alt="VehControl"/>  
-
-- **Despawn vehicle**: se folosește când vrei să despawnezi (dispare de pe server) vehiculul personal;
-- **Locate vehicle**: ajută la localizarea vehiculului personal;
-- **Change lock**: se utilizează pentru a schimba încuietoarea vehiculului, după ce ai dat cheia acestuia unui alt jucător;  
-- **Tow vehicle**: este folosit pentru a spawna (apare mașina pe server) vehiculul în locația unde a fost parcat (`/parkvehicle`) sau la ultima locație cunoscută; 
-- **Sell to Dealership**: se utilizează pentru a vinde vehiculul către un Dealership.
-
-::: warning Atenție!
-Dacă vindeți vehiculul către un Dealership, nu veți primi bani!  
-::: 
-
-## Informațiile suplimentare ale vehiculului personal
-
-Pentru a vizualiza informații suplimentare cu privire la vehiculul deținut, apasă pe butonul mov **View info** din partea de jos a panoului de comandă. 
-
-<Image src="https://i.imgur.com/IlOo5lU.png" alt="VehAllInfo"/> 
-
-::: tip 
-Informațiile legate de modificările aduse vehiculului, numărul de kilometri, dar și altele se pot vizualiza în acest meniu. 
-:::  
