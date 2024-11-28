@@ -28,7 +28,7 @@ Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Deale
 
 #### Test Drive
 
-Jucătorii pot testa vehiculele din Luxury Autos Dealership apăsând pe butonul "Test Drive", de unde pot alege dacă doresc să testeze mașina ca fiind "Stock" sau "Performance" (mașina va dispune de upgrade-urile de tip Engine, Turbo, Transmission, Brakes). De asemenea, mai jos este afișată o listă cu toate mașinile disponibile, în aceasta sunt prezentate detalii cu privire la numele real al acestora, viteza maximă și prețul + tipul de ticket necesar pentru achiziționare.
+Jucătorii pot testa vehiculele din Luxury Autos Dealership apăsând pe butonul "Test Drive", de unde pot alege dacă doresc să testeze mașina ca fiind "Stock" sau "Performance" (mașina va dispune de upgrade-urile de tip Engine, Turbo, Transmission, Brakes). Totodată, mai jos este afișată o listă cu toate vehiculele disponibile, care include detalii precum numele real al acestora, viteza maximă, precum și prețul + tipul de ticket necesar pentru achiziție.
 
 ::: details Demonstrație Test Drive
  <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
@@ -88,7 +88,7 @@ Pentru a vizualiza informații suplimentare cu privire la vehiculul deținut, ap
 Informațiile legate de modificările aduse vehiculului, numărul de kilometri, dar și altele se pot vizualiza în acest meniu. 
 :::  
 
-## Luxury Autos Dealership <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" />
+## Luxury Autos Dealership <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" /> 
 
 Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, aceștia vor avea nevoie să dețină și un [**Ticket**](../properties/personal-vehicles.md#ticketele-necesare-pentru-achizi%C8%9Bionarea-unui-vehicul-din-luxury-autos-dealership) corespunzător. 
 
