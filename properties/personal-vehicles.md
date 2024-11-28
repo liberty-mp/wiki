@@ -14,7 +14,7 @@ Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 3 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) | 
 | <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) + un [**Ticket**](../properties/personal-vehicles.md#tip-ticket) corespunzător | 
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Luxury Autos | 7 | [**Rockford Hills**](https://i.imgur.com/VcIYT38.png) | Bani în joc ($) + un [**Ticket**](../properties/personal-vehicles.md#ticketele-necesare-pentru-achizi%C8%9Bionarea-unui-vehicul-din-luxury-autos-dealership) corespunzător | 
 | <Image src="https://i.imgur.com/WBJe08I.png" alt="Dealership" width="30" label="Dealership Blip" /> | Airplanes Default | 3 | [**Los Santos International Airport**](https://i.imgur.com/b5D4nND.png) | Bani in joc ($)<br> sau <br> Gold |
 | <Image src="https://i.imgur.com/Oer7ECJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Boats Default | 3 | [**La Puerta**](https://i.imgur.com/JbkGkvk.png) | Bani in joc ($)<br> sau <br> Gold |
 
@@ -24,7 +24,7 @@ Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Deale
 
 ## Luxury Autos Dealership <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" />
 
-Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, aceștia vor avea nevoie să dețină și un [**Ticket**](../properties/personal-vehicles.md#tip-ticket) corespunzător. 
+Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, aceștia vor avea nevoie să dețină și un [**Ticket**](../properties/personal-vehicles.md#ticketele-necesare-pentru-achizi%C8%9Bionarea-unui-vehicul-din-luxury-autos-dealership) corespunzător. 
 
 ::: details Demonstrație pentru achiziționarea unui vehicul
  <Image src="https://i.imgur.com/3neAWth.gif" alt="Achiziționare vehicul" />
