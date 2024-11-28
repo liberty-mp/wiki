@@ -26,21 +26,27 @@ Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Deale
 
 Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din viața reală. Pentru a cumpăra o mașină, pe lângă suma de bani necesară, aceștia vor avea nevoie să dețină și un [**ticket corespunzător**](../properties/personal-vehicles.md#tip-ticket). 
 
+::: details Demonstrație pentru achiziționarea unui vehicul
+ <Image src="https://i.imgur.com/3neAWth.gif" alt="Achiziționare vehicul" />
+:::
+
 #### Tip ticket
 | Ticket | Detalii | 
 | :-----------: | :-----------: |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț sub $500.000 |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 |
 
-::: details Test Drive
+#### Test Drive
+
+Jucătorii pot testa vehiculele din Luxury Autos Dealership apăsând pe butonul "Test Drive", de unde pot alege dacă doresc să testeze mașina ca fiind "Stock" sau "Performance" (mașina va dispune de upgrade-urile de tip Engine, Turbo, Transmission, Brakes). De asemenea, o listă cu mașinile prezente în Luxury Autos Dealership în care sunt prezente detalii cu privire la numele real al acestora, prețul, tipul de ticket necesar pentru achiziție cât și viteza maximă este afișată mai jos.
+
+::: details Demonstrație Test Drive
  <Image src="https://i.imgur.com/6KEObC7.gif" alt="Test Drive" />
+:::
+
 ::: tip
 Un Test Drive durează 120 de secunde.
-:::  
-
-::: details Achiziționare vehicul
- <Image src="https://i.imgur.com/3neAWth.gif" alt="Achiziționare vehicul" />
-:::
+::: 
 
 ::: details Listă Vehicule Luxury Autos:  
 | Vehicul | Nume joc | Nume real | Viteză maximă (Performance) | Preț Dealership | Ticket necesar |
