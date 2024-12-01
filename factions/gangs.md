@@ -63,72 +63,17 @@ title: Grupări Mafiote
 <Image src="https://imgur.com/92KJhfz.png" alt="HQ Los Santos Vagos" label="Locație: Dutch London Street" labelAlign="left" />
 :::
 
-## Vehicule 
-
-**Grupările Mafiote** beneficiază de aceleași tipuri de vehicule, cu diferite caracteristici, după cum urmează: 
-
-| Marcă   | Model | Tip | Locuri | Disponibile |  
-| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Declasse | [**FBI**](https://static.wikia.nocookie.net/gtawiki/images/c/cf/FIB2-GTAV-front.png/revision/latest?cb=20151217204743) | SUV | 8 | 1 | 
-| Karin | [**Sultan Classic**](https://static.wikia.nocookie.net/gtawiki/images/f/f3/SultanClassic-GTAO-front.png/revision/latest?cb=20191213212805) |  Sedan | 4 | 2 |
-| Albany | [**V-STR**](https://static.wikia.nocookie.net/gtawiki/images/e/ee/VSTR-GTAO-front.png/revision/latest?cb=20191213212810) |  Sedan | 4 | 2 | 
-| Western | [**Nightblade**](https://static.wikia.nocookie.net/gtawiki/images/6/6b/Nightblade-GTAO-front.png/revision/latest?cb=20161014165516) |  Cruiser | 2 | 3 |  
-
-::: tip
-Pentru a putea utiliza vehiculele, trebuie să porți hainele grupării din care faci parte. 
-
-Poți schimba ținuta din interiorul **HQ-ului**, de la **Faction Locker**, apăsând tasta `E` în [checkpoint-ul](https://i.imgur.com/f4TLraD.png) aferent. 
-:::
-
 ## Teritorii (turfs)
 
-**Teritoriul** sau turf-ul reprezintă un spațiu bine delimitat pe harta statului **San Andreas** cu o culoare specifică care deservește ca zonă de desfășurare a activităților specifice grupărilor mafiote.
-
-În momentul de față, există un număr total de **28 teritorii**, incluse în mai multe categorii, după cum urmează: 
-
-### Teritorii de tip port
-
-| Iconiță specifică | Număr teritorii | Zone geografice | 
-| :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/uAC9Dqk.png" alt="Port" width="30" label="Iconiță turf port" /> | 4 teritorii |  [**Elysian Island**](https://imgur.com/2hqnNyE.png), [**Terminal**](https://imgur.com/WA7bOhR.png) | 
-
-Teritoriile din categoria **Port** permit aprovizionarea cu arme, muniție și diverse substanțe interzise.<br>
-Aprovizionarea are loc lunea, miercurea și vinerea între orele **23:15 - 23:25 PM** după terminarea războaielor (war-uri).<br>
-**Jucătorii au timp pâna la următorul razboi (war) pentru a extrage itemele. În caz contrar acestea vor fi șterse**.
-
-### Warehouse
-
-| Iconiță specifică | Număr teritorii | Zone geografice | 
-| :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/2SYFtvq.png" alt="Warehouse" width="30" label="Iconiță turf warehouse" /> | 4 teritorii | [**Rancho**](https://imgur.com/KMs7xQT.png), [**Davis**](https://imgur.com/OrCSf8N.png) și [**Chamberlain Hills**](https://imgur.com/Uz5k1QS.png)| 
-
-Teritoriile din categoria **Warehouse** pot fi folosite de către grupările mafiote în vederea producerii de arme, atașamente pentru arme si muniție.
-
-### Drug Plantation 
-
-| Iconiță specifică | Număr teritorii | Zone geografice | 
-| :-----------: | :-----------: | :-----------: |
-|  <Image src="https://i.imgur.com/F5xSqxB.png" alt="Drug Plantation" width="30" label="Iconiță turf drugs" /> | 2 teritorii | [**Grapeseed**](https://imgur.com/M3jF9MO.png), [**Paleto Bay**](https://imgur.com/isCwnY5.png) | 
-
-Teritoriile din categoria **Drug Plantation** pot fi folosite de către grupările mafiote în vederea producerii drogurilor de tip **Marijuana** prin plantarea si prelucrarea semințelor de **cannabis**.
-
-::: warning Atenție!  
-Drogurile dispar după **12 ore** de la plantarea acestora.
-:::
-
-| Item | Obținere | 
-| :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/X2Fi4Nx.png" alt="Cannabis Seeds" width="30" label="Cannabis Seeds" /> | containerele turf-urilor de tip [**Port**](#teritorii-de-tip-port) | 
+**Teritoriul** sau turf-ul reprezintă un spațiu bine delimitat pe harta statului **San Andreas** cu o culoare specifică care deservește ca zonă de desfășurare a warurilor specifice grupărilor mafiote.
+În momentul de față, există un număr total de **28 teritorii** 
 
 # Sistemul de War
 
 ### Informații generale despre war-uri
 
 **War-urile** sau războaiele reprezintă singura modalitatea prin care o grupare mafiotă își arată puterea și influența controlând un teritoriu (turf).
- 
-::: tip
-Grupările mafiote care dețin mai multe teritorii beneficiază de posibilități extinse de dezvoltare. 
-:::
+**War-urile** se desfasoare in sezoane, durata unui sezon fiind de 1 luna de zile. Fiecare sezon modifica setul de arme disponibile mafiotilor in timpul warurilor.
 
 ## Începutul war-ului 
 
@@ -156,13 +101,38 @@ O dată cu începerea war-ului, participanții care se află deja în hainele gr
 
 ### Arme disponibile
 
-În timpul war-ului, fiecare membru primește automat următoarele arme: 
+Armele disponibile in timpul warurilor variaza in functie de sezon si cuprind intotdeauna:
 
-| Imagine | Muniție (gloanțe) |
-| :-----------: | :-----------: |  
-| <Image src="https://i.imgur.com/WR12L1k.png" alt="Pistol .50" width="60" label="Pistol .50" />  | 250 | 
-| <Image src="https://i.imgur.com/aFyp7rL.png" alt="Pump Shotgun" width="100" label="Pump Shotgun" /> | 250 |
-| <Image src="https://i.imgur.com/oO062ul.png" alt="Carabine Rifle" width="100" label="Carabine Rifle" /> | 250 | 
+#### Pistoale
+
+| Pistol 50 | AP Pistol | Navy Revolver |
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_pistol50.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_appistol.png" width="100" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_navyrevolver.png" width="100"/>  |
+
+#### SMG-uri
+
+| MG | SMG MK II | Micro SMG | Combat PDW | Machine Pistol |
+| :-----------: | :-----------: | :-----------: | :-----------: |:-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_smg.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_smg_mk2.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_microsmg.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_combatpdw.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_machinepistol.png" width="100"/> | 
+
+#### Shotgun-uri
+
+| Pump Shotgun | Sawn Off Shotgun |
+| :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_pumpshotgun.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_sawnoffshotgun.png" width="100" /> |
+
+
+#### Rifle-uri
+
+Carbine Rifle | Special Carbine | Assault Rifle | Assault Rifle MK II |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_carbinerifle.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_specialcarbine.png" width="100" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_assaultrifle.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_assaultrifle_mk2.png" width="100" /> |
+
+| Bullpup Rifle | Bullpup Rifle MK II | Military Rifle | Tactical Rifle |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_bullpuprifle.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_bullpuprifle_mk2.png" width="100" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_militaryrifle.png" width="100"/> | <Image src="https://ucp.liberty.mp/assets/images/inventory/weapons/weapon_tacticalrifle.png" width="100" /> |
+
+Pentru a putea vizualiza in timp real armele disponibile in sezonul curent [acceseaza UCP-ul](https://ucp.liberty.mp/wars/list).
 
 ::: tip
 Aceste arme sunt disponibile doar în timpul war-ului.<br>
@@ -204,93 +174,164 @@ Statisticile personale pot fi vizualizate și în timpul war-ului, în partea di
 | 0.5 puncte | asistarea unui coechipier în uciderea unui inamic |
 | -1 punct | deces |  
 
-## Sistemul de crafting
+### Amenda pentru cel mai slab jucator
 
-::: warning Atenție!  
-Mafioții folosesc în foarte mare proporție acest sistem, este recomandat să citiți pagina principală de [Crafting](../general/crafting.md).
+Cel mai slab jucator al unui war va fi sanctionat automat de catre server cu o amenda, daca scorul acestuia este negativ. \
+Amenda consta in $1.000 per punct negativ. (ex: jucatorul are scor -5, acesta va primi amenda $5.000). \
+Neplata amenzii va duce la sanctionarea cu puncte de penalizare in cadrul factiunii. 
+Amenzile pot fi vizualizate in meniul O, la categoria Jobs & Faction.
+
+<Image src = "https://i.imgur.com/CW3L9aH.png" label = "Vizualizare amenzi" />
+
+## Gangs Skill
+
+Mafiotii beneficiaza de skill-uri de factiune, similare cu skill-urile de la job-uri. \
+Exista un total de 5 skill-uri, avansarea in skill se face la acumularea unui numar de puncte.
+
+| **Skill** | **Numar de puncte necesare** |
+| :-----------: | :-----------: |
+| <SkillToImage :skill="'Bronze'"/> | 0 puncte |
+| <SkillToImage :skill="'Silver'"/> | 300 puncte |
+| <SkillToImage :skill="'Gold'"/> | 600 puncte |
+| <SkillToImage :skill="'Platinum'"/> | 900 puncte |
+| <SkillToImage :skill="'Diamond'"/> | 1200 puncte |
+| <SkillToImage :skill="'Master'"/> | 1500 puncte |
+
+Punctele se obtin astfel:
+
+| Număr puncte | Activitate |
+| :-----------: | :-----------: |
+| 3 puncte | uciderea unui inamic in timpul unui war | 
+| -1 punct | deces pe turf in timpul unui war |  
+| 0.1 puncte/minut | timp petrecut pe turf in timpul unui war |
+
+Skill-urile ofera diverse beneficii in cadrul sistemului de crafting dar si in cazul drop-urilor primite pentru activitatea la war-uri. 
+
+La parasirea factiunii la mai putin de 14 zile de la intrarea in aceasta jucatorii vor fi retrogradati 1 Skill (adica de exemplu daca jucatorul are skill Master, acesta va fi retrogradat la skill-ul Diamond).
+
+Skill-ul curent se poate vizualiza in meniul O, in cadrul categoriei Jobs & Faction.
+
+<Image src = "https://i.imgur.com/CW3L9aH.png" label = "Prezentare skill Factiune" />
+
+## Sistemul de crafting & research
+
+### Crafting
+
+**Craftarea** reprezintă procesul de obținere de armament, componente (atașamente) pentru arme sau muniție.
+
+Craftarea are loc in interiorul **Warehouse-urilor** deținute de grupările mafiote doar de catre jucatorii cu **prezenta la ultima sesiune de war-uri**.
+
+Exista doua tipuri de warehouse-uri:
+- **Warehouse-uri de HQ**: se afla in proximitatea HQ-ului fiecarui gang, permit craftarea itemelor de skill inferior
+- **Cayo Perico Warehouse**: se afla pe insula Cayo Perrico si permite craftarea itemelor de skill superior
+
+<Image src = "https://i.imgur.com/Q3e4orH.png" label = "Locatie Warehouse Cayo Perrico" />
+
+#### Blueprint-uri 
+
+**Blueprint-urile** reprezintă instrucțiunile pentru proiectarea și construirea obiectelor (armelor, componentelor și muniției).
+Acestea se pot obține in urma drop-urilor primite pentru activitatea la war-uri sau pot fi obtinute prin procesul de Research al unui item existent pe server.
+
+<Image src = "https://i.imgur.com/gcOe1Ei.png" label = "Meniu crafting" />
+
+<Image src = "https://i.imgur.com/HnTw2BK.png" label = "Proces crafting" />
+
+**Se pot crafta următoarele iteme:** 
+
+::: tip
+Armele din sezonul curent de war-uri pot beneficia de cerinte reduse in privinta materialelor necesare pentru crafting.
 :::
+
+<CraftingWeapons/>
+
+**Armele folosesc următoarele calibre de gloanțe si au urmatoarele atasamente:**
+
+<WeaponsAndAmmo/>
+
+### Research
+
+**Research-ul** reprezintă procesul de obținere de blueprint-uri din iteme deja existente. \
+Se pot obtine blueprint-uri pentru arme, armament sau componente ale armelor.
+
+<Image src = "https://i.imgur.com/UbyoiGS.png" label = "Meniu research" />
+<Image src = "https://i.imgur.com/Ba7Tazs.png" label = "Proces research" />
+
+### Dependenta de skill
+
+Sistemele de crafting & research sunt influentate de skill-ul de mafiot astfel:
+
+| Skill | Beneficii crafting & research |
+| :-----------: | :-----------: | 
+| <SkillToImage :skill="'Bronze'"/>  | Durabilitate minima arme: 200 <br> Reducere timp crafting & research: 0% <br> Interval utilizari blueprint-uri: 1-3 |
+| <SkillToImage :skill="'Silver'"/> | Durabilitate minima arme: 250 <br> Reducere timp crafting & research: 10% <br> Interval utilizari blueprint-uri: 2-4 |
+| <SkillToImage :skill="'Gold'"/> | Durabilitate minima arme: 300 <br> Reducere timp crafting & research: 20% <br> Interval utilizari blueprint-uri: 3-6 |
+| <SkillToImage :skill="'Platinum'"/> | Durabilitate minima arme: 350 <br> Reducere timp crafting & research: 30% <br> Interval utilizari blueprint-uri: 5-7 |
+| <SkillToImage :skill="'Diamond'"/> | Durabilitate minima arme: 400 <br> Reducere timp crafting & research: 40% <br> Interval utilizari blueprint-uri: 6-9 |
+| <SkillToImage :skill="'Master'"/> | Durabilitate minima arme: 500 <br> Reducere timp crafting & research: 50% <br> Interval utilizari blueprint-uri: 7-9 |
 
 ## Sistemul de Droguri
 
 ### Informații generale despre droguri 
 
-În statul San Adreas sunt populare **3 tipuri de droguri**:  
+| Tip Drog | Imagine de inventar | Bonusuri | Durata Efect | Modalitate de obtinere |
+| :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
+| Marijuana Joint | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_joint.png" width="100"/> | 15% job boost | 15 minute | Plantatii & Drugs Lab |
+| Marijuana Blunt | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_blunt.png" width="100"/> | 20% job boost <br> 10% item drop <br> 10% experience boost | 15 minute| Drugs Lab |
+| Adderal Pills | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/adderall_pills.png" width="100"/> | recoil reduction | 15 minute | Drop-uri port |
+| Crystal Meth | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/meth_crystal.png" width="100"/> | damage reduction | 15 minute | Drop-uri port |
+| Cocaine Powder | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/cocaine_powder.png" width="100"/> | 15% Street Rep <br> 5% Rob Boost | 15 minute | Plantatii & Drugs Lab |
 
-<Image src="https://i.imgur.com/o5XphUl.png" alt="Marijuana Joint" width="50" label="Marijuana Joint" />
-<Image src="https://i.imgur.com/Kn658hi.png" alt="Marijuana Joint" width="50" label="Adderal Pills" />
-<Image src="https://i.imgur.com/nbaIUiG.png" alt="Marijuana Joint" width="50" label="Crystal Meth" />
+### Obtinere Marijuana Joint, Blunt & Cocaine Powder
 
-::: warning Atenție!
-Sistemul de obținere a drogurilor este pentru membrii grupărilor mafiote.  
-Drogul **Marijuana Joint** se poate utiliza de către orice jucător, celelalte 2 sunt axate pe mafioți.
-:::  
+Drogurile Marijuana Joint, Marijuana Blunt si Cocaine Powder pot fi obtinute de catre mafioti prin completarea a doua activitati de crestere a plantelor & prelucrare. \
+Activitatile ce presupun plantarea semintelor si prelucrarea drogurilor sunt activitati ilegale ce pot duce la arestarea mafiotilor.
 
-## **Marijuana Joint** 
+#### 1. Plantarea semintelor
 
-<Image src="https://i.imgur.com/o5XphUl.png" alt="Marijuana Joint" width="50" label="Marijuana Joint" />
+Un prim pas in craftarea de droguri acela de a planta semintele. \
+Semintele sunt de doua feluri si pot fi plantate pe o plantatie.
 
-**Marijuana Joint** este o țigară cu un amestec obținut din frunzele și tulpina plantei de **Cannabis** ajunsă la maturitate. 
+Plantatiile sunt destinate mafiotilor si pot fi utilizate pentru a planta seminte de **Cannabis** sau seminte de **Coca**. 
 
-| Efecte după consum | Durată |
-| :-----------: | :-----------: | 
-| 15% job boost | 30 minute |
+Locatia plantatiilor nu este un secret, acestea pot fi gasite pe insula Cayo Perico.
 
-### Obținere
+<Image src="https://i.imgur.com/njtJhzL.png" label="Plantatii" />
 
-| Materiale necesare | 
-| :-----------: | 
-| <Image src="https://i.imgur.com/XW4F0dG.png" alt="Cannabis Seeds" width="50" label="Cannabis Seeds" /> |
-
-Pentru a obține **Marijuana Joint** ai nevoie de **Cannabis Seeds** pe care trebuie să le plantezi în teritorii de tip **Drug Plantation**.
-
-> Vezi care sunt teritoriile de tip [**Drug Plantation**](#drug-plantation).
-
-<Image src="https://i.imgur.com/k5CczMZ.jpg" alt="DoneCannabis" label="Plantarea semințelor de Cannabis" labelAlign="left" /> <Image src="https://i.imgur.com/4uwibf7.jpg" alt="DoneCannabis" /> 
-
-Semințele de **Cannabis** pot fi plantate doar pe terenurile arabile din spațiul delimitat al teritoriilor.
-
-::: tip
-Pentru a planta semințele de **Cannabis**, intră în inventar și apasă *click-dreapta* pe ele, apoi pe opțiunea **Plant Seeds**. 
-::: 
-
-| Cantitate plantată | Timp de așteptare | Cantitate obținută | 
+| Tip Seminte | Durata crestere planta | Item Obtinut dupa plantare |
 | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/XW4F0dG.png" alt="Cannabis Seeds" width="50" label="1x Cannabis Seeds" /> | 10 minute | <Image src="https://i.imgur.com/o5XphUl.png" alt="Marijuana Joint" width="50" label="5x Marijuana Joint" /> | 
+| <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/cannabis_seeds.png" width="100" label = "Cannabis Seeds"/> | 15 minute | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/cannabis_buds.png" width="100" label = "Cannabis Buds"/> |
+| <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/coca_seeds.png" width="100" label = "Coca Seeds"/> | 15 minute | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/coca_leaves.png" width="100" label = "Coca Leaves"/> |
 
-<Image src="https://i.imgur.com/gikVFXX.jpg" alt="DoneCannabis" label="Evoluția plantei de Cannabis" labelAlign="left" /> <Image src="https://i.imgur.com/s0sLbAE.jpg" alt="DoneCannabis" /> 
+#### Cum plantez seminte?
 
-În momentul în care planta de **Cannabis** a ajuns la maturitate (după timpul de așteptare), o poți culege. 
+Pentru a planta semintele jucatorii trebuie sa se deplaseze la locatia plantatiei gang-ului din care fac parte si sa rezerve un plot.
 
-<Image src="https://i.imgur.com/RAhzaVM.jpg" alt="DoneCannabis" label="Culegerea plantei de Cannabis" labelAlign="left" /> 
+Dupa ce un slot ti-a fost alocat, tot ce ai de facut este sa plantezi semintele si sa astepti ca planta sa creasca. \
+Odata ce planta a ajuns la maturitate poti culege roadele acesteia, acest lucru marcand sfarsitul primului pas in a obtine droguri.
 
-::: tip
-Pentru a culege plantele de **Cannabis**, du-te lângă fiecare și apasă tasta `E`. 
-::: 
+<Image src = "https://i.imgur.com/xfddJ1g.gif" label = "Plantare seminte" />
 
-## **Adderal Pills**
 
-<Image src="https://i.imgur.com/Kn658hi.png" alt="Marijuana Joint" width="50" label="Adderal Pills" />
+#### 2. Procesarea de droguri in Drugs Lab 
 
-**Adderal Pills** sunt niște pastile cu un amestec obținut din săruri mixte de amfetamine.  
+Pentru a putea procesa **Cannabis Buds** sau **Coca Leaves** jucatorii trebuie sa se deplaseze la **Drugs Lab** situat pe Cayo Perico.
+<Image src = "https://i.imgur.com/tDRSpvb.png" label = "Cayo Perico Drugs Lab" />
 
-| Efecte după consum | Durată |
-| :-----------: | :-----------: | 
-| Reduce recoil-ul în timpul tragerii | 15 minute |
+In interiorul laboratorului exista doua tipuri de mese ce pot fi accesate, 1 pentru fiecare tip de drog ce poate fi craftat.
 
-### Obținere 
+<Image src = "https://i.imgur.com/eNb3RiR.png" label = "Cannabis Processing Tables" />
+<Image src = "https://i.imgur.com/vkOYCd9.png" label = "Cocaine Processing Tables" />
 
-Modul de obținere principal a **Adderal Pills** este prin intermediul teritoriilor de tip [**Port**](#teritorii-de-tip-port) deținute de grupările mafiote, unde acestea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Acestea mai pot fi oferite jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
+Laboratorul poate fi utilizat dupa urmatoarea schema:
 
-## **Crystal Meth**
+| Iteme necesare | Drog Obtinut | Tip Masa de lucru |
+| :-----------: | :-----------: | :-----------: |
+| <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/coca_leaves.png" width="100" label = "Coca Leaves"/> | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/cocaine_powder.png" width="100" label = "Cocaine Powder"/> | Cocaine Processing Table |
+| <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/cannabis_buds.png" width="100" label = "Cannabis Buds"/> | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_joint.png" width="100" label = "Marijuana Joint"/> | Cannabis Processing Table |
+| <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_joint.png" width="100" label = "Marijuana Joint"/> & <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/penny_puffer.png" width="100" label = "Penny Puffer Cigar"/> | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_blunt.png" width="100" label = "Marijuana Blunt"/> | Cannabis Processing Table |
 
-<Image src="https://i.imgur.com/nbaIUiG.png" alt="Marijuana Joint" width="50" label="Crystal Meth" />
+<Image src = "https://i.imgur.com/95TbbGR.gif" label = "Craftare Marijuana Joint" />
 
-**Crystal Meth** este o substanță psiho-stimulentă care cauzează diverse stări de euforie.  
+## Wanted pentru activitati ilegale
 
-| Efecte după consum | Durată |
-| :-----------: | :-----------: | 
-| Reduce DMG-ul primit la war | 15 minute |
-
-### Obținere 
-
-Modul de obținere principal al **Crystal Meth** este prin intermediul teritoriilor de tip [**Port**](#teritorii-de-tip-port) deținute de grupările mafiote, unde acestea se dropează aleatoriu în containerele navale, după aproximativ 15 minute de la încheierea war-urilor. Aceasta mai pot fi oferit jucătorului cu cel mai mare scor din ambele grupări implicate, la finalul unui war.
+Jucatorii ce utilizeaza Drugs Lab-ul sau Warehouse-ul de pe Cayo risca sansa de a primi wanted urmand ca acestia sa fie arestat de catre politie.
