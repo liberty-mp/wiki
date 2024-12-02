@@ -73,7 +73,7 @@ title: Grupări Mafiote
 ### Informații generale despre war-uri
 
 **War-urile** sau războaiele reprezintă singura modalitatea prin care o grupare mafiotă își arată puterea și influența controlând un teritoriu (turf).
-**War-urile** se desfasoare in sezoane, durata unui sezon fiind de 1 luna de zile. Fiecare sezon modifica setul de arme disponibile mafiotilor in timpul warurilor.
+**War-urile** se desfasoara in sezoane, durata unui sezon fiind de 1 luna de zile. Fiecare sezon modifica setul de arme disponibile mafiotilor in timpul warurilor.
 
 ## Începutul war-ului 
 
@@ -275,7 +275,7 @@ Sistemele de crafting & research sunt influentate de skill-ul de mafiot astfel:
 
 | Tip Drog | Imagine de inventar | Bonusuri | Durata Efect | Modalitate de obtinere |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| Marijuana Joint | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_joint.png" width="100"/> | 15% job boost | 15 minute | Plantatii & Drugs Lab |
+| Marijuana Joint | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_joint.png" width="100"/> | 15% job boost | 30 minute | Plantatii & Drugs Lab |
 | Marijuana Blunt | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_blunt.png" width="100"/> | 20% job boost <br> 10% item drop <br> 10% experience boost | 15 minute| Drugs Lab |
 | Adderal Pills | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/adderall_pills.png" width="100"/> | recoil reduction | 15 minute | Drop-uri port |
 | Crystal Meth | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/meth_crystal.png" width="100"/> | damage reduction | 15 minute | Drop-uri port |
@@ -334,4 +334,4 @@ Laboratorul poate fi utilizat dupa urmatoarea schema:
 
 ## Wanted pentru activitati ilegale
 
-Jucatorii ce utilizeaza Drugs Lab-ul sau Warehouse-ul de pe Cayo risca sansa de a primi wanted urmand ca acestia sa fie arestat de catre politie.
+Jucatorii ce utilizeaza Drugs Lab-ul sau Warehouse-ul de pe Cayo risca sansa de a primi wanted urmand ca acestia sa fie arestati de catre politie.
