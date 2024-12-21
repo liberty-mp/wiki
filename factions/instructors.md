@@ -59,16 +59,14 @@ Odată ce un jucător va face o cerere pentru una dintre cele 3 licențe, membri
 <Image src = "https://i.imgur.com/1CPBKMB.png" />
 :::
 
-Mergând în checkpoint-ul din față computer-ului și apasand tasta `E`, acestora le vor apărea 2 categorii de cereri: Nearby Requests și General Requests. 
-`Nearby Requests` se referă la cererile de licențe ale jucătorilor ce sunt în apropiere (în License Request Center) iar `General Requests` se referă la cererile generale de pe server, jucătorii nefiind în centru.
+Mergând în checkpoint-ul din față computer-ului și apasand tasta `E` vom putea vedea licentele jucatorilor ce sunt in apropiere, mai exact Nearby Requests. General Requests pot fi vazute din aplicatia `Instructors` din telefon.
 
 ::: details Acceptare cereri
 <Image src = "https://i.imgur.com/Zo2ea5g.png" />
 :::
 
-Din computer, instructorii vor putea acceptă testele teoretice ale jucătorilor cât și cele practice. Daca instructorul ce a acceptat testul teoretic si nu se mai poate prezenta la testul practic, un alt instructor il va putea accepta. Acordarea de licenta va putea fi facuta prin comanda `/givelicense`. Daca cei 2 instructori anteriori nu pot fi prezenti pentru acordarea licentei, un al treilea o va putea face. Remuneratia va fi de 50% pentru acceptarea testului practic si de 50% pentru acceptarea testului teoretic. 
+Din computer, instructorii vor putea acceptă testele teoretice ale jucătorilor cât și cele practice. Daca instructorul ce a acceptat testul teoretic si nu se mai poate prezenta la testul practic, un alt instructor il va putea accepta. Acordarea de licenta va fi automatizata imediat dupa ce jucatorul termina testul practic.
 
-Acordarea licentelor se va face prin comanda `/givelicense`.
 
 ## Informații utile jucătorilor
 
