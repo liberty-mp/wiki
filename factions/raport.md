@@ -5,11 +5,10 @@ title: Rapoarte de activitate
 ### Informații generale
 
 Cerințele raportului diferă de la facțiune la facțiune, mai jos sunt prezentate toate rapoartele.
-Liderii facțiunilor sunt nevoiți să facă doar numărul de ore jucate. Co-liderii sunt nevoiți să facă atât orele cât și un număr mai mic de activity points.
+Liderii facțiunilor sunt nevoiți să facă doar numărul de ore jucate. Co-liderii sunt nevoiți să facă atât orele cât și un raport de activitate mai mic.
 
 ::: danger Atenție!  
 Raportul de activitate este obligatoriu pentru membrii unei facțiuni.  
-Activity points (puncte de activitate) reprezintă un număr total de puncte ce trebuiesc atinse pentru ca raportul să fie considerat complet, pe lângă orele jucate necesare.
 :::
 
 ::: tip
@@ -32,47 +31,43 @@ Rank up-ul în facțiune se acordă automat atunci când îndeplinești un numă
 
 * Comanda [/fvr] (faction vehicle respawn) este valabilă pentru Lider/Co-lider, dar se poate folosi și de un rank 3 dacă liderul/co-liderul nu sunt online.
 
-### Raport <Color hex="#64A1D5">Los Santos Police Department</Color>
+### Raport <Color hex="#64A1D5">Los Santos Police Department</Color> & <Color hex="#416C41">Sheriff Department</Color>
 
 ::: details Tabel raport  
 
-| Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
+| Rank | Raport de activitate | Bani oferiți per acțiune | Ore activitate |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 300 | Amenda: 3 pct + <Dinero :amount='250' /><br>Conducere fara permis: 3 pct + <Dinero :amount='475' /><br>Suspendare Permis: 3 pct + <Dinero :amount='375' /><br>Arrest/Kill: 5 pct + <Dinero :amount='225' /><br>Frisk: 8 pct + <Dinero :amount='375' /> | 5 ore |
-| **Tester** | 165 | - | - |
-| **4** | 195 | - | - |
-| **5** | - | - | - |
-
-::: tip Exemplu
-Pentru a completa raportul la rank 1, trebuie să faci oricare acțiune din tabel până ajungi la 300 de puncte de activitate (5 puncte x 20 arrests = 100 activity points) și să joci 5 ore pe server.
-:::
+| **1 -> 3** | Criminali arestați: 30 <br>Amenzi pentru viteză: 3 <br>Opriri de rutină: 3 <br>Permise suspendate: 1 | Conducere fară permis: <Dinero :amount='475' /><br>Suspendare Permis: <Dinero :amount='375' /><br>Percheziție: <Dinero :amount='375' /><br>Amendă: <Dinero :amount='250' /><br>Arrest/Kill: <Dinero :amount='225' />| 7 ore |
+| **Tester** | - | - | - |
+| **4** | - | - | - |
+| **5** | N/A | - | - |
 
 ### Raport <Color hex="#EBF481">Downtown Taxi Company</Color>
 
 ::: details Tabel raport    
 
-| Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| **1 -> 3** | 100 | Jucator transportat - 5 pct | 5 ore |
-| **4** | 65 | - | - |
-| **5** | - | - | - |
+| Rank | Raport de activitate | Ore activitate |
+| :-----------: | :-----------: | :-----------: |
+| **1 -> 3** | Clienți transportați: 25 | 7 ore |
+| **4** | - | - |
+| **5** | N/A | - |
 
 ::: tip Exemplu
-Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la destinație (5 puncte x 20 jucători transportați = 100 activity points) și să joci 5 ore pe server.
+Pentru a completa raportul la rank 1, trebuie să transporți 20 de jucători la destinație și să joci 5 ore pe server.
 :::
 
 ### Raport <Color hex="#E34343">Hitman Agency</Color>
 
 ::: details Tabel raport  
 
-| Rank | Puncte activitate necesare | Puncte activitate oferite per acțiune | Ore activitate |
-| :-----------: | :-----------: | :-----------: | :-----------: |
-| **1** -> 3 | 60 | Contract completat - 5 pct | 5 ore |
-| **4** | 39 | - | - |
-| **5** | - | - | - |
+| Rank | Raport de activitate | Ore activitate |
+| :-----------: | :-----------: | :-----------: |
+| **1** -> 3 | Contracte normale: 15 <br>Contracte Silent: 5 | 7 ore |
+| **4** | - | - |
+| **5** | N/A | - |
 
 ::: tip Exemplu
-Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de contracte (5 puncte x 12 contracte = 60 activity points) și să joci 5 ore pe server.
+Pentru a completa raportul la rank 1, trebuie să completezi cu succes 20 de contracte normale, 5 contracte silent și să joci 5 ore pe server.
 :::
 
 <!--
@@ -82,7 +77,7 @@ Pentru a completa raportul la rank 1, trebuie să completezi cu succes 12 de con
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | **1 -> 3** | 100 | | 5 ore |
 | **4** | 65 | - | - |
-| **5** | - | - | - |
+| **5** | / | - | - |
 
 -->
 
