@@ -10,6 +10,8 @@ Este recomandat să citiți acest Wiki în totalitate, deoarece prezintă foarte
 
 **Ghidul pentru începători** a fost realizat cu scopul de a oferi sprijin jucătorilor pentru a facilita o trecere mai ușoară de la platforma **Grand Theft Auto: San Andreas** (cu platforma **San Andreas Multiplayer**) la platforma **Grand Theft Auto V** (cu platforma **RAGE Multiplayer**) pe serverul **[🗽liberty.mp](https://liberty.mp)**.
 
+Server-ul **Liberty MP** este un server de tip **RPG**, unde activarea microfonului și acțiunile role-play nu sunt obligatorii. Un astfel de server (RPG - role playing game) se referă la anumite jocuri video sau online. Pe aceste servere, jucătorii își asumă diferite personaje și interacționează într-un univers virtual, adesea având propriile reguli, povești și obiective.
+
 ::: tip
 În cazul în care ai nevoie de ajutor pentru instalarea jocului și a platformei **RAGE Multiplayer**, accesează secțiunea **[Cum să joci?](./how-to-play)**.  
 :::
@@ -30,6 +32,19 @@ Cel mai important aspect pe care trebuie să-l cunoști când vine vorba de serv
 ::: warning
 Nu sunteți obligați să urmați în detaliu acești pași, sunt doar niște îndrumări. Vă creați singuri *gameplay-ul* cum doriți! Orice e scris mai jos are și o secțiune separată, tot aici pe Wiki, deci dacă doriți mai multe informații despre un anumit lucru, îl puteți căuta separat folosind funcția de Search din bara de sus sau apasând tastele CTRL și K.
 :::
+
+## Economia server-ului
+
+Economia server-ului este una stabilă și bine echilibrată, bazată pe mai mulți factori principali, printre care:
+
+1. Moneda: În economia acestui server se folosesc dolarii ($) care pot fi obținuți în urma prestării job-urilor de pe server/vânzării de bunuri/spălării de marked money sau GOLD, care poate fi achiziționat de pe shop.
+2. Comerț: Jucătorii pot face schimb de bunuri între ei, fie printr-un sistem de piață-[MARKETPLACE](./general/marketplace) - (unde prețurile sunt determinate de oferta și cerere de catre jucatori) fie prin tranzacții directe (trade).
+3. Misiuni și recompense: Jucătorii câștigă bani și resurse prin completarea de misiuni, quest-uri sau activități în joc, ceea ce stimulează economia.
+
+
+### Subscriptiile active pe server
+
+Account upgrades oferă utilizatorilor o serie de beneficii și caracteristici suplimentare pentru a îmbunătăți experiența lor pe server. Aceste upgrade-uri sunt, de obicei, disponibile în schimbul unei taxe suplimentare. Mai multe detalii pot fi regasite [aici](./general/account-upgrades/)
 
 ## Evoluție 
 
@@ -65,6 +80,17 @@ De asemenea, vei putea completa evenimentul [**Bounty Hunters**](./events/bounty
 
 Nu uita că există mai multe facțiuni din care poți face parte, pentru mai multe detalii citiți [**aici**](./factions/). Acestea sunt diferite între ele și te poți alătura lor prin intermediul unei aplicații pe UCP-ul nostru. Trebuie doar să te decizi ce îți place mai mult, ce ai vrea să faci și să te documentezi în legătură cu ce se ocupă acestea.
 
+## Activitati prezente pe server
+
+| Denumire activitate | Descriere | 
+| :-: | :-: |
+| Daily Quests | Disponibile de la nivel 1 prin accesarea comenzii **/quests**, se reseteaza zilnic la ora 07:00 | 
+| Achievements | Jucatorii pot completa diferite activitati pentru obtinerea unor recompense, detalii [aici](./general/achievements) | 
+| Bounty Hunters | Jucatorii cu minim level 5 pot omora NPC-uri de pe harta pentru a primi Marked Money ce ulterior pot fi vanduti catre alti jucatori / spalati pe insula Cayo Perico, informatii [**aici**](./events/bounty-hunters) | 
+| Evenimente | In fiecare zi de Vineri, Sambata si Duminica pe server se activeaza automat un eveniment aleatoriu la un job disponibil de pe server, detalii [aici](./events/) | 
+| World Exploration | World Exploration este un eveniment zilnic în care jucătorii au ocazia de a explora statul San Andreas și de a câștiga bonusuri în cadrul diferitelor activități. Detalii [aici](./events/world-exploration) | 
+
+
 ## Asistență în joc
 
 Pentru a avea o experiență cât mai plăcută în joc, dispunem de o echipă foarte bine pregătită de oameni, compusă din Helperi și Administratori care sunt gata în orice moment să te asiste pe perioada petrecută pe server.
@@ -84,6 +110,8 @@ Pentru a avea o experiență cât mai plăcută în joc, dispunem de o echipă f
 | **/ticket** | Poate fi utilizat in chemarea unui jucator din staff (precum helper/moderator) pentru a fi asistati in ceea ce aveti nevoie. |  
 | **/report** | Poate fi utilizată pentru a obține ajutor pentru rezolvarea unei probleme în legătură cu serverul din partea unui **Administrator**. |  
 
+Pe server-ul nostru am pus la dispoziție o echipă formată din helperi și administratori care pot veni în ajutorul tău ori de câte ori ai nevoie. Aceștia sunt jucători cu experiență care se ocupă de îndrumarea și aplanarea conflictelor apărute între jucători. Poti folosi una dinte comenzile de mai sus pentru a putea obtine asistenta.
+
 ::: warning Atenție!
 Dacă abuzezi de aceste comenzi, poți fi sancționat! 
 ::: 
@@ -93,6 +121,21 @@ Pentru a înțelege și mai bine, mai jos îți sunt prezentate două exemple de
 | :-----------: | :-----------: | 
 | Vrei să afli de unde cumperi un vehicul personal | **/help** sau **/helpme**  sau **/n** |  
 | Caracterul tău este blocat | **/report** |  
+
+## Clanuri
+
+Sistemul de clanuri de pe **[🗽liberty.mp](https://liberty.mp)** oferă oportunități de socializare, colaborare și competiție între jucători. Permite jucătorilor să se implice mai profund în lumea jocului și să creeze legături virtuale puternice cu alți jucători care împărtășesc aceleași interese și obiective.
+
+Clanurile au propriul regulament, creatorul clanului cât și cei cu permisiunea de uninvite având puterea de a da afară un membru în orice moment.
+Limbajul pe chatul clanului nu se sancționează decât dacă este asupra staffului/comunității.
+
+Acest sistem vine împreună cu o nouă metodă de socializare pentru jucători, care constă în [**Clan Wars**](./clans/spray-wars/). Aici clanurile de pe server care au perk-ul de Clan Wars deblocat se pot bate cu alte clanuri pe districtele actuale de pe server.
+
+## Activitatile ilegale
+
+1. **Hotdog Robbery Stand** - acest tip de rob poate fi efectuat imediat cum ne-am inregistrat pe server. Vom avea nevoie de o arma de foc pentru practicarea acestuia. Pentru detalii mai amanuntite, click [aici](./illegal-activities/robberies/hotdog-stand-robbery).
+2. **ATM Robbery** - acest tip de jaf consta in extragerea unui ATM din perete si livrarea acestuia catre Alfred pentru o suma de Marked Money, pentru detalii click [aici](./illegal-activities/robberies/atm-robbery).
+3. **Fleeca Bank Robbery** -  constă în jefuirea unităților bancare din oraș și din afara acestuia. Pentru mai multe detalii, click [aici](./illegal-activities/robberies/fleeca-bank-robbery)
 
 ## Alte informații  
 
