@@ -37,9 +37,7 @@ Nu sunteți obligați să urmați în detaliu acești pași, sunt doar niște î
 
 Nu uita să introduci codul de referral (recomandare/afiliere) la sfârșitul tutorial-ului sau, mai târziu, din meniul [Profil & setări](./general/profile-and-settings.md#cum-vizualizez-profilul-și-setările), categoria **Referrals** - butonul *Activate*.
 
-Recomandarea noastră este să frecventați **joburile** despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, vehiculul **Panto**, primit cadou temporar pentru **50 payday-uri**, o să vă ajute extrem de mult în privința deplasării, dar și la unele joburi, de exemplu cel de **Electrician**. Este bine de știut că o să folosiți telefonul destul de des pentru funcția de GPS, organizarea banilor - banking (Bank) și multe alte sisteme printre care și administrarea vehiculelor personale, prin intermediul telefonului navigați pe server.
-
-Recomandarea noastră este să frecventați **joburile** oferite de server, despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește suma de bani din cont. Aceasta este una dintre multiplele surse de venit. De asemenea, vehiculul **Panto**, primit ca si cadou temporar (pentru **50 de payday-uri**),  o să vă ajute mult cu deplasarea, dar și la anumite joburi (de exemplu: **Electrician**). Este bine de știu că va fi nevoie să folosiți telefonul destul de des, atât pentru funcția de GPS sau banking (aplicația **Bank**), cât și pentru multe alte sisteme.
+Recomandarea noastră este să frecventați **joburile** despre care puteți afla mai multe [**aici**](./jobs/), pentru a vă crește banii, ulterior devenind doar una dintre alte surse de venit. De asemenea, vehiculul **Weeny Issi JCW**, primit cadou temporar pentru **50 payday-uri**, o să vă ajute extrem de mult în privința deplasării, dar și la unele joburi, de exemplu cel de **Miner**. Este bine de știut că o să folosiți telefonul destul de des pentru funcția de GPS, organizarea banilor - banking (Bank) și multe alte sisteme printre care și administrarea vehiculelor personale, prin intermediul telefonului navigați pe server.
 
 ::: tip
 Este recomandat să ai mereu la tine mâncare și apă. Le poți cumpăra dintr-un magazin de tip Market 24/7. Dacă nu te hrănești sau hidratezi, nu o să mai poți alerga sau sări, fapt ce-ți va împiedica activitățile pe care dorești să le desfășori.
@@ -63,6 +61,8 @@ La acest stadiu, depinde de tine ce fel de *gameplay* vrei să faci. Poți conti
 
 Din momentul acesta poți investi și în **cryptomonede**, despre care aveți mai multe informații [**aici**](./economy/crypto). Acestea sunt sincronizate cu cele din realitate și, dacă ești atent la piață, poți să ai încă o sursă de venit de aici, pe lângă cea din *Stock Market*, acesta fiind valabil de la level 7! De asemenea, dacă nu mai dorești să locuiești la un hotel sau un motel îți poți păstra banii pentru o **casă sau un apartament** pentru licitațiile ce o să urmeze. Din moment ce poți utiliza cryptomonedele, poți folosi și aplicația **Hitman** care folosește cryptomoneda *Tether* pentru a angaja un asasin!
 
+De asemenea, vei putea completa evenimentul [**Bounty Hunters**](./events/bounty-hunters). In cadrul acestui eveniment vei avea nevoie de o arma cu gloante (o vei primi in momentul in care faci **level 5**) si sa mergi la NPC-urile marcate pe mapa din **ESC**
+
 Nu uita că există mai multe facțiuni din care poți face parte, pentru mai multe detalii citiți [**aici**](./factions/). Acestea sunt diferite între ele și te poți alătura lor prin intermediul unei aplicații pe UCP-ul nostru. Trebuie doar să te decizi ce îți place mai mult, ce ai vrea să faci și să te documentezi în legătură cu ce se ocupă acestea.
 
 ## Asistență în joc
@@ -73,7 +73,7 @@ Pentru a avea o experiență cât mai plăcută în joc, dispunem de o echipă f
 
 **Helper-ul** - reprezintă persoana abilitată să ofere informații jucătorilor cu privire la funcționalitățile serverului. Cu alte cuvinte, persoanele care ocupă această funcție au experiență în gameplay-ul serverului și cunosc foarte bine modul de joc.
 
-**Administratorul** - reprezintă persoana cu competențe extinse care în trecut a ocupat funcția de **Helper** și care este abilitată să modereze serverul. Astfel, persoanele care ocupă această funcție asigură respectarea în totalitate a regulamentului de către jucători și oferă sprijin acestora pentru rezolvarea problemelor care au legătură cu server-ul.  
+**Administratorul** - reprezintă persoana cu competențe extinse care în trecut a ocupat funcția de **Helper** și care este abilitată să modereze serverul. Astfel, persoanele care ocupă această funcție asigură respectarea în totalitate a regulamentului de către jucători și oferă sprijin acestora pentru rezolvarea problemelor care au legătură cu server-ul.   
 
 ### Cum obțin asistență în joc?   
 
@@ -81,6 +81,7 @@ Pentru a avea o experiență cât mai plăcută în joc, dispunem de o echipă f
 | Comandă | Descriere |
 | :-----------: | :-----------: | 
 | **/help** sau **/helpme**  sau **/n** | Pot fi utilizate pentru a adresa întrebări legate de server unuia dintre **Helperii** care sunt disponibili pe server. |  
+| **/ticket** | Poate fi utilizat in chemarea unui jucator din staff (precum helper/moderator) pentru a fi asistati in ceea ce aveti nevoie. |  
 | **/report** | Poate fi utilizată pentru a obține ajutor pentru rezolvarea unei probleme în legătură cu serverul din partea unui **Administrator**. |  
 
 ::: warning Atenție!
