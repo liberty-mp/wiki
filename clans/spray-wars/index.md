@@ -24,7 +24,7 @@ Port District este un district situat în sudul hărții, unde membrii clanului 
 
 ### Tobacco District 🌿🌱
 
-Tobacco District este un district situat în nordul hărții, unde membrii clanului care deține districtul vor avea acces la un sistem de farmare de plante. Jucătorii vor putea să-și planteze semințe de plante într-un server farm. Reward-ul obținut va fi în plante.
+Tobacco District este un district situat în nordul hărții, unde membrii clanului care deține districtul vor avea acces la un sistem ce permite plantarea și procesarea de tutunului.
 
 > Vezi detalierea [Tobacco District](./districts/tobacco.md).
 
