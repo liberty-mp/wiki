@@ -22,7 +22,7 @@ Winter Event este un eveniment sezonier care se desfășoară în perioada de ia
 
 ### Care este durata acestui eveniment?
 
-Evenimentul de iarnă începe pe data de 09 decembrie și se termină pe data de 10 ianuarie, având o durată de 32 de zile.
+Evenimentul de iarnă începe pe data de 9 decembrie și se termină pe data de 10 ianuarie, având o durată de 32 de zile.
 
 ## Evenimente disponibile
 
