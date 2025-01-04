@@ -4,7 +4,11 @@ title: Informații generale joburi
 
 ### Informații generale joburi
  
-Pe server există 9 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a joburilor prezente în momentul actual pe server.  
+Pe server există 10 joburi momentan, cu planuri de a adăuga mai multe pe parcurs și de a îmbunătăți experiența de joc la efectuarea acestora. Mai jos este o scurtă descriere și o împărțire în categorii a joburilor prezente în momentul actual pe server.  
+
+::: details Lista job-uri
+  <Image src="https://i.imgur.com/jBgqq13.gif" alt="Lista job-uri" />
+:::
 
 ## Întrebări frecvente
 
