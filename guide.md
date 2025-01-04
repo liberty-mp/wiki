@@ -77,6 +77,16 @@ Acum că ne-am înregistrat pe server și am terminat tutorialul, întrebarea es
 
 Prima recomandare este să mergem la un business de tip 24/7 Market. Pentru a ajunge la unul, folosește comandă `/gps` sau aplicația `Maps` din telefon deschizându-l apăsând tasta `ARROW UP` (săgeata sus) și în bară de search să scriem 24/7. Odată ajunși acolo și intrați în magazin, apăsăm tasta `E` în față NPC-ului și cumpărăm mâncare și băutură. Folosindu-le, vom menține procentele din stânga jos de lângă minimap cât mai ridică pentru a evita înfometarea și insetarea, lucruri ce ne vor afecta și ne vor scădea HP-ul.
 
+#### World Exploration
+
+[World Exploration](./events/world-exploration) este un eveniment zilnic în care jucătorii au ocazia de a explora statul San Andreas și de a câștiga bonusuri în cadrul diferitelor activități.
+
+Pentru a completa acest event, trebuie să vizitezi 15 locații aflate pe hartă la icon-ul mov de pe harta (este un cerculet mov). Poți filtra acest icon în harta din `ESC`. Evenimentul se bazează pe un 'streak' (o serie) de completări zilnice consecutive.
+
+Acum ca avem si cont `Platinum` primit dupa finalizarea tutorialului, vom putea completa acest eveniment de 2 ori pe zi. Prima completare ne va aduce o suma random de bani cuprinsa intre $1.200 - $1.500, un obiect aleatoriu din tabelul de [aici](./events/world-exploration#recompensa-la-completarea-zilnica) si 25% sansa de a primi intre 10 si 50 gold. A doua completare nu ne va mai aduce un reward anume, ci doar un + la streak-ul actual detinut. 
+
+Streak-ul de completari al acestui eveniment este rasplatit prin job boost, rob boost si un boost pentru experienta primita pentru cont la payday. Mai multe detalii, click [aici](./events/world-exploration#recompense-streak-serie-completari-eveniment).
+
 #### Job-uri
 
 Pentru început și pentru a îți evolua contul, îți recomandăm să practici job-urile [Electrician](./jobs/electrician) și [Lumberjacker](./jobs/lumberjack). Folosește comandă `/jobs` pentru a putea vedea toate job-urile prezente pe server. Acestea sunt bazate pe evoluția fiecărui jucător, fiind accesibile în funcție de orele jucate. 
@@ -92,16 +102,6 @@ Drop-urile job-ului **Lumberjack** sunt urmatoarele: **hooks** si **ropes**. Ace
 ::: tip
 ATM Robbery poate fi efectuat incepand cu 150 Street Rep., detaliile vor fi prezentate mai jos.
 :::
-
-#### World Exploration
-
-[World Exploration](./events/world-exploration) este un eveniment zilnic în care jucătorii au ocazia de a explora statul San Andreas și de a câștiga bonusuri în cadrul diferitelor activități.
-
-Pentru a completa acest event, trebuie să vizitezi 15 locații aflate pe hartă la icon-ul mov de pe harta (este un cerculet mov). Poți filtra acest icon în harta din `ESC`. Evenimentul se bazează pe un 'streak' (o serie) de completări zilnice consecutive.
-
-Acum ca avem si cont `Platinum` primit dupa finalizarea tutorialului, vom putea completa acest eveniment de 2 ori pe zi. Prima completare ne va aduce o suma random de bani cuprinsa intre $1.200 - $1.500, un obiect aleatoriu din tabelul de [aici](./events/world-exploration#recompensa-la-completarea-zilnica) si 25% sansa de a primi intre 10 si 50 gold. A doua completare nu ne va mai aduce un reward anume, ci doar un + la streak-ul actual detinut. 
-
-Streak-ul de completari al acestui eveniment este rasplatit prin job boost, rob boost si un boost pentru experienta primita pentru cont la payday. Mai multe detalii, click [aici](./events/world-exploration#recompense-streak-serie-completari-eveniment).
 
 #### Daily Quests
 
