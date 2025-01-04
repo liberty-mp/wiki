@@ -10,6 +10,13 @@ Este recomandat să citiți acest Wiki în totalitate, deoarece prezintă foarte
 
 Știm, uneori când te apuci de un joc nou sau de un nou mod de joc al jocului tău favorit începutul poate fi o povara. Ghidul acesta este creat întocmai pentru voi, jucătorii noi, pentru a reuși să va acomodați cu sistemele prezente pe server-ul nostru de Grand Theft Auto V, aflat pe platforma RAGE:MP, pe server-ul **[🗽liberty.mp](https://liberty.mp)**.
 
+Daca doresti sa sari direct la o categorie, ai aici cateva shortcuts:
+
+- [Evolutie cont level 1 - 5](./guide#level-1-5);
+- [Evolutie cont level 5 - 15](./guide#level-5-15);
+- [Evolutie cont level 15+](./guide#level-5-15);
+- [Actiuni ilegale](./guide#actiuni-ilegale);
+
 ## Întrebări frecvente
 
 ### Server-ul este unul **RP**?
@@ -115,6 +122,7 @@ Tine minte, conform regulamentului general al serverului actiunile desavarsite f
 :::
 
 #### Actiuni ilegale
+
 ##### Bounty Hunters
 
 [Bounty Hunters](./events/bounty-hunters) este un eveniment permanent activ pe server, vizibil în [/event] similar cu World Exploration.
