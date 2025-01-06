@@ -115,7 +115,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/kHbK8Wd.png" alt="Grotti Viktor" /> | Grotti Viktor | Aston Martin Victor [2020] | ~279km/h | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/Xmz9UPj.png" alt="Ubermacht S1KRR" /> | Ubermacht S1KRR | BMW S1000RR [2009] | ~278km/h | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/AqoZO6a.png" alt="Progen A.S." /> | Progen A.S. | McLaren Senna [2019] | ~282km/h | <Dinero :amount='2300000' /> |
- <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | ~279km/h | <Dinero :amount='2600000' /> |
+| <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | ~279km/h | <Dinero :amount='2600000' /> |
 | <Image src="https://imgur.com/dtEqBAW.png" alt="Pfister 918 Spaidar" /> | Pfister 918 Spaidar | Porsche 918 Spider[2013] | ~286km/h | <Dinero :amount='2800000' /> |
 | <Image src="https://imgur.com/v1xVcaA.png" alt="Pegassi Revoltoso" /> | Pegassi Revoltoso | Lamborghini Sian Roadster [2021] | ~278 km/h | <Dinero :amount='2899999' /> |
 | <Image src="https://imgur.com/MaDcqQj.png" alt="Pegassi Venon" /> | Pegassi Venon | Lamborghini Veneno [2014] | ~287 km/h | <Dinero :amount='2970000' /> |
