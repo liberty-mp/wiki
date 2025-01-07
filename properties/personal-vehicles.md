@@ -74,9 +74,8 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/MhULRf4.png" alt="Benefactor S" /> | Benefactor S | Mercedes S-Class [2018] | ~236km/h | <Dinero :amount='229000' /> |
 | <Image src="https://imgur.com/iqpHitO.png" alt="Übermacht X VER.6" /> | Übermacht X VER.6 | BMW X6M [2017] | ~247km/h | <Dinero :amount='236000' /> |
 | <Image src="https://imgur.com/55mMCbv.png" alt="Benefactor GLE VER.63S Performance" /> | Benefactor GLE VER.63S Performance | Mercedes-AMG GLE 63S [2015] | ~244km/h | <Dinero :amount='245000' /> |
-| <Image src="https://imgur.com/Fbd7y1K.png" alt="Benefactor G VER.63 Performance" /> | Benefactor G VER.63 Performance | Mercedes-AMG G-Class [2018] | ~217km/h <Dinero :amount='247000' /> |
-| <Image src="https://imgur.com/PCiAUkb.png" alt="Benefactor GT VER.63 Performance" /> | Benefactor GT VER.63 Performance | Mercedes-AMG GT [2020] | ~260km/h 
-| <Dinero :amount='254000' /> |
+| <Image src="https://imgur.com/Fbd7y1K.png" alt="Benefactor G VER.63 Performance" /> | Benefactor G VER.63 Performance | Mercedes-AMG G-Class [2018] | ~217km/h | <Dinero :amount='247000' /> |
+| <Image src="https://imgur.com/PCiAUkb.png" alt="Benefactor GT VER.63 Performance" /> | Benefactor GT VER.63 Performance | Mercedes-AMG GT [2020] | ~260km/h | <Dinero :amount='254000' /> |
 | <Image src="https://imgur.com/RWVcRNp.png" alt="Annis GT Race" /> | Annis GT Race | Nissan GT-R R35 [2017] | ~250km/h | <Dinero :amount='258000' /> |
 | <Image src="https://imgur.com/LTdh4Jk.png" alt="Annis Ascent" /> | Annis Ascent | Toyota Supra MK4 [1993] | ~238km/h | <Dinero :amount='265000' /> |
 | <Image src="https://imgur.com/KeYgoq5.png" alt="Annis RX VER.7" /> | Annis RX VER.7 | Mazda RX7 FD3C [1992] | ~209km/h | <Dinero :amount='272000' /> |
@@ -115,7 +114,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/kHbK8Wd.png" alt="Grotti Viktor" /> | Grotti Viktor | Aston Martin Victor [2020] | ~279km/h | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/Xmz9UPj.png" alt="Ubermacht S1KRR" /> | Ubermacht S1KRR | BMW S1000RR [2009] | ~278km/h | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/AqoZO6a.png" alt="Progen A.S." /> | Progen A.S. | McLaren Senna [2019] | ~282km/h | <Dinero :amount='2300000' /> |
- <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | ~279km/h | <Dinero :amount='2600000' /> |
+| <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | ~279km/h | <Dinero :amount='2600000' /> |
 | <Image src="https://imgur.com/dtEqBAW.png" alt="Pfister 918 Spaidar" /> | Pfister 918 Spaidar | Porsche 918 Spider[2013] | ~286km/h | <Dinero :amount='2800000' /> |
 | <Image src="https://imgur.com/v1xVcaA.png" alt="Pegassi Revoltoso" /> | Pegassi Revoltoso | Lamborghini Sian Roadster [2021] | ~278 km/h | <Dinero :amount='2899999' /> |
 | <Image src="https://imgur.com/MaDcqQj.png" alt="Pegassi Venon" /> | Pegassi Venon | Lamborghini Veneno [2014] | ~287 km/h | <Dinero :amount='2970000' /> |
