@@ -71,7 +71,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/MIiEykj.png" alt="Benefactor CLS VER.63S Performance" /> | Benefactor CLS VER.63S Performance | Mercedes-AMG CLS 63 [2015] | ~248km/h | <Dinero :amount='224000' /> |
 | <Image src="https://imgur.com/FyQMn7d.png" alt="Obey RS VER.7 2020" /> | Obey RS VER.7 2020 |  Audi RS7 [2020] | ~263km/h | <Dinero :amount='227000' /> |
 | <Image src="https://imgur.com/Z8Z0KHC.png" alt="Benefactor E VER. 63S Performance" /> | Benefactor E VER. 63S Performance | Mercedes-AMG E63 S [2018] | ~266km/h | <Dinero :amount='229000' /> |
-| <Image src="https://imgur.com/MhULRf4.png" alt="Benefactor S" /> | Benefactor S | Mercedes S-Class [2018] | ~236km/h | <Dinero :amount='229000' /> |
+| <Image src="https://imgur.com/pqE5y0w.png" alt="Benefactor S-Class" /> | Benefactor S-Class | Mercedes S-Class [2023] | ~251km/h | <Dinero :amount='229000' /> |
 | <Image src="https://imgur.com/iqpHitO.png" alt="Übermacht X VER.6" /> | Übermacht X VER.6 | BMW X6M [2017] | ~247km/h | <Dinero :amount='236000' /> |
 | <Image src="https://imgur.com/55mMCbv.png" alt="Benefactor GLE VER.63S Performance" /> | Benefactor GLE VER.63S Performance | Mercedes-AMG GLE 63S [2015] | ~244km/h | <Dinero :amount='245000' /> |
 | <Image src="https://imgur.com/Fbd7y1K.png" alt="Benefactor G VER.63 Performance" /> | Benefactor G VER.63 Performance | Mercedes-AMG G-Class [2018] | ~217km/h <Dinero :amount='247000' /> |
@@ -97,6 +97,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/z612GQj.png" alt="Benefactor Performance GT" /> | Benefactor Performance GT | Mercedes-AMG GT [2018] | ~272km/h | <Dinero :amount='492000' /> |
 | <Image src="https://imgur.com/5V0i26g.png" alt="Übermacht M4 Facelift" /> | Übermacht M4 Facelift | BMW M4 [2021] | ~248km/h | <Dinero :amount='635000' /> |
 | <Image src="https://imgur.com/lcVIfRc.png" alt="Übermacht VER.8 Competition" /> | Übermacht VER.8 Competition | BMW M8 Competition [2019] | ~272km/h | <Dinero :amount='650000' /> |
+| <Image src="https://imgur.com/HCVNPFn.png" alt="Übermacht Sporter 36 'Cat' " /> | Übermacht Sporter 36 'Cat' | BMW M3 E36 [1996] | ~266km/h | <Dinero :amount='660000' /> |
 | <Image src="https://imgur.com/9hASx37.png" alt="Ubermacht M3 Ver. G80" /> | Ubermacht M3 Ver. G80 | BMW M3 G80 [2021] | ~269km/h | <Dinero :amount='661333' /> |
 | <Image src="https://imgur.com/r41go7a.png" alt="Obey R VER. 8" /> | Obey R VER. 8 | Audi RS8 [2019] | ~274km/h | <Dinero :amount='1501000' /> |
 | <Image src="https://imgur.com/xfebxr4.png" alt="Benefactor SL 6.3" /> | Benefactor SL 6.3 | Mercedes SL63[2023] | 271km/h | <Dinero :amount='1515000' /> |
@@ -115,7 +116,7 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/kHbK8Wd.png" alt="Grotti Viktor" /> | Grotti Viktor | Aston Martin Victor [2020] | ~279km/h | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/Xmz9UPj.png" alt="Ubermacht S1KRR" /> | Ubermacht S1KRR | BMW S1000RR [2009] | ~278km/h | <Dinero :amount='2100000' /> |
 | <Image src="https://imgur.com/AqoZO6a.png" alt="Progen A.S." /> | Progen A.S. | McLaren Senna [2019] | ~282km/h | <Dinero :amount='2300000' /> |
- <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | ~279km/h | <Dinero :amount='2600000' /> |
+| <Image src="https://imgur.com/PS5eFjZ.png" alt="Grotti Vulkano" /> | Grotti Vulkano | Aston Martin Vulcan [2016] | ~279km/h | <Dinero :amount='2600000' /> |
 | <Image src="https://imgur.com/dtEqBAW.png" alt="Pfister 918 Spaidar" /> | Pfister 918 Spaidar | Porsche 918 Spider[2013] | ~286km/h | <Dinero :amount='2800000' /> |
 | <Image src="https://imgur.com/v1xVcaA.png" alt="Pegassi Revoltoso" /> | Pegassi Revoltoso | Lamborghini Sian Roadster [2021] | ~278 km/h | <Dinero :amount='2899999' /> |
 | <Image src="https://imgur.com/MaDcqQj.png" alt="Pegassi Venon" /> | Pegassi Venon | Lamborghini Veneno [2014] | ~287 km/h | <Dinero :amount='2970000' /> |
@@ -129,9 +130,10 @@ Un Test Drive durează 120 de secunde.
 | <Image src="https://imgur.com/I06BH7a.png" alt="Grotti SiFi90xx Strada" /> | Grotti SiFi90xx Strada | Ferrari SF90 XX Stradale [2019] | ~299 km/h | <Dinero :amount='3500000' /> |
 | <Image src="https://imgur.com/49ByCFQ.png" alt="Truffade Pasko" /> | Truffade Pasko | Koenigsegg Jesko [2020] | ~303 km/h | <Dinero :amount='4000000' /> |
 | <Image src="https://imgur.com/tK76Mho.png" alt="Truffade Devil" /> | Truffade Devil | Bugatti Divo [2020] | ~312 km/h | <Dinero :amount='4350000' /> |
-| <Image src="https://imgur.com/Ru2rGRD.png" alt="Truffade Mistreto Spyder" /> | Truffade Mistreto Spyder  | Bugatti Mistral [2024] | ~314 km/h | <Dinero :amount='4350000' />|
-| <Image src="https://imgur.com/rxde3O4.png" alt="Truffade Super Sporty (Carbon)" /> | Truffade Super Sporty (Carbon)  | Bugatti Chiron Super Sport [2023] | ~317 km/h | <Dinero :amount='5800000' />|
-| <Image src="https://imgur.com/YMLHSAa.png" alt="Dewbauchee Vilciri Pro" /> | Dewbauchee Vilciri Pro  | Aston Martin Valkyrie PRO [2016] | ~320 km/h | <Dinero :amount='6300000' />|
+| <Image src="https://imgur.com/Ru2rGRD.png" alt="Truffade Mistreto Spyder" /> | Truffade Mistreto Spyder  | Bugatti Mistral [2024] | ~314 km/h | <Dinero :amount='4350000' /> |
+| <Image src="https://imgur.com/rxde3O4.png" alt="Truffade Super Sporty (Carbon)" /> | Truffade Super Sporty (Carbon)  | Bugatti Chiron Super Sport [2023] | ~317 km/h | <Dinero :amount='5800000' /> |
+| <Image src="https://imgur.com/YMLHSAa.png" alt="Dewbauchee Vilciri Pro" /> | Dewbauchee Vilciri Pro  | Aston Martin Valkyrie PRO [2016] | ~320 km/h | <Dinero :amount='6300000' /> |
+| <Image src="https://imgur.com/lTY3zyT.png" alt="Truffade Tirbuson" /> | Truffade Tirbuson  | Bugatti Tourbillon [2026] | ~330 km/h | <Dinero :amount='6900000' /> |
 
 ::: details Listă Vehicule Speciale <Image src="https://i.imgur.com/W6RrrIJ.png" width="30" img align="center" alt="Luxury Autos" />
 | Vehicul | Nume joc | Nume real | Obținut | 
