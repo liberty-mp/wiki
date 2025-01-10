@@ -20,7 +20,7 @@ Evenimentul de Halloween va fi disponibil timp de 30 de zile pe server (24.10.20
 Roata Infricosatoare este un mecanism de tip "Roata Norocului" ce ofera recompense jucatorilor activi pe server.
 Poți da la aceasta roata daca deti un `Spooky Wheel Ticket`.
 
-Lucky Wheel Ticket poate fi obtinut in urmatoarele moduri: 
+Spooky Wheel Ticket poate fi obtinut in urmatoarele moduri: 
   - daca playerul joaca 2 ore pe server intr-o zi (reset la ora 07:00)
   - daca playerul acumuleaza 5 payday-uri intr-o zi (reset la ora 07:00) 
   - la completarea activitatilor de Halloween intr-o zi (cu preconditia de a avea completata si activitatea saptamanala)
