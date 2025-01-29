@@ -19,7 +19,7 @@ Paramedic & Fire Department au ca si responsabilitate stingerea incendiilor din 
 | Truck | Fire Truck | Truck | 6 | ~25 | <Image src = "https://i.imgur.com/GC1gGdy.png" alt="Masina paramedici2" width="130px"/>
 
 ::: details Faction Car Spawner
-<Image src= "https://i.imgur.com/nOoGqdr.png" alt="spawenr" />
+<Image src= "https://i.imgur.com/RVOLpNR.png" alt="spawenr" />
 :::
 
 ## Locația HQ (Headquarters)
