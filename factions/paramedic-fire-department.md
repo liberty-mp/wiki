@@ -10,13 +10,13 @@ Paramedic & Fire Department au ca si responsabilitate stingerea incendiilor din 
 
 ## Vehicule
 
-**Instructors** dispun de 3 modele de vehicule.
+**Paramedic & Fire Department** dispune de 3 modele de vehicule.
 
 | Marcă | Model | Tip | Locuri | Disponibile | Poză |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| BMW | 7 | Sedan | 4 | ~25 | <Image src = "https://i.imgur.com/WmwHaxD.png" alt="Masina paramedici" width="130px"/>
-| Yamaha | Yamaha | Motorcycle | 2 | ~25 | <Image src = "https://i.imgur.com/z4tKs8q.png" alt="Masina paramedici1" width="130px"/>
-| Truck | Fire Truck | Truck | 4 | ~25 | <Image src = "https://i.imgur.com/GC1gGdy.png" alt="Masina paramedici2" width="130px"/>
+| BMW | 7 | Sedan | 4 | ~25 | <Image src = "https://i.imgur.com/z4tKs8q.png" alt="Masina paramedici" width="130px"/>
+| Yamaha | Yamaha | Motorcycle | 2 | ~25 | <Image src = "https://i.imgur.com/WmwHaxD.png" alt="Masina paramedici1" width="130px"/>
+| Truck | Fire Truck | Truck | 6 | ~25 | <Image src = "https://i.imgur.com/GC1gGdy.png" alt="Masina paramedici2" width="130px"/>
 
 ::: details Faction Car Spawner
 <Image src= "https://i.imgur.com/nOoGqdr.png" alt="spawenr" />
@@ -76,13 +76,13 @@ Fiecare jucator in momentul in care va lesina va putea selecta 2 optiuni pentru 
   <Image src="https://i.imgur.com/IIiSBnk.png" alt="meniu spawn" />  
 ::: 
 
-Selectand ca jucator optiunea `Call Medic`, in chat-ul factiunii va aparea un mesaj pentru jucatorul ce a cerut ajutorul si o locatie pentru medical ce doreste sa il ajute.
+Selectand ca jucator optiunea `Call Medic`, in chat-ul factiunii va aparea un mesaj pentru jucatorul ce a cerut ajutorul si o locatie pentru medicul ce doreste sa il ajute.
 
 ::: details Mesaj spawn
   <Image src="https://i.imgur.com/WuxtnqY.png" alt="mesaj spawn" />  
 ::: 
 
-Odata ajuns la jucatorul in probleme, medical va trebui sa apese tasta `E` pentru a il resuscita. Procesul va dura aproximativ 5 secunde.
+Odata ajuns la jucatorul in probleme, medicul va trebui sa apese tasta `E` pentru a il resuscita. Procesul va dura aproximativ 5 secunde.
 
 ::: details Proces resuscitare
   <Image src="https://i.imgur.com/IFDNV4X.png" alt="Proces resuscitare1" />  
