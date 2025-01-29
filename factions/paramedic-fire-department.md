@@ -2,7 +2,7 @@
 title: Paramedic & Fire Department
 ---
 
-### Informații generale despre Instructors
+### Informații generale despre Paramedic & Fire Department
 <br>
 <br>
 
