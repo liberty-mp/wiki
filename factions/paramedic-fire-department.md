@@ -5,7 +5,6 @@ title: Paramedic & Fire Department
 ### Informații generale despre Paramedic & Fire Department
 <br>
 <br>
-
 Paramedic & Fire Department au ca si responsabilitate stingerea incendiilor din oras, resuscitarea jucatorilor lesinati si detoxifierea acestora din dependenta de droguri.
 
 ## Vehicule
