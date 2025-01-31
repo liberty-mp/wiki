@@ -14,11 +14,14 @@ title: Bounty Hunters
 
 Bounty Hunters este un eveniment permanent activ pe server, vizibil în `[/event]` similar cu World Exploration. 
 
-În fiecare zi, serverul va spawna pentru fiecare jucător la un interval de 8 ore (**00:00**, **08:00** si **16:00**) un număr de NPC-uri ce trebuiesc ucise cu o armă. 
+În fiecare zi, serverul va spawna pentru fiecare jucător la un interval de 12 ore (**08:00** si **20:00**) 4, respectiv 5 NPC-uri de fiecare tip ce trebuiesc ucise cu o armă. 
 
-În funcţie de tipul contului deţinut se vor spawna 8 NPC-uri (cont standard & <PremiumSubscription type='gold' />) sau 10 NPC-uri (cont <PremiumSubscription type='platinum' />). 
+În funcţie de tipul contului deţinut se vor spawna 12 NPC-uri (cont standard & <PremiumSubscription type='gold' />) sau 15 NPC-uri (cont <PremiumSubscription type='platinum' />) cu posibilitatea de a primi încă 3 NPC-uri extra prin completarea urmatoarelor evenimente:
+- completarea a **3** quest-uri zilnice
+- completarea [World Exploration](./world-exploration) de **2** ori
+- la acumularea a **2** ore jucate `(o singura data pe zi)`
 
-Localizarea NPC-urilor se poate face pe hartă cu icon-urile următoare în funcție de tip-ul de NPC. <Image src="https://i.imgur.com/Zth52yd.png" alt="Bounty Hunters1" width="20" /> <Image src="https://i.imgur.com/sLS8U9O.png" alt="Bounty Hunters2" width="20" /> <Image src="https://i.imgur.com/mu84IxQ.png" alt="Bounty Hunters3" width="20" />. 
+Localizarea NPC-urilor se poate face pe hartă cu icon-urile următoare în funcție de tip-ul de NPC. <Image src="https://i.imgur.com/Zth52yd.png" alt="Bounty Hunters1" width="20" /> <Image src="https://i.imgur.com/sLS8U9O.png" alt="Bounty Hunters2" width="20" /> <Image src="https://i.imgur.com/mu84IxQ.png" alt="Bounty Hunters3" width="20" /> <Image src="https://i.imgur.com/L1fVDxH.png" alt="Bounty Hunters4" width="20" />.
 
 Poți filtra aceste icon-uri în harta din `ESC`. 
 
@@ -29,6 +32,7 @@ Poți filtra aceste icon-uri în harta din `ESC`.
 | <Image src="https://i.imgur.com/Zth52yd.png" alt="Bounty Hunters1" width="25" /> | Peaceful | Nu |
 | <Image src="https://i.imgur.com/sLS8U9O.png" alt="Bounty Hunters2" width="25" /> | Aggressive | Nu |
 | <Image src="https://i.imgur.com/mu84IxQ.png" alt="Bounty Hunters3" width="25" /> | Aggressive | Da |
+| <Image src="https://i.imgur.com/L1fVDxH.png" alt="Bounty Hunters4" width="25" /> | Aggressive | Da |
 
 ::: tip
 Servieta (Suitcase) trebuie livrată la Alfred într-un interval de 10 minute, altfel NPC-ul se va respawna.
@@ -71,7 +75,7 @@ Servieta (Suitcase) trebuie livrată la Alfred într-un interval de 10 minute, a
 | :---------: | :----------: |
 | <Image src="https://i.imgur.com/cweJ0Uz.png" alt="1-3 Street Points " width="40" label="1-3 Street Points" /> |  <Image src="https://i.imgur.com/mF8EOhE.png" alt="Reel Rod" width="40" label="Reel Rod" /> |
 | <Image src="https://i.imgur.com/5C5TPR8.png" alt="50 Experience" width="40" label="50 Experience" /> | <Image src="https://i.imgur.com/IF3BKBI.png" alt="Rod Grip" width="40" label="Rod Grip" /> |
-| <MarkedMoney :amount="800" /> - <MarkedMoney :amount="1_200" /> | <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="40" label="Rod Guide" /> | 
+| <MarkedMoney :amount="800" /> - <MarkedMoney :amount="1_600" /> | <Image src="https://i.imgur.com/Wnnlxz8.png" alt="Rod Guide" width="40" label="Rod Guide" /> | 
 | - | <Image src="https://i.imgur.com/fyaexmI.png" alt="Plastic" width="40" label="Plastic" /> |
 | - | <Image src="https://i.imgur.com/wy3nrJG.png" alt="Metal Bar" width="40" label="Metal Bar" /> |
 | - | <Image src="https://i.imgur.com/Ub9vSWq.png" alt="Gunpowder" width="40" label="Gunpowder" /> |
@@ -83,6 +87,12 @@ Servieta (Suitcase) trebuie livrată la Alfred într-un interval de 10 minute, a
 | - | <Image src="https://i.imgur.com/pbD84wd.png" alt="Pliers" width="40" label="Pliers" /> |
 | - | <Image src="https://ucp.liberty.mp/assets/images/inventory/drugs/tobacco_seeds.png" alt="Tobacco Seeds" width="40" label="Tobacco Seeds" /> |  
 
+Renumeratia Marked Money este in functie de NPC-ul ucis astfel:
+- npc-uri albe (Peaceful): <MarkedMoney :amount="800" /> - <MarkedMoney :amount="1_100" />
+- npc-uri rosii (Agressive): <MarkedMoney :amount="900" /> - <MarkedMoney :amount="1_100" /> 
+- npc-uri mov (Agressive with Suitcase): <MarkedMoney :amount="1_100" /> - <MarkedMoney :amount="1_300" />
+- npc-uri portocalii (Extra with Suitcase): <MarkedMoney :amount="1_300" /> - <MarkedMoney :amount="1_600" />
+
 ::: tip 
 Recompensă generală are șansă de _**100%**_ să o primeşti.
 
@@ -90,38 +100,6 @@ Recompensă Bonus are șansă de _**25%**_-_**45%**_ să o primeşti, şansa cre
 
 Experienţa are un bonus în functie de levelul Bounty Hunters.
 :::
-
-Evenimentul este gândit pe sezoane, există un top 5 jucători şi top 5 clan-uri în funcţie de numărul de NPC-uri ucise.
-
-::: details Premii sezonul I
-
-Primii 5 jucători la sfârşit de sezon vor primi un badge în funcţie de poziţia pe care au ocupat-o curent şi următoarele premii:
-
-| **Locul** | **Gold** | **Cash** |
-| :-----: | :---------: | :-----------: |
-| Locul 1 | <Gold :amount='25000' /> | <Dinero :amount="50000" /> |
-| Locul 2 | <Gold :amount='20000' /> | <Dinero :amount="40000" /> |
-| Locul 3 | <Gold :amount='15000' /> | <Dinero :amount="30000" /> |
-| Locul 4 | <Gold :amount='10000' /> | <Dinero :amount="20000" /> |
-| Locul 5 | <Gold :amount='5000' /> | <Dinero :amount="10000" /> |
-
-Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mult de 1 kill vor primi un badge pe profil.
-- Clanul câştigător primeşte suma de <Dinero :amount="300_000" /> în seif.
-
-:::
-
-::: details Premii sezonul II
-
-| **Locul** | **Badge** | **Cash** | **Reward**
-| :-----: | :---------: | :-----------: | :-----------: |
-| Locul 1 | <Image src="https://i.imgur.com/sO3RZZH.png" alt="BH1" width="30" label="Bounty Hunters Master" /> | <Dinero :amount="25000" /> | Weapon & Ammo |
-| Locul 2 | <Image src="https://i.imgur.com/DVMB9Db.png" alt="BH2" width="30" label="Bounty Hunters Diamond" /> | **Nu** | **Nu** |
-| Locul 3 | <Image src="https://i.imgur.com/jCsSbYc.png" alt="BH3" width="30" label="Bounty Hunters Gold" /> | **Nu** | **Nu** |
-| Locul 4 | <Image src="https://i.imgur.com/NGwpTQ4.png" alt="BH4" width="30" label="Bounty Hunters Silver" /> | **Nu** | **Nu** |
-| Locul 5 | <Image src="https://i.imgur.com/bKpnEvf.png" alt="BH5" width="30" label="Bounty Hunters Bronze" /> | **Nu** | **Nu** |
-
-Membrii care fac parte din clanul situat pe locul 1 şi care au obţinut mai mult de 1 kill vor primi un badge pe profil.
-- Clanul câştigător primeşte suma de <Dinero :amount="300_000" /> în seif.
 
 :::
 
