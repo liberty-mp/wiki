@@ -42,7 +42,7 @@ Servieta (Suitcase) trebuie livrată la Alfred într-un interval de 10 minute, a
 
 | Level | Puncte Necesare | Bonus |
 | :--: | :-: | :-----: |
-| Level 1 | 0 points | Dropable Items Chance 25% |
+| Level 1 | 0 points | Dropable Items Chance 5% |
 | Level 2 | 20 points | Money Boost 2%<br> Experience Boost 2% |
 | Level 3 | 40 points | Money Boost 4%<br> Experience Boost 4% |
 | Level 4 | 80 points | Money Boost 6%<br> Experience Boost 6% |
