@@ -13,7 +13,7 @@ title: Valentine's Day Seasonal Event
 # Valentine's Day Seasonal Event 💘
 
 Luna indragostitilor a sosit și pe serverul nostru! \
-Evenimentul de Valentine's Day va fi disponibil pana pe data de 1 Martie.
+Evenimentul de Valentine's Day va fi disponibil pana pe data de 11 Martie.
 
 ## Misiuni disponibile
 
