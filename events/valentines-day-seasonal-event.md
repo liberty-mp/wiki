@@ -8,7 +8,7 @@ title: Valentine's Day Seasonal Event
 | Nivel minim participare? | Nu. |
 | Posibilitate găsire obiecte speciale? | Nu. |
 | Necesită iteme specifice? | Nu. |
-| Locație statistici eveniment? | `/halloween` |
+| Locație statistici eveniment? | `/valentines` |
 
 # Valentine's Day Seasonal Event 💘
 
@@ -68,9 +68,9 @@ Drop-urile pentru Cupid Flowers si Cupid Chocolate sunt urmatoarele:
 
 | Sansa drop | Iteme |
 | :-: | :-: |
-| **30%** | <InventoryItem itemKey="marked_money" width="32" :qt="1000-1300" /> | 
-| **27%** | <InventoryItem itemKey="silverbar" width="32" :qt="1-4" />|
-| **27%** | <InventoryItem itemKey="goldbar" width="32" :qt="1-3" />|
+| **30%** | <InventoryItem itemKey="marked_money" width="32" :qt="1000" /> - <InventoryItem itemKey="marked_money" width="32" :qt="1300" /> | 
+| **27%** | <InventoryItem itemKey="silverbar" width="32" :qt="1" /> - <InventoryItem itemKey="silverbar" width="32" :qt="4" /> |
+| **27%** | <InventoryItem itemKey="goldbar" width="32" :qt="1" /> - <InventoryItem itemKey="goldbar" width="32" :qt="3" /> |
 | **8%** | <InventoryItem itemKey="c4_bomb" width="32" :qt="1" />|
 | **8%** | <InventoryItem itemKey="hooked_rope" width="32" :qt="1" />|
 
