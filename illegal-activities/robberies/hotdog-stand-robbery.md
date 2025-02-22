@@ -8,6 +8,7 @@ title: Hotdog Stand Robbery
 | Necesită permis de conducere? | Nu. |
 | Necesită iteme specifice? | Da. Orice tip de armă. |
 | Necesită un anumit skill? | Nu. |
+| Necesită un anumit nivel? | Da, minim nivel 5. |
 
 ## Desfășurarea unui Hotdog Stand Robbery
 
