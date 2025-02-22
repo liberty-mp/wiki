@@ -80,6 +80,12 @@ Atunci când pasagerul va ajunge la destinație, acesta se va da jos din vehicul
 
 După finalizarea cursei, dacă se dorește continuarea job-ului, tehnica este aceeași. Jucătorul trebuie să deschidă aplicația de pe telefon fie prin comanda `/uber` scrisă în chat, fie prin deschiderea telefonului folosind tasta `KEY UP`.
 
+Daca jucatorul detine o subscriptie de tip Platinum activa pe cont, acesta are posibilitatea de a isi activa optiunea "Auto-accept". Optiune ce ii ofera jucatorului posibilitatea sa ii accepte in mod automat urmatoarea comanda.
+
+::: details Acceptare automata
+  <Image src="https://i.imgur.com/IyCrYtj.gif" alt="Auto-accept" />  
+::: 
+
 ## Obiecte speciale pentru activităti și șanse de găsire
 
 Pe lângă suma de bani obținută la finalul cursei, mai ai șansa de a găsi obiecte speciale, obiecte care te ajuta în Fleeca Bank Rob.
