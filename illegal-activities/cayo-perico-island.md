@@ -39,7 +39,7 @@ Pe insulă sunt disponibile 14 mașini de spălat pentru jucători. Aceștia, tr
 Spălatul banilor nu este pentru toată lumea, având în vedere faptul că este o activitate ilegală. Jucătorii ce sunt eligibili sunt cei ce fac parte dintr-un clan cu perk-ul `Money Laundering` activat, minim level 1. Dacă te-ai asigurat că, clanul tău are acest perk upgradat, poți merge pe insulă în încăperea special destinată spălatului de bani. 
 
 ::: details Incaperea
-<Image src="https://i.imgur.com/kzEMHO0.png" alt="Incapere" />  
+<Image src="https://i.imgur.com/42ZFGf4.png" alt="Incapere" />  
 :::
 
 Odată ajuns la subsol, acolo vei vedea mai multe mașini de spălat iar pentru a începe activitatea trebuie sa mergi în fata uneia și să apeși tasta `E` pentru a îți fi afișat un dialog cu câți bani ai de spălat și suma pe care o vei primi în urma activității.
