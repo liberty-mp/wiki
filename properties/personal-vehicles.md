@@ -92,7 +92,8 @@ Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din via
 | Tip | Detalii | Mod de obținere în joc | Preț în [**Shop**](https://ucp.liberty.mp/shop/products) |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț sub $500.000 | [**Evenimente**](/events/#informatii-generale-evenimente) | <Gold :amount='500' /> |
-| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $500.000 | [**Evenimente**](/events/#informatii-generale-evenimente) | <Gold :amount='3000' /> |
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_standard_ticket.png" alt="Standard Vehicle Ticket" width="50" label="Standard Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un prețul cuprins intre $500.000 si $999.999 | [**Evenimente**](/events/#informatii-generale-evenimente) | <Gold :amount='1500' /> 
+| <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | Ticket-ul folosit pentru a cumpăra vehiculele cu un preț mai mare de $1.000.000 | [**Evenimente**](/events/#informatii-generale-evenimente) | <Gold :amount='3000' /> |
 
 ## Listă Vehicule Luxury Autos:  
 | Vehicul | Nume joc | Nume real | Viteză maximă (Performance) | Preț Dealership | Ticket necesar |
@@ -219,5 +220,7 @@ Acesta este Dealership-ul de unde jucătorii își pot cumpăra vehicule din via
 | <Image src="https://imgur.com/wj0QkWq.png" width="110" alt="Übermacht E30 Cabrioleto" /> | Übermacht E30 Cabrioleto | BMW E30 325i Cabriolet[1990] | [**Liberty Pass 4**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_629640447.png" width="110" alt="Grotti F40" /> | Grotti F40 | Ferrari F40 | [**Liberty Pass 5**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
 | <Image src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_1315816827.png" width="110" alt="Vapid Bullet GT-R" /> | Vapid Bullet GT-R | Ford GT-R | [**Liberty Pass 6**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
+| <Image src="https://i.imgur.com/8Ri0pOZ.png" width="110" alt="Mahar H1" /> | Mahar H1 | Hummer H1[1995] | [**Liberty Pass 7**](/events/libertypass-seasonal-event) - **Bonus tier (102)** |
+| <Image src="https://i.imgur.com/UGsONij.png" width="110" alt="Ubermacht 850 CSI" /> | Ubermacht 850 CSI | BMW 850 CSI[1991] | [**Liberty Pass 8**](/events/libertypass-seasonal-event) - Se poate cumpara de pe **Liberty Pass Shop** pentru 25 coins|
 | <Image src="https://imgur.com/aheAerR.png" width="110" alt="Weevil Custom" /> | Weevil Custom | VW Beetle Rat Rod [1969] | [**Halloween Seasonal Event**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
 | <Image src="https://imgur.com/Ti7p3bx.png" width="110" alt="Sanctus" /> | Sanctus | Ironhead Sportster [1957] | [**Halloween Seasonal Event**](../events/halloween-seasonal-event.md#halloween-seasonal-event-) |
