@@ -328,7 +328,7 @@ Laboratorul poate fi utilizat dupa urmatoarea schema:
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/coca_leaves.png" width="100" label = "Coca Leaves"/> | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/cocaine_powder.png" width="100" label = "Cocaine Powder"/> | Cocaine Processing Table |
 | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/cannabis_buds.png" width="100" label = "Cannabis Buds"/> | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_joint.png" width="100" label = "Marijuana Joint"/> | Cannabis Processing Table |
-| <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_joint.png" width="100" label = "Marijuana Joint"/> & <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/penny_puffer.png" width="100" label = "Penny Puffer Cigar"/> | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_blunt.png" width="100" label = "Marijuana Blunt"/> | Cannabis Processing Table |
+| <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_joint.png" width="100" label = "5x Marijuana Joint"/> & <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/penny_puffer.png" width="100" label = "Penny Puffer Cigar"/> | <Image src="https://ucp-beta.liberty.mp/assets/images/inventory/drugs/marijuana_blunt.png" width="100" label = "Marijuana Blunt"/> | Cannabis Processing Table |
 
 <Image src = "https://i.imgur.com/95TbbGR.gif" label = "Craftare Marijuana Joint" />
 
