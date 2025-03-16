@@ -11,7 +11,7 @@ title: Crypto Farm District - Clan Spray Wars
 
 ###  Activitațiile din district
 
-Membrii clanului ce dețin districtul Crypto Farm, vor avea acces la un sistem de minare a criptomonedei Bitcoin. Acest district situat în partea de vest a hărții. Jucațorii vor putea să-și lase conturile la minat într-un server farm. Reward-ul obținut va fi în criptomonede.
+Membrii clanului ce dețin un teritoriu pe districtul Crypto Farm vor avea acces la un sistem de minare a criptomonedelor. Acest district situat în partea de vest a hărții, numărul de teritorii influențând câte wallet-uri pot să farmeze și să golească pe zi. Jucătorii ce fac parte dintr-un clan care are un teritoriu pe acest district, pot să farmeze și să goleasca un wallet/zi, numărul crescând cu +1 per teritoriu, până se va ajunge la majoritar, când jucatorii vor avea un număr nelimitat.
 
 ###  Locație Server Farm
 
