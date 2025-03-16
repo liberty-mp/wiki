@@ -11,7 +11,11 @@ title: Bank District - Clan Spray Wars
 | Zona District | <Image src="/assets/images/clans/spray-wars/districts/bank.png" width="256" label="Estul hărții" /> |
 
 
-Bank District, situat în partea de est a hărții, este unul dintre cele mai strategice districte ale hărții, găzduind Pacific Bank, o instituție bogată și bine păzită. Jucătorii vor putea să organizeze jafuri la băncile din district. Pentru a organiza un jaf reușit, este esențial ca fiecare membru al heistului să își îndeplinească rolul cu precizie și coordonare, fiecare membru avand un rol unic.
+Bank District, situat în partea de est a hărții, este unul dintre cele mai strategice districte ale hărții, găzduind Pacific Bank, o instituție bogată și bine păzită. Jucătorii vor putea să organizeze jafuri la băncile din district. Pentru a organiza un jaf reușit, este esențial ca fiecare membru al heistului să își îndeplinească rolul cu precizie și coordonare, fiecare membru avand un rol unic. Accesul la acest district este în funcție de numărul de teritorii, fiecare membru putând să dea un rob/zi dacă are un teritoriu pe acest district, crescând cu +1/zi în funcție de teritorii. În cazul în care se atinge majoritate, accesul la astfel de rob-uri este nelimitat.
+
+::: tip
+În cazul în care există mai multe clanuri cu acces la district, membrii din aceste clanuri pot să dea rob împreună.
+:::
 
 ## Planificare și Pregătire:
 Planificarea unui jaf bancar implică mai multe etape esențiale.
