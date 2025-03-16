@@ -11,7 +11,7 @@ title: Tobacco District - Clan Spray Wars
 
 ###  Activitațiile din district
 
-Districtul de Tobacco constă în plantarea semințelor de Tobacco, recoltarea frunzelor de Tobacco(după 15 minute de la plantare), procesarea frunzelor în Processed Tobacco și rularea unui trabuc(x1 Tobacco leaves și x1 Processed Tobacco).
+Districtul de Tobacco constă în plantarea semințelor de Tobacco, recoltarea frunzelor de Tobacco (după 15 minute de la plantare), procesarea frunzelor în Processed Tobacco și rularea unui trabuc (x1 Tobacco leaves și x1 Processed Tobacco). Dacă un clan are un teritoriu, fiecare membru din clan poate să planteze 8 plante de Tobacco și să proceseze 16 trabucuri/zi. Acest număr cresțe în funcție de numărul de teritorii, deci, dacă cu 1 teritoriu vom putea planta 8 plante de Tobacco și să procesăm 16 trabucuri/zi, având 2 teritorii vom putea planta 16 de astfel plante și procesa 32 de trabucuri/zi, dacă avem 3 teritorii vom putea planta 24 de plante și procesa 48 de trabucuri/zi, dacă avem 4 teritorii, vom putea planta 32 de plante și procesa 64 de trabucuri/zi. 
 
 ###  Locație Gartinez Cigars
 
