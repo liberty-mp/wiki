@@ -48,7 +48,7 @@ Exemplu: La sfârșitul unei ture de Lumberjack cu skill-ul Bronze (de început)
 
 ::: warning Atenție!
 
-Job-ul `Deep Sea Fishing` are alte criterii de skill-up față job-urile normale, criterii ce se vor regăsi mai jos.
+Job-urile `Deep Sea Fishing` si `CryptoMining` au alte criterii de skill-up față job-urile normale, criterii ce se vor regăsi mai jos.
 
 :::
 
