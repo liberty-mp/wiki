@@ -11,7 +11,7 @@ title: Port District - Clan Spray Wars
 
 ###  Activitațiile din district
 
-Membrii clanului ce deține Port District vor avea posibilitatea să îl contacteze pe Mr. Wang, pentru acesta jucătorii fiind nevoiți să fure un anumit tip de autovehicul, pentru care vor primi o sumă de bani, în funcție de autovehicul.
+Membrii clanului ce au minim un teritoriu pe Port District vor avea o șansă (pornind de la 15%, crescând cu câte 5% în funcție de numărul de teritorii deținut, până vor fi majoritari și va fi de 100%) de a primi misiunea la Mr. Wang, aceștia fiind nevoiți să fure un anumit tip de vehicul menționat de acesta, pentru care vor primi o sumă de bani, în funcție de valoarea mașinii.
 
 ### Locație Mr. Wang
 
