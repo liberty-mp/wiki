@@ -44,6 +44,11 @@ Dacă se întâmplă să prinzi un jucător în fapt, îl poți omorî dar nu ve
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/wAw4nBI.png" width="32" alt="Disponibil" label="Disponibil" />  | Poate fi jefuită |
 | <Image src="https://i.imgur.com/yASiq4N.png" width="32" alt="Indisponibil" label="Indisponibil" /> | Nu poate fi jefuită (delay 5 minute) |
+| <Image src="https://imgur.com/a/y3JceRa.png" width="32" alt="Indisponibil_Foc" label="Indisponibil_Foc" /> | Nu poate fi jefuită, trebuie să aștepți până pompierii vor stinge focul |
+
+::: tip
+După ce pompierul va stinge focul la banca cu iconiță portocalie, delay-ul acesteia va fi de doar 30 de secunde.
+:::
 
 ## Cum jefuiesc o bancă?
 
@@ -55,10 +60,6 @@ Localizează o bancă pe harta din `ESC` și mergi la ea. Odată ajuns acolo, ec
 
 ::: details Începerea rob-ului  
  <Image src="https://i.imgur.com/SCk2LrZ.jpg" alt="rob1" />  
-:::
-
-::: details Tabloul electric
- <Image src="https://i.imgur.com/HBJxOMq.gif" alt="rob2" />  
 :::
 
 În momentul în care ai oprit siguranțele băncii și ai început jaful, ai la dispoziție 2 minute pentru a îl finaliza.
