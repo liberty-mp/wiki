@@ -22,7 +22,7 @@ Desfășurarea unui **ATM Robbery** constă în **jefuirea** unui **ATM** prin s
 **Obiectele speciale** necesare jefuirii pot fi obținute [la sfârșitul unei ture de job la Garbageman ♻️](../../jobs/garbageman#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire) ***sau*** [la sfârșitul unei ture de job la Lumberjack.](../../jobs/lumberjack#obiecte-speciale-pentru-crafting-si-alte-activitati-sanse-de-gasire)
 
 ::: tip
-Pentru a putea jefui cu succes un ATM aveți nevoie de 'Hooked Rope', acesta se poate crafta pe insula 'Cayo Perico' cu 3 Rope si 2 Hook.
+Pentru a putea jefui cu succes un ATM aveți nevoie de 'Hooked Rope', acesta se poate crafta pe insula 'Cayo Perico' cu 3 Rope si 2 Hook. Totodată, aveți nevoie și de o mașină personala sau închiriată pentru a smulge consola din perete.
 :::
 
 ### Cât pot câștiga dacă jefuiesc un ATM?
@@ -44,6 +44,7 @@ Culoarea ATM-ului de pe hartă va indica statusul acestuia.
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/t2ZYapF.png" width="32" alt="Disponibil" label="Disponibil" />  | Îndeplinește condițiile pentru a fi jefuit |
 | <Image src="https://i.imgur.com/LNnW3DH.png" width="32" alt="Indisponibil" label="Indisponibil" /> | Nu poate fi jefuit (delay 3 minute) |
+| <Image src="https://imgur.com/a/5t2twvX.png" width="32" alt="Indisponibil_Foc" label="Indisponibil_Foc" /> | Nu poate fi jefuit, trebuie să aștepți până pompierii vor stinge focul |
 | <Image src="https://i.imgur.com/gxhqRjU.png" width="32" alt="Indestructibil" label="Indestructibil" />  | Folosit doar pentru a depune/scoate bani |
 
 ### Cum jefuiesc un ATM?
