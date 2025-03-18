@@ -57,10 +57,6 @@ Localizează o bancă pe harta din `ESC` și mergi la ea. Odată ajuns acolo, ec
  <Image src="https://i.imgur.com/SCk2LrZ.jpg" alt="rob1" />  
 :::
 
-::: details Tabloul electric
- <Image src="https://i.imgur.com/HBJxOMq.gif" alt="rob2" />  
-:::
-
 În momentul în care ai oprit siguranțele băncii și ai început jaful, ai la dispoziție 2 minute pentru a îl finaliza.
 
 Următorul pas în jefuirea cu succes a băncii este de a omorî paznicul aflat în interiorul acesteia.
