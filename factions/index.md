@@ -8,14 +8,15 @@ Pe serverul [🗽liberty.mp](https://ucp.liberty.mp/) activează **8 facțiuni**
 
 | Facțiune   | Cerințe minime |  Slot-uri (locuri) | Wiki |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | level 10<br>20 hours | 50** | [**Downtown Taxi Company**](./taxi.md)
-| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | level 15<br>100 hours | 50** | [**Los Santos Police Department**](./lspd.md)
+| <Image src="https://i.imgur.com/L2JmEQz.png" alt="Taxi" width="32" label="Downtown Taxi Company" /> | level 10<br>20 hours | 55** | [**Downtown Taxi Company**](./taxi.md)
+| <Image src="https://i.imgur.com/o71GFrP.png" alt="LSPD" width="32" label="Los Santos Police Department" /> | level 15<br>100 hours | 60** | [**Los Santos Police Department**](./lspd.md)
 | <Image src="https://i.imgur.com/cRrHPrB.png" alt="HA" width="32" label="Hitman Agency" /> | level 15<br>100 hours | 55** | [**Hitman Agency**](./hitman.md)
-| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| level 15<br>50 hours | 20** | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| level 15<br>50 hours | 20** | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| level 15<br>50 hours | 20** | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| level 15<br>50 hours | 20** | [**Gangs**](./gangs.md)
-| <Image src="https://i.imgur.com/fzys3uI.png" alt="Instructors" width="32" label="Instructors" /> | level 10<br>50 hours | 50** | [**Instructors**](./instructors.md)
+| <Image src="https://i.imgur.com/75XI0hK.png" alt="VLA" width="32" label="Varrios Los Aztecas" />| level 15<br>50 hours | 25** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/z8XEeji.png" alt="GSF" width="32" label="Grove Street Families" />| level 15<br>50 hours | 25** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/DSALrA7.png" alt="BALLA" width="32" label="Ballas" />| level 15<br>50 hours | 25** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/We4RTLX.png" alt="LSV" width="32" label="Los Santos Vagos" />| level 15<br>50 hours | 25** | [**Gangs**](./gangs.md)
+| <Image src="https://i.imgur.com/fzys3uI.png" alt="Instructors" width="32" label="Instructors" /> | level 10<br>50 hours | 55** | [**Instructors**](./instructors.md)
+| <Image src="https://i.imgur.com/1fVZUi9.png" alt="Paramedic & Fire Department" width="32" label="Paramedic & Fire Department" /> | level 10<br>20 hours | 65** | [**Paramedic & Fire Department**](./paramedic-fire-department.md)
 
 ::: danger Atenție!
 **Dacă părăsești facțiunea din orice motiv și ai sub 14 zile în aceasta, nu vei putea aplica la facțiuni timp de 14 zile de la data la care ai ieșit.**
