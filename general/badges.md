@@ -132,7 +132,16 @@ Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Anni
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/CHdswhv.png" alt="HLLW2023" width="50" label="Anniversay Event" />| obținut de jucătorii ce au livrat de 15 ori cuvântul „LIBERTYMP”, în zile diferite, în cadrul evenimentului Anniversary |
+| <Image src="https://i.imgur.com/CHdswhv.png" alt="HLLW2023" width="50" label="Anniversary Event" />| obținut de jucătorii ce au livrat de 15 ori cuvântul „LIBERTYMP”, în zile diferite, în cadrul evenimentului Anniversary |
+
+### Two-Year Anniversary 2025 Badge
+
+Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Anniversary](../events/anniversary-seasonal-event) din 2025.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/N2mhE6H.png" alt="Anniversary Event" width="50" label="Anniversary Event 2025" />| obținut de jucătorii care au completat de 30 de ori misiunea aniversară, livrând cuvântul „LIBERTYMP |
+| <Image src="https://i.imgur.com/C590Crw.png" alt="Anniversary Gift" width="50" label="Anniversary Gift" />| obținut de jucătorii care au deschis cadoul aniversar de 20 de ori. |
 
 ### Summer 2024 Badge
 
@@ -153,3 +162,12 @@ Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul d
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/mX5nRm1.png" alt="BACK2SCHOOL" width="50" label="Back To School" />| obținut de jucătorii care au găsit în total un număr de 500 cărți pe parcursul evenimentului |
 | <Image src="https://i.imgur.com/1MDKFt9.png" alt="BACK2SCHOOL" width="50" label="Back To School Group" />| obținut de jucătorii care au în total un număr de 400 de cărți într-un grup cu alți jucători, pe parcursul evenimentului |
+
+### Easter Quest 2025
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de Paste, 'Easter Quest' din 2025.
+
+| Badge | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/lSiKvqM.png" alt="Easter Quest" width="50" label="Easter Quest Solo" />| obținut de jucătorii care au completat quest-ul solo de 20 ori |
+| <Image src="https://i.imgur.com/a9Vj1xD.png" alt="Easter Quest" width="50" label="Easter Quest Group" />| obținut de jucătorii care au completat quest-ul in grup de 20 ori |
