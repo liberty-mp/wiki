@@ -18,7 +18,7 @@ Jobul de Fisherman constă în pescuitul peștilor folosind o undiță și momea
 
 ## Locație pescuit  
 
-Găsește un loc de pescuit, poți pescui doar în una dintre cele 3 locații Fisherman.  
+Găsește un loc de pescuit, poți pescui în orice loc unde apa este suficient de adâncă.
 O locație populară este pe plaja de lângă **Fisherman 3, Chumash** datorită locației unui **magazin 24/7** în apropiere. 
 
 ## Întrebări frecvente
@@ -55,10 +55,10 @@ Se spune că doar 1 din 10 pești reușește să scape din cârlig când folose�
 
 ### Cum fac rost de momeală?
 
-O poți cumpăra dintr-un business de tip **magazin 24/7** pentru prețul de <Dinero :amount='64' /> pentru **64** bucăți de momeală.  
+O poți cumpăra dintr-un business de tip **magazin 24/7** pentru prețul de <Dinero :amount='150' /> pentru **150** bucăți de momeală.  
 
 ::: details Momeală în magazin   
-  <Image src="https://i.imgur.com/qdsVOWE.png" alt="Shop Fishrod" width="125" />
+  <Image src="https://i.imgur.com/8Ssf4UG.png" alt="Shop Fishrod" width="125" />
 :::  
 
 O bucată de momeală este folosită de fiecare dată când încerci să pescuiești.
@@ -82,10 +82,6 @@ Vom apăsa din nou tasta `SPACE` atunci când indicatorul devine culoarea verde,
 În funcție de undița folosită, există șanse ca peștele să scape din cârlig chiar dacă jucătorul a apăsat când trebuie.
 Pentru a putea vedea dacă peștele a fost prins sau nu, vei putea verifica notificarea plasată deasupra hărții, care va indica și ce fel de peste ai prins, dacă ai prins un obiect special sau dacă nu îndeplinești o cerință pentru a pescui.
 Fiecare pește prins ocupă un slot din inventarul jucătorului, alături de prețul acestuia dacă ținem cursorul mouse-ului pe el.
-
-::: warning
-După un anumit număr de pești prinși, serverul iți va cere să schimbi zona de pescuit, urmărind punctul mov de pe hartă.
-:::
 
 ### Unde se vinde peștele?
 
