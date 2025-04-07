@@ -42,10 +42,9 @@ Culoarea ATM-ului de pe hartă va indica statusul acestuia.
 
 | Status   | Semnificație | 
 | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/t2ZYapF.png" width="32" alt="Disponibil" label="Disponibil" />  | Îndeplinește condițiile pentru a fi jefuit |
-| <Image src="https://i.imgur.com/LNnW3DH.png" width="32" alt="Indisponibil" label="Indisponibil" /> | Nu poate fi jefuit (delay 3 minute) |
-| <Image src="https://imgur.com/a/5t2twvX.png" width="32" alt="Indisponibil_Foc" label="Indisponibil_Foc" /> | Nu poate fi jefuit, trebuie să aștepți până pompierii vor stinge focul |
-| <Image src="https://i.imgur.com/gxhqRjU.png" width="32" alt="Indestructibil" label="Indestructibil" />  | Folosit doar pentru a depune/scoate bani |
+| <Image src="https://i.imgur.com/Ym8cGYQ.png" width="32" alt="Disponibil" label="Disponibil" />  | Îndeplinește condițiile pentru a fi jefuit |
+| <Image src="https://i.imgur.com/ULkiG6x.png" width="32" alt="Indisponibil_Foc" label="Indisponibil_Foc" /> | Nu poate fi jefuit, trebuie să aștepți până pompierii vor stinge focul |
+| <Image src="https://i.imgur.com/va4XrwL.png" width="32" alt="Indestructibil" label="Indestructibil" />  | Folosit doar pentru a depune/scoate bani |
 
 ### Cum jefuiesc un ATM?
 
