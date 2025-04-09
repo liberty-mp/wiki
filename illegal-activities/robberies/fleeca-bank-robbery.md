@@ -44,7 +44,7 @@ Dacă se întâmplă să prinzi un jucător în fapt, îl poți omorî dar nu ve
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/wAw4nBI.png" width="32" alt="Disponibil" label="Disponibil" />  | Poate fi jefuită |
 | <Image src="https://i.imgur.com/yASiq4N.png" width="32" alt="Indisponibil" label="Indisponibil" /> | Nu poate fi jefuită (delay 5 minute) |
-| <Image src="https://imgur.com/a/y3JceRa.png" width="32" alt="Indisponibil_Foc" label="Indisponibil_Foc" /> | Nu poate fi jefuită, trebuie să aștepți până pompierii vor stinge focul |
+| <Image src="https://i.imgur.com/1hcW47Z.png" width="32" alt="Banca in flacari" label="Indisponibil_Foc" /> | Nu poate fi jefuită, trebuie să aștepți până pompierii vor stinge focul |
 
 ::: tip
 După ce pompierul va stinge focul la banca cu iconiță portocalie, delay-ul acesteia va fi de doar 30 de secunde.
@@ -52,7 +52,7 @@ După ce pompierul va stinge focul la banca cu iconiță portocalie, delay-ul ac
 
 ## Cum jefuiesc o bancă?
 
-Pentru jefuirea unei bănci, nu trebuie să aveți [Heat Level](../index.md#ce-este-heat-level) mai mare de 9 pe cont și să nu fiți urmăriți de către poliție.
+Pentru jefuirea unei bănci, nu trebuie să aveți [Heat Level](../index.md#ce-este-heat-level) mai mare de 10 pe cont și să nu fiți urmăriți de către poliție.
 
 În urma unui jaf la bancă, vei primi 90 [Heat Level](../index.md#ce-este-heat-level). 
 
