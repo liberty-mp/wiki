@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/6134470e-4ae6-4ed9-ab6f-0cefd2150587)---
+---
 title: Cash Grab Event
 ---
 
