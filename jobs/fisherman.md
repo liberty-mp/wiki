@@ -4,7 +4,7 @@ title: Fisherman
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1700' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
 | Nivel minim necesar? | Nu, minim 10 ore jucate pe cont. |
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
