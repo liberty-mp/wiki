@@ -4,12 +4,12 @@ title: Money Transporter
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='2400' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
 | Nivel minim necesar? | Nu, minim 50 ore jucate pe cont. |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
 | Necesită iteme specifice? | Nu. |
-| Posibilitate câștigare iteme extra? | Nu. |
+| Posibilitate câștigare iteme extra? | Da. |
 | Locație NPC Money Transporter | [Del Perro, South Rockford Dr.](https://i.imgur.com/xx9F5wj.png) |
 | Poate fi facut in grup? | Da. |
 
