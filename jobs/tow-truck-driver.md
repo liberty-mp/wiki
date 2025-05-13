@@ -4,7 +4,7 @@ title: Tow Truck Driver
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1700' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
 | Ce nivel este necesar? | 0 ore jucate (imediat dupa conectare) |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
