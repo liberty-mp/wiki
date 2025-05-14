@@ -69,7 +69,7 @@ Pentru a termina tura de job, tastează comanda `/stopwork`. Vehiculul oferit de
 
 În fiecare dimineață la ora 07:00, un job va fi selectat că și **Jobul zilei**. Jucătorii ce muncesc în cadrul acelui job vor beneficia de **10%** Job Boost, **10%** Item Drop și **10%** Experience Boost.
 
-| <Image src="https://i.imgur.com/0SMrypY.png" alt="Daily Job" width="48" label="Daily Job" /> |
+ <Image src="https://i.imgur.com/0SMrypY.png" alt="Daily Job" width="512" label="Daily Job" />
 
 ## Listă joburi
 
