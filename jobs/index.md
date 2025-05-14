@@ -14,7 +14,7 @@ Pe server există 10 joburi momentan, cu planuri de a adăuga mai multe pe parcu
 
 ### Ce venituri sunt la joburi?
 
-Veniturile joburilor sunt calculate astfel încât la sfârșitul unei sesiuni de exemplu: 5 ore, totalul câștigat să fie **aproximativ ~<Dinero :amount='1700' /> per oră**. Venitul depinde și de **obiectele speciale** pe care le poți găsi practicând **joburile cu șanse de drop (găsire)**. Aceste iteme pot fi adăugate pe [Market](../general/marketplace) sau folosite în [Trade](../general/trade) cu alți jucători.
+Veniturile joburilor sunt calculate astfel încât la sfârșitul unei sesiuni de exemplu: 5 ore, totalul câștigat să fie **aproximativ ~<Dinero :amount='2000' /> per oră**. Venitul depinde și de **obiectele speciale** pe care le poți găsi practicând **joburile cu șanse de drop (găsire)**. Aceste iteme pot fi adăugate pe [Market](../general/marketplace) sau folosite în [Trade](../general/trade) cu alți jucători.
 
 ### Cum găsesc jobul?  
 
@@ -64,6 +64,12 @@ Job-urile `Deep Sea Fishing` si `CryptoMining` au alte criterii de skill-up faț
 ### Cum mă opresc din muncă?
  
 Pentru a termina tura de job, tastează comanda `/stopwork`. Vehiculul oferit de job își va da respawn (dacă ai primit unul) și nu vei mai primi noi task-uri de realizat în cadrul jobului.   
+
+## Daily Jobs
+
+În fiecare dimineață la ora 07:00, un job va fi selectat că și **Jobul zilei**. Jucătorii ce muncesc în cadrul acelui job vor beneficia de **10%** Job Boost, **10%** Item Drop și **10%** Experience Boost.
+
+| <Image src="https://i.imgur.com/0SMrypY.png" alt="Daily Job" width="48" label="Daily Job" /> |
 
 ## Listă joburi
 
