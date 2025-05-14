@@ -20,7 +20,7 @@ Jobul de Trucker constă în transportul diferitelor tipuri de marfă de la un p
 
 ### Cum încep munca?
 
-Exista 2 metode de a incepe munca la job-ul Trucker. Fie ca ne aflam intr-un tir personal si apasam tasta `P` pentru a incepe lucrul, fie ca ne deplasam la NPC-ul job-ului si inchiriem un tir de acolo.
+Exista 2 metode de a incepe munca la job-ul Trucker. Fie ne vom urca intr-un tir personal si apasam tasta `P` pentru a incepe lucrul, fie ne deplasam la NPC-ul job-ului si inchiriem un tir de acolo.
 
 ### Cum fac rost de un tir personal?
 
@@ -32,7 +32,7 @@ Pentru a ne putea cumpara un tir personal, avem nevoie de minim skill `Platinum`
 
 ### Tipuri de curse
 
-Există două tipuri de curse, cruse legale, unde câștigul este normal, si curse ilegale, unde câștigul este cu 10% mai mare decat câștigul curselor legale.
+Există două tipuri de curse, curse legale, unde câștigul este normal, si curse ilegale, unde câștigul este cu 10% mai mare decat câștigul curselor legale.
 
 Cursele ilegale sunt disponibile de la skill "Silver".
 
@@ -74,7 +74,7 @@ Pe langa optiunea de `Leasing` a unui tir, exista si optiunea de achizitionare a
 
 ### Desfasurarea curselor
 
-Dupa psobilitatile pe care le avem, tir personal sau inchiriat, apasand tasta `P` vom avea o multitudine de curse pe care le putem efectua. Toate au o distanta diferita, o suma de castig diferita si un timp de parcurs diferit. Vom avea un preview al curselor inainte de a le selecta pentru a vedea pe unde va trebui sa mergem.
+Dupa posibilitatile pe care le avem, tir personal sau inchiriat, apasand tasta `P` vom avea o multitudine de curse pe care le putem efectua. Toate au o distanta diferita, o suma de castig diferita si un timp de parcurs diferit. Vom avea un preview al curselor inainte de a le selecta pentru a vedea pe unde va trebui sa mergem.
 
 ::: details Preview
   <Image src="https://i.imgur.com/P6diqKy.png" alt="InfoTir" /> 
@@ -116,7 +116,7 @@ Dupa ce vom prelua remorca, vom avea un drum prestabilit pentru livrarea acestei
 
 Job-ul ne permite sa lucram cu mai multi jucatori daca dorim si primim si un mic bonus pentru asta. Convoaiele pot fi create de oricine, oricand, la orice ora. Acestea pot fi private (cu o parola) sau publice, de 3 jucatori sau chiar de 16 jucatori.
 
-Pentru a putea crea un convoy, in momentul in care ne aflam intr-un tir va trebuia sa apasam tasta `P` si sa selectem optiunea `Convoy`.
+Pentru a putea crea un convoy, in momentul in care ne aflam intr-un tir trebuie sa apasam tasta `P` si sa selectam optiunea `Convoy`.
 
 ::: details Convoaie
   <Image src="https://i.imgur.com/ck34mdx.png" alt="convo" /> 
