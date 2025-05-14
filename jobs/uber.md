@@ -4,7 +4,7 @@ title: Uber
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1700' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
 | Nivel minim necesar? | Nu, minim 20 ore jucate pe cont. |
 | Necesită vehicul personal? | Da |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
