@@ -6,13 +6,15 @@ title: Vehicule Personale
 
 Pe server există cinci Dealership-uri diferite, patru cu vehicule originale ale jocului **Grand Theft Auto V** (Cars Default, Motorcycles Default, Boats Default și Airplanes Default) și unul cu vehicule din viața reală (Luxury Autos).
 
-| Iconiță specifică | Tip | Nivel minim acces | Zone geografice | Monedă/Valută |
+| Iconiță specifică | Tip | Cerinte | Zone geografice | Monedă/Valută |
 | :-----------: | :-----------: | :-----------: | :-----------: | :-----------: |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | 3 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) | 
-| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | 5 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) |
-| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | [**Luxury Autos**](../properties/personal-vehicles.md#luxury-autos-dealership-) | 7 | [**Pillbox Hill**](https://i.imgur.com/HmDtQrS.png) | Bani în joc ($) + un [**Ticket**](../properties/personal-vehicles.md#ticketele-necesare-pentru-achizi%C8%9Bionarea-unui-vehicul-din-luxury-autos-dealership) corespunzător | 
-| <Image src="https://i.imgur.com/WBJe08I.png" alt="Dealership" width="30" label="Dealership Blip" /> | Airplanes Default | 3 | [**Los Santos International Airport**](https://i.imgur.com/b5D4nND.png) | Bani in joc ($)<br> sau <br> Gold |
-| <Image src="https://i.imgur.com/Oer7ECJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Boats Default | 3 | [**La Puerta**](https://i.imgur.com/JbkGkvk.png) | Bani in joc ($)<br> sau <br> Gold |
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Cars Default | Level 3 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) | 
+| <Image src="https://i.imgur.com/aHcC2KL.png" alt="Dealership" width="30" label="Dealership Blip" /> | Motocycles Default | Level 5 | [**Pillbox Hill**](https://i.imgur.com/ZmvxgrF.png) | Bani în joc ($) |
+| <Image src="https://i.imgur.com/ip5NrNJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | [**Luxury Autos**](../properties/personal-vehicles.md#luxury-autos-dealership-) | Level 7 | [**Pillbox Hill**](https://i.imgur.com/HmDtQrS.png) | Bani în joc ($) + un [**Ticket**](../properties/personal-vehicles.md#ticketele-necesare-pentru-achizi%C8%9Bionarea-unui-vehicul-din-luxury-autos-dealership) corespunzător | 
+| <Image src="https://i.imgur.com/WBJe08I.png" alt="Dealership" width="30" label="Dealership Blip" /> | Airplanes Default | Level 3 | [**Los Santos International Airport**](https://i.imgur.com/b5D4nND.png) | Bani in joc ($)<br> sau <br> Gold |
+| <Image src="https://i.imgur.com/Oer7ECJ.png" alt="Dealership" width="30" label="Dealership Blip" /> | Boats Default | Level 3 | [**La Puerta**](https://i.imgur.com/JbkGkvk.png) | Bani in joc ($)<br> sau <br> Gold |
+| <Image src="https://i.imgur.com/TrahmfT.png" alt="Dealership" width="30" label="Dealership Blip" /> | Industrials | Trucker Platinum Skill | [**La Puerta**](https://i.imgur.com/tdruHCq.png) | Bani in joc ($)<br> |
+
 
 ::: tip 
 Pentru a achiziționa un vehicul personal trebuie să intri în interiorul Dealership-ului și să apeși tasta `E` în fața NPC-ului. 
@@ -76,13 +78,14 @@ Informațiile legate de modificările aduse vehiculului, numărul de kilometri, 
 
 ## Modificarea unui vehicul personal
 
-Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elicoptere și bărci).
+Pe server ai posibilitatea de a-ți modifica vehiculele personale(mașini, elicoptere, bărci și tiruri).
 
 | Iconiță specifică | Tip | Zone geografice |
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/LZnNZMM.png" alt="Mod Shop" width="30" label="Mod Shop Blip" /> | Mașini | [**Burton**](https://imgur.com/gbLY2Wn.png), [**LS Intl. Airport**](https://imgur.com/8Q1VNhg.png), [**Grand Senora Desert**](https://imgur.com/5Gzm9tm.png) și [**Paleto Bay**](https://imgur.com/d0WFlIO.png)| 
 | <Image src="https://i.imgur.com/LZnNZMM.png" alt="Aircraft Mod Shop" width="30" label="Mod Shop Blip" /> | Elicoptere | [**LS Intl. Airport**](https://imgur.com/RcQJ0rN.png)|
 | <Image src="https://i.imgur.com/LZnNZMM.png" alt="Boats Mod Shop" width="30" label="Mod Shop Blip" /> | Bărci | [**Elysian Island**](https://imgur.com/bbA7Z2A.png)|
+| <Image src="https://i.imgur.com/LZnNZMM.png" alt="Trucks Mod Shop" width="30" label="Mod Shop Blip" /> | Tiruri | [**Senora Way**](https://i.imgur.com/jXbf0Pm.png)|
 
 ## Luxury Autos Dealership <Image src="https://i.imgur.com/ip5NrNJ.png" width="30" img align="center" alt="Luxury Autos" /> 
 
