@@ -42,6 +42,7 @@ Odată ajuns la locația NPC-ului Deep Sea Fishing, interacționează cu el folo
 | Toro | 220 Slots | <Dinero :amount='690000' /> <br> <Gold :amount='28000' /> |
 | Jetmax | 275 Slots | <Dinero :amount='890000' /> <br> <Gold :amount='35000' /> |
 | Longfin | 500 Slots | <Dinero :amount='2400000' /> |
+| Pegassi Techno 63 | 650 Slots | <Dinero :amount='5000000' /> |
 
 ::: tip 
 Seashark-ul nu este o barca, deci nu poti face Deep Sea Fishing cu el. 
@@ -58,7 +59,8 @@ Seashark-ul nu este o barca, deci nu poti face Deep Sea Fishing cu el.
 | **Speeder** | 1h 23min 25sec | 1h 6min 40sec |
 | **Toro** | 1h 31min 40sec | 1h 13min 25sec |
 | **Jetmax** | 1h 54min 35sec | 1h 31min 40sec |
-| **Longfin** | 3h 28min 25sec | 2h 46min 40sec |
+| **Longfin** | 3h 28min 25sec | 2h 46min 40sec |d
+| **Pegassi Techno 63** | 4h 30min 50sec | 3h 36min 40sec |
 
 ::: tip 
 Standard Subscription / <PremiumSubscription type='gold' /> prinde 144 de pesti pe ora.
