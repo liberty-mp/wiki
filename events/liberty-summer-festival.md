@@ -23,7 +23,7 @@ La completarea celor trei activitati [Scuba Diving, Metal Scavenger si Ice Cream
 :::
 
 ::: details Prezentare badge
-<Image src="https://i.imgur.com/tXKuHbj.png" alt="Prezentare badge" label="Liberty Summer Badge 2024" width="350" />
+<Image src="https://i.imgur.com/tXKuHbj.png" alt="Prezentare badge" label="Liberty Summer Badge 2025" width="350" />
 :::
 
 ## Întrebări frecvente
@@ -75,11 +75,11 @@ Suma căștigată este influentata de skill-ul pe care-l vei dobandi la acest jo
 :::
 
 ::: tip
-La atingerea sumei de <Dinero :amount="200000" /> in cadrul jobului de vara, vei primi un badge special.
+La atingerea sumei de <Dinero :amount="400000" /> in cadrul jobului de vara, vei primi un badge special.
 :::
 
 ::: details Prezentare badge
-<Image src="https://i.imgur.com/aneZYAw.png" alt="Prezentare badge" label="Ice Cream Delivery Badge 2024" width="350" />
+<Image src="https://i.imgur.com/aneZYAw.png" alt="Prezentare badge" label="Ice Cream Delivery Badge 2025" width="350" />
 :::
 
 ### Ice Cream Stand Refill 🍦
@@ -89,15 +89,16 @@ Inghetata poate fi obtinuta din activităti prestate pe server, mai multe detali
 
 | Activitate | Cantitate |
 | :-----------: | :-----------: |
-| 160$ castigati la orice job | <Image src="https://i.imgur.com/mHPI2pm.png" alt="1x Icecream" width="50" label="1x Icecream" /> |
-| Hotdog Stand Robbery | <Image src="https://i.imgur.com/mHPI2pm.png" alt="3x Icecream" width="50" label="3x Icecream" /> |
-| ATM Robbery | <Image src="https://i.imgur.com/mHPI2pm.png" alt="10x Icecream" width="50" label="10x Icecream" /> |
-| Fleeca Bank Robbery | <Image src="https://i.imgur.com/mHPI2pm.png" alt="15x Icecream" width="50" label="15x Icecream" /> |
-| Heist | <Image src="https://i.imgur.com/mHPI2pm.png" alt="15x Icecream" width="50" label="15x Icecream" /> |
+| $200 castigati la Job-urile permanente | <Image src="https://i.imgur.com/mHPI2pm.png" alt="1x Icecream" width="50" label="1x Icecream" /> |
+| $150 castigati la job-ul sezonier | <Image src="https://i.imgur.com/mHPI2pm.png" alt="1x Icecream" width="50" label="1x Icecream" /> |
+| Hotdog Stand Robbery | <Image src="https://i.imgur.com/mHPI2pm.png" alt="3x Icecream" width="50" label="5x Icecream" /> |
+| ATM Robbery | <Image src="https://i.imgur.com/mHPI2pm.png" alt="10x Icecream" width="50" label="15x Icecream" /> |
+| Fleeca Bank Robbery | <Image src="https://i.imgur.com/mHPI2pm.png" alt="15x Icecream" width="50" label="20x Icecream" /> |
+| Heist | <Image src="https://i.imgur.com/mHPI2pm.png" alt="15x Icecream" width="50" label="20x Icecream" /> |
 | 1 NPC Bounty Hunters | <Image src="https://i.imgur.com/mHPI2pm.png" alt="1x Icecream" width="50" label="1x Icecream" /> |
 | Daily Quests | <Image src="https://i.imgur.com/mHPI2pm.png" alt="5x Icecream" width="50" label="5x Icecream" /> |
 | World Exploration | <Image src="https://i.imgur.com/mHPI2pm.png" alt="5x Icecream" width="50" label="5x Icecream" /> |
-| Payday | <Image src="https://i.imgur.com/mHPI2pm.png" alt="2x Icecream" width="50" label="2x Icecream" /> |
+| Payday | <Image src="https://i.imgur.com/mHPI2pm.png" alt="2x Icecream" width="50" label="3x Icecream" /> |
 
 ::: tip
 Jucătorii pot colecta câte înghețate îsi doresc în functie de activitatea avută pe server, însă, bine de știut ar fi faptul că dacă dorim să completăm progresul pentru quest prin convertirea acestora în event tokens, NPC-ul le va lua pe toate. Spre exemplu, dacă avem 100 inghețate si mergem sa convertim la NPC, acesta ne va da 100 event tokens.
@@ -121,7 +122,7 @@ Te consider ca fiind un bun căutător de comori? Vara aceasta vei avea oportuni
 
 Pentru a incepe această activitate, va trebui să iei legătura cu Bob, NPC ce poate fi găsit pe plaja. Pentru localizare, putem folosi comanda `/summer` si să selectăm 'Metal Scavenger'. Odată ajuns la acesta, va trebui sa apăsăm tasta `E` pentru a interactiona cu dansul si să selectăm optiunea de incepere a activitatii.
 
-Această activitate poate fi făcută o singură dată pe zi si constă in gasirea a 50 de metale pretioase de pe plajă.
+Această activitate poate fi făcută o singură dată pe zi si constă in gasirea a 65 de metale pretioase de pe plajă.
 
 ::: details Localizare Bob & incepere activitate
 <Image src="https://i.imgur.com/MClLGGi.png" alt="2" />
@@ -135,7 +136,7 @@ Metalele pot fi ridicate si cu o marjă de eroare de maximum 5 metri, nu trebuie
 :::
 
 ::: tip
-Dacă mai aveți doar 10 metale de căutat, pe minimap o să vă apară semne de întrebare ca în poza prezentată [aici](https://i.imgur.com/O8kudks.png).
+Dacă mai aveți doar 20 metale de căutat, pe minimap o să vă apară semne de întrebare ca în poza prezentată [aici](https://i.imgur.com/O8kudks.png).
 :::
 
 ::: details Informare incepere activitate 
@@ -168,17 +169,17 @@ Metalele vor putea fi găsite doar pe plaja desemnată a orasului Los Santos, ma
 <Image src="https://i.imgur.com/t4G6Twa.png" alt="123" />
 :::
 
-Evenimentul poate fi completat doar o dată pe zi, avand un numar maxim de 50 de monede de aur ce pot fi colectate într-o zi.
-În urma completării acestei activități, jucatorul va beneficia de Heat reduction mai rapid cu 15%, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
+Evenimentul poate fi completat doar o dată pe zi, avand un numar maxim de 65 de monede de aur ce pot fi colectate într-o zi.
+În urma completării acestei activități, jucatorul va beneficia de Heat reduction mai rapid cu 8%, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
 La completarea acestei activități de 20 ori jucatorul va fi recompensat cu un Badge pe profil.
 
 ::: details Prezentare badge
-<Image src="https://i.imgur.com/OJiqMWq.png" alt="Prezentare badge" label="Metal Scavenger Badge 2024" width="350" />
+<Image src="https://i.imgur.com/OJiqMWq.png" alt="Prezentare badge" label="Metal Scavenger Badge 2025" width="350" />
 :::
 
 ### Scuba Diving 🤿
 
-Ești un împătimit al sporturilor extreme și adrenalina în sânge? În acest caz, trebuie să știi că, în aceasta vară, zi de zi vei putea face scufundări în căutarea celor 50 de perle ascunse în largurile mării.
+Ești un împătimit al sporturilor extreme și adrenalina în sânge? În acest caz, trebuie să știi că, în aceasta vară, zi de zi vei putea face scufundări în căutarea celor 80 de perle ascunse în largurile mării.
 
 Pentru a putea începe practicarea acestei activități extreme, vă trebui să mergi pe plaja și să interacționezi cu NPC-ul John. Pentru o mai simpla localizare a acestuia ne putem folosi de comanda `/summer` și să selectam opțiunea `Scuba Diving`.
 
@@ -223,13 +224,13 @@ Odată ce am obținut perlele, acestea vor putea fi convertite, din nou, în Sum
 <Image src="https://i.imgur.com/c7XwVn0.png" alt="info" />
 :::
 
-Evenimentul poate fi completat doar o dată pe zi, avand un numar maxim de 50 de scoici ce pot fi colectate într-o zi.
+Evenimentul poate fi completat doar o dată pe zi, avand un numar maxim de 80 de scoici ce pot fi colectate într-o zi.
 În urma completării acestei activități, jucatorul va beneficia de job boost in cadrul joburilor pasive Deep Sea Fishing și Crypto Farm pe tot parcursul zilei, se va reseta in acelasi timp cu progresul activitatii la ora 07:00 in ziua urmatoare.
 La completarea acestei activități de 20 ori jucatorul va fi recompensat cu un Badge pe profil.
 :::
 
 ::: details Prezentare Badge
-<Image src="https://i.imgur.com/oKrTiy3.png" alt="Prezentare badge" label="Scuba Diving Badge 2024" width="350" />
+<Image src="https://i.imgur.com/oKrTiy3.png" alt="Prezentare badge" label="Scuba Diving Badge 2025" width="350" />
 :::
 
 ### Lucky Wheel 🍀
@@ -238,8 +239,7 @@ Anne este reprezentanta norocului în ceea ce tine evenimentul de vara. Odată i
 Poți da la aceasta roata daca deti un `Lucky Wheel Ticket`.
 
 Lucky Wheel Ticket poate fi obtinut in urmatoarele moduri: 
-  - Liberty Pass
-  - daca playerul joaca 1:30 ore pe server intr-o zi (reset la ora 07:00)
+  - daca playerul joaca 2:30 ore pe server intr-o zi (reset la ora 07:00)
   - daca playerul acumuleaza 5 payday-uri intr-o zi (reset la ora 07:00) 
   - la completarea activitatilor de vara intr-o zi
 
