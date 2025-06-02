@@ -15,7 +15,7 @@ title: Liberty Summer Festival
 Summer event este un eveniment sezonier ce se desfășoară pe toată durata sezonului cald în care jucătorii vor putea obține diferite recompense prin completarea unor misiuni și colectarea unor obiecte speciale ce pot fi ulterior schimbate cu recompense.
 
 ::: details Prezentare Summer Event
-<Image src="https://i.imgur.com/XKZxfbx.png" alt="Summer Event" />
+<Image src="https://i.imgur.com/6q5pefh.png" alt="Summer Event" />
 :::
 
 ::: tip
