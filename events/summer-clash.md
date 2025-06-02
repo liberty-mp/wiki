@@ -96,7 +96,7 @@ Cele mai bune trei clanuri vor fi recompensate in modul urmator:
 - Locul 2: $1.000.000 in seiful clanului, 8% Rob Boost, 8% Passive Job Boost, 8% Job Boost, Badge
 - Locul 3: $500.000 in seiful clanului, 8% Rob Boost, 8% Passive Boost, 8% Job Boost, Badge
 
-::: caution
+::: info
 
 Pentru a primi recompensele de clan jucatorii trebuie sa contribuie cu minim 500 puncte.
 
