@@ -57,4 +57,4 @@ De asemenea, tot de la **Settings**, respectiv **Advanced**, deselectează opți
 
 Pasul final este conectarea pe server. Poți face acest lucru in 2 moduri:
 1. Cauți serverul cu ajutorul bării de search, folosind keyword-ul `liberty.mp` <Image src="https://i.imgur.com/4ceQtBz.gif" alt="Connect to the server by search" />
-2. Te conectezi direct folosind opțiunea de **Direct connect**, folosind DNS-ul: `game.liberty.mp` sau IP-ul: `54.37.93.255`. (port-ul ramane cel default `:22005`) <Image src="https://i.imgur.com/hH2FVWy.gif" alt="Connect to the server by direct connect" />
+2. Te conectezi direct folosind opțiunea de **Direct connect**, folosind DNS-ul: `game.liberty.mp` sau IP-ul: `163.123.193.81`. (port-ul ramane cel default `:22005`) <Image src="https://i.imgur.com/hH2FVWy.gif" alt="Connect to the server by direct connect" />
