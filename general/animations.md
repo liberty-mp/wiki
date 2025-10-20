@@ -23,7 +23,7 @@ Pentru a accesa meniul de animații, trebuie să tastezi comanda `/animations` �
 - **Dances** - animații de dans.
 
 ::: tip Informații
-Animatiile din categoriile **Emotes** și **Dances** sunt animatiile standard, care sunt disponibile pentru toți jucătorii. In aceste categorii se vor regăsi și animațiile achiziționate din **Shop**.
+Animațiile din categoriile **Emotes** și **Dances** reprezintă animațiile standard, disponibile pentru toți jucătorii. În aceste categorii se regăsesc și animațiile achiziționate din **Shop**.
 :::
 
 ### Cum folosesc animațiile?
@@ -32,14 +32,14 @@ Există trei metode de a folosi animațiile:
 
 1.  **Meniul de animații** - selectează categoria dorită și alege animația pe care vrei să o folosești.
 2. **Comanda `/emote`** - tastează comanda `/emote id` sau `/dance id` în chat. De exemplu, pentru a folosi emote-ul cu id-ul `1`, tastezi comanda `/emote 1`.
-3. **Fast slot** - poți adăuga animațiile în fast slot-uri pentru a le folosi rapid. Pentru a adăuga o animație într-un fast slot, deschide meniul de animații și trage animația într-un slot liber.
+3. **Fast slot** - poți adăuga animațiile în fast sloturi pentru a le folosi rapid. Pentru a adăuga o animație într-un fast slot, deschide meniul de animații și trage animația într-un slot liber.
 
 ::: tip Informații
-Animatiile de pe fast slot-uri pot fi activate folosind combinatia de taste `CTRL` + `1`-`9`.
+Animațiile din fast sloturi pot fi activate folosind combinația de taste `CTRL` + `1`-`9`.
 
-Combinatia de taste `CTRL` + `0` va opri animația curent activă.
+Combinația de taste `CTRL` + `0` oprește animația activă.
 
-Numărul de fast slot-uri disponibile este determinat de subscripția activă pe cont, conform tabelului de mai jos.
+Numărul de fast sloturi disponibile este determinat de subscripția activă pe cont, conform tabelului de mai jos.
 :::
 
 | Subscription type   | Fast slots |
@@ -56,7 +56,7 @@ Numărul de fast slot-uri disponibile este determinat de subscripția activă pe
 
 Pentru a achiziționa animații, trebuie să accesezi meniul de animații și să selectezi categoria **Shop**. Aici vei găsi o listă cu toate animațiile disponibile, împreună cu prețul lor.
 
-Poți previsualiza animațiile înainte de a le achiziționa ținând mouse-ul deasupra animației dorite. Dacă vrei să cumperi animația, faceți click pe ea și confirmați achiziția. 
+Poți previsualiza animațiile înainte de a le achiziționa ținând mouse-ul deasupra opțiunii dorite. Dacă vrei să cumperi animația, dă click pe ea și confirmă achiziția.
 
 După ce ai achiziționat o animație, aceasta va fi disponibilă în meniul de animații la categoria **Emotes** sau **Dances**.
 

@@ -30,7 +30,7 @@ Odată ajunși la checkpoint-ul cu locația amanetului, va trebui să intrăm î
   <Image src="https://i.imgur.com/0KAnsbw.png" alt="NPC prezent" />
 :::  
 
-Pentru a accesa meniul, va trebui să apăsăm tasta `E`. Acolo vom putea alege ce dorin să amanetăm.
+Pentru a accesa meniul, va trebui să apăsăm tasta `E`. Acolo vom putea alege ce dorim să amanetăm.
 
 ::: details Meniu disponibil
   <Image src="https://i.imgur.com/LslWEPV.png" alt="Meniu disponibil" />
@@ -72,7 +72,7 @@ De asemenea, putem amaneta bijuteriile deținute. Odată ce apăsăm pe opțiune
   <Image src="https://i.imgur.com/MLzZhmo.png" alt="Meniu selectare item" />
 :::  
 
-Odată selectat item-ul dorit din listă, vom apăsa butonul `Pawn Item` și vom primi ca plată pentru acesta o cantitate de gold bars și silver bars în functie de prețul bijuteriei în crafting.
+Odată selectat item-ul dorit din listă, vom apăsa butonul `Pawn Item` și vom primi ca plată pentru acesta o cantitate de gold bars și silver bars în funcție de prețul bijuteriei în crafting.
 
 ::: details Info vanzare
   <Image src="https://i.imgur.com/IgcZWkk.png" alt="Info vanzare2" />
