@@ -161,7 +161,16 @@ Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul d
 | Badge | Cerință |
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/mX5nRm1.png" alt="BACK2SCHOOL" width="50" label="Back To School" />| obținut de jucătorii care au găsit în total un număr de 500 cărți pe parcursul evenimentului |
-| <Image src="https://i.imgur.com/1MDKFt9.png" alt="BACK2SCHOOL" width="50" label="Back To School Group" />| obținut de jucătorii care au în total un număr de 400 de cărți într-un grup cu alți jucători, pe parcursul evenimentului |
+| <Image src="https://i.imgur.com/1MDKFt9.png" alt="BACK2SCHOOL" width="50" label="Back To School Group" />| obținut de jucătorii care au găsit în total un număr de 400 de cărți într-un grup cu alți jucători, pe parcursul evenimentului |
+
+### Back To School 2025
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de toamnă, 'Back 2 School' din 2025.
+
+| Badge | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/GXyC54u.png" alt="BACK2SCHOOL" width="50" label="Back To School" />| obținut de jucătorii care au găsit în total un număr de 30 cărți pe parcursul evenimentului |
+| <Image src="https://i.imgur.com/Th7FoSi.png" alt="BACK2SCHOOL" width="50" label="Back To School Group" />| obținut de jucătorii care au găsit în total un număr de 30 de cărți într-un grup cu alți jucători, pe parcursul evenimentului |
 
 ### Easter Quest 2025
 
