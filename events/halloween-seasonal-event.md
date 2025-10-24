@@ -12,8 +12,7 @@ title: Halloween Seasonal Event
 
 # Halloween Seasonal Event 🎃
 
-Cea mai înfricoșătoare perioadă a anului a sosit și pe serverul nostru!\
-Evenimentul de Halloween va fi disponibil timp de 30 de zile pe server (24.10.2024 - 24.11.2024, ora 23:59).
+A venit din nou acea perioada din an in care totul din jur devine sinistru.\
 
 ### Spooky Wheel 💀
 
@@ -29,22 +28,22 @@ Spooky Wheel poate fi localizată utilizând aplicația **Maps** din telefonul m
 Odată ajuns acolo, pentru a accesa meniul, vă fi nevoie să apeși tasta `E` pentru a interacționă.
 
 ::: details Accesare locație
-<Image src="https://i.imgur.com/iINPvNF.png" alt="Locatie" />
+<Image src="https://i.imgur.com/clOkCpQ.png" alt="Locatie" />
 :::
 
 ::: details Accesare meniu roată
-<Image src="https://i.imgur.com/8JNEFc7.png" alt="Accesare meniu roata" />
+<Image src="https://i.imgur.com/vPGyUtg.png" alt="Accesare meniu roata" />
 :::
 
 ::: details Info roată
-<Image src="https://i.imgur.com/EOu6Q85.png" alt="info" />
+<Image src="https://i.imgur.com/oUiXI3H.png" alt="info" />
 :::
 
 În momentul apăsării 'Spooky Spin' din mijlocul roții, aceasta va produce animația de învârtire iar premiul ce va pica va fi primit direct în inventarul jucătorului.
 
 ## Misiuni disponibile
 
-Evenimentul dispune de 3 misiuni [Jack O'Lanterns Quest](#jack-o-lanterns-quest-🎃), [Ghost Busters Quest](#ghost-busters-quest-👻), [Trick or Treat Quest](#trick-or-treat-quest-🏠). \
+Evenimentul dispune de 3 misiuni [Zombie Survival Event](#zombie-survival-event-🧟), [Jack O` Lanterns Quest](#jack-o-lanterns-quest-🎃), [Ghost Busters](#ghost-busters-quest-👻). \
 Toate cele 3 quest-uri pot fi completate atât în mod solo cât și într-o grupă de maxim 4 persoane. \
 În cazul în care jucătorii completează quest-ul în grupă, aceștia vor primi recompense mărite.
 
@@ -56,12 +55,12 @@ Comenzi disponibile pentru party:
 ### Jack O'Lanterns Quest 🎃
 Acest eveniment este unul cu o dificultate ușoară. 
 Quest-ul poate fi început de la NPC-ul specific acestuia, NPC ce poate fi localizat din telefonul mobil, aplicația **Maps** sub categoria **Halloween**.
-Pe harta din 'ESC' vă vor fi afișate 250 locații ale dovlecilor pe care va trebui să îi colectați.
+Pe harta din 'ESC' vă vor fi afișate 250 locații ale dovlecilor pe care va trebui să îi aprindeți.
 
-Pentru fiecare dovleac găsit, veți fi recompensat cu un număr de bomboane ce pot fi utilizate în 'Halloween Shop', meniu ce poate fi deschis prin `/halloween`.
+Pentru fiecare dovleac aprins, veți fi recompensat cu un număr de bomboane ce pot fi utilizate în 'Halloween Shop', meniu ce poate fi deschis prin `/halloween`.
 
-::: details Colectare dovleac
-<Image src="https://i.imgur.com/p29od95.png" alt = "Colectare dovleac"/>
+::: details Aprindere dovleac
+<Image src="https://i.imgur.com/SRdvopj.png" alt = "Aprindere dovleac"/>
 :::
 
 ### Ghost Busters Quest 👻
@@ -69,48 +68,158 @@ Pentru fiecare dovleac găsit, veți fi recompensat cu un număr de bomboane ce 
 Acest eveniment este unul cu o dificultate medie.  
 Quest-ul poate fi început de la NPC-ul specific acestuia, NPC ce poate fi localizat din telefonul mobil, aplicația **Maps** sub categoria **Halloween**.
 
-Pentru o imersiune mai bună, acest quest poate fi realizat alături de vremea `HALLOWEEN` , aceasta devenind una posomorâtă, cu ploaie, fulgere și multe alte efecte speciale. \
-Pe harta din 'ESC' vă vor fi afișate 30 locații ale fantomelor pe care va trebui să le fotografiati.
+Pe harta din 'ESC' vă vor fi afișate 30 locații ale fantomelor pe care va trebui să le eliminați. Tot odată, vom primi și un Ray Pistol pe care va trebui să îl folosim. Acesta vine cu muniție nelimitată.
 
-Pentru a fotografia o fantomă, va trebui să deschideți telefonul prin tasta `KEY UP` și să selectați iconița special dedicată camerei, odată deschisă, va trebui îndreptată spre fantomă și apăsat `MOUSE LEFT BUTTON` pentru a o fotografia.
-
-::: details Aplicaţia camera din telefon
-<Image src="https://i.imgur.com/wTfbfj8.png" alt="Aplicaţia camera din telefon" />  
-:::
+Fantomele se mișcă în momentul în care suntem aproape de ele. Va trebui să tragem între 1 - 3  gloanțe înspre ele pentru a le omorî.
 
 ::: details Fantoma
-<Image src="https://i.imgur.com/eeLmCzA.png" alt="Fantoma" />  
+<Image src="https://i.imgur.com/dMhJ7tG.png" alt="Fantoma" />  
+:::
+
+Odata omorâtă o fantomă, va trebui să mergem la entitatea ramasă și să apăsăm tasta E pentru a ne primi premiul.
+
+
+::: details Colectare entitate
+<Image src="https://i.imgur.com/pbmPUXU.png" alt="Colectare entitate" />  
 :::
 
 Pentru fiecare fantomă fotografiată veți fi recompensat cu un număr de bomboane ce pot fi utilizate în 'Halloween Shop', meniu ce poate fi deschis prin `/halloween`.
 
-### Trick or Treat Quest 🏠
+###  Zombie Survival Event  🧟
 
-După cum spune și numele, nimic nu este mai ușor ca, colindatul caselor din orașul Los Santos. \
-Quest-ul poate fi inceput de la NPC-ul specific acestuia, NPC ce poate fi localizat din telefonul mobil, aplicatia **Maps** sub categoria **Halloween**. \
+Precum spune și numele evenimentului, jucătorii în cadrul acestuia vor trebui să supraviețuiască contra mai multor valuri de zombie ce vor veni să-i atace, aceste atacuri amplificându-se pe fiecare wave. \
+Acest eveniment poate fi completat **individual** sau în **party**. Party-urile pot fi de maximum 4 jucători. \
 
-Pe harta din 'ESC' vă vor fi afișate 50 locații ale unor case pe care va trebui să le colindati.\
-Pentru a colinda o casă mergeți la intrarea acesteia și apăsați tasta `K`.
+Localizarea NPC-ului de la care vom putea să ne înscriem în eveniment poate fi efectuată prin '/gps -> Halloween -> Zombie Survival Event'. \
 
-::: details Tasta în faţa casei
-<Image src="https://i.imgur.com/nrUkccT.png" alt="Faţa casei" />  
+::: details Localizare eveniment
+<Image src="https://i.imgur.com/KQIOf7v.png" alt="Localizare eveniment" />  
 :::
 
-Odată apăsată tasta `K`, veţi colinda casa şi veţi auzi un sunet specific colindului. \
+Ajunși la NPC va trebui să apăsăm tasta E și să dăm Start Event. \
 
-Pentru fiecare casă colindată veți fi recompensat cu un număr de bomboane ce pot fi utilizate în 'Halloween Shop', meniu ce poate fi deschis prin `/halloween`.
+::: details Începere eveniment
+<Image src="https://i.imgur.com/vHEXGT5.png" alt="Începere eveniment" />  
+:::
+
+Odată apăsat pe **Start Event** vom avea 2 opțiuni, **Solo Mode** și **Party Mode**. Dacă vom apăsa pe **Play Solo**, vom fi direct teleportați în aria evenimentului. Dacă apăsăm pe **Party Mode**, vor fi afișați jucătorii din proximitatea noastră disponibili pentru a fi **invitați**. Pentru a accepta invitația într-un grup, utilizatorii vor folosi comanda **/joinparty <id>**.
+
+::: details Afișare meniu eveniment
+<Image src="https://i.imgur.com/EYi6BKb.png" alt="Afișare meniu eveniment" />  
+:::
+
+::: details Afișare meniu party
+<Image src="https://i.imgur.com/PLMggSP.png" alt="Afișare meniu party" />  
+:::
+
+::: details Afișare text invite party
+<Image src="https://i.imgur.com/go6lTUJ.png" alt="Afișare text invite party" />  
+:::
+
+Apăsând butonul de **invite**, vom invita un jucător în lobby-ul nostru. După accept, acesta va fi afișat în lista de **Party Members** și va trebui să dea **Ready** pentru a putea începe meciul. Butonul de **Start Game** după ce toți jucătorii sunt ready va pune party-ul în meciul propriul zis.\
+
+::: details Jucători invitați
+<Image src="https://i.imgur.com/p5cqWGS.png" alt="Jucători invitați" />  
+:::
+
+::: details Începerea meciului
+<Image src="https://i.imgur.com/BQ36VBV.png" alt="Începerea meciului" />  
+:::
+
+Odată intrați în meci, vom fi teleportați într-o zonă specială în care acesta se desfășoară.
+
+::: details Desfășurarea meciului
+<Image src="https://i.imgur.com/HiZvtuI.png" alt="Desfășurarea meciului" />  
+:::
+
+În partea de sus stânga a imaginii, vom putea observa un radar important pentru partidele efectuate. Pe acesta vom putea vedea direcția din care vin zombie pentru atac dar și zona în care se află **Weapon Crate** care se mută la fiecare 5 wave-uri.
+
+::: details Cutia cu arme
+<Image src="https://i.imgur.com/gHIg7D6.png" alt="Cutia cu arme" />  
+:::
+
+**Weapon Crate** este locul unde putem schimba arma pe care o avem contra unor puncte pe care le obținem prin uciderea zombiilor (**90 puncte**) sau prin fiecare headshot efectuat pe aceștia (**10 puncte**). Armele care pot pica din Crate sunt **random** și acoperă toate armele jocului. Prețul de deschidere în primul wave este de 500 de puncte, crescând **în fiecare wave** cu câte **100 puncte** (ex: wave 22, 2.200 puncte). Dacă arma ce ne pică este mai slabă sau pur și simplu nu ne-o dorim, o putem lăsa deasupra crate-ului, însă opțiunea de deschiderea a unuia va fi blocată timp de 20 de secunde.
+
+::: details Punctaj ucidere zombie
+<Image src="https://i.imgur.com/vbfcEfo.png" alt="Punctaj ucidere zombie" />  
+:::
+
+::: details Preluare armă
+<Image src="https://i.imgur.com/upG0NFO.png" alt="Preluare armă" />  
+:::
+
+**ATENȚIE!** Toate armele au o cantitate limitată de gloanțe. Odată epuizate, va trebui să schimbați arma sau să așteptați să prindeți perk-ul **Max Ammo**, perk ce se dropează aleatoriu prin uciderea de zombie. Vă recomandăm să încercați să dați tap-uri în capul zombilor până îi omorâți. \
+În partea de sus dreapta a imaginii este reprezentat **wave-ul** în care ne aflăm. Nu există o limită de wave-uri pe care le putem face, însă există o limită de premii pe care le putem primi într-o zi, care va fi prezentată mai jos.
+
+::: details Wave-ul actual
+<Image src="https://i.imgur.com/AA8T0GO.png" alt="Wave-ul actual" />  
+:::
+
+În partea de jos stânga a imaginii vom putea observa jucătorii prezenți în lobby (dacă este party) sau ne putem vedea HP-ul și punctele deținute dacă jucăm individual.
+
+::: details Jucătorii din lobby
+<Image src="https://i.imgur.com/Na4gUCi.png" alt="Jucătorii din lobby" />  
+:::
+
+În momentul în care un jucător din lobby moare, ceilalți jucători vor fi **notificați** de acest aspect, putând să îi dea **revive** celui decedat prin apăsarea tastei **E**. Timerul pentru revive este de 1 minut, timp în care, dacă acesta nu este reînviat, va fi exclus din meci.
+
+::: details Jucătorul decedat
+<Image src="https://i.imgur.com/TpEpUD9.png" alt="Jucătorul decedat" />  
+:::
+
+**Perk-urile** care pot fi dropate aleatoriu prin uciderea zombilor sunt următoarele: **Max Ammo**, **Max Health**, **Insta Kill** și **Kaboom**. \
+**Max Ammo** – este un perk care alimentează arma jucătorului cu numărul maxim de gloanțe.
+
+::: details Afișare Max Ammo
+<Image src="https://i.imgur.com/moncemd.png" alt="Afișare Max Ammo" />  
+:::
+
+**Max Health** - este un perk ce îi va reface viața jucătorului până la 100hp.
+
+::: details Afișare Max Health
+<Image src="https://i.imgur.com/lRIZ1hs.png" alt="Afișare Max Health" />  
+:::
+
+**Insta Kill** – este un perk care îi oferă jucătorului abilitatea de a omorî zombii cu un singur glonț, timp de 30 de secunde. În cazul în care sunt mai multe perk-uri Insta Kill pe jos, durata lor se cumulează (exemplu: 2 Insta Kill = 1 minut).
+
+::: details Afișare Insta Kill
+<Image src="https://i.imgur.com/SeYqjDC.png" alt="Afișare Insta Kill" />  
+:::
+
+**Kaboom** – este un perk care, odată ridicat de pe jos, va omorî toți zombii aflați în viață și va atribui creditele de kill jucătorului care l-a preluat.
+
+::: details Afișare Kaboom
+<Image src="https://i.imgur.com/80iJnwx.png" alt="Afișare Kaboom" />  
+:::
+
+În momentul în care suntem omorâți în modul **solo** sau nu mai suntem spawnați din nou în modul **party**, vom primi o tabelă în care vom putea vedea statisticile noastre. Acestea includ timpul jucat în minigame, wave-urile supraviețuite, headshot-urile / kill-urile și scorul total.
+
+::: details Sumar minigame
+<Image src="https://i.imgur.com/7tufJW3.png" alt="Sumar minigame" />  
+:::
+
+În momentul în care vom ajunge la **wave 10** timp de 20 de zile, vom primi un badge special care va fi afișat mai jos. Totodată, la fiecare 10 wave-uri completate vom primi un **Halloween Crate**, ce poate fi deschis sau vândut altui jucător (ex: am ieșit la wave 11 → primesc 1 crate / am ieșit la wave 57 → primesc 5 crate). \
+Dacă ajungem la **wave 50**, vom primi un badge special suplimentar. Putem urmări progresul folosind comanda `/halloween` și apăsând pe **Details** la categoria **Zombie Survival Waves**.
+
+Pentru o completare daily (atingerea **wave 10**), jucătorii vor primi 165 - 210 bomboane, indiferent dacă îl fac solo sau în party. 
+
+::: details Progres minigame
+<Image src="https://i.imgur.com/89kPrKe.png" alt="Progres minigame" />  
+:::
+
+Limita de **Halloween crate** ce pot fi obținute într-o singură zi din urma acestui eveniment sunt de 10. Resetarea se va face zilnic la ora 07:00.
 
 ## De câte ori pot face misiunile pe zi?
-Quest-urile **Ghost Busters** și **Trick or Treat** pot fi completate o singură dată pe zi. \
+Quest-urile **Ghost Busters** poate fi completat o singură dată pe zi. \
 Quest-ul **Jack O' Lanterns** poate fi completat o dată pe săptămână. Resetarea are loc în fiecare Vineri la ora 7:00 AM.
 
 ## Badge-uri
 
 | Badge   | Metoda de obținere |
 | :-----------: | :-----------: |
-| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/pumpkins.png" alt="Jack O' Lantern" width="100" label="Jack O' Latntern" /> | Găsește 750 dovleci ascunși. |
-| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/ghosts.png"  alt="Ghost Buster" width="100" label="Ghost Buster" /> | Fotografiază 600 fantome. |
-| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/carol.png"  alt="Trick Or Treat" width="100" label="Trick Or Treat" /> | Colindă 1000 case. |
+| <Image src="https://i.imgur.com/wMCb2zI.png" alt="Zombie Survival Event" width="100" label="Zombie Survival Event" /> | Acumulează 10 wave-uri timp de 20 de zile. |
+| <Image src="https://i.imgur.com/1ClGXqA.png"  alt="Wave 50 Conqueror" width="100" label="Wave 50 Conqueror" /> | Supraviețuiește 50 de wave-uri. |
+| <Image src="https://i.imgur.com/bfybhYQ.png"  alt="Ghost Busters" width="100" label="Ghost Busters" /> | Ucide 30 de fantome timp de 20 de zile. |
 
 ## Candies
 
@@ -139,8 +248,7 @@ Pentru că un Halloween nu este delicios fară dulciuri, în urma diverselor act
 
 Bomboanele pot fi folosite în shop-ul special ce poate fi accsesat prin interacțiunea comanda `/halloween`. \
 Odată la 6 ore, preturile și inclusiv itemele din shop se vor modifica, oferind obiecte speciale pentru fiecare jucător în parte, fiind diferit de la jucător la jucător, atât prețul, cât și item-ul oferit. \
-În shop se vor regăsi aleatoriu haine din colecția de haine Sigma, iteme din Premium Shop precum și diverse iteme utile din joc. \
-Tot din **Halloween Shop** jucatorii pot debloca vehicule speciale **TEMPORARE** precum **Sanctus** și **Weevil Custom**.
+În shop se vor regăsi aleatoriu haine din colecția de haine Epsilon, iteme din Premium Shop precum și diverse iteme utile din joc. \
 
 | Item   | Metode achiziție | Limită de achiziții |
 | :-----------: | :-----------: | :-----------: |
@@ -193,5 +301,3 @@ Tot din **Halloween Shop** jucatorii pot debloca vehicule speciale **TEMPORARE**
 | <InventoryItem itemKey="vehicle_wheels_ticket" width="50" /> | 8500 - 11500 bomboane | 1 dată/6 ore |
 | <InventoryItem itemKey="name_change_ticket" width="50" /> | 6500 - 10500 bomboane | 1 dată/6 ore |
 | <InventoryItem itemKey="inventory_slots_ticket" width="50" /> | 20000 - 30000 bomboane | 1 dată/6 ore |
-| <Image src="https://i.imgur.com/8aR9vXT.png" alt="Sanctus" width="50" label="Sanctus" /> | Completează misiunea [Ghost Busters](#ghost-busters-quest) de <Color hex="#fb923c">10</Color> ori pentru a debloca | o singură dată |
-| <Image src="https://i.imgur.com/eivHCyM.png" alt="Weevil Custom" width="50" label="Weevil Custom" /> | Completează misiunea [Trick or Treat](#trick-or-treat-quest) de <Color hex="#fb923c">10</Color> ori pentru a debloca | o singură dată | 
