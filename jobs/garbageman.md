@@ -21,9 +21,6 @@ Jobul de Garbageman constă în păstrarea curată a orașului Los Santos prin c
 
 Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind butonul `E` și selectează "**Începe munca**". Ți se va da un vehicul în care trebuie să depozitezi sacii de gunoi. Urmează ruta de pe hartă până la prima pubelă.
 
-::: tip
-Dacă mori sau te deconectezi, tura de job este salvată automat și poți continua umplerea vehiculului Trashmaster. 
-:::
 
 ::: details Începe munca  
   <Image src="https://i.imgur.com/lIPqxgm.gif" alt="Start Job" />
@@ -47,8 +44,6 @@ După ce ai început tura de munca, trebuie să urmezi ruta de pe hartă până 
 :::  
 
 ### Cum mă opresc din muncă?  
- 
-Vehiculul trebuie golit automat când indicatorul îți indică _**100%**_ dar poți să o faci la orice nivel de umplere tastând comanda `/unloadgarbage` sau `/unloadtrash`.
 
 Pentru a termina tura de job instant și posibilitatea să faci altă activitate imediat, tastează comanda `/stopwork` - acest lucru îți anulează orice progres salvat în vehiculul Trashmaster.
 
