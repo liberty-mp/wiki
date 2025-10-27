@@ -102,7 +102,7 @@ Ajunși la NPC va trebui să apăsăm tasta E și să dăm Start Event. \
 <Image src="https://i.imgur.com/vHEXGT5.png" alt="Începere eveniment" />  
 :::
 
-Odată apăsat pe **Start Event** vom avea 2 opțiuni, **Solo Mode** și **Party Mode**. Dacă vom apăsa pe **Play Solo**, vom fi direct teleportați în aria evenimentului. Dacă apăsăm pe **Party Mode**, vor fi afișați jucătorii din proximitatea noastră disponibili pentru a fi **invitați**. Pentru a accepta invitația într-un grup, utilizatorii vor folosi comanda **/joinparty <id>**.
+Odată apăsat pe **Start Event** vom avea 2 opțiuni, **Solo Mode** și **Party Mode**. Dacă vom apăsa pe **Play Solo**, vom fi direct teleportați în aria evenimentului. Dacă apăsăm pe **Party Mode**, vor fi afișați jucătorii din proximitatea noastră disponibili pentru a fi **invitați**. Pentru a accepta invitația într-un grup, utilizatorii vor folosi comanda **/joinparty [id]**.
 
 ::: details Afișare meniu eveniment
 <Image src="https://i.imgur.com/EYi6BKb.png" alt="Afișare meniu eveniment" />  
