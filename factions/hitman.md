@@ -16,13 +16,13 @@ title: Hitman Agency
 
 ## Aplicația Hitman
 
-Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea pot fi de **două tipuri**, mai exact fără martori și cât se poate de **discret** care costă minim 650 USDT sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe care costă minim 500 USDT.
+Prin intermediul acestei aplicații se transmit servicii către **agenția Hitman**. Acestea pot fi de **două tipuri**, mai exact fără martori și cât se poate de **discret** care costă minim **1000** USDT sau într-o manieră **brutală** fără ca asasinul să gândească de două ori când vede ținta, indiferent de circumstanțe care costă minim **750** USDT.
 
-<Image src="https://i.imgur.com/9w85G77.png" alt="Hitman" /> 
+<Image src="https://imgur.com/IrQ7Jzo.png" alt="Hitman" /> 
 
 ## Echipamentul
 
-**Echipamentul** presupune schimbarea de **haine**, preluarea **armelor**, mai exact un **pistol cu 36 de gloanțe** în total și un **sniper cu 20 de gloanțe**, suficiente pentru a duce contractul la capăt.
+**Echipamentul** presupune schimbarea de **haine**, preluarea **armelor**, mai exact un **pistol cu 72 de gloanțe** în total și un **sniper cu 40 de gloanțe**, suficiente pentru a duce contractul la capăt.
 
 ::: tip
 Pentru a face asta, trebuie să urci la etajul **HQ-ului** și să apeși tasta `E` pe *checkpoint-ul* mov denumit *Contracts list* si sa selectezi un contract din lista! 
@@ -56,8 +56,7 @@ Atașamentele pe Pistolul .50 sunt disponibile începând cu **rank 2** iar pe S
 
 ## Contractul
 
-Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsarea tastei `E` pe *checkpoint-ul* mov de lângă harta orașului după ce te-ai echipat. Toate contractele valabile o să fie afișate, împreună cu suma pe care asasinul o să o încaseze **după** finalizarea contractului, numele țintei, ce tip de contract este și totodată când a fost pus contractul. 
-
+Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsarea tastei `E` pe *checkpoint-ul* mov de lângă harta orașului după ce te-ai echipat. Toate contractele valabile vor fi afișate în două categorii — Normal și Silent — împreună cu numărul curent de contracte pentru fiecare tip. După selectarea unui tip de contract, agentul va afla numele țintei, tipul contractului va apărea in dreapta sus, iar la finalizarea contractului hitmanul va primi suma de bani pusă pe acel jucător.
 ::: warning
 Să nu uiți să verifici ce fel de contract este înainte să-l duci la capăt!
 :::
@@ -66,23 +65,19 @@ Să nu uiți să verifici ce fel de contract este înainte să-l duci la capăt!
 Contractul silent trebuie executat fără martori. Ca martor este definit orice jucător, într-un range de 30 metri, care are line of sight direct către hitman. Ca martori nu se iau în considerare alți hitmani, fie ei on sau off duty, sau ținta contractului.
 :::
 
-::: danger Motive de fail al contractului 
+::: danger Motive de fail ale contractului 
 Un contract se consideră failed în următoarele situații:
 
 - hitmanul moare
+- luarea de pasageri în timpul desfășurării contractului 
 - contractul a avut martori (în cazul contractelor silent)
 - contractul a fost finalizat nefolosind armele facțiunii (hitmanul a omorât ținta cu pumnii / mașina)
 
 Ultimele 2 motive de fail sunt cele în urma cărora hitmanul este sancționat în cadrul facțiunii cu 15 warning points pe o durată de 7 zile.
 :::
 
-::: details Interfață & Tracking
-<Image src="https://i.imgur.com/P33auRe.png" alt="ContractH" />
-<Image src="https://i.imgur.com/aBBM7UL.png" alt="Tracking" />
-:::
-
 ::: details Exemplu video
-<Image src="https://i.imgur.com/8lwhrHO.gif" alt="Proces" />
+<Image src="https://i.imgur.com/hPYK1MD.gif" alt="Proces" />
 :::
 
 ## Pașii contractului
@@ -91,12 +86,16 @@ Odată cu acceptarea unui contract, asasinul are responsabilitatea să-l execute
 2. Assassinate the target
 3. Return your weapons to the locker
 
-După ce victima este asasinată, este datoria agentului Hitman să aducă armele folosite la HQ, mai exact la locul de unde a preluat contractul si să apese tasta `E` pentru a le returna. **Transferul sumei de bani** pusă pe acest contract o să fie virat imediat cu **terminarea celor trei pași**. 
+După ce victima este asasinată, este datoria agentului Hitman să aducă armele folosite la HQ sau la unul dintre cele două puncte extra găsite în **Grand Senora Desert** sau **Paleto Bay** si să apese tasta `E` pentru a le returna. **Transferul sumei de bani** pusă pe acest contract o să fie virat imediat cu **terminarea celor trei pași**. 
+
+::: tip 
+Agentul poate alege oricand oricare alt punct de livrare al armelor chiar dacă are un checkpoint activ pe un altul.
+:::
 
 Contractul nu este dus la capăt și se consideră *eșuat* dacă membrul Hitman moare sau părăsește jocul.
 
 ::: warning
-Contractele pot fi făcute cu vehiculele personale ale membrilor fie cu cele de facțiune, este la alegerea sa.
+Contractele pot fi făcute cu vehiculele personale ale membrilor sau cu cele de la facțiune, este la alegerea fiecăruia.
 :::
 
 ::: details Exemplu pași
