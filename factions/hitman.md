@@ -77,7 +77,7 @@ Ultimele 2 motive de fail sunt cele în urma cărora hitmanul este sancționat �
 :::
 
 ::: details Exemplu video
-<Image src="https://imgur.com/a/pqhkXhL.gif" alt="Proces" />
+<Image src="https://i.imgur.com/hPYK1MD.gif" alt="Proces" />
 :::
 
 ## Pașii contractului
