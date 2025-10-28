@@ -121,10 +121,10 @@ Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul d
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
-| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/pumpkins_25.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au colectat 750 de dovleci în cadrul questului 'Jack O' Lanterns'. |
-| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/ghosts_25.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au capturat spiritul a 600 de fantome în cadrul questului 'Ghost Busters'. |
-| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/event_wave_50.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au parcurs 'Wave 50' în cadrul questului 'Zombie Survival'. |
-| <Image src="https://i.imgur.com/OX9vMyO.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au parcurs 'Wave 10' timp de 20 de zile în cadrul questului 'Zombie Survival'. |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/pumpkins_25.png" alt="Jack O'Lanterns" width="50" label="Halloween Event" />| obținut de jucătorii ce au colectat 750 de dovleci în cadrul questului 'Jack O' Lanterns'. |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/ghosts_25.png" alt="Ghosts Busters" width="50" label="Halloween Event" />| obținut de jucătorii ce au capturat spiritul a 600 de fantome în cadrul questului 'Ghost Busters'. |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/event_wave_50.png" alt="Zombie Survival - Wave 50" width="50" label="Halloween Event" />| obținut de jucătorii ce au parcurs 'Wave 50' în cadrul questului 'Zombie Survival'. |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/event.png" alt="Zombie Survival" width="50" label="Halloween Event" />| obținut de jucătorii ce au parcurs 'Wave 10' timp de 20 de zile în cadrul questului 'Zombie Survival'. |
 
 ### Winter 2023 Badges
 
