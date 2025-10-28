@@ -23,7 +23,7 @@ Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind b
 
 
 ::: details Începe munca  
-  <Image src="https://i.imgur.com/S8IXlzK.gif" alt="Start Job" />
+  <Image src="https://i.imgur.com/AEVFAT3.gif" alt="Start Job" />
 :::  
 
 ::: details Vehicule oferite de NPC 
@@ -40,7 +40,7 @@ Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind b
 După ce ai început tura de muncă, trebuie să urmezi ruta de pe hartă până ajungi la o pubelă care trebuie golită. După ce ai ajuns, trebuie să te dai jos din vehicul și să te duci lângă pubelă pentru a ridica sacul de gunoi. Odată ridicat trebuie dus în spatele vehiculului Trashmaster pentru depozitare. După aceea urcă în vehicul și urmează noua rută. Vei fi plătit la fiecare sac de gunoi colectat.
 
 ::: details Ridicare și depozitare sac gunoi  
-  <Image src="https://i.imgur.com/sSapCzc.gif" alt="Ridicare și depozitare sac gunoi" />
+  <Image src="https://i.imgur.com/53m5qCV.gif" alt="Ridicare și depozitare sac gunoi" />
 :::  
 
 ### Cum mă opresc din muncă?  
