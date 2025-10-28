@@ -13,7 +13,7 @@ title: Garbageman
 
 ## Desfășurarea jobului  
 
-Jobul de Garbageman constă în păstrarea curată a orașului Los Santos prin colectarea sacilor de gunoi de la diferite puncte de colectare și livrarea acestora la groapa de gunoi.  
+Jobul de Garbageman constă în păstrarea curată a orașului Los Santos prin colectarea sacilor de gunoi de la diferite puncte de colectare.  
 
 ## Întrebări frecvente
 
@@ -23,7 +23,7 @@ Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind b
 
 
 ::: details Începe munca  
-  <Image src="https://i.imgur.com/lIPqxgm.gif" alt="Start Job" />
+  <Image src="https://i.imgur.com/S8IXlzK.mp4" alt="Start Job" />
 :::  
 
 ::: details Vehicule oferite de NPC 
@@ -37,19 +37,40 @@ Odată ajuns la locația NPC-ului Garbageman, interacționează cu el folosind b
  
 ### Cum ridic și depozitez sacii de gunoi?  
 
-După ce ai început tura de munca, trebuie să urmezi ruta de pe hartă până ajungi la o pubelă care trebuie golită. Dupa ce ai ajuns, trebuie să te dai jos din vehicul și să te duci lângă pubelă pentru a ridica sacul de gunoi. Odată ridicat trebuie dus în spatele vehiculului Trashmaster pentru depozitare. După aceea urcă în vehicul și urmează noua rută. Vei fi plătit la descărcarea vehiculului la groapa de gunoi.
+După ce ai început tura de muncă, trebuie să urmezi ruta de pe hartă până ajungi la o pubelă care trebuie golită. După ce ai ajuns, trebuie să te dai jos din vehicul și să te duci lângă pubelă pentru a ridica sacul de gunoi. Odată ridicat trebuie dus în spatele vehiculului Trashmaster pentru depozitare. După aceea urcă în vehicul și urmează noua rută. Vei fi plătit la fiecare sac de gunoi colectat.
 
 ::: details Ridicare și depozitare sac gunoi  
-  <Image src="https://i.imgur.com/JXZvgXX.gif" alt="Ridicare și depozitare sac gunoi" />
+  <Image src="https://i.imgur.com/sSapCzc.mp4" alt="Ridicare și depozitare sac gunoi" />
 :::  
+
+## Crearea unui party de job
+
+Job-ul `Garbageman` permite jucătorilor să lucreze în grup. În momentul în care un jucător începe munca, acesta va fi informat că poate să își invite un prieten să practice job-ul alături de el folosind comanda `/jobinvite`. În modul CO-OP, veniturile sunt crescute cu 15%.
+
+::: details Informare /jobinvite și acceptare
+  <Image src="https://i.imgur.com/yHJcDb0.png" alt="Informare /jobinvite" />
+  <Image src="https://i.imgur.com/umdqGOb.png" alt="Acceptare /jobinvite" />
+::: 
+
+Odată acceptată invitația, lobby-ul va apărea în partea stângă cu 2 roluri, anume: `Driver` & `Back Seat`.
+
+::: details Roluri
+  <Image src="https://i.imgur.com/lhmEwkv.png" alt="Roluri" />
+::: 
+
+Unul dintre jucători va conduce autovehiculul, iar altul va fi nevoit să coboare la fiecare checkpoint și să livreze sacul de gunoi la Trashmaster.
+
+::: details Livrare în grup
+  <Image src="https://i.imgur.com/uH3ome0.png" alt="Livrare in grup" />
+:::
 
 ### Cum mă opresc din muncă?  
 
-Pentru a termina tura de job instant și posibilitatea să faci altă activitate imediat, tastează comanda `/stopwork` - acest lucru îți anulează orice progres salvat în vehiculul Trashmaster.
+Pentru a încheia instant tura de lucru și a putea începe imediat o altă activitate, folosește comanda `/stopwork`. Dacă lucrezi în echipă cu un alt jucător și acesta folosește comanda, tura va fi oprită automat pentru amândoi.
 
 ## Obiecte speciale pentru crafting și alte activități & șanse de găsire  
 
-Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
+Pe lângă suma de bani primită după colectare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 
 ::: tip Detalii șanse drop  
 
