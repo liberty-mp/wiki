@@ -24,7 +24,7 @@ Apăsând `click-stânga` pe butonul `Place Contract` din dreapta-jos a aplicaț
 
 După ce ai găsit jucătorul pe care dorești să îl asasinezi, apasă `click-stânga` pe numele acestuia pentru a continua.
 
-<Image src="https://imgur.com/a/GO8JfqC.gif" alt="Căutare jucător" />
+<Image src="https://i.imgur.com/fRHt370.gif" alt="Căutare jucător" />
 
 Cu ajutorul slider-ului, poți seta suma de USDT (Tether) pe care dorești să o plătești pentru serviciile de asasinare.
 
