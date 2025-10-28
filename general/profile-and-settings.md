@@ -60,11 +60,14 @@ Secțiunea **Shop**:
 Secțiunea **LibertyPass Boost** 
 - afișează faptul dacă jucătorul are un LibertyPass Boost activ sau nu.
 
+Secțiunea **Drugs Addiction**
+- afișează nivelul de adicție acumulat în urma consumului de droguri și trabucuri. Fiecare procent de adicție reduce durata efectului drogurilor (exemplu: 5% adicție înseamnă că efectul unui drog durează cu 5% mai puțin). Atunci când un jucător atinge 100% adicție, acesta nu mai poate consuma droguri.
+
 Secțiunea **Discord** 
 - afișează dacă jucătorul are statusul **liberty.mp/discord** activ sau nu pe contul său de Discord asociat cu cel din joc. Dacă acesta este activ, jucătorului i se vor activa următoarele beneficii: o sumă random între $250-$500 la payday, 5% 'Heat Reduction', 5% 'Rob Money Boost', 5% 'Job Boost', 5% 'Wanted Time Reduction' și 5% 'Jail Time Reduction'.
 
 <Image src="https://i.imgur.com/flKyMxg.png" alt="General1" />
-<Image src="https://i.imgur.com/HXQ9fxH.png" alt="Discord" />
+<Image src="https://i.imgur.com/YC52t1e.png" alt="General2" />
 
 Secțiunea **Your Rent**: 
 - afișează locul unde un jucător deține o chirie;  
