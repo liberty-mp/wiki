@@ -99,11 +99,32 @@ Un badge nou a fost adăugat odată cu `Sezonul 3` din [Liberty Pass](../events/
 
 ### Halloween Event 2023 Badge
 
-Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Halloween](../events/halloween-seasonal-event) din 2023.
+Acest badge a fost acordat jucătorilor ce au participat la evenimentul de halloween, 'Halloween Seasonal Event' din 2023.
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/vzSPRo3.png" alt="HLLW2023" width="50" label="Halloween Event" />| obținut de jucătorii ce au completat de 10 ori quest-urile de Halloween |
+
+### Halloween Event 2024 Badges
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de halloween, 'Halloween Seasonal Event' din 2024.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/45eP6bA.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au colectat 750 de dovleci în cadrul questului 'Jack O' Lanterns'. |
+| <Image src="https://i.imgur.com/K0PilhK.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au fotografiat 600 de fantome în cadrul questului 'Ghost Busters'. |
+| <Image src="https://i.imgur.com/B9etwzb.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au colindat 1000 de case în cadrul questului 'Trick or Treat'. |
+
+### Halloween Event 2025 Badges
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de halloween, 'Halloween Seasonal Event' din 2025.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/pumpkins_25.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au colectat 750 de dovleci în cadrul questului 'Jack O' Lanterns'. |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/ghosts_25.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au capturat spiritul a 600 de fantome în cadrul questului 'Ghost Busters'. |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/halloween/event_wave_50.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au parcurs 'Wave 50' în cadrul questului 'Zombie Survival'. |
+| <Image src="https://i.imgur.com/OX9vMyO.png" alt="HLLW2024" width="50" label="Halloween Event" />| obținut de jucătorii ce au parcurs 'Wave 10' timp de 20 de zile în cadrul questului 'Zombie Survival'. |
 
 ### Winter 2023 Badges
 
