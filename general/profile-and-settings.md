@@ -60,8 +60,11 @@ Secțiunea **Shop**:
 Secțiunea **LibertyPass Boost** 
 - afișează faptul dacă jucătorul are un LibertyPass Boost activ sau nu.
 
-<Image src="https://i.imgur.com/flKyMxg.png" alt="General1" />
+Secțiunea **Discord** 
+- afișează dacă jucătorul are statusul **liberty.mp/discord** activ sau nu pe contul său de Discord asociat cu cel din joc. Dacă acesta este activ, jucătorului i se vor activa următoarele beneficii: o sumă random între $250-$500 la payday, 5% 'Heat Reduction', 5% 'Rob Money Boost', 5% 'Job Boost', 5% 'Wanted Time Reduction' și 5% 'Jail Time Reduction'.
 
+<Image src="https://i.imgur.com/flKyMxg.png" alt="General1" />
+<Image src="https://i.imgur.com/HXQ9fxH.png" alt="Discord" />
 
 Secțiunea **Your Rent**: 
 - afișează locul unde un jucător deține o chirie;  
