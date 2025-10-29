@@ -58,8 +58,11 @@ Atașamentele pe Pistolul .50 sunt disponibile începând cu **rank 2** iar pe S
 
 Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsarea tastei `E` pe *checkpoint-ul* mov de lângă harta orașului după ce te-ai echipat. Toate contractele valabile vor fi afișate în două categorii — Normal și Silent — împreună cu numărul curent de contracte pentru fiecare tip. După selectarea unui tip de contract, agentul va afla numele țintei, tipul contractului va apărea in dreapta sus, iar la finalizarea contractului hitmanul va primi suma de bani pusă pe acel jucător.
 
-::: details Interfață & Tracking
+::: details Interfață
 <Image src="https://i.imgur.com/GWQ9fXa.png" alt="ContractH" />
+:::
+
+::: details Tracking
 <Image src="https://i.imgur.com/wiOC5df.png" alt="Tracking" />
 :::
 
@@ -88,6 +91,8 @@ Un contract se consideră failed în următoarele situații:
 Ultimele 2 motive de fail sunt cele în urma cărora hitmanul este sancționat în cadrul facțiunii cu 15 warning points pe o durată de 7 zile.
 :::
 
+Dacă ținta părăsește jocul (prin F1, crash, etc..), începe practicarea jobului Deep Sea/Garbageman sau intră în Casino, hitmanului i se va realoca automat un alt contract din aceeași categorie selectată inițial. De asemenea, acesta poate utiliza comenzi precum **/duty** în HQ pentru a se echipa, sau **/cancelhit** și **/cancelcontract** pentru a anula contractele care nu pot fi îndeplinite în anumite situații.
+
 ## Pașii contractului
 Odată cu acceptarea unui contract, asasinul are responsabilitatea să-l execute. Acesta primește trei pași pe care trebuie să-i urmeze pentru a asasina persoana în cauză. Aceste sarcini în ordine sunt:
 1. Get equipped for your hit
@@ -109,6 +114,7 @@ Contractele pot fi făcute cu vehiculele personale ale membrilor sau cu cele de 
 ::: details Exemplu pași
 <Image src="https://i.imgur.com/Zbu55di.png" alt="Pasi" />
 <Image src="https://i.imgur.com/nmnssTx.png" alt="Pasi2" />
+:::
 
 ## Finalizarea contractului
 
