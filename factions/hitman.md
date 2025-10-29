@@ -11,7 +11,7 @@ title: Hitman Agency
 
 **Sediul agenției** sau **HQ-ul** este ferit de ochii oamenilor, locul fiind folosit pentru **colaborarea asasinilor** între ei, **echiparea cu arme**, **preluarea contractelor** și punerea la punct a **planului pentru asasinarea țintei**.
 
-<Image src="https://i.imgur.com/baLM7e6.png" alt="Locatie" />
+<Image src="https://i.imgur.com/EoYP0uz.png" alt="Locatie" />
 
 
 ## Aplicația Hitman
@@ -51,12 +51,24 @@ Atașamentele pe Pistolul .50 sunt disponibile începând cu **rank 2** iar pe S
 | <Image src="https://i.imgur.com/BJ4OfRn.png" alt="Maverick" width="80" label="Maverick" />      |   Helicopter    | 
 
 ::: tip Locatie vehicule
-<Image src="https://i.imgur.com/O3uUvIt.png" alt="Locatie vehicule" /> 
+<Image src="https://i.imgur.com/Zm7pwFL.png" alt="Locatie vehicule" /> 
 :::
 
 ## Contractul
 
 Preluarea unui **contract** este un procedeu destul de simplu. Presupune apăsarea tastei `E` pe *checkpoint-ul* mov de lângă harta orașului după ce te-ai echipat. Toate contractele valabile vor fi afișate în două categorii — Normal și Silent — împreună cu numărul curent de contracte pentru fiecare tip. După selectarea unui tip de contract, agentul va afla numele țintei, tipul contractului va apărea in dreapta sus, iar la finalizarea contractului hitmanul va primi suma de bani pusă pe acel jucător.
+
+::: details Interfață & Tracking
+<Image src="https://i.imgur.com/GWQ9fXa.png" alt="ContractH" />
+<Image src="https://i.imgur.com/wiOC5df.png" alt="Tracking" />
+:::
+
+Sistemul de tracking utilizează GPS-ul telefonului țintei, oferind hitmanului informații despre distanța acesteia și despre statusul ei, care poate fi de tip **driving**, **passenger** sau **on foot**.
+
+::: details Exemplu video
+<Image src="https://i.imgur.com/QGBnOah.gif" alt="Proces" />
+:::
+
 ::: warning
 Să nu uiți să verifici ce fel de contract este înainte să-l duci la capăt!
 :::
@@ -74,10 +86,6 @@ Un contract se consideră failed în următoarele situații:
 - contractul a fost finalizat nefolosind armele facțiunii (hitmanul a omorât ținta cu pumnii / mașina)
 
 Ultimele 2 motive de fail sunt cele în urma cărora hitmanul este sancționat în cadrul facțiunii cu 15 warning points pe o durată de 7 zile.
-:::
-
-::: details Exemplu video
-<Image src="https://i.imgur.com/hPYK1MD.gif" alt="Proces" />
 :::
 
 ## Pașii contractului
@@ -99,14 +107,13 @@ Contractele pot fi făcute cu vehiculele personale ale membrilor sau cu cele de 
 :::
 
 ::: details Exemplu pași
-<Image src="https://i.imgur.com/mr8FBYy.png" alt="Pasi" />
-<Image src="https://i.imgur.com/dqIPFhm.png" alt="Pasi2" />
-:::
+<Image src="https://i.imgur.com/Zbu55di.png" alt="Pasi" />
+<Image src="https://i.imgur.com/nmnssTx.png" alt="Pasi2" />
 
 ## Finalizarea contractului
 
 După finalizarea asasinatului, membrul Hitman este liber să-și încaseze suma prin intermediul telefonului, accesând aplicația **Bank**, la secțiunea **Cryptomonede** reprezentată de logo-ul *Bitcoin*. Suma este transferată la **Tether** de unde o poate vinde pentru bani cash.
 
 ::: details Transfer
-<Image src="https://i.imgur.com/vuK7v4K.gif" alt="BancaT" />
+<Image src="https://i.imgur.com/xd77J56.gif" alt="BancaT" />
 :::
