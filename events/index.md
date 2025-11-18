@@ -86,6 +86,26 @@ Gold Rush este evenimentul care îți oferă ocazia de a-ți demonstra abilită�
 
 ---
 
+### Cash Grab 💸💰
+
+Cash Grab este competiția prin care vrem să readucem plăcerea jocului și dorința de a ajunge pe primul loc.
+
+În cadrul acestui eveniment, participanții trebuie să livreze sacii cu bani la ATM-urile defecte din oraș pentru a obține premii deosebite.
+
+> Vezi detalierea evenimentului [Cash Grab](./cash-grab-event).
+
+---
+
+### Waste Wrangler Showdown ♻️🗑️🚛
+
+Waste Wrangler Showdown este un eveniment competitiv prin care vrem să readucem spiritul de joc și dorința de a fi pe primul loc.
+
+Participanții vor trebui să colecteze fiecare sac de gunoi din punctele de colectare indicate pe hartă.
+
+> Vezi detalierea evenimentului [Waste Wrangler Showdown](./waste-wrangler-showdown).
+
+---
+
 ### Halloween Seasonal Event 🎃
 
 Cea mai înfricoșătoare perioadă a anului a sosit și pe serverul nostru! De la tradiționalul 'trick or treat' și până la căutatul de fantome, mult așteptatul eveniment și-a făcut apariția. Acest eveniment este o ocazie unică de a sărbători Halloween-ul într-un mod distractiv și de a câștiga recompense speciale. 
