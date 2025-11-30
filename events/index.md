@@ -88,7 +88,7 @@ Gold Rush este evenimentul care îți oferă ocazia de a-ți demonstra abilită�
 
 ### Cash Grab 💸💰
 
-Cash Grab este competiția prin care vrem să readucem plăcerea jocului și dorința de a ajunge pe primul loc.
+Cash Grab marchează o activitate specială în cadrul jobului de alimentare a ATM-urilor, menită să ofere varietate și să facă munca mai atractivă.
 
 În cadrul acestui eveniment, participanții trebuie să livreze sacii cu bani la ATM-urile defecte din oraș pentru a obține premii deosebite.
 
@@ -98,11 +98,21 @@ Cash Grab este competiția prin care vrem să readucem plăcerea jocului și dor
 
 ### Waste Wrangler Showdown ♻️🗑️🚛
 
-Waste Wrangler Showdown este un eveniment competitiv prin care vrem să readucem spiritul de joc și dorința de a fi pe primul loc.
+Waste Wrangler Showdown este un eveniment dedicat jobului de colectare a gunoiului de la tomberoanele serverului, menit să aducă un plus de dinamism și să facă activitatea mai interesantă.
 
 Participanții vor trebui să colecteze fiecare sac de gunoi din punctele de colectare indicate pe hartă.
 
 > Vezi detalierea evenimentului [Waste Wrangler Showdown](./waste-wrangler-showdown).
+
+---
+
+### Transit Express 🚌
+
+Transit Express este un eveniment care pune accent pe rolul de Bus Driver, aducând varietate și un plus de energie în activitate.
+
+Jucătorii vor trebui să transporte pasagerii către stațiile indicate pe hartă, respectând traseul stabilit.
+
+> Vezi detalierea evenimentului [Transit Express](./transit-express).
 
 ---
 
