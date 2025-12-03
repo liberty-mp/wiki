@@ -86,6 +86,36 @@ Gold Rush este evenimentul care îți oferă ocazia de a-ți demonstra abilită�
 
 ---
 
+### Cash Grab 💸💰
+
+Cash Grab marchează o activitate specială în cadrul jobului de alimentare a ATM-urilor, menită să ofere varietate și să facă munca mai atractivă.
+
+În cadrul acestui eveniment, participanții trebuie să livreze sacii cu bani la ATM-urile defecte din oraș pentru a obține premii deosebite.
+
+> Vezi detalierea evenimentului [Cash Grab](./cash-grab-event).
+
+---
+
+### Waste Wrangler Showdown ♻️🗑️🚛
+
+Waste Wrangler Showdown este un eveniment dedicat jobului de colectare a gunoiului de la tomberoanele serverului, menit să aducă un plus de dinamism și să facă activitatea mai interesantă.
+
+Participanții vor trebui să colecteze fiecare sac de gunoi din punctele de colectare indicate pe hartă.
+
+> Vezi detalierea evenimentului [Waste Wrangler Showdown](./waste-wrangler-showdown).
+
+---
+
+### Transit Express 🚌
+
+Transit Express este un eveniment care pune accent pe rolul de Bus Driver, aducând varietate și un plus de energie în activitate.
+
+Jucătorii vor trebui să transporte pasagerii către stațiile indicate pe hartă, respectând traseul stabilit.
+
+> Vezi detalierea evenimentului [Transit Express](./transit-express).
+
+---
+
 ### Halloween Seasonal Event 🎃
 
 Cea mai înfricoșătoare perioadă a anului a sosit și pe serverul nostru! De la tradiționalul 'trick or treat' și până la căutatul de fantome, mult așteptatul eveniment și-a făcut apariția. Acest eveniment este o ocazie unică de a sărbători Halloween-ul într-un mod distractiv și de a câștiga recompense speciale. 
