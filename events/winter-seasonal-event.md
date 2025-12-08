@@ -72,7 +72,7 @@ Premiile sunt după cum urmează:
 | <InventoryItem itemKey="platinum_subscription_ticket_tradable" width="64" /> | Platinum Subscription Days |
 | <InventoryItem itemKey="inventory_slots_ticket_tradable" width="64" /> | Inventory Slots Ticket |
 | <InventoryItem itemKey="gold_subscription_ticket_tradable" width="64" /> | Gold Account Subscription Ticket |
-| <Image :width="64" src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_3453733332.png" alt="Toyota Supra" /> | Toyota Supra |
+| <Image width="64" src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_3453733332.png" alt="Toyota Supra" /> | Toyota Supra |
 
 
 ## Întrebări frecvente
