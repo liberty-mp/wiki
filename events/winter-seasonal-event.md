@@ -36,7 +36,7 @@ Premiile sunt după cum urmează:
 
 | Item | Denumire |
 | :-----------: | :----------- |
-| <Dinero :amount="" /> | Bani |
+| $1.500 - $3.000 | Bani |
 | <InventoryItem itemKey="marked_money" width="64" /> | Marked Money |
 | <InventoryItem itemKey="hooked_rope" width="64" /> | Hooked Rope |
 | <InventoryItem itemKey="c4_bomb" width="64" /> | C4 Bomb |
@@ -72,7 +72,7 @@ Premiile sunt după cum urmează:
 | <InventoryItem itemKey="platinum_subscription_ticket_tradable" width="64" /> | Platinum Subscription Days |
 | <InventoryItem itemKey="inventory_slots_ticket_tradable" width="64" /> | Inventory Slots Ticket |
 | <InventoryItem itemKey="gold_subscription_ticket_tradable" width="64" /> | Gold Account Subscription Ticket |
-| <Image width="64" src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_3453733332.png" alt="Toyota Supra" /> | Toyota Supra |
+| <Image width="64" src="https://ucp.liberty.mp/assets/images/inventory/vehicles/vehicle_3453733332.png" alt="Karin Supra Drift" /> | Karin Supra Drift |
 
 
 ## Întrebări frecvente
@@ -300,7 +300,7 @@ Snow Plow | Top speed: 110 km/h | Tracțiune: 4x4 | Viteze: 5 | Manevrabilitate:
 
 Pentru a te opri din curățat zăpada, tastează comanda `/stopwork`. Vehiculul oferit de job își va da respawn și nu vei mai primi noi task-uri de realizat în cadrul jobului.
 
-Câștigul de bază este de <Dinero :amount='2_000' />-<Dinero :amount='2_300' /> pe ora, însă acesta poate fi mărit în funcție de bonusurile de pe contul tău.
+Câștigul de bază este de <Dinero :amount='4000' /> pe ora, însă acesta poate fi mărit în funcție de bonusurile de pe contul tău.
 
 Pe măsură ce jucătorii vor intra în checkpoint-uri și vor ajuta la deszăpezire, aceștia vor primi o sumă de **bani** și **socks**, în limita a 20 pe zi.
 
