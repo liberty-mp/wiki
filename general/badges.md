@@ -147,6 +147,16 @@ Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul d
 | <Image src="https://i.imgur.com/1hmBk3G.png" alt="Prezentare badgee" label="Snow Plow Cleaning 2024" width="50" /> | obținut de jucătorii ce colectat 20 de ornamente timp de 20 zile [decorațiuni de Crăciun](#christmas-decorations-🎄) în cadrul evenimentului [Snow Plow Cleaning](../events/winter-seasonal-event#snow-plow-cleaning-🚜) |
 | <Image src="https://i.imgur.com/kUNymMo.png" alt="Prezentare badgee" label="Santa Sleigh" width="50" /> | obținut de jucătorii ce au colectat 10 cadouri timp de 20 zile în cadrul evenimentului [Santa Sleigh](../events/winter-seasonal-event#santa-sleigh-🛷) |
 
+### Winter 2025 Badges
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de [Crăciun](../events/winter-seasonal-event) din 2025.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/A4gepdL.png" alt="Prezentare badge" label="Decorations Event 2025" width="50" /> | obținut de jucătorii ce au decorat minim 20 de stâlpi în 7 zile consecutive în cadrul evenimentului [Decorations Event](../events/#decorations-event-🎄). |
+| <Image src="https://i.imgur.com/MaohIEN.png" alt="Prezentare badge" label="Snowman Quest 2025" width="50" /> | obținut de jucătorii ce au construit 15 oameni de zăpadă timp de 7 zile în cadrul evenimentului [Snowman Quest](../events/#building-a-snowmen-⛄). |
+| <Image src="https://i.imgur.com/iYco4oj.png" alt="Prezentare badge" label="Santa Sleigh 2025" width="50" /> | obținut de jucătorii ce au colectat 10 cadouri timp de 7 zile în cadrul evenimentului [Santa Sleigh](../events/#santa-sleigh-🛷). |
+
 ### One Year Anniversary 2024 Badge
 
 Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Anniversary](../events/anniversary-seasonal-event) din 2024.
