@@ -5,7 +5,7 @@ title: Deep Sea Fishing
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
 | Câștig mediu pe ora fără bonusuri? | <Dinero :amount='1150' /> ~ <Dinero :amount='1440' /> |
-| Nivel minim necesar? | Nu, minim 150 ore jucate pe cont. |
+| Nivel minim necesar? | Nu, minim 100 ore jucate pe cont. |
 | Necesită vehicul personal? | Da, barcă personală cu capacitate de depozitare. |
 | Necesită permis de conducere? | Nu. |
 | Necesită iteme specifice? | Nu. |
@@ -18,7 +18,7 @@ Lucrul la un job de pescuit în adâncime (Deep Sea Fishing) poate fi o experien
 
 ## Desfășurarea jobului
 
-Deep Sea Fishing introduce o noua mecanica de pescuit. Tot ce ai nevoie este să deții o barcă personala. Jucătorii nu au nevoie de undita sau alte consumabile. Jobul poate fi practicat de către toți jucătorii cu minim 150 ore jucate.
+Deep Sea Fishing introduce o noua mecanica de pescuit. Tot ce ai nevoie este să deții o barcă personala. Jucătorii nu au nevoie de undita sau alte consumabile. Jobul poate fi practicat de către toți jucătorii cu minim 100 ore jucate.
 
 ## Întrebări frecvente
 
