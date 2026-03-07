@@ -4,7 +4,7 @@ title: Electrician
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Nu. |
