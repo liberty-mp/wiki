@@ -8,7 +8,7 @@ title: Fleeca Bank Robbery
 | Necesită permis de conducere? | Nu. |
 | Necesită iteme specifice? | <Image src="https://i.imgur.com/5mitctQ.png" alt="C4 Bomb" width="48" label="C4 Bomb" /> <Image src="https://i.imgur.com/7yoaS4e.png" alt="Pliers" width="48" label="Pliers" /> <Image src="https://i.imgur.com/Z2ORyVw.png" alt="Drill" width="48" label="Drill" />
 | Necesită un anumit skill? | Da, ai nevoie de skill [Shoplifter](../index.md#care-sunt-skill-urile-la-robbing-street-reputation) |
-| Ce Heat Level imi trebuie? | Ai nevoie de minim 9 Heat Level. |
+| Ce Heat Level imi trebuie? | Ai nevoie de maxim 9 Heat Level. |
 
 ## Desfășurarea unui Bank Rob
 
@@ -26,7 +26,7 @@ Pentru acest tip de jaf ai nevoie de un C4 bomb, Pliers și Drill. C4 bomb se po
 
 ### Cât pot câștiga dacă jefuiesc o bancă?
 
-În cazul în care nu ai întâmpinat probleme sau nu ai fost ucis de alt player în timp ce jefuiai banca, câștigul de bază al acestui jaf este între <MarkedMoney :amount="8000" /> și <MarkedMoney :amount="10000" />, între 2 și 7 gold bars și între 2 și 7 silver bars. 
+În cazul în care nu ai întâmpinat probleme sau nu ai fost ucis de alt player în timp ce jefuiai banca, câștigul de bază al acestui jaf este între <MarkedMoney :amount="11200" /> și <MarkedMoney :amount="14000" />, între 2 și 7 gold bars și între 2 și 7 silver bars. 
 
 La finalul rob-ului, vei mai primi pe lângă cele enumerate și între 7 și 15 Street Reputation Points.
 
