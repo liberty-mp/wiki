@@ -51,12 +51,13 @@ Pe lângă suma de bani primită după colectare, mai ai șansa de a găsi **obi
 
 ::: tip Detalii șanse drop  
 
-La fiecare <Dinero :amount="1200" /> câștigați în cadrul job-ului există șansa de _**30%**_ de a găsi Plastic, item ce ajută in craft-uri.
+La fiecare <Dinero :amount="1800" /> câștigați în cadrul job-ului există șansa de _**30%**_ de a găsi Plastic, item ce ajută in craft-uri.
 
 :::  
 
 | **Imagine** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/4CZcmp2.png" alt="Piece of plastic" width="48" label="Piece of plastic" /> | **30%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
+
 
 
