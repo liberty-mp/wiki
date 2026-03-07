@@ -63,7 +63,7 @@ La fiecare _**$600**_ câștigați în cadrul job-ului există șansa de _**20%*
 
 :::
 
-| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
+| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/oXVperm.png" alt="Drill" width="48" label="Drill" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
 
