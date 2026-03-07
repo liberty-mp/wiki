@@ -47,11 +47,11 @@ După ce ai început tura de job, trebuie să tai toți copacii marcați pe hart
 Pe lângă suma de bani primită după descărcare, mai ai o șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 
 ::: tip Detalii șanse drop  
-La fiecare _**$400**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Rope.
+La fiecare $600 câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Rope.
 
-La fiecare _**$600**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Hook.
+La fiecare $900 câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Hook.
 
-La fiecare _**$300**_ câștigați în cadrul job-ului există șansa de _**25%**_ de a găsi Tabacco Seeds.
+La fiecare $450 câștigați în cadrul job-ului există șansa de _**25%**_ de a găsi Tabacco Seeds.
 
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 
