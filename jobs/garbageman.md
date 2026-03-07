@@ -74,13 +74,13 @@ Pe lângă suma de bani primită după colectare, mai ai șansa de a găsi **obi
 
 ::: tip Detalii șanse drop  
 
-La fiecare <Dinero :amount="350" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Plastic, item ce ajută in craft-uri.
+La fiecare <Dinero :amount="525" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Plastic, item ce ajută in craft-uri.
 
-La fiecare <Dinero :amount="800" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Glass, item ce ajută in craft-uri.
+La fiecare <Dinero :amount="1200" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Glass, item ce ajută in craft-uri.
 
-La fiecare <Dinero :amount="600" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Hook, item ce ajută in craftarea Hooked Rope.
+La fiecare <Dinero :amount="900" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Hook, item ce ajută in craftarea Hooked Rope.
 
-La fiecare <Dinero :amount="400 " /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Rope, item ce ajută in craftarea Hooked Rope.
+La fiecare <Dinero :amount="600 " /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Rope, item ce ajută in craftarea Hooked Rope.
 
 Bonusurile provenite din diferite surse ([World Exploration](../events/world-exploration.md), [Marijuana Joint](../factions/gangs.md#marijuana-joint), Liberty Pass boost, [Clan Perk](../clans/tabs.md#perks)) sunt incluse.
 
