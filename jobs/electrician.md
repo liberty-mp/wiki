@@ -55,9 +55,9 @@ Pe lângă suma de bani primită după repararea tabloului electric, mai ai șan
 
 ::: tip Detalii șanse drop
 
-La fiecare _**$300**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi _**Wires**_.
+La fiecare _**$450**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi _**Wires**_.
 
-La fiecare _**$900**_ câștigați există șansa de _**20%**_ de a găsi _**Electronic Keyboard**_.
+La fiecare _**$1350**_ câștigați există șansa de _**20%**_ de a găsi _**Electronic Keyboard**_.
 
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 
