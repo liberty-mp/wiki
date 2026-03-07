@@ -4,7 +4,7 @@ title: Petrolist
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe oră? | ~<Dinero :amount='1000' /> |
+| Câștig mediu pe oră? | ~<Dinero :amount='1300' /> |
 | Nivel minim necesar? | Nu, minim 300 ore jucate pe cont. |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
