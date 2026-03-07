@@ -59,7 +59,7 @@ Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **o
 
 ::: tip Detalii șanse drop
 
-La fiecare _**$400**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Drill, item ce ajută in jefuirea băncii Fleeca.
+La fiecare _**$600**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Drill, item ce ajută in jefuirea băncii Fleeca.
 
 :::
 
