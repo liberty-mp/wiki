@@ -4,7 +4,7 @@ title: Trucker
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Nivel minim necesar? | Nu, minim 10 ore jucate pe cont. |
 | Necesită vehicul personal? | Da, un tir personal sau luat in lease. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria C). |
