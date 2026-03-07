@@ -4,7 +4,7 @@ title: Bus Driver
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='2400' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Nivel minim necesar? | Nu. |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
@@ -58,4 +58,5 @@ La fiecare <Dinero :amount="1200" /> câștigați în cadrul job-ului există ș
 | **Imagine** | **Șansă de drop %** | **Utilitate**
 | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/4CZcmp2.png" alt="Piece of plastic" width="48" label="Piece of plastic" /> | **30%, vezi deasupra tabelului** | folosit in [Crafting](../general/crafting) |
+
 
