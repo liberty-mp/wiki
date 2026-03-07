@@ -4,7 +4,7 @@ title: Electrician
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
 | Necesită iteme specifice? | Nu. |
@@ -55,9 +55,9 @@ Pe lângă suma de bani primită după repararea tabloului electric, mai ai șan
 
 ::: tip Detalii șanse drop
 
-La fiecare _**$300**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi _**Wires**_.
+La fiecare _**$450**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi _**Wires**_.
 
-La fiecare _**$900**_ câștigați există șansa de _**20%**_ de a găsi _**Electronic Keyboard**_.
+La fiecare _**$1350**_ câștigați există șansa de _**20%**_ de a găsi _**Electronic Keyboard**_.
 
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 

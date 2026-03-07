@@ -4,7 +4,7 @@ title: Miner
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Nivel minim necesar? | Nu, minim 10 ore jucate pe cont. |
 | Necesită vehicul personal? | Nu, dar folosind unul îți va aduce mai mult profit, fiind mai performant. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
@@ -106,11 +106,11 @@ Un tabel cu toate tipurile de pietre pe care le poți mina în zonele de carier�
 
 Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **obiecte speciale**, care te ajută la **alte activități** sau **în crafting**.  
 ::: tip Detalii șanse drop  
-La fiecare $300 câștigați în cadrul job-ului există șansa de 35% de a găsi **Metal Bar**.
+La fiecare $450 câștigați în cadrul job-ului există șansa de 35% de a găsi **Metal Bar**.
 
-La fiecare $300 câștigați în cadrul job-ului există șansa de 25% de a găsi **Gunpowder**.
+La fiecare $450 câștigați în cadrul job-ului există șansa de 25% de a găsi **Gunpowder**.
 
-La fiecare $300 câștigați în cadrul job-ului există șansa de 20% de a găsi **Thermite**.
+La fiecare $450 câștigați în cadrul job-ului există șansa de 20% de a găsi **Thermite**.
 
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 

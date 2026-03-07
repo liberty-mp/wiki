@@ -4,7 +4,7 @@ title: Tow Truck Driver
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Ce nivel este necesar? | 0 ore jucate (imediat dupa conectare) |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
@@ -59,11 +59,11 @@ Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **o
 
 ::: tip Detalii șanse drop
 
-La fiecare _**$400**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Drill, item ce ajută in jefuirea băncii Fleeca.
+La fiecare _**$600**_ câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi Drill, item ce ajută in jefuirea băncii Fleeca.
 
 :::
 
-| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate**
+| **Imagine** | **Stackable?** | **Șansă de drop %** | **Utilitate** |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/oXVperm.png" alt="Drill" width="48" label="Drill" /> | **Da, 32 per stack** |  **20%, vezi deasupra tabelului**  | [Fleeca Bank Rob](../illegal-activities/robberies/fleeca-bank-robbery) |
 

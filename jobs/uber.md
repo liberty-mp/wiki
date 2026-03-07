@@ -4,7 +4,7 @@ title: Uber
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Nivel minim necesar? | Nu, minim 20 ore jucate pe cont. |
 | Necesită vehicul personal? | Da |
 | Necesită permis de conducere? | Nu, dar ajută (categoria A/B). |
@@ -92,7 +92,7 @@ Pe lângă suma de bani obținută la finalul cursei, mai ai șansa de a găsi o
 
 ::: tip Detalii șanse drop
 
-La fiecare <Dinero :amount='400' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca.
+La fiecare <Dinero :amount='600' /> munciți în cadrul job-ului există șansa de _**20%**_ de a găsi _**Pliers**_, obiect ce ajută în jefuirea băncii Fleeca.
 
 În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
 

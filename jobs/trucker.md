@@ -4,7 +4,7 @@ title: Trucker
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Nivel minim necesar? | Nu, minim 10 ore jucate pe cont. |
 | Necesită vehicul personal? | Da, un tir personal sau luat in lease. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria C). |
@@ -182,3 +182,15 @@ Garage Management este locul unde jucatorii detinatori de firme pot sa isi achiz
 ::: details Garage Management
   <Image src="https://i.imgur.com/zTOloAX.png" alt="Garage Management" /> 
 ::: 
+
+# Obiecte speciale pentru activități & șanse de găsire
+
+::: tip Detalii șanse drop  
+La fiecare $650 câștigați în cadrul job-ului există șansa de 20% de a găsi **Explosive**.
+
+În sumele reprezentate mai sus, bonusurile ce afectează job-urile (ex: World Exploration, joint, Liberty Boost, clan perk) sunt incluse.
+
+:::  
+| **Imagine** | **Șansă de drop %** | **Utilitate**
+| :-----------: | :-----------: | :-----------: |
+| <InventoryItem itemKey="explosive" width="64" :qt="1" /> |  **20, vezi deasupra tabelului**  | folosit in [Crafting](../illegal-activities/cayo-perico-island#crafting-iteme) |

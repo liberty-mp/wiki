@@ -4,7 +4,7 @@ title: Money Transporter
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Nivel minim necesar? | Nu, minim 50 ore jucate pe cont. |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
@@ -105,7 +105,7 @@ Pe lângă suma de bani primită după descărcare, mai ai șansa de a găsi **o
 
 ::: tip Detalii șanse drop  
 
-La fiecare <Dinero :amount="400" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi o suma cuprinsa intre <MarkedMoney :amount="200" /> și <MarkedMoney :amount='350'/>, sume ce pot fi vandute catre alti jucatori sau spalate pe insula Cayo Perico.
+La fiecare <Dinero :amount="600" /> câștigați în cadrul job-ului există șansa de _**20%**_ de a găsi o suma cuprinsa intre <MarkedMoney :amount="200" /> și <MarkedMoney :amount='350'/>, sume ce pot fi vandute catre alti jucatori sau spalate pe insula Cayo Perico.
 
 :::  
 
