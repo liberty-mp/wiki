@@ -4,7 +4,7 @@ title: Pilot
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='2900' /> |
+| Câștig mediu pe ora? | ~<Dinero :amount='4500' /> |
 | Nivel minim necesar? | Nu, minim 500 ore jucate pe cont. |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită licență de aviație? | Da. |
@@ -49,3 +49,4 @@ După ce selectezi traseul dorit, pe hartă vor apărea treptat punctele de trec
 ::: details Finalizare zbor
   <Image src="https://i.imgur.com/NrxYM5T.png" alt="Finalizare zbor" />
 :::
+
