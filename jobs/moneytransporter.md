@@ -4,7 +4,7 @@ title: Money Transporter
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora? | ~<Dinero :amount='1850' /> |
+| Câștig mediu pe ora? | <Dinero :amount='3500' /> - <Dinero :amount='4000' /> |
 | Nivel minim necesar? | Nu, minim 50 ore jucate pe cont. |
 | Necesită vehicul personal? | Nu, jobul se practică cu un vehicul special. |
 | Necesită permis de conducere? | Nu, dar ajută (categoria B). |
