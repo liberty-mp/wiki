@@ -9,6 +9,7 @@ title: Hotdog Stand Robbery
 | Necesită iteme specifice? | Da. Orice tip de armă. |
 | Necesită un anumit skill? | Nu. |
 | Necesită un anumit nivel? | Da, minim nivel 5. |
+| Ce Heat Level imi trebuie? | Ai nevoie de maxim 79 Heat Level. |
 
 ## Desfășurarea unui Hotdog Stand Robbery
 
@@ -69,6 +70,6 @@ Există două tipuri de eșec, iar acestea sunt:
 <Image src="https://i.imgur.com/OsZqtt0.gif" alt="esuat" /> 
 :::
 
-Dacă jaful este unul cu succes, vei primi o sumă de bani cuprinsă între <Dinero :amount="220" /> și <Dinero :amount="440" /> câștig de bază, fără adăugarea de bonus de la [Street Reputation](../index.md#care-sunt-skill-urile-la-robbing-street-reputation) sau orice alt boost și între 2 - 4 Street Reputation Points.
+Dacă jaful este unul cu succes, vei primi o sumă de bani cuprinsă între <Dinero :amount="330" /> și <Dinero :amount="660" /> câștig de bază, fără adăugarea de bonus de la [Street Reputation](../index.md#care-sunt-skill-urile-la-robbing-street-reputation) sau orice alt boost și între 2 - 4 Street Reputation Points.
 
 Nu uita, există o șansă de 15% de a primi wanted în urma acestui jaf.
