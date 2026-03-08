@@ -40,7 +40,7 @@ Dupa inceperea misiunii Ortega acesta iti va oferi o duba si o lista de taskuri 
 <Image src="https://i.imgur.com/KJqTxNe.png" alt="tasks" />
 :::
 
-Odata luata duba de la Ortega trebuie sa urmaresti sa urmaresti punctele verzi de pe harta pentru a te intalni cu cativa asociati sa iti ofere costumul si uneltele.
+Odata luata duba de la Ortega trebuie sa urmaresti punctele verzi de pe harta pentru a te intalni cu cativa asociati sa iti ofere costumul si uneltele.
 
 ::: details Echiparea costumului
 <Image src="https://i.imgur.com/k71UkLy.gif" alt="costum" />
