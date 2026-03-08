@@ -63,7 +63,7 @@ Pentru a primi progres trebuie sa omori 15 NPC, indiferent de culoare acestora s
 
 ### Stunts Challenge
 
-Pentru a primi progres trebuie sa finalizezi cu succes cele 10 stunt-uri impuse de activitatea [Stunts Challange](link).
+Pentru a primi progres trebuie sa finalizezi cu succes cele 10 stunt-uri impuse de activitatea [Stunts Challange](../events/stunts-challenge.md).
 
 <Image src="https://i.imgur.com/tigiPVB.png" alt="Stunts Challenge" /> 
 
