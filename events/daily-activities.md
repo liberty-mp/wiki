@@ -69,6 +69,6 @@ Pentru a primi progres trebuie sa finalizezi cu succes cele 10 stunt-uri impuse 
 
 ### Cleaner Mission
 
-Pentru a primi progres trebuie sa indeplinesti cerintele lui Ortega in cadrul misiunii [Cleaner](link).
+Pentru a primi progres trebuie sa indeplinesti cerintele lui Ortega in cadrul misiunii [Cleaner](../events/cleaner-mission.md).
 
 <Image src="https://i.imgur.com/0qEbprg.png" alt="Cleaner Mission" /> 
