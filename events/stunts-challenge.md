@@ -16,7 +16,7 @@ Este o noua misiune zilnica, disponibila tuturor jucatorilor.
 Crew-ul de cascadori din Los Santos are nevoie de ajutor pentru a realiza un montaj video spectaculos.
 Misiunea presupune efectuarea a 10 cascadorii utilizand un vehicul prestabilit conform indicatiilor primite.
 
-## Desfasurarea chellenge
+## Desfasurarea Challenge
 
 Odata intrat intr-o masina vei primi un mesaj de la Oscar, un racer din orasul Los Santos, care te invita sa il ajuti sa concureze cu o echipa de stunteri din San Fierro. Pentru a ajunge la Oscar apasa click pe `Location` din mesajul acestuia.
 
