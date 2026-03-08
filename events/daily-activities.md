@@ -24,8 +24,8 @@ Streak-ul poate fi pierdut dacă jucătorul nu finalizează activitățile zilni
 
 | Tip cont | Zile pierdute |
 | :-----------: | :-----------: |
-| Platina | 1 zi |
-| Gold | 2 zile |
+| <PremiumSubscription type='platinum' /> | 1 zi |
+| <PremiumSubscription type='gold' /> | 2 zile |
 | Standard | 3 zile |
 
 #### Reward Streak
