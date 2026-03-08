@@ -52,9 +52,9 @@ Odata luata duba de la Ortega trebuie sa urmaresti punctele verzi de pe harta pe
 
 ::: tip 
 
-Pentru o dexteritatea mai buna recomandat sa aveti tinta mereu pe ecran pentru a putea pune mijlocul ecranului mai usor pe cadavre si masina.
-
-Pentru a o activa folositi comanda `/hud` si activata optiunea `Render Always`.
+Este recomandat sa aveti tinta serverului activa pentru selectarea mai usoara a cadavrelor si a masinii (mijlocul ecranului).
+ 
+Pentru a o activa folositi comanda `/hud` si activati optiunea `Render Always`.
 
 :::
 
