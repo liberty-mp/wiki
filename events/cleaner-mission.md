@@ -27,7 +27,7 @@ Odata intrat pe server o sa primesti un mesaj de la Ortega, seful mafiei, unde i
 Ajuns la acesta iti va explica ce trebuie sa faci pentru a-l ajuta.
 
 ::: details Dialog cu Ortega
-<Image src="https://i.imgur.com/nNVOP1X.gif" alt="Dialog Ortega" />
+<Image src="https://i.imgur.com/CQmMyHN.gif" alt="Dialog Ortega" />
 :::
 
 Dupa inceperea misiunii Ortega acesta iti va oferi o duba si o lista de taskuri pe care o poti vedea in dreapta ecranului
@@ -59,7 +59,7 @@ Pentru a o activa folositi comanda `/hud` si activati optiunea `Render Always`.
 :::
 
 ::: details Ridicarea cadavrelor si curatarea zonei
-<Image src="https://i.imgur.com/d5QWDQG.gif" alt="cadavre" />
+<Image src="https://i.imgur.com/swWi13q.gif" alt="cadavre" />
 :::
 
 ::: details Abandonarea dubei
