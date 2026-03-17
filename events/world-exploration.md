@@ -51,7 +51,7 @@ Evenimentul are loc zilnic, se resetează la ora _**08:00**_ și poate să fie c
 | 70 completări | 20% Rob Boost |
 | 100 completări | 25% Job Boost<br>25% Experience Boost<br>25% Rob Boost |
 | 125 completări | 30% Job Boost |
-| 125 completări | 5% Money Washing Time Reduction |
+| 150 completări | 5% Money Washing Time Reduction |
 | 175 completări | 30% Rob Boost |
 | 200 completări | 5% Heat Reduction Bonus |
 | 225 completări | 5% Passive Job Boost |
