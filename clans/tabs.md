@@ -1,4 +1,4 @@
-<img width="597" height="305" alt="image" src="https://github.com/user-attachments/assets/7e34f9e9-ff59-4693-9828-7713bb9d47e5" />---
+---
 title: Clan Tabs
 ---
 
