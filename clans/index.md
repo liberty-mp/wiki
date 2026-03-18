@@ -6,7 +6,7 @@ title: Clans
 | :-----------: | :-----------: | :-----------: |
 | Create clan | <Gold :amount='20000' /> | 1 clan/jucător |
 | Member Slot | <Gold :amount='500' /> per slot | 50 members (slots) |
-| Vehicle Slot | <Gold :amount='1500' /> (+ <Gold :amount='100' /> per slot) per slot pana la 15 <br> <Gold :amount='5000' /> (+ <Gold :amount='200' /> | 20 vehicles (slots) |
+| Vehicle Slot | <Gold :amount='1500' /> (+ <Gold :amount='100' /> per slot) per slot pana la 15 <br> <Gold :amount='5000' /> (+ <Gold :amount='200' /> per slot) per slot pana la 20 | 20 vehicles (slots) |
 | Transfer Ownership | <Gold :amount='20000' /> per transfer | 1 clan/jucător |
 | Extend Clan 1 Month | <Gold :amount='5000' /> per month | 30 days added |
 
