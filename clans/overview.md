@@ -58,10 +58,15 @@ Numărul de membri din clan/numărul total de slot-uri. Liderul clanului are op�
 
 ### Vehicles 
 
-Numărul de membri din clan/numărul total de slot-uri. Liderul clanului are opțiunea de a cumpăra un vehicle slot. Maxim 15.
+Numărul de membri din clan/numărul total de slot-uri. Liderul clanului are opțiunea de a cumpăra un vehicle slot. Maxim 20.
+
+::: warning Atenție!
+Costul vehicle sloturilor este cuprins intre <Gold :amount='1500' /> si <Gold :amount='2400' /> pana la al 15-lea slot, iar de la slotul 16 pana la 20 acesta costa intre <Gold :amount='5000' /> si <Gold :amount='5800' />
+:::
 
 ::: details Cumpără 1 vehicle slot
-<Image src="https://i.imgur.com/IEkIjVb.png" alt="Buy 1 vehicle slot" />
+<Image src="https://i.imgur.com/R4zH0rr.png" alt="Buy 1 vehicle slot" />
+<Image src="https://i.imgur.com/c8uSCyf.png" alt="Buy 2 vehicle slot" />
 :::
 
 ### Clan HQ 

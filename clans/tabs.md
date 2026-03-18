@@ -36,7 +36,7 @@ Manage Member Permissions
 Change Member Rank
 <Image src="https://i.imgur.com/iKexOGX.png" alt="Change Member Rank" />
 Transfer Clan Ownership
-<Image src="https://i.imgur.com/ClJyXUC.png" alt="Transfer Clan Ownership" />
+<Image src="https://i.imgur.com/KHXX831.png" alt="Transfer Clan Ownership" />
 :::
 
 ## Vehicles
