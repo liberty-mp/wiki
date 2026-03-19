@@ -54,6 +54,7 @@ Aceste badge-uri sunt acordate jucătorilor care obțin ultimul nivel de skill, 
 | <Image src="https://i.imgur.com/h7xLMUJ.png" alt="JOBSKILL" width="50" label="Deep Sea Fishing" /> | obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Deep Sea Fishing](https://wiki.liberty.mp/jobs/deep-sea-fishing) |
 | <Image src="https://i.imgur.com/GyiZfcY.png" alt="JOBSKILL" width="50" label="Money Transporter" /> | obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Money Transporter](https://wiki.liberty.mp/jobs/moneytransporter) |
 | <Image src="https://i.imgur.com/NFhLimR.png" alt="JOBSKILL" width="50" label="Crypto Miner" /> | obținut de jucătorii care atins ultimul nivel, Master, minând [Criptomonede](https://wiki.liberty.mp/clans/spray-wars/districts/crypto-farm) |
+| <Image src="https://i.imgur.com/3rCSVAz.png" alt="JOBSKILL" width="50" label="Petrolist" /> | obținut de jucătorii care atins ultimul nivel, Master, în cadrul jobului [Petrolist](https://wiki.liberty.mp/jobs/petrolist) |
 
 ### Premium Account Badges
 
@@ -96,6 +97,25 @@ Un badge nou a fost adăugat odată cu `Sezonul 3` din [Liberty Pass](../events/
 | Badge   | Cerință |
 | :-----------: | :-----------: |
 | <Image src="https://ucp.liberty.mp/assets/images/profile/badges/battlepass_completionist.png" alt="Battlepass Completionist" width="50" label="Battlepass Completionist" />| obținut de jucătorii ce au completat 'Bonus Quest 2' |
+
+### Valentine's Day Event 2025 Badges
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de Sf. Valentin, 'Valentine's Day Seasonal Event' din 2025.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/fnYWvCT.png" alt="VLTN2025" width="50" label="Valentine's Day Event" />| obținut de jucătorii ce au împăcat 30 de cupluri în cadrul questului 'Cupid's Love'. |
+| <Image src="https://i.imgur.com/U7XMiCu.png" alt="VLTN2025" width="50" label="Valentine's Day Event" />| obținut de jucătorii ce au livrat 350 de trandafiri solo în cadrul questului 'Delivery Quest'. |
+| <Image src="https://i.imgur.com/KxDCOdb.png" alt="VLTN2025" width="50" label="Valentine's Day Event" />| obținut de jucătorii ce au livrat 350 de trandafiri în party în cadrul questului 'Delivery Quest'. |
+
+### Valentine's Day Event 2026 Badges
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de Sf. Valentin, 'Valentine's Day Seasonal Event' din 2026.
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/valentines/dirty-work.png" alt="VLTN2026" width="50" label="Valentine's Day Event" />| obținut de jucătorii ce au completat timp de 7 zile questul 'Valentine's Dirty Work Quest'. |
+| <Image src="https://ucp.liberty.mp/assets/images/profile/badges/valentines/serenade.png" alt="VLTN2026" width="50" label="Valentine's Day Event" />| obținut de jucătorii ce au completat timp de 7 zile questul 'Valentine's Serenade Quest'. |
 
 ### Halloween Event 2023 Badge
 
