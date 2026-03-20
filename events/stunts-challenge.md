@@ -45,7 +45,7 @@ In cazul in care nu reusiti sa faceti cascadoria din prima aveti 10 secunde sa a
 :::
 
 ::: details Retry
-<Image src="https://i.imgur.com/jZ2rAzX.gif" alt="Retry" />
+<Image src="https://i.imgur.com/bUyFn6V.gif" alt="Retry" />
 :::
 
 Dupa finalizarea celor 10 cascadorii trebuie sa mergi inapoi la Oscar sa ii returnezi masina si sa ii oferi filmarile pentru competitie.
