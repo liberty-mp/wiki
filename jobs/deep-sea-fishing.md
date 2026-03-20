@@ -4,7 +4,7 @@ title: Deep Sea Fishing
 
 | Întrebare   | Răspuns |
 | ----------- | :-----------: |
-| Câștig mediu pe ora fără bonusuri? | <Dinero :amount='1150' /> ~ <Dinero :amount='1440' /> |
+| Câștig mediu pe ora fără bonusuri? | <Dinero :amount='1495' /> ~ <Dinero :amount='1872' /> |
 | Nivel minim necesar? | Nu, minim 100 ore jucate pe cont. |
 | Necesită vehicul personal? | Da, barcă personală cu capacitate de depozitare. |
 | Necesită permis de conducere? | Nu. |
