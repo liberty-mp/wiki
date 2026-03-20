@@ -16,7 +16,7 @@ Voltage Windfall Challenge este un eveniment special conceput pentru electricien
 
 Acest eveniment inovator și competitiv care aduce împreună electricieni talentați și pasionați pentru a demonstra măiestria lor. Această competiție se concentrează pe provocări complexe și neașteptate din domeniul electric, oferind electricienilor oportunitatea de a-și demonstra abilitățile și de a-și testa cunoștințele într-un mediu competitiv, dar distractiv.
 
-Jucătorii vor dropa un crate când vor acumula <Dinero :amount="390" /> - <Dinero :amount="550" /> în urma activităţii în cadrul jobului.
+Jucătorii vor dropa un crate când vor acumula <Dinero :amount="585" /> - <Dinero :amount="825" /> în urma activităţii în cadrul jobului.
 
 Pentru mai multe detalii legate de acest job poţi accesa [Electrician - informaţii](../jobs/electrician.md).
 
@@ -32,27 +32,37 @@ Voltage Windfall Crate **este tradable**.
 
 ### Voltage Windfall Reward
 
-Pe parcursul evenimentului vei primi un Voltage Windfall Crate ->  <Image src="https://i.imgur.com/tIcPTVO.png" alt="1x Voltage Windfall Crate" width="50" label="1x Voltage Windfall Crate" />
+Pe parcursul evenimentului vei primi un <InventoryItem itemKey="crate_electrician_event" width="64" :qt="1" />
 
-Un Voltage Windfall Crate conține unul dintre următoarele premii:
+Acest crate conține unul dintre următoarele premii:
+| Categoria Gri | Categoria Albastra | Categoria Mov | Categoria Rosie |
+| :-: | :-: | :-: | :-: |
+| <Dinero :amount="4000" /> - <Dinero :amount="7000" /> | <InventoryItem itemKey="c4_bomb" width="64" :qt="1" /> | <InventoryItem itemKey="vehicle_ds_standard_ticket_tradable" width="64" :qt="1" /> | <Gold :amount='750' /> - <Gold :amount='2000' /> |
+| <MarkedMoney :amount="8000" /> - <MarkedMoney :amount="14000" /> | <InventoryItem itemKey="hooked_rope" width="64" :qt="1" /> | <InventoryItem itemKey="vehicle_plate_ticket_tradable " width="64" :qt="1" /> | Vehicle Slot |
+| <InventoryItem itemKey="gunpowder" width="64" :qt="2" /> - <InventoryItem itemKey="gunpowder" width="64" :qt="4" /> | <InventoryItem itemKey="vintage_velvet_cigar" width="64" :qt="2" /> - <InventoryItem itemKey="vintage_velvet_cigar" width="64" :qt="5" /> | <InventoryItem itemKey="vehicle_headlights_ticket_tradable" width="64" :qt="1" /> | <InventoryItem itemKey="boombox" width="64" :qt="1" /> |
+| <InventoryItem itemKey="metal" width="64" :qt="2" /> - <InventoryItem itemKey="metal" width="64" :qt="4" /> | <InventoryItem itemKey="regal_reserve_cigar" width="64" :qt="2" /> -  <InventoryItem itemKey="regal_reserve_cigar" width="64" :qt="4" /> | <InventoryItem itemKey="vehicle_custom_color_ticket_tradable " width="64" :qt="1" /> | <InventoryItem itemKey="vehicle_ds_ticket_tradable" width="64" :qt="1" /> |
+| <InventoryItem itemKey="wires" width="64" :qt="2" /> - <InventoryItem itemKey="wires" width="64" :qt="5" /> | <InventoryItem itemKey="cocaine_powder" width="64" :qt="1" /> -  <InventoryItem itemKey="cocaine_powder " width="64" :qt="2" /> | <InventoryItem itemKey="vehicle_horn_ticket_tradable " width="64" :qt="1" /> | <InventoryItem itemKey="inventory_slots_ticket_tradable" width="64" :qt="1" /> |
+| <InventoryItem itemKey="explosive" width="64" :qt="2" /> - <InventoryItem itemKey="explosive" width="64" :qt="4" /> | <InventoryItem itemKey="marijuana_blunt" width="64" :qt="1" /> - <InventoryItem itemKey="marijuana_blunt" width="64" :qt="2" /> | <InventoryItem itemKey="vehicle_neon_ticket_tradable" width="64" :qt="1" /> | <InventoryItem itemKey="gold_subscription_ticket_tradable" width="64" :qt="1" /> |
+| <InventoryItem itemKey="drill" width="64" :qt="1" /> - <InventoryItem itemKey="drill" width="64" :qt="2" /> | <InventoryItem itemKey="tobacco_seeds" width="64" :qt="4" /> - <InventoryItem itemKey="tobacco_seeds" width="64" :qt="6" /> | <InventoryItem itemKey="name_change_ticket_tradable" width="64" :qt="1" /> | <InventoryItem itemKey="platinum_subscription_ticket_tradable" width="64" :qt="1" /> |
+| <InventoryItem itemKey="pliers" width="64" :qt="1" /> - <InventoryItem itemKey="pliers" width="64" :qt="2" /> | <InventoryItem itemKey="vehicle_ds_economy_ticket" width="64" :qt="1" /> | <InventoryItem itemKey="vehicle_tyre_smoke_ticket_tradable" width="64" :qt="1" /> | <InventoryItem itemKey="vehicle_chameleon_ticket_tradable" width="64" :qt="1" /> |
+| <InventoryItem itemKey="account_bonus_0" width="64" :qt="1" /> | - | <InventoryItem itemKey="vehicle_wheels_ticket_tradable" width="64" :qt="1" /> | - |
+| <InventoryItem itemKey="account_bonus_1" width="64" :qt="1" /> | - | <InventoryItem itemKey="vehicle_trunk_ticket_tradable" width="64" :qt="1" /> | - |
+| <InventoryItem itemKey="account_bonus_2" width="64" :qt="1" /> | - | <InventoryItem itemKey="vehicle_camber_ticket_tradable" width="64" :qt="1" /> | - |
+| <InventoryItem itemKey="account_bonus_3" width="64" :qt="1" /> | - | <InventoryItem itemKey="vehicle_tcs_ticket_tradable" width="64" :qt="1" /> | - |
+| - | - | <InventoryItem itemKey="vehicle_air_ride_ticket_tradable" width="64" :qt="1" /> | - |
+| - | - | <InventoryItem itemKey="vehicle_engine_ticket_tradable" width="64" :qt="1" /> | - |
 
-| General | Obiecte speciale (crafting) | Shop Items |
-| :-: | :-: | :-: |
-| <Dinero :amount="1500" /> - <Dinero :amount="3200" /> | <Image src="https://i.imgur.com/Nts90lm.png" alt="3x Hook" width="50" label="3x Hook" /> | <Image src="https://i.imgur.com/5lCArfs.png" alt="Vehicle Slot" width="50" label="Vehicle Slot" /> |
-| <Gold :amount='15' /> - <Gold :amount='150' /> | <Image src="https://i.imgur.com/sADBSSH.png" alt="5x Rope" width="50" label="5x Rope" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_plate_ticket.png" alt="Vehicle Plate Ticket" width="50" label="Vehicle Plate Ticket" /> | 
-| - | <Image src="https://i.imgur.com/6maDBiv.png" alt="1x Reel Rod" width="50" label="1x Reel Rod" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_custom_color_ticket.png" alt="Vehicle Custom Color Ticket" width="50" label="Vehicle Custom Color Ticket" /> | 
-| - | <Image src="https://i.imgur.com/bfXWq32.png" alt="5x Rod Grip" width="50" label="5x Rod Grip" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_headlights_ticket.png" alt="Vehicle Headlights Ticket" width="50" label="Vehicle Headlights Ticket" /> | 
-| - | <Image src="https://i.imgur.com/LAGg1qn.png" alt="5x Rod Guide" width="50" label="5x Rod Guide" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_horn_ticket.png" alt="Vehicle Horn Ticket" width="50" label="Vehicle Horn Ticket" /> | 
-| - | <Image src="https://i.imgur.com/5BvJkhB.png" alt="3x Marijuana Joint" width="50" label="3x Marijuana Joint" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_tyre_smoke_ticket.png" alt="Vehicle Tyre Smoke Ticket" width="50" label="Vehicle Tyre Smoke Ticket" /> |  
-| - | <Image src="https://i.imgur.com/vPxrMab.png" alt="GunShop Pistol" width="50" label="GunShop Pistol" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_neon_ticket.png" alt="Vehicle Neon Ticket" width="50" label="Vehicle Neon Ticket" /> | 
-| - | <Image src="https://i.imgur.com/oXVperm.png" alt="2x Drill" width="50" label="2x Drill" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_camber_ticket.png" alt="Vehicle Camber Ticket" width="50" label="Vehicle Camber Ticket" /> | |
-| - | <Image src="https://i.imgur.com/QGMslrk.png" alt="3x-7x Silver Bar" width="50" label="3x-7x Silver Bar" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/name_change_ticket.png" alt="Name Change Ticket" width="50" label="Name Change Ticket" /> | |
-| - | <Image src="https://i.imgur.com/JNbL1OR.png" alt="3x-7x Gold Bar" width="50" label="3x-7x Gold Bar" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_economy_ticket.png" alt="Economy Vehicle Ticket" width="50" label="Economy Vehicle Ticket" /> | |
-| - | <Image src="https://i.imgur.com/C6Pj7yU.png" alt="2x Wires" width="50" label="2x Wires" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_ds_ticket.png" alt="Luxury Vehicle Ticket" width="50" label="Luxury Vehicle Ticket" /> | |
-| - | <Image src="https://i.imgur.com/BijpevO.png" alt="5x Explosive" width="50" label="5x Explosive" /> | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/inventory_slots_ticket.png" alt="25 Inventory Slots Ticket" width="50" label="25 Inventory Slots Ticket" /> | |
-| - | <Image src="https://i.imgur.com/TGIAVQa.png" alt="3x Pliers" width="50" label="3x Pliers" />  | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/vehicle_tcs_ticket.png" alt="Vehicle Traction Control Ticket" width="50" label="Vehicle Traction Control Ticket" /> | 
-| - | - | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/gold_subscription_ticket.png" alt="Gold Subscription Ticket 1 Month" width="50" label="Gold Subscription Ticket 1 Month" /> | |
-| - | - | <Image src="https://ucp.liberty.mp/assets/images/inventory/tickets/platinum_subscription_ticket.png" alt="Platinum Subscription Ticket 1 Month" width="50" label="Platinum Subscription Ticket 1 Month" /> |
-| - | - | <Image src="https://i.imgur.com/6Dl1QjM.png" alt="Boombox" width="50" label="Boombox" /> |<br>
+::: tip  INFO
 
-În cazul în care ai nevoie de alte informații pe care nu le găsești pe această pagină, îți sugerăm să folosești sistemul de ajutor din joc (tastează `/helpme`), să accesezi serverul nostru de [**Discord**](https://liberty.mp/discord) sau să comunici cu alți jucători și să îi intrebi pe aceștia.
+<InventoryItem itemKey="account_bonus_0" width="64" /> are o durata de 6 ore sau 12 ore.
+
+<InventoryItem itemKey="account_bonus_1" width="64" /> are o durata de 6 ore sau 12 ore.
+
+<InventoryItem itemKey="account_bonus_2" width="64" /> are o durata de 6 ore sau 12 ore.
+
+<InventoryItem itemKey="account_bonus_3" width="64" /> are o durata de 6 ore sau 12 ore.
+
+Bomboxul il poti castiga doar daca **NU** il detii.
+:::
+
+În cazul în care ai nevoie de alte informații pe care nu le găsești pe această pagină, îți sugerăm să folosești sistemul de ajutor din joc (tastează `/helpme` sau `/n`), să accesezi serverul nostru de [**Discord**](https://liberty.mp/discord) sau să comunici cu alți jucători și să îi intrebi pe aceștia.
