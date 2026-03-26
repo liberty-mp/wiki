@@ -24,10 +24,15 @@ Evenimentul are loc zilnic, se resetează la ora _**08:00**_ și poate să fie c
 
 ### Recompensa la completarea zilnică:  
 
+::: tip Info
+
+Cantitatea dropurilor de la `un obiect aleatoriu dintre` este cea minima.
+
+:::
 
 | între | un obiect aleatoriu dintre | 25% să primiți între
 | :-----------: | :-----------: | :-----------: |
-| <Dinero :amount='4200' />**-**<Dinero :amount='5200' /> (Prima completare)<br><Dinero :amount='2100' />**-**<Dinero :amount='2600' /> | <InventoryItem itemKey="plastic" width="64" :qt="3" /> <InventoryItem itemKey="gunpowder" width="64" :qt="3" /> <InventoryItem itemKey="metal" width="64" :qt="3" /> <InventoryItem itemKey="wires" width="64" :qt="4" /> <InventoryItem itemKey="explosive" width="64" :qt="3" /> <InventoryItem itemKey="drill" width="64" :qt="1" /> <InventoryItem itemKey="pliers" width="64" :qt="1" /> <InventoryItem itemKey="c4_bomb" width="64" :qt="1" /> <InventoryItem itemKey="hooked_rope" width="64" :qt="1" /> <InventoryItem itemKey="vintage_velvet_cigar" width="64" :qt="4" /> <InventoryItem itemKey="regal_reserve_cigar" width="64" :qt="3" /> <InventoryItem itemKey="cocaine_powder" width="64" :qt="1" /> <InventoryItem itemKey="marijuana_blunt" width="64" :qt="1" /> <InventoryItem itemKey="tobacco_seeds" width="64" :qt="4" /> | <Gold :amount='10' /> **și** <Gold :amount='50' />
+| <Dinero :amount='4200' />**-**<Dinero :amount='5200' /> (Prima completare)<br><Dinero :amount='2100' />**-**<Dinero :amount='2600' /> (A doua completare) | <InventoryItem itemKey="plastic" width="64" :qt="3" /> <InventoryItem itemKey="gunpowder" width="64" :qt="3" /> <InventoryItem itemKey="metal" width="64" :qt="3" /> <InventoryItem itemKey="wires" width="64" :qt="4" /> <InventoryItem itemKey="explosive" width="64" :qt="3" /> <InventoryItem itemKey="drill" width="64" :qt="1" /> <InventoryItem itemKey="pliers" width="64" :qt="1" /> <InventoryItem itemKey="c4_bomb" width="64" :qt="1" /> <InventoryItem itemKey="hooked_rope" width="64" :qt="1" /> <InventoryItem itemKey="vintage_velvet_cigar" width="64" :qt="4" /> <InventoryItem itemKey="regal_reserve_cigar" width="64" :qt="3" /> <InventoryItem itemKey="cocaine_powder" width="64" :qt="1" /> <InventoryItem itemKey="marijuana_blunt" width="64" :qt="1" /> <InventoryItem itemKey="tobacco_seeds" width="64" :qt="4" /> | <Gold :amount='10' /> **și** <Gold :amount='50' />
 
 
 ### Recompense streak (serie) completări eveniment:  
