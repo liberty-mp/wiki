@@ -29,10 +29,7 @@ Pentru a putea jefui cu succes un ATM aveți nevoie de 'Hooked Rope', acesta se 
 
 În cazul în care nu ai întampinat probleme și nu ai fost ucis de către un alt jucător cât timp transportai consola ATM-ului, câștigul de bază va fi intre <MarkedMoney :amount="6020" /> și <MarkedMoney :amount="8400" /> **+ procentul aferent skill-ului avut la Robbing (Street Rep)** la care se adaugă și un procent de _**10%**_ pentru jucătorii ce dețin <PremiumSubscription type="gold" /> și _**20%**_ pentru jucătorii ce dețin <PremiumSubscription type="platinum" />.
 
-Dacă se întâmplă să găsești o consolă ATM la un alt jucător, câștigul de bază va fi între <MarkedMoney :amount="1850" /> și <MarkedMoney :amount='2250'/> la care se adaugă bonusurile de mai sus.
-
 La livrarea consolei ATM la NPC-ul Alfred pentru extragerea banilor, primești între (inclusiv) _**5 și 7**_ *# Street Rep Points*.
-La livrarea consolei ATM furată de la un alt jucător, primești între (inclusiv) _**2 și 4**_ *# Street Rep Points*.
 
 De fiecare dată când vei jefui un ATM, vei primi 50 [Heat Level](../index.md#ce-este-heat-level), care va scădea complet în 2 ore 30 minute (1 Heat Level per 3 minute).
 
