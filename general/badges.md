@@ -194,6 +194,14 @@ Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Anni
 | <Image src="https://i.imgur.com/N2mhE6H.png" alt="Anniversary Event" width="50" label="Anniversary Event 2025" />| obținut de jucătorii care au completat de 30 de ori misiunea aniversară, livrând cuvântul „LIBERTYMP |
 | <Image src="https://i.imgur.com/C590Crw.png" alt="Anniversary Gift" width="50" label="Anniversary Gift" />| obținut de jucătorii care au deschis cadoul aniversar de 20 de ori. |
 
+### Two-Year Anniversary 2025 Badge
+
+Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Anniversary] din 2026
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/EMrAO03.png" alt="Anniversary Quest" width="50" label="Anniversary Quest" /> | Completarea evenimentul timp de 10 zile (minim o data). |
+
 ### Summer 2024 Badge
 
 Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de [Vară](../events/liberty-summer-festival) din 2024.
@@ -231,3 +239,13 @@ Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul d
 | :-----------: | :-----------: |
 | <Image src="https://i.imgur.com/lSiKvqM.png" alt="Easter Quest" width="50" label="Easter Quest Solo" />| obținut de jucătorii care au completat quest-ul solo de 20 ori |
 | <Image src="https://i.imgur.com/a9Vj1xD.png" alt="Easter Quest" width="50" label="Easter Quest Group" />| obținut de jucătorii care au completat quest-ul in grup de 20 ori |
+
+### Easter Quest 2026
+
+Aceste badge-uri au fost acordate jucătorilor ce au participat la evenimentul de Paste, 'Easter Quest' din 2026.
+
+
+| Badge   | Cerință |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/NNB4uoY.png" alt="Easter Invasion Quest" width="50" label="Easter Invasion Quest" /> | Completarea evenimentul timp de 10 zile (minim o data). |
+| <Image src="https://i.imgur.com/wwcsQpj.png"  alt="Easter Egg Hunt" width="50" label="Easter Egg Hunt" /> | Completarea evenimentul timp de 10 zile (minim o data). |
