@@ -12,7 +12,7 @@ title: Anniversary Event
 
 # Anniversary Event 🎂🎁
 
-Anniversary Event este un eveniment sezonier ce se desfasoara cu ocazia implinirii a un an de server, în care jucătorii pot obține diferite recompense prin gasirea drop-urilor și colectarea unor obiecte speciale ce pot fi ulterior schimbate cu recompense.
+Anniversary Event este un eveniment sezonier ce se desfasoara cu ocazia aniversarii serverului pe perioada 07.04 - 21.04, în care jucătorii pot obține diferite recompense prin gasirea drop-urilor și colectarea unor obiecte speciale ce pot fi ulterior schimbate cu recompense.
 
 ::: details Prezentare Anniversary Event
 <Image src="https://i.imgur.com/IfHIocW.png" />
@@ -59,7 +59,11 @@ Fiecare litera va fi luata prin 'Drag and Drop' si pusa in `Inventar`.
 Cutiile se spawneaza odata la **~12 minute**.
 :::
 
-Dupa colectarea literelor acestea trebuiesc livrate inapoi la `Mr.Birthday`.
+Dupa colectarea literelor acestea trebuiesc livrate inapoi la `Mr.Birthday` pentru a primii premiile astfel:
+
+| Prima completare | A doua completare |
+| :-----------: | :-----------: |
+| <Dinero :amount="15000" /> si <InventoryItem itemKey="anniversary_crate" width="32" :qt="1" /> | <Dinero :amount="7500" /> si <InventoryItem itemKey="anniversary_crate" width="32" :qt="1" /> |
 
 ## Anniversary Crate 2026 contine urmatoarele iteme:
 
