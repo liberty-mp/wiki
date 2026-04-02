@@ -194,9 +194,9 @@ Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Anni
 | <Image src="https://i.imgur.com/N2mhE6H.png" alt="Anniversary Event" width="50" label="Anniversary Event 2025" />| obținut de jucătorii care au completat de 30 de ori misiunea aniversară, livrând cuvântul „LIBERTYMP |
 | <Image src="https://i.imgur.com/C590Crw.png" alt="Anniversary Gift" width="50" label="Anniversary Gift" />| obținut de jucătorii care au deschis cadoul aniversar de 20 de ori. |
 
-### Two-Year Anniversary 2025 Badge
+### Two-Year Anniversary 2026 Badge
 
-Acest badge a fost acordat jucătorilor ce au participat la evenimentul de [Anniversary] din 2026
+Acest badge a fost acordat jucătorilor ce au participat la evenimentul de Anniversary din 2026
 
 | Badge   | Cerință |
 | :-----------: | :-----------: |
