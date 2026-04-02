@@ -61,6 +61,8 @@ Cutiile se spawneaza odata la **~12 minute**.
 
 Dupa colectarea literelor acestea trebuiesc livrate inapoi la `Mr.Birthday` pentru a primii premiile astfel:
 
+În momentul în care vom questurile timp de 10 de zile (minim o data), vom primi un badge special care va fi afișat mai [jos](#badge).
+
 | Prima completare | A doua completare |
 | :-----------: | :-----------: |
 | <Dinero :amount="15000" /> si <InventoryItem itemKey="anniversary_crate" width="32" :qt="1" /> | <Dinero :amount="7500" /> si <InventoryItem itemKey="anniversary_crate" width="32" :qt="1" /> |
@@ -91,3 +93,9 @@ Dupa colectarea literelor acestea trebuiesc livrate inapoi la `Mr.Birthday` pent
 | Obiect | Informatii |
 | :-: | :-: |
 | <Image src="https://i.imgur.com/G2LJIfc.png" width="50" alt="Litera" /> | Litera gasita in cutiile gasite pe harta. |
+
+## Badge
+
+| Badge   | Metoda de obținere |
+| :-----------: | :-----------: |
+| <Image src="https://i.imgur.com/EMrAO03.png" alt="Anniversary Quest" width="100" label="Anniversary Quest" /> | Completarea evenimentul timp de 10 zile (minim o data). |
