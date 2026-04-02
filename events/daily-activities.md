@@ -72,3 +72,21 @@ Pentru a primi progres trebuie sa finalizezi cu succes cele 10 stunt-uri impuse 
 Pentru a primi progres trebuie sa indeplinesti cerintele lui Ortega in cadrul misiunii [Cleaner](../events/cleaner-mission.md).
 
 <Image src="https://i.imgur.com/0qEbprg.png" alt="Cleaner Mission" /> 
+
+### Anniversary Letters Quest
+
+Pentru a primi progres intre datele 07.04.2026 si 21.04.2026 trebuie sa aduni literele in cadrul taskului [Anniversary Letter](../events/anniversary-seasonal-event.md#anniversary-letters-quest)
+
+<Image src="https://i.imgur.com/M67baMk.png" alt="Anniversary Letters Quest" /> 
+
+### Easter Invasion Mission
+
+Pentru a primi progres intre datele 01.04.2026 si 14.04.2026 trebuie sa aduni cele 15 oua din cadrul misiunii [Easter Invasion](../events/easter-event-2026.md#easter-invasion-🧟🐰)
+
+<Image src="https://i.imgur.com/27tbHJ1.png" alt="Easter Invasion Mission" /> 
+
+### Easter Egg Hunt Mission
+
+Pentru a primi progres intre datele 15.04.2026 si 01.05.2026 trebuie sa gasesti si sa colorezi cele 20 oua din cadrul misiunii [Easter Egg Hunt](../events/easter-event-2026.md#easter-egg-hunt-🐇🥚)
+
+<Image src="https://i.imgur.com/BL4FHpx.png" alt="Easter Egg Hunt" /> 
