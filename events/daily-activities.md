@@ -1,4 +1,4 @@
-<img width="611" height="429" alt="image" src="https://github.com/user-attachments/assets/837c8a6e-bf15-4868-ab7a-5b1e46f55849" />---
+---
 title: Daily Activities 
 ---
 
