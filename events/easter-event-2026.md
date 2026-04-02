@@ -164,7 +164,7 @@ Pentru fiecare completare jucatorii vor fi rasplatiti astfel:
 
 ### Easter Shop
 
-Easter Tokens pot fi folosite în shop-ul special ce poate fi accsesat prin interacțiunea comanda `/easter`. \
+Easter Tokens pot fi utilizate in shop-ul special destinat activitatii, foloseste comanda `/easter` pentru accesarea shop-ului. \
 Odată la 6 ore în Refreshable Shop, preturile și inclusiv itemele se vor modifica, oferind obiecte speciale pentru fiecare jucător în parte, fiind diferit de la jucător la jucător, atât prețul, cât și item-ul oferit. \
 În shop se vor regăsi aleatoriu haine din colecția de haine Epsilon, iteme din Premium Shop precum și diverse iteme utile din joc. \
-Itemele din Permanent Shop are un stock limitat, dar acesta este actualizat de catre conducerea serverului daca este cazul.
+Itemele din Permanent Shop au un stock limitat, acesta este actualizat de catre conducerea serverului daca este cazul.
