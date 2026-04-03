@@ -5,9 +5,9 @@ title: Easter Event 2026
 | Întrebare | Răspuns |
 | :-----------: | :-----------: |
 | Event permanent? | Nu, [sezonier.](./index.md#evenimentele-se-impart-in-3-categorii) |
-| Nivel minim participare? | Nu. |
+| Nivel minim participare? | Da, level 5 |
 | Posibilitate găsire obiecte speciale? | Nu. |
-| Necesită iteme specifice? | Nu. |
+| Necesită iteme / licente specifice? | Da, ai nevoie de licenta de arme. |
 | Locație statistici eveniment? | `/easter` |
 
 # Easter Event 2026 🥚
