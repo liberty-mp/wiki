@@ -153,7 +153,7 @@ Pentru fiecare completare jucatorii vor fi rasplatiti astfel:
 
 | Prima completare | A doua completare |
 | :-----------: | :-----------: |
-| <Dinero :amount="15000" /> si <InventoryItem itemKey="easter_token" width="32" :qt="60" /> | <Dinero :amount="7500" /> si <InventoryItem itemKey="easter_token" width="32" :qt="60" /> |
+| <Dinero :amount="15000" /> si <InventoryItem itemKey="april_event_token" width="32" :qt="60" /> | <Dinero :amount="7500" /> si <InventoryItem itemKey="april_event_token" width="32" :qt="60" /> |
 
 ## Badge-uri
 
