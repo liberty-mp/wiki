@@ -1,5 +1,5 @@
 ---
-title: Pets
+title: Pet System
 ---
 
 ## Informații generale despre Pets
